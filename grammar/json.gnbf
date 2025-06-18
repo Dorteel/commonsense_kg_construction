@@ -1,0 +1,8 @@
+root ::= arr
+arr ::= "[" ws (value ("," ws value)*)? ws "]"
+value ::= (object | array | string | number | "true" | "false" | "null") ws
+object ::= "{" ws (string ws ":" ws value ("," ws string ws ":" ws value)*)? "}" ws
+array ::= "[" ws ( value ("," ws value)* )? "]" ws
+string ::= "\"" ( [^"\\\x7F\x00-\x1F] | "\\" (["\\bfnrt] | "u" [0-9a-fA-F]{4}) )* "\"" ws
+number ::= "-"? ("0" | [1-9] [0-9]{0,15}) ("." [0-9]+)? ([eE] [-+]? [0-9]+)? ws
+ws ::= " " ws | "\t" ws | "\n" ws | "\r" ws |
