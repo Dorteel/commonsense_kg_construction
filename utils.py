@@ -13,6 +13,10 @@ def save_response(file_name, response):
     with open(f"{file_name}", "w") as output:
         output.write(response)
 
+def save_response_as_str(file_name, response):
+    with open(f"{file_name}", "w") as output:
+        output.write(str(response))
+
 def build_save_path(base_dir: Path,
                     model: str,
                     run: int, 

@@ -18,7 +18,7 @@ BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(dotenv_path=Path(__file__).parent / '.env')
 LOG_LEVEL = os.getenv("LOG_LEVEL", "DEBUG") 
 logger = logging.getLogger(__name__)
-output_path = Path(__file__).parent / "outputs_debug"
+output_path = Path(__file__).parent / "outputs_2"
 
 ##################
 # Model Selection
@@ -28,8 +28,8 @@ models_dict = {
 'metallama31-8b-instruct' : "models/Meta-Llama-3.1-8B-Instruct-Q4_K_S.gguf",
 'olmo2-13b-instruct' : "models/olmo-2-1124-13B-instruct-Q4_K_M.gguf"
 }
-models = ['olmo2-13b-instruct']
-#models = ['metallama31-8b-instruct', 'llama2-7b-chat', 'olmo2-13b-instruct']
+# models = ['olmo2-13b-instruct']
+models = ['llama2-7b-chat', 'olmo2-13b-instruct', 'mistral7binstruct']
 #################
 # Read inputs
 logger.debug("... Importing input files")
@@ -67,18 +67,17 @@ for model in models:
                             save_response(save_path, response)
                 else:
                     for dim in q_dims:
-                        for meas in measurements:
-                            prompt = template_categorical(name, definition, domain_name, dim)
-                            logging.debug(f"Prompt: {prompt}")
-                            response = call_local_model(model_path, prompt)
-                            logging.debug(f"Response: {response}")
-                            save_path = build_save_path(output_path,
-                                                        model,
-                                                        run,
-                                                        name,
-                                                        domain_name,
-                                                        dim,      # quality dimension
-                                                        meas)     # becomes the filename stem
+                        prompt = template_categorical(name, definition, domain_name, dim)
+                        logging.debug(f"Prompt: {prompt}")
+                        response = call_local_model(model_path, prompt)
+                        logging.debug(f"Response: {response}")
+                        save_path = build_save_path(output_path,
+                                                    model,
+                                                    run,
+                                                    name,
+                                                    domain_name,
+                                                    dim,
+                                                    dim)     # becomes the filename stem
 
-                            save_response(save_path, response)
+                        save_response(save_path, response)
                 logging.info(f"Response saved for {concept} and {domain_name}")
