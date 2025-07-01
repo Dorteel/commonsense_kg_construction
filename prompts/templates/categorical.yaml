@@ -1,0 +1,7 @@
+name: categorical
+type: string
+template: |
+  Given the {concept} (which is a {description}),
+  provide the average {domain} as in {dimension}.
+  Return only JSON with key:
+    - {dimension} (string)
