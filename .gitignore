@@ -3,3 +3,5 @@ models/
 outputs/
 outputs_debug/
 .venv/
+__*
+*.pyc
