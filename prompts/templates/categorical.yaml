@@ -1,7 +1,7 @@
 name: categorical
 type: string
 template: |
-  Given the {concept} (which is a {description}),
-  provide the average {domain} as in {dimension}.
+  Given the {concept}{description_clause},
+  provide a list of common {domain}s for this concept.
   Return only JSON with key:
-    - {dimension} (string)
+    - {domain} (string)

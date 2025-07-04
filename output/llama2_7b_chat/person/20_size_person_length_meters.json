@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 30,\n  \"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"person\": {\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\"\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 30,\n  \"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\",\n\"height\": 1.8,\n\"weight\": 70\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"height\": 1.75,\n\"weight\": 75,\n\"gender\": \"male\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"height\": 1.75,\n\"weight\": 75\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.7,\n  \"height\": 1.6,\n  \"weight\": 60\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 32,\n\"gender\": \"male\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 25,\n\"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"height\": 1.75\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"height\": 1.7,\n\"weight\": 70\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 1.7,\n\"height\": 1.6,\n\"weight\": 70\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 27,\n\"height\": 170,\n\"weight\": 70\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n   \"name\": \"John\",\n   \"age\": 30,\n   \"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"John\": {\n    \"length\": 1.8\n}\n,\n\"Jane\": {\n    \"length\": 1.7\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"height\": 1.70,\n\"weight\": 70\n}\n   "
+  }
+]

@@ -16,6 +16,7 @@ class Runner:
         dimension: str,
         template_name: str,
         runs: int = 1,
+        return_range: str = "",
         measurement: str = None,
         output_path: str = "output.json"
     ) -> List[Dict]:
@@ -29,13 +30,17 @@ class Runner:
                     description=description,
                     domain=domain,
                     dimension=dimension,
+                    return_range="",
                     measurement=measurement
                 )
                 response = client.generate(system_prompt=template_data.get("system_prompt", "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."), user_prompt=user_prompt)
                 results.append({
-                    "client": client.__class__.__name__,
+                    "client": client.model_name,
                     "concept": concept,
+                    "domain" : domain,
+                    "measurement": measurement,
                     "dimension": dimension,
+                    "format": "range" if return_range else "avg",
                     "response": response
                 })
 

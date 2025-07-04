@@ -3,8 +3,9 @@ from llama_cpp import Llama
 from .base_client import LLMClient
 
 class LocalClient(LLMClient):
-    def __init__(self, model_path: str):
+    def __init__(self, model_path: str, model_name: str = "unknown"):
         self.model_path = model_path
+        self.model_name = model_name
         self.llm = Llama(model_path=model_path, chat_format="chatml")
 
     def generate(self, system_prompt: str, user_prompt: str) -> str:

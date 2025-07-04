@@ -21,10 +21,10 @@ def run_batch():
     model_config = load_model_config()
     clients = []
 
-    for entry in model_config.get("local", []):
-        logger.info(f"Loading local model: {entry['model_path']}")
-        clients.append(LocalClient(model_path=entry["model_path"]))
-        logger.info(f"Loaded client: {clients[-1].__class__.__name__}")
+    # for entry in model_config.get("local", []):
+    #     logger.info(f"Loading local model: {entry['model_path']}")
+    #     clients.append(LocalClient(model_path=entry["model_path"]))
+    #     logger.info(f"Loaded client: {clients[-1].__class__.__name__}")
 
     for entry in model_config.get("groq", []):
         logger.info(f"Loading Groq model: {entry['model_path']}")
@@ -55,7 +55,7 @@ def run_batch():
             data = json.load(f)
 
         output_path = os.path.join(OUTPUT_DIR, f"{data['concept']}_{data['dimension']}.json")
-        logger.info(f"Saving output to: {output_path}")
+        logger.info(f"Running {selected_client.__class__.__name__} and saving output to: {output_path}")
 
         runner.run(
             concept=data["concept"],

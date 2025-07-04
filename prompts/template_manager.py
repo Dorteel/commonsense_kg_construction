@@ -12,7 +12,10 @@ def fill_template(template_str: str, **kwargs) -> str:
     return template_str.format(**{k: v.replace('_', ' ') if isinstance(v, str) else v for k, v in kwargs.items()})
 
 def preprocess_template(template: str, **kwargs) -> str:
-    measurement = kwargs.get("measurement")
-    kwargs["measurement_clause"] = f" measured in {measurement}" if measurement else ""
-    kwargs["value_type"] = "float" if measurement else "string"
+    description = kwargs.get("description")
+    dimension = kwargs.get("dimension")
+    range = kwargs.get("range")
+    kwargs["description_clause"] = f"(which is {description})" if description else ""
+    kwargs["dimension_clause"] = "as in {}" if dimension else ""
+    kwargs["range_clause"] = "range for " if range else ""
     return template.format(**{k: v.replace('_', ' ') if isinstance(v, str) else v for k, v in kwargs.items()})

@@ -1,7 +1,0 @@
-name: classical_avg
-type: float_or_string
-template: |
-  Given the {concept} (which is a {description}),
-  provide the average {domain} as in {dimension}{measurement_clause}.
-  Return only JSON with key:
-    - {dimension} ({value_type})
