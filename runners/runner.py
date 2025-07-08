@@ -12,7 +12,7 @@ class Runner:
         self,
         concept: str,
         description: str,
-        domain: str,
+        domain,
         dimension: str,
         template_name: str,
         runs: int = 1,

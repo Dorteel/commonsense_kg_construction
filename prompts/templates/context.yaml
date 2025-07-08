@@ -1,0 +1,33 @@
+name: context
+type: string
+template: |
+  You are a commonsense knowledge engineer. Your task is to identify which properties are **relevant descriptors** for a given concept. A relevant descriptor is a property that helps meaningfully characterize, distinguish, or understand the concept in everyday or expert knowledge.
+
+  Below is the concept and its description:
+
+  **Concept**: {concept} with description: {description_clause}
+
+  Here is a list of candidate properties:
+  {properties_clause}
+
+  Your output should be a **JSON object** containing:
+
+  - `"concept"`: the name of the concept  
+  - one entry per property, each with:
+    - a `"value"` field (boolean: `true` or `false`)  
+    - a `"reason"` field (short explanation of your choice)
+
+  For the always-relevant properties, simply explain that they are **universally relevant across all concepts**.
+
+  **Output format (example)**:  
+    "concept": "apple",
+    "colour":
+      "value": true,
+      "reason": "Apples are commonly identified and categorized by their color.",
+    "location":
+      "value": true,
+      "reason": "Location is always relevant as it helps contextualize the presence or use of any object."
+    ,
+    ...
+
+

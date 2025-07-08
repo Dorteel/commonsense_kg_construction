@@ -1,7 +1,8 @@
 models/
 .env
 outputs/
+output/
 outputs_debug/
 .venv/
-__*
+__pyc*
 *.pyc

@@ -6,7 +6,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n  \"length\": 175\n}\n"
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"gender\": \"male\"\n}\n "
   },
   {
     "client": "llama2_7b_chat",
@@ -24,7 +24,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"name\": \"John Doe\",\n\"age\": 35,\n\"height\": 170,\n\"weight\": 75\n}\n"
+    "response": "{\n  \"length\": 170.0\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -33,7 +33,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"length\": 170.3\n}\n"
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\",\n\"height\": 183,\n\"weight\": 75\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -51,7 +51,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"gender\": \"male\",\n\"age\": 35,\n\"height\": 170,\n\"weight\": 75\n}\n   "
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 30,\n\"gender\": \"male\",\n\"height\": 170,\n\"weight\": 70\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -60,7 +60,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"height\": 183,\n\"weight\": 76\n}\n"
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"height\": 170.5,\n\"weight\": 70,\n\"gender\": \"male\"\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -69,7 +69,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"Male\"\n}\n "
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"height\": 170,\n\"weight\": 70\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -78,7 +78,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"length\": 170.3\n}\n"
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\"\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -87,7 +87,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"height\": 180,\n\"weight\": 75\n}\n"
+    "response": "{\n  \"user\": {\n    \"name\": \"John Doe\",\n    \"age\": 30,\n    \"gender\": \"male\"\n  },\n  \"length\": 180\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -96,7 +96,43 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"user\": {\n\"age\": 30,\n\"gender\": \"male\"\n}\n}\n"
+    "response": "{\n   \"name\": \"John\",\n   \"age\": 30,\n   \"gender\": \"male\",\n   \"height\": {\n      \"cm\": 170\n   }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"height\": 175,\n\"weight\": 75\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 170\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\"\n}\n  "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"height\": 175\n}\n   "
   },
   {
     "client": "llama2_7b_chat",
@@ -114,7 +150,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"Male\"\n}\n "
+    "response": "{\n\"Name\": \"John Doe\",\n\"Age\": 35,\n\"Gender\": \"Male\"\n}\n "
   },
   {
     "client": "llama2_7b_chat",
@@ -123,7 +159,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"length\": 175\n}\n"
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"gender\": \"male\"\n}\n "
   },
   {
     "client": "llama2_7b_chat",
@@ -132,7 +168,7 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"length\": 175.0\n}\n"
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"height\": 170,\n\"weight\": 70,\n\"length\": 170\n}\n"
   },
   {
     "client": "llama2_7b_chat",
@@ -141,42 +177,6 @@
     "measurement": "centimeters",
     "dimension": "length",
     "format": "range",
-    "response": "{\n\"name\": \"John Doe\",\n\"age\": 35,\n\"gender\": \"male\",\n\"height\": 178.5\n}\n"
-  },
-  {
-    "client": "llama2_7b_chat",
-    "concept": "person",
-    "domain": "size",
-    "measurement": "centimeters",
-    "dimension": "length",
-    "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"height\": 180,\n\"weight\": 70\n}\n"
-  },
-  {
-    "client": "llama2_7b_chat",
-    "concept": "person",
-    "domain": "size",
-    "measurement": "centimeters",
-    "dimension": "length",
-    "format": "range",
-    "response": "{\n  \"length\": 175.7\n}\n"
-  },
-  {
-    "client": "llama2_7b_chat",
-    "concept": "person",
-    "domain": "size",
-    "measurement": "centimeters",
-    "dimension": "length",
-    "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\",\n\"height\": {\n\"cm\": 170\n}\n}\n"
-  },
-  {
-    "client": "llama2_7b_chat",
-    "concept": "person",
-    "domain": "size",
-    "measurement": "centimeters",
-    "dimension": "length",
-    "format": "range",
-    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\",\n\"height\": 170\n}\n"
+    "response": "{\n\"length\": 170.3\n}\n"
   }
 ]
