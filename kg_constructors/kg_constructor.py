@@ -12,7 +12,9 @@ runs = int(os.getenv("RUNS", 20))
 OUTPUT_FOLDER = Path("output")
 
 print(Path(__file__).parent.parent / OUTPUT_FOLDER)
-logger = setup_logger()
+
+logger = setup_logger(level="ERROR")
+
 output = defaultdict(defaultdict)
 
 for model in OUTPUT_FOLDER.iterdir():
@@ -34,14 +36,12 @@ for model in OUTPUT_FOLDER.iterdir():
                             if isinstance(run, dict):
                                 
                                 value = extract_json_from_string(run.get("response", None))
-                                if value:
-                                    logger.debug(f"Extracted value: {value}")
-                                else:
+                                if not value:
                                     logger.error(f"Failed to extract JSON from response in {file.name} for {run['concept']}")
                                     continue
-                                if run['dimension'] not in value:
-                                    logger.error(f"Dimension {run['dimension']} not found in response for {run['concept']}")
-                                    continue
+                                # if run['dimension'] not in value:
+                                #     logger.error(f"Dimension {run['dimension']} not found in response for {run['concept']}")
+                                #     continue
                                 # print(value)
                             else:
                                 logger.error(f"Invalid data format in {file.name}: {run}")
