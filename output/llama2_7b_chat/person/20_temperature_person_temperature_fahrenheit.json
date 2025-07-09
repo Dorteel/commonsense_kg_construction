@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\",\n\"location\": \"New York\",\n\"temperature\": 75.6\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"city\": \"New York\",\n\"country\": \"United States\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 32,\n\"gender\": \"male\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"city\": \"New York\",\n\"temperature\": 50.2\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"city\": \"New York\",\n\"country\": \"USA\",\n\"temperature\": 72.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"location\": \"New York\",\n\"temperature\": 50.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"city\": \"New York\",\n\"temperature\": 78.5,\n\"state\": \"NY\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\"\n}\n   "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 32,\n\"location\": \"New York City\",\n\"temperature\": 55\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"city\": \"New York\",\n\"temperature\": 78.2\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"gender\": \"male\",\n\"location\": {\n\"city\": \"New York\",\n\"state\": \"New York\",\n\"country\": \"USA\"\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"location\": \"New York\",\n\"temperature\": 55.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"location\": \"New York\",\n\"temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"gender\": \"male\",\n\"city\": \"New York\",\n\"country\": \"USA\"\n}\n  "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 72\n}\n"
+  }
+]

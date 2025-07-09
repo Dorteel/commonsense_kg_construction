@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"swing\",\n\"bat\",\n\"ball\",\n\"pitch\",\n\"throw\",\n\"catch\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"swing\",\n\"bat\",\n\"ball\",\n\"strike\",\n\"out\",\n\"run\",\n\"score\",\n\"home\",\n\"away\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"baseballBat\": {\n    \"functions\": [\n      {\n        \"name\": \"swing\",\n        \"description\": \"hit the ball with the bat\"\n      },\n      {\n        \"name\": \"aim\",\n        \"description\": \"point the bat at the ball\"\n      },\n      {\n        \"name\": \"run\",\n        \"description\": \"run to first base after hitting the ball\"\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"swing\",\n\"bat\",\n\"ball\",\n\"pitch\",\n\"catch\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"swing\",\n\"hit\",\n\"score\",\n\"run\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"hit\",\n      \"description\": \"hit the baseball with the bat\",\n      \"parameters\": [\n        {\n          \"name\": \"ball\",\n          \"description\": \"the baseball to be hit\"\n        }\n      ]\n    },\n    {\n      \"name\": \"run\",\n      \"description\": \"run to first base after hitting the baseball with the bat\",\n      \"parameters\": [\n        {\n          \"name\": \"distance\",\n          \"description\": \"the distance to first base\"\n        }\n      ]\n    },\n    {\n      \"name\": \"catch\",\n      \"description\": \"catch the baseball with the bat\",\n      \"parameters\": [\n        {\n          \"name\": \"ball\",\n          \"description\": \"the baseball to be caught\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"calculate_bat_speed\",\n\"determine_ball_ trajectory\",\n\"predict_ball_landing_spot\",\n\"calculate_batting_stance\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"baseball bat\": {\n\"functions\": [\n\"hit ball\",\n\"swing bat\",\n\"grip bat\",\n\"hold bat\",\n\"use bat\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"baseball bat\": {\n\"functions\": [\n\"hit ball\",\n\"swing bat\",\n\"batters ball\",\n\"strike bat\",\n\"foul ball\",\n\"ground ball\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bat\",\n\"strike\",\n\"hit\",\n\"run\",\n\"catch\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n  \"hit\",\n  \"swing\",\n  \"bat\",\n  \"strike\",\n  \"ball\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"swing\",\n\"practice\",\n\"train\",\n\"play\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"swing\",\n\"bat\",\n\"ball\",\n\"pitch\",\n\"catch\",\n\"field\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"functions\": [\n    {\n      \"name\": \"hit\",\n      \"description\": \"Attempt to hit the ball with the bat\"\n    },\n    {\n      \"name\": \"swing\",\n      \"description\": \"Swing the bat to make contact with the ball\"\n    },\n    {\n      \"name\": \"run\",\n      \"description\": \"Run to first base after hitting the ball\"\n    },\n    {\n      \"name\": \"catch\",\n      \"description\": \"Catch the ball if it is hit in the air\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"baseball_bat_length\",\n      \"description\": \"Given a baseball bat, return its length in inches\"\n    },\n    {\n      \"name\": \"baseball_bat_material\",\n      \"description\": \"Given a baseball bat, return the material it is made of (e.g. wood, aluminum, etc.)\"\n    },\n    {\n      \"name\": \"baseball_bat_weight\",\n      \"description\": \"Given a baseball bat, return its weight in pounds\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"bat\",\n      \"description\": \"A baseball bat is a long, cylindrical piece of wood or metal used to hit a baseball.\"\n    },\n    {\n      \"name\": \"hit\",\n      \"description\": \"To hit a baseball with a bat.\"\n    },\n    {\n      \"name\": \"swing\",\n      \"description\": \"To move a bat through the air in order to hit a baseball.\"\n    },\n    {\n      \"name\": \"contact\",\n      \"description\": \"To make contact with a baseball using a bat.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"swing\",\n\"bat\",\n\"ball\",\n\"home\",\n\"run\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"swing\",\n      \"description\": \"Swing the bat to hit the ball\"\n    },\n    {\n      \"name\": \"catch\",\n      \"description\": \"Catch the ball after it is thrown\"\n    },\n    {\n      \"name\": \"throw\",\n      \"description\": \"Throw the ball with force\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n   \"function\": [\n      {\n         \"name\": \"batting\",\n         \"description\": \"The act of hitting the ball with a baseball bat\"\n      },\n      {\n         \"name\": \"running\",\n         \"description\": \"The act of moving around the bases in a baseball game\"\n      },\n      {\n         \"name\": \"throwing\",\n         \"description\": \"The act of throwing the baseball with a pitch\"\n      }\n   ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball bat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"hit\",\n    \"swing\",\n    \"bat\",\n    \"strike\",\n    \"ball\"\n  ]\n}\n"
+  }
+]

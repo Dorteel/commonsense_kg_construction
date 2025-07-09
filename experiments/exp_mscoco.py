@@ -17,7 +17,7 @@ logger = setup_logger()
 INPUT_DIR = "inputs"
 concept_file= "concepts_mscoco.json"
 property_file = "properties.yaml"
-RUNS = os.getenv("RUNS", 20)
+RUNS = int(os.getenv("RUNS", 20))
 OUTPUT_PARENT_DIR = "output"
 
 def get_checkpoint(model_name, concepts):

@@ -1,6 +1,6 @@
 import logging
 
-def setup_logger(name="kg_logger", level=logging.INFO):
+def setup_logger(name="kg_logger", level=logging.DEBUG):
     logger = logging.getLogger(name)
     if not logger.handlers:
         handler = logging.StreamHandler()

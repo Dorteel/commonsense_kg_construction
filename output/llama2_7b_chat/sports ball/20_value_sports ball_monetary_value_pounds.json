@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 8.5,\n\"football\": {\n\"monetary value\": 10,\n\"soccer ball\": {\n\"monetary value\": 12.5,\n\"basketball\": {\n\"monetary value\": 15,\n\"baseball\": {\n\"monetary value\": 10,\n\"hockey puck\": {\n\"monetary value\": 10\n}\n}\n}\n}\n  },\n  \"monetary value\": 8.5,\n  \"football\": {\n    \"monetary value\": 10,\n  \"soccer ball\": {\n    \"monetary value\": 12.5,\n  \"basketball\": {\n    \"monetary value\": 15,\n  \"baseball\": {\n    \"monetary value\": 10,\n  \"hockey puck\": {\n    \"monetary value\": 10\n  }\n  }\n}\n}\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.9\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 8.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 14.4\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 22.0}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.0\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 12.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 16.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"sports ball\": {\n\"weight\": {\n\"baseball\": 5.26,\n\"basketball\": 20.5,\n\"soccer ball\": 410,\n\"football\": 378\n}\n}\n  ,\n\"monetary value\": {\n\"baseball\": 0.02,\n\"basketball\": 0.03,\n\"soccer ball\": 0.1,\n\"football\": 0.15\n}\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.9\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.93\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sports ball",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 10.5\n}\n"
+  }
+]

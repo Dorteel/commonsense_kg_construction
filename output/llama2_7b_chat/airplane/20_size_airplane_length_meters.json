@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 50.0}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.7,\n\"width\": 37.1,\n\"height\": 10.7,\n\"wing_area\": 192.6,\n\"empty_weight\": 12800,\n\"max_takeoff_weight\": 87000,\n\"fuel_capacity\": 15000,\n\"range\": 3600,\n\"cruise_speed\": 850,\n\"stall_speed\": 100\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.7,\n\"width\": 39.1,\n\"height\": 10.2\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 45.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 50.5,\n\"width\": 30.5,\n\"height\": 10.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.2,\n\"width\": 36.5,\n\"height\": 8.2\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 50.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 45.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.75\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 50}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 50.59\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.69,\n\"width\": 38.43,\n\"height\": 10.99\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.70,\n\"width\": 30.30,\n\"height\": 10.60,\n\"volume\": 1400.00\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 50.99,\n\"width\": 37.64,\n\"height\": 10.99\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 40.32,\n\"width\": 30.28,\n\"height\": 6.1,\n\"volume\": 18.32\n}\n"
+  }
+]
