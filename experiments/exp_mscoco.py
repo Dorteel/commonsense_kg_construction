@@ -86,7 +86,7 @@ def run_experiment(current_client):
             
             template_name = "categorical"
 
-            output_path = os.path.join(output_dir, f"1_{domain}_{name}.json")
+            output_path = os.path.join(output_dir, f"{RUNS}_{domain}_{name}.json")
             logger.info(f"Running {model_name} and saving output to:\n\t\t{output_path}")
 
             runner.run(
