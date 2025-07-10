@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"height\": 60\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 65\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 65\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 60\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 70,\n    \"width\": 40,\n    \"depth\": 50\n  }\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 60\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 65\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": {\n\"average\": 65,\n\"range\": [55, 75]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 65\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 25,\n  \"city\": \"New York\",\n  \"job\": \"Software Engineer\",\n  \"income\": 80000,\n  \"education\": [\n    {\n      \"degree\": \"Bachelor\",\n      \"field\": \"Computer Science\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"height\": 60,\n\"width\": 40,\n\"length\": 80\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 60\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 60,\n    \"width\": 40,\n    \"depth\": 50\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 60.5\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 60\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 32,\n\"location\": \"New York\",\n\" occupation\": \"Software Engineer\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"chair\": {\n        \"height\": 60.0\n    }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"height\": 60.0\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 65\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 60\n}\n"
+  }
+]

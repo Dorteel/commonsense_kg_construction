@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"dining\",\n      \"description\": \"Setting the table for a meal\"\n    },\n    {\n      \"name\": \"cooking\",\n      \"description\": \"Preparing food in the kitchen\"\n    },\n    {\n      \"name\": \"entertaining\",\n      \"description\": \"Hosting guests for a meal\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"cooking\",\n\"serving\",\n\"dining\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"dining\",\n\"cooking\",\n\"serving\",\n\"eating\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"dining\",\n    \"food\",\n    \"tableware\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"dining\",\n    \"cooking\",\n    \"party\",\n    \"restaurant\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":[\"dining room\", \"kitchen\", \"table\", \"outdoors\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"dining\",\n\"cooking\",\n\"entertaining\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"key\": \"dining\",\n      \"value\": \"A context where the fork is used to serve and eat food.\"\n    },\n    {\n      \"key\": \"cooking\",\n      \"value\": \"A context where the fork is used to prepare food.\"\n    },\n    {\n      \"key\": \"table setting\",\n      \"value\": \"A context where the fork is used to set the table for a meal.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"serving\",\n\"food\",\n\"utensils\",\n\"tableware\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"dining\"\n},\n{\n\"context\": \"entertaining\"\n},\n{\n\"context\": \"outdoor\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"dining\",\n    \"kitchen\",\n    \"restaurant\",\n    \"food festival\",\n    \"cooking class\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"dining\",\n\"cooking\",\n\"eating\",\n\"serving\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"dining\",\n\"cooking\",\n\"restaurant\",\n\"table setting\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"dining\",\n\"cooking\",\n\"serving\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":[\"dining table\", \"kitchen\", \"restaurant\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"serving\",\n\"food\",\n\"tableware\",\n\"dining\",\n\"restaurant\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"dining\",\n    \"table setting\",\n    \"meal serving\",\n    \"food preparation\",\n    \"utensil storage\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"cooking\",\n\"serving\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"dining\",\n    \"cooking\",\n    \"entertaining\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "fork",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":[\"dining room\", \"kitchen\", \"outdoor picnic\"]}"
+  }
+]

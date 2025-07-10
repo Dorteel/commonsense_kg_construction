@@ -19,7 +19,7 @@ INPUT_DIR = "inputs"
 concept_file= "concepts_mscoco.json"
 model_config = load_model_config()
 property_file = "properties.yaml"
-RUNS = os.getenv("RUNS", 20)
+RUNS = int(os.getenv("RUNS", 20))
 OUTPUT_PARENT_DIR = "output"
 input_path_concept = os.path.join(INPUT_DIR, concept_file)
 with open(input_path_concept, "r") as f:
@@ -72,7 +72,7 @@ for entry in model_config.get("groq", []):
             domain=dimensions,
             dimension="",
             template_name="context",
-            runs=20,
+            runs=RUNS,
             return_range="",
             measurement="",
             output_path=output_path

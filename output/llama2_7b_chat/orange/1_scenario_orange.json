@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"You are at a grocery store and see a display of oranges\",\n      \"description\": \"The store has a wide selection of oranges, including different varieties and sizes. You are trying to decide which ones to buy.\"\n    },\n    {\n      \"scenario\": \"You are at a restaurant and the menu includes an orange-glazed dish\",\n      \"description\": \"You are trying to decide whether to order the dish or not based on the flavor and presentation.\"\n    },\n    {\n      \"scenario\": \"You are on a diet and want to know how many calories are in a serving of oranges\",\n      \"description\": \"You are trying to find the nutritional information for oranges to help you make a healthy decision.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a grocery store and see a display of oranges. You are deciding which type of orange to buy.\",\n        \"actions\": [\n            {\n                \"action\": \"Look at the label and compare prices of different types of oranges\",\n                \"probability\": 0.7\n            },\n            {\n                \"action\": \"Choose a popular brand of orange\",\n                \"probability\": 0.4\n            },\n            {\n                \"action\": \"Select a less expensive orange option\",\n                \"probability\": 0.3\n            }\n        ]\n    },\n    {\n        \"scenario\": \"You are preparing a fruit salad and need to add an orange to the mix.\",\n        \"actions\": [\n            {\n                \"action\": \"Choose a juicy orange\",\n                \"probability\": 0.8\n            },\n            {\n                \"action\": \"Cut the orange into thin slices\",\n                \"probability\": 0.6\n            },\n            {\n                \"action\": \"Add the orange to the fruit salad\",\n                \"probability\": 0.4\n            }\n        ]\n    },\n    {\n        \"scenario\": \"You are at a restaurant and the menu includes an orange-glazed dish.\",\n        \"actions\": [\n            {\n                \"action\": \"Order the orange-glazed dish\",\n                \"probability\": 0.9\n            },\n            {\n                \"action\": \"Ask the server for more information about the dish\",\n                \"probability\": 0.3\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"An orange is sitting on a table, and a friend picks it up and says 'Wow, that's a big orange!\",\n\"responses\": [\n{\n\"response\": \"Yeah, oranges can get pretty big! Did you know they're a popular fruit in many parts of the world?\"\n},\n{\n\"response\": \"Thanks, I'm glad you like it! Oranges are actually a great source of vitamin C.\",\n\"emotions\": [\n{\n\"emotion\": \"surprise\"\n}\n]\n},\n{\n\"scenario\": \"A person is eating an orange on a park bench, and a squirrel approaches and starts nibbling on the orange peel.\",\n\"responses\": [\n{\n\"response\": \"Oh no, the squirrel is eating my orange!\",\n\"emotions\": [\n{\n\"emotion\": \"frustration\"\n}\n]\n},\n{\n\"scenario\": \"A person is making a juice with an orange, and the juicer breaks, so they have to find another way to extract the juice.\",\n\"responses\": [\n{\n\"response\": \"This juicer is broken, what am I going to do?\",\n\"emotions\": [\n{\n\"emotion\": \"frustration\"\n}\n]\n}\n]\n}\n]\n}\n,\n{\n\"scenarios\": [\n{\n\"scenario\": \"A person is in a grocery store, and they see a display of oranges and they start to think about all the different ways they could use them in recipes.\",\n\"responses\": [\n{\n\"response\": \"Wow, there are so many ways to"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"You are at a grocery store and see an orange\",\n\"description\": \"The orange is a round, yellow to orange fruit of any of several citrus trees.\"\n},\n{\n\"scenario\": \"You are on a farm and see an orange tree\",\n\"description\": \"The orange tree is a citrus tree that produces oranges.\"\n},\n{\n\"scenario\": \"You are at a fruit stand and see a display of oranges\",\n\"description\": \"The display of oranges includes several different types of oranges.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"You are at a grocery store and you see an orange. You pick it up and examine it, and you notice that it is a bit soft and squishy.\"\n},\n{\n\"scenario\": \"You are at a farmer's market and you see a vendor selling oranges. You ask the vendor if they have any organic oranges and they show you their selection.\"\n},\n{\n\"scenario\": \"You are in a kitchen and you need to juice an orange for a recipe. You take the orange and cut it in half, and then you use a juicer to extract the juice.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"You are at a grocery store and see a basket of oranges. You want to know how many oranges are in the basket.\"\n    },\n    {\n      \"scenario\": \"You are preparing a fruit salad and want to know how many oranges you need to add to the mix.\"\n    },\n    {\n      \"scenario\": \"You are at a restaurant and see an orange on the menu. You want to know if it's a good choice for you.\"\n    },\n    {\n      \"scenario\": \"You are at a farmer's market and see a vendor selling oranges. You want to know if they are fresh.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"An orange is sitting on a table, and you pick it up to eat it\",\n\"You are at a fruit stand and the vendor offers you an orange\",\n\"You are in a grocery store and you see a basket of oranges on sale\",\n\"You are on a picnic and you want to bring an orange to snack on\",\n\"You are in a hospital and the nurse gives you an orange as part of your medication\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"An orange is a round yellow to orange fruit of any of several citrus trees\",\n\"description\": \"Describes the physical characteristics of an orange\"\n},\n{\n\"scenario\": \"An orange is a popular fruit used in many recipes\",\n\"description\": \"Describes the culinary uses of oranges\"\n},\n{\n\"scenario\": \"An orange is a symbol of warmth and hospitality\",\n\"description\": \"Describes the cultural significance of oranges\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"You are on a picnic and you want to know if it's safe to eat an orange that has been left in the sun for a few hours\",\n      \"outcome\": {\n        \"is_safe\": true\n      }\n    },\n    {\n      \"scenario\": \"You are at a grocery store and you want to know if the oranges you are considering purchasing are ripe and ready to eat\",\n      \"outcome\": {\n        \"is_ripe\": true,\n        \"is_ready_to_eat\": true\n      }\n    },\n    {\n      \"scenario\": \"You are at a restaurant and you want to know if the orange chicken dish you are considering ordering is a good choice\",\n      \"outcome\": {\n        \"is_good_choice\": true\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Person is eating an orange in a park on a sunny day\"\n},\n{\n\"scenario\": \"Person is using orange juice to clean their teeth after a meal\"\n},\n{\n\"scenario\": \"Person is reading a book about the history of oranges\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Orange juice\",\n      \"description\": \"Orange juice is a popular beverage made from the juice of oranges. It can be consumed on its own or used as an ingredient in other drinks such as cocktails.\"\n    },\n    {\n      \"name\": \"Orange slices as a garnish\",\n      \"description\": \"Orange slices are often used as a garnish for various dishes, such as salads, desserts, and cocktails.\"\n    },\n    {\n      \"name\": \"Orange peel as a spice\",\n      \"description\": \"Orange peel can be used as a spice in cooking, adding a subtle citrus flavor to dishes such as marinades, sauces, and baked goods.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"An orange is left on a kitchen counter and forgotten.\"\n},\n{\n\"scenario\": \"An orange is used in a fruit salad.\"\n},\n{\n\"scenario\": \"An orange is used to make juice.\"\n},\n{\n\"scenario\": \"An orange is given as a gift.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"describing an orange to a blind person\",\n        \"description\": \"A person is trying to describe an orange to a blind person, they might say something like 'it's a round yellow to orange fruit'\",\n        \"example\": \"An orange is a round yellow to orange fruit.\"\n    },\n    {\n        \"name\": \"using an orange in a recipe\",\n        \"description\": \"A person is using an orange in a recipe, they might say something like 'add the juice of an orange to the batter'\",\n        \"example\": \"Add the juice of an orange to the batter.\"\n    },\n    {\n        \"name\": \"testing the acidity of an orange\",\n        \"description\": \"A person is testing the acidity of an orange, they might say something like 'let me taste this orange and see if it's too acidic'\",\n        \"example\": \"Let me taste this orange and see if it's too acidic.\"\n    },\n    {\n        \"name\": \"storing an orange\",\n        \"description\": \"A person is storing an orange, they might say something like 'I need to store this orange in the fridge to keep it fresh'\",\n        \"example\": \"I need to store this orange in the fridge to keep it fresh.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"orange juice\",\n\"description\": \"a glass of orange juice\"\n},\n{\n\"scenario\": \"orange slice\",\n\"description\": \"a slice of orange\"\n},\n{\n\"scenario\": \"orange peel\",\n\"description\": \"the peel of an orange\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Using orange to make juice\"\n},\n{\n\"scenario\": \"Eating orange slices as a snack\"\n},\n{\n\"scenario\": \"Using orange peel for cooking\"\n},\n{\n\"scenario\": \"Making orange marmalade\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\"scenario\": \"You are at a grocery store and notice a display of oranges\"},\n    {\"scenario\": \"You are at a restaurant and order an orange juice\"},\n    {\"scenario\": \"You are at a farmers market and see a vendor selling oranges\"}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Oranges are a popular fruit for snacking\",\n\"subscenarios\": [\n\"eating an orange as a quick pick-me-up\",\n\"using oranges in smoothies and juices\",\n\"making orange slices as a healthy snack\"\n]\n},\n{\n\"scenario\": \"Oranges are used in cooking and baking\",\n\"subscenarios\": [\n\"using oranges in marmalade and preserves\",\n\"making orange-glazed chicken or pork\",\n\"baking orange-spiced cakes and muffins\"\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a grocery store and you see the orange\",\n        \"description\": \"You pick up the orange and think about how juicy and sweet it looks. You decide to buy it and take it home to make juice.\"\n    },\n    {\n        \"scenario\": \"You are on a camping trip and you need to make a snack\",\n        \"description\": \"You find an orange in your backpack and peel it, then eat it while enjoying the view of the mountains.\"\n    },\n    {\n        \"scenario\": \"You are at a restaurant and you order an orange juice\",\n        \"description\": \"The waiter brings you a glass of freshly squeezed orange juice, which you enjoy with your meal.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"An orange is used in a recipe for a dessert\",\n\"entities\": [\n{\n\"entity\": \"orange\",\n\"role\": \"ingredient\"\n},\n{\n\"entity\": \"recipe\",\n\"role\": \"recipe\"\n}\n]\n},\n{\n\"scenario\": \"An orange is used as a topping for yogurt or oatmeal\",\n\"entities\": [\n{\n\"entity\": \"orange\",\n\"role\": \"topping\"\n},\n{\n\"entity\": \"yogurt\",\n\"role\": \"food\"\n},\n{\n\"entity\": \"oatmeal\",\n\"role\": \"food\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"title\": \"Orange You Glad It's Not Just Lemons?\",\n        \"description\": \"A humorous scenario where a person is asked if they are glad they have an orange instead of just lemons, implying that the person is lucky to have something other than just lemons.\"\n    },\n    {\n        \"title\": \"The Orange of Choice\",\n        \"description\": \"A scenario where someone is asked about their preferred orange, implying that they have a personal preference for a particular type of orange.\"\n    },\n    {\n        \"title\": \"Orange You Curious?\",\n        \"description\": \"A scenario where someone is asked if they are curious about the taste or properties of an orange, implying that they are open to learning more about the fruit.\"\n    }\n]\n}\n"
+  }
+]

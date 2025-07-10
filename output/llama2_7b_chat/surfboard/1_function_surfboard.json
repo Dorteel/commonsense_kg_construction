@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n    {\n        \"name\": \"ride\",\n        \"description\": \"Ride the surfboard on the waves\",\n        \"parameters\": [\n            {\n                \"name\": \"location\",\n                \"description\": \"The location where you want to ride the surfboard\"\n            },\n            {\n                \"name\": \"skill\",\n                \"description\": \"Your skill level in riding the surfboard\"\n            }\n        ]\n    },\n    {\n        \"name\": \"maintain\",\n        \"description\": \"Maintain the surfboard\",\n        \"parameters\": [\n            {\n                \"name\": \"condition\",\n                \"description\": \"The condition of the surfboard\"\n            },\n            {\n                \"name\": \"action\",\n                \"description\": \"The action you want to take to maintain the surfboard\"\n            }\n        ]\n    },\n    {\n        \"name\": \"store\",\n        \"description\": \"Store the surfboard\",\n        \"parameters\": [\n            {\n                \"name\": \"location\",\n                \"description\": \"The location where you want to store the surfboard\"\n            },\n            {\n                \"name\": \"condition\",\n                \"description\": \"The condition of the surfboard\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"surfboard\": {\n\"functions\": [\n\"ride\",\n\"paddle\",\n\"catch waves\",\n\"balance\",\n\"steer\"\n]\n}\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"ride\",\n\"surf\",\n\"board\",\n\"buoyant\",\n\"narrow\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"ride\",\n\"surf\",\n\"surfboard\",\n\"surfing\",\n\"board\",\n\"buoyant\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"ride\",\n      \"description\": \"Ride the surfboard on the waves\",\n      \"parameters\": [\n        {\n          \"name\": \"wave_size\",\n          \"description\": \"The size of the wave\",\n          \"type\": \"number\"\n        },\n        {\n          \"name\": \"speed\",\n          \"description\": \"The speed of the surfboard\",\n          \"type\": \"number\"\n        }\n      ],\n      \"return\": {\n        \"name\": \"ride_data\",\n        \"description\": \"Data about the ride\",\n        \"type\": \"object\"\n      }\n    },\n    {\n      \"name\": \"control\",\n      \"description\": \"Control the surfboard\",\n      \"parameters\": [\n        {\n          \"name\": \"direction\",\n          \"description\": \"The direction of the surfboard\",\n          \"type\": \"string\"\n        },\n        {\n          \"name\": \"speed\",\n          \"description\": \"The speed of the surfboard\",\n          \"type\": \"number\"\n        }\n      ],\n      \"return\": {\n        \"name\": \"control_data\",\n        \"description\": \"Data about the control\",\n        \"type\": \"object\"\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"ride\",\n      \"description\": \"Ride the surfboard on water\",\n      \"parameters\": [\n        {\n          \"name\": \"location\",\n          \"description\": \"The location where the surfboard will be ridden\"\n        },\n        {\n          \"name\": \"wave_size\",\n          \"description\": \"The size of the wave to be ridden\"\n        }\n      ]\n    },\n    {\n      \"name\": \"balance\",\n      \"description\": \"Maintain balance while riding the surfboard\",\n      \"parameters\": [\n        {\n          \"name\": \"speed\",\n          \"description\": \"The speed at which the surfboard is moving\"\n        }\n      ]\n    },\n    {\n      \"name\": \"turn\",\n      \"description\": \"Make turns while riding the surfboard\",\n      \"parameters\": [\n        {\n          \"name\": \"angle\",\n          \"description\": \"The angle of the turn\"\n        }\n      ]\n    },\n    {\n      \"name\": \"stop\",\n      \"description\": \"Stop the surfboard from moving\",\n      \"parameters\": [\n        {\n          \"name\": \"distance\",\n          \"description\": \"The distance from the surfboard to the shore or beach\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"surfboard\":{\n\"functions\":[\n\"ride\",\n\"paddle\",\n\"balance\",\n\"turn\",\n\"stop\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"functions\": [\n\"ride\",\n\"surf\",\n\"board\",\n\"buoyant\",\n\"narrow\"\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n  \"ride\",\n  \"paddle\",\n  \"steer\",\n  \"brake\",\n  \"stop\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"ride\",\n      \"description\": \"Ride the surfboard on the waves\",\n      \"input\": [\n        {\n          \"name\": \"wave\",\n          \"description\": \"A wave to ride the surfboard on\"\n        }\n      ],\n      \"output\": [\n        {\n          \"name\": \"surfing\",\n          \"description\": \"Surfing experience\"\n        }\n      ]\n    },\n    {\n      \"name\": \"control\",\n      \"description\": \"Control the surfboard\",\n      \"input\": [\n        {\n          \"name\": \"direction\",\n          \"description\": \"The direction to move the surfboard\"\n        },\n        {\n          \"name\": \"speed\",\n          \"description\": \"The speed of the surfboard\"\n        }\n      ],\n      \"output\": [\n        {\n          \"name\": \"surfing_speed\",\n          \"description\": \"The speed of the surfboard while surfing\"\n        },\n        {\n          \"name\": \"surfing_direction\",\n          \"description\": \"The direction of the surfboard while surfing\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"ride\",\n\"surf\",\n\"paddle\",\n\"balance\",\n\"speed\",\n\"turn\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"ride\",\n      \"description\": \"Ride the surfboard on a wave\",\n      \"input\": [\n        {\n          \"name\": \"wave\",\n          \"description\": \"A wave to ride the surfboard on\"\n        }\n      ],\n      \"output\": [\n        {\n          \"name\": \"surfing\",\n          \"description\": \"The act of riding the surfboard on the wave\"\n        }\n      ]\n    },\n    {\n      \"name\": \"balance\",\n      \"description\": \"Maintain balance on the surfboard while riding\",\n      \"input\": [\n        {\n          \"name\": \"speed\",\n          \"description\": \"The speed of the wave\"\n        },\n        {\n          \"name\": \"direction\",\n          \"description\": \"The direction of the wave\"\n        }\n      ],\n      \"output\": [\n        {\n          \"name\": \"stability\",\n          \"description\": \"The stability of the surfboard while riding\"\n        }\n      ]\n    },\n    {\n      \"name\": \"maneuver\",\n      \"description\": \"Perform various maneuvers while surfing\",\n      \"input\": [\n        {\n          \"name\": \"speed\",\n          \"description\": \"The speed of the wave\"\n        },\n        {\n          \"name\": \"direction\",\n          \"description\": \"The direction of the wave\"\n        },\n        {\n          \"name\": \"force\",\n          \"description\": \"The force applied to the surfboard\"\n        }\n      ],\n      \"output\": [\n        {\n          \"name\": \"maneuver\",\n          \"description\": \"The specific man"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"surfboard\": {\n\"functions\": [\n\"ride\",\n\"paddle\",\n\"balance\",\n\"turn\",\n\"stop\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n  {\n    \"name\": \"Surfboard Riding\",\n    \"description\": \"A list of common functions for surfboard riding, including: stand up, balance, turn, and stop.\",\n    \"functions\": [\n      {\n        \"name\": \"Stand Up\",\n        \"description\": \"The act of standing up on the surfboard, usually after a wave has broken and the board is moving.\"\n      },\n      {\n        \"name\": \"Balance\",\n        \"description\": \"The act of maintaining one's balance on the surfboard, usually while standing up.\"\n      },\n      {\n        \"name\": \"Turn\",\n        \"description\": \"The act of turning the surfboard, usually by shifting one's weight or using the feet to steer.\"\n      },\n      {\n        \"name\": \"Stop\",\n        \"description\": \"The act of coming to a stop on the surfboard, usually after riding a wave.\"\n      }\n    ]\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"surfboard\": {\n    \"functions\": [\n      {\n        \"name\": \"ride\",\n        \"description\": \"Ride the surfboard on the waves\",\n        \"inputs\": [\n          {\n            \"name\": \"wave_size\",\n            \"description\": \"The size of the waves\",\n            \"type\": \"number\"\n          },\n          {\n            \"name\": \"water_quality\",\n            \"description\": \"The quality of the water\",\n            \"type\": \"string\"\n          }\n        ],\n        \"outputs\": [\n          {\n            \"name\": \"speed\",\n            \"description\": \"The speed of the surfboard\",\n            \"type\": \"number\"\n          },\n          {\n            \"name\": \"control\",\n            \"description\": \"The level of control over the surfboard\",\n            \"type\": \"number\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"functions\": [\n\"ride\",\n\"surf\",\n\"surfboard\",\n\"wave\",\n\"ocean\"\n]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"surfboard\": {\n    \"functions\": [\n      \"ride\",\n      \"paddle\",\n      \"catch waves\",\n      \"balance\",\n      \"turn\",\n      \"stop\"\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"ride\",\n\"surf\",\n\"board\",\n\"buoyant\",\n\"narrow\",\n\"boar\",\n\"ride\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"surfboard\": [\n  {\n    \"function\": \"ride\",\n    \"description\": \"To ride a surfboard, you must first find a suitable wave. Once you have found a wave, you can position yourself on the surfboard and use your arms and legs to paddle and balance yourself.\"\n  },\n  {\n    \"function\": \"turn\",\n    \"description\": \"To turn while riding a surfboard, you must shift your weight and use your arms and legs to steer the board in the desired direction.\"\n  },\n  {\n    \"function\": \"stop\",\n    \"description\": \"To stop while riding a surfboard, you must slowly and deliberately lose speed by paddling and shifting your weight.\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "surfboard",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"surfboard\": {\n\"functions\": [\n\"ride\",\n\"paddle\",\n\"stand\",\n\"balance\",\n\"turn\",\n\"stop\",\n\"fall\",\n\"catch\",\n\"pop-up\"\n]\n}\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"delicious\", \"yummy\", \"tasty\", \"satisfying\", \"good\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"pizza lover\",\n    \"cheese enthusiast\",\n    \"sauce aficionado\",\n    \"pepperoni fanatic\",\n    \"veggie pizza advocate\",\n    \"meat lovers only\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"topping\",\n    \"cheese\",\n    \"sauce\",\n    \"crust\",\n    \"pie\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"topping\", \"cheese\", \"sauce\", \"crust\", \"chewy\", \"tasty\", \"dough\", \"easy\", \"delicious\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"love\",\n\"hate\",\n\"like\",\n\"dislike\",\n\"indifferent\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"love\",\n    \"hate\",\n    \"like\",\n    \"dislike\",\n    \"indifferent\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"eat\", \"enjoy\", \"like\", \"love\", \"crave\", \"desire\", \"want\", \"prefer\", \"enjoy\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"like\",\n\"love\",\n\"enjoy\",\n\"appreciate\",\n\"adore\",\n\"cherish\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"loves\",\n    \"enjoys\",\n    \"craves\",\n    \"adores\",\n    \"adores\",\n    \"adores\",\n    \"adores\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"like\",\n    \"love\",\n    \"appreciate\",\n    \"enjoy\",\n    \"adore\",\n    \"cherish\",\n    \"treasure\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"label\": \"Like\",\n        \"description\": \"I enjoy eating pizza, it's one of my favorite foods.\"\n    },\n    {\n        \"label\": \"Dislike\",\n        \"description\": \"I'm not a big fan of pizza, it's too rich for my taste.\"\n    },\n    {\n        \"label\": \"Neutral\",\n        \"description\": \"Pizza is okay, I'll eat it if it's available but I'm not particularly fond of it.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": [\n        \"order\",\n        \"buy\",\n        \"purchase\",\n        \"acquire\",\n        \"get\",\n        \"obtain\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": [\"delicious\", \"cheesy\", \"italian\", \"thin\", \"bread\", \"spicy\", \"saucy\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"Pizza Lover\",\n        \"description\": \"Someone who loves pizza and has a strong preference for it.\"\n    },\n    {\n        \"name\": \"Pizza Enthusiast\",\n        \"description\": \"Someone who is passionate about pizza and enjoys trying different types and flavors.\"\n    },\n    {\n        \"name\": \"Pizza Aficionado\",\n        \"description\": \"Someone who has a deep understanding and appreciation of pizza and its various forms.\"\n    },\n    {\n        \"name\": \"Pizza Snob\",\n        \"description\": \"Someone who has high standards for pizza and is critical of those that do not meet their expectations.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n  {\n    \"name\": \"loves\",\n    \"value\": \"pizza is amazing\",\n    \"justification\": \"It's a classic, can't go wrong!\"\n  },\n  {\n    \"name\": \"hates\",\n    \"value\": \"too cheesy\",\n    \"justification\": \"It's like they're trying to drown the sauce!\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"pizza-lover\",\n      \"description\": \"Someone who loves pizza and enjoys eating it regularly\"\n    },\n    {\n      \"name\": \"pizza-maker\",\n      \"description\": \"Someone who makes pizza as a hobby or profession\"\n    },\n    {\n      \"name\": \"pizza-critic\",\n      \"description\": \"Someone who is particular about the quality of pizza and has a strong opinion on what makes a good pizza\"\n    },\n    {\n      \"name\": \"pizza-enthusiast\",\n      \"description\": \"Someone who is passionate about pizza and enjoys learning about different types and flavors\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"classic\", \"christmas\", \"margherita\", \"veggie\", \"capricciosa\"],\n\"pizza\": [\"italian\", \"open-face\", \"thin\", \"crust\", \"topping\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"key\": \"eat\",\n        \"description\": \"Eat the pizza\"\n    },\n    {\n        \"key\": \"enjoy\",\n        \"description\": \"Enjoy the pizza\"\n    },\n    {\n        \"key\": \"love\",\n        \"description\": \"Love the pizza\"\n    },\n    {\n        \"key\": \"hate\",\n        \"description\": \"Hate the pizza\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"I love pizza, it's one of my favorite foods!\",\n    \"Pizza is great, but I prefer other types of food.\",\n    \"I'm not a big fan of pizza, it's not my favorite.\",\n    \"Pizza is okay, but I prefer other Italian dishes.\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"Pizza lover\",\n      \"description\": \"Someone who loves pizza and enjoys it frequently.\"\n    },\n    {\n      \"name\": \"Pizza enthusiast\",\n      \"description\": \"Someone who has a strong interest in pizza and its various styles.\"\n    },\n    {\n      \"name\": \"Pizza aficionado\",\n      \"description\": \"Someone who has a deep appreciation for the art and craft of pizza-making.\"\n    },\n    {\n      \"name\": \"Pizza snob\",\n      \"description\": \"Someone who is particular about the quality and authenticity of their pizza.\"\n    }\n  ]\n}\n"
+  }
+]

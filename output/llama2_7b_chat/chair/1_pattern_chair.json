@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"Sitting in the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair being sat on\"\n        }\n      ]\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"Standing next to the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair being stood next to\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n   \"patterns\": [\n      {\n         \"name\": \"sitting\",\n         \"description\": \"The act of occupying the chair, with the ability to stand up or sit down\",\n         \"entities\": [\n            {\n               \"name\": \"chair\",\n               \"description\": \"The seat for one person with a support for the back\"\n            }\n         ]\n      },\n      {\n         \"name\": \"leaning\",\n         \"description\": \"The act of resting or supporting oneself on the chair\",\n         \"entities\": [\n            {\n               \"name\": \"chair\",\n               \"description\": \"The seat for one person with a support for the back\"\n            },\n            {\n               \"name\": \"back\",\n               \"description\": \"The support for the back of a person sitting in the chair\"\n            }\n         ]\n      },\n      {\n         \"name\": \"standing\",\n         \"description\": \"The act of leaving the chair, with the ability to sit or stand\",\n         \"entities\": [\n            {\n               \"name\": \"chair\",\n               \"description\": \"The seat for one person with a support for the back\"\n            }\n         ]\n      }\n   ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"sitting\",\n\"description\": \"The user is sitting on the chair\",\n\"entities\": [\n{\n\"name\": \"chair\",\n\"description\": \"The chair the user is sitting on\"\n},\n{\n\"name\": \"user\",\n\"description\": \"The user who is sitting on the chair\"\n}\n]\n}\n,\n\"patternsList\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"patterns\": [\n    {\"name\": \"sitting\", \"description\": \"Sitting on the chair, either alone or with others\", \"actions\": [\"sit\", \"stand\"]},\n    {\"name\": \"meeting\", \"description\": \"Using the chair for a meeting or discussion\", \"actions\": [\"meet\", \"discuss\"]},\n    {\"name\": \"reading\", \"description\": \"Reading a book or document while sitting on the chair\", \"actions\": [\"read\", \"skim\"]}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"sitting\",\n\"description\": \"Sitting on the chair\",\n\"entities\": [\n{\n\"name\": \"chair\",\n\"type\": \"physicalThing\"\n},\n{\n\"name\": \"person\",\n\"type\": \"livingThing\"\n}\n]\n},\n{\n\"name\": \"standing\",\n\"description\": \"Standing next to the chair\",\n\"entities\": [\n{\n\"name\": \"chair\",\n\"type\": \"physicalThing\"\n},\n{\n\"name\": \"person\",\n\"type\": \"livingThing\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"Sitting in a chair, typically for a prolonged period of time.\"\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"Standing next to a chair, without necessarily sitting in it.\"\n    },\n    {\n      \"name\": \"leaning\",\n      \"description\": \"Leaning on a chair, either for support or comfort.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"chair\",\n\"seat\",\n\"throne\",\n\"bench\",\n\"stool\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"Sitting on the chair\",\n      \"parameters\": [\n        {\n          \"name\": \"person\",\n          \"description\": \"The person sitting on the chair\"\n        },\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair being sat on\"\n        }\n      ]\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"Standing next to the chair\",\n      \"parameters\": [\n        {\n          \"name\": \"person\",\n          \"description\": \"The person standing next to the chair\"\n        },\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair being stood next to\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"sit\",\n\"seat\",\n\"chair\",\n\"seat for one person\",\n\"back support\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"sitting\",\n\"description\": \"sitting on the chair\",\n\"example\": \"She sat on the chair\",\n\"related\": [\n\"seat\",\n\"back\",\n\"support\"\n]\n},\n{\n\"name\": \"standing\",\n\"description\": \"standing next to the chair\",\n\"example\": \"He stood next to the chair\",\n\"related\": [\n\"seat\",\n\"chair\",\n\"next\"\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"Sitting on the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair\"\n        }\n      ]\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"Standing next to the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair\"\n        },\n        {\n          \"name\": \"person\",\n          \"description\": \"The person\"\n        }\n      ]\n    },\n    {\n      \"name\": \"moving\",\n      \"description\": \"Moving the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair\"\n        },\n        {\n          \"name\": \"person\",\n          \"description\": \"The person\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n  {\n    \"name\": \"sitting\",\n    \"description\": \"Sitting on the chair\",\n    \"actions\": [\n      {\n        \"name\": \"sit\",\n        \"description\": \"Sit down on the chair\",\n        \"parameters\": [\n          {\n            \"name\": \"chair\",\n            \"description\": \"The chair to sit on\"\n          }\n        ]\n      }\n    ]\n  },\n  {\n    \"name\": \"standing\",\n    \"description\": \"Standing next to the chair\",\n    \"actions\": [\n      {\n        \"name\": \"stand\",\n        \"description\": \"Stand up from the chair\",\n        \"parameters\": [\n          {\n            \"name\": \"chair\",\n            \"description\": \"The chair to stand next to\"\n          }\n        ]\n      }\n    ]\n  }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"sitting\",\n\"definition\": \"the act of sitting on a chair\"\n},\n{\n\"name\": \"standing\",\n\"definition\": \"the act of standing up from a chair\"\n},\n{\n\"name\": \"walking\",\n\"definition\": \"the act of moving around on feet\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"pattern\": \"chair\"\n    },\n    {\n      \"name\": \"standing\",\n      \"pattern\": \"table\"\n    },\n    {\n      \"name\": \"resting\",\n      \"pattern\": \"bed\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"Sitting on the chair, with back support.\"\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"Standing next to the chair, without sitting.\"\n    },\n    {\n      \"name\": \"leaning\",\n      \"description\": \"Leaning on the chair, without sitting.\"\n    },\n    {\n      \"name\": \"sitting and leaning\",\n      \"description\": \"Sitting on the chair while leaning on it.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"sit on the chair\",\n\"use the chair\",\n\"occupy the chair\",\n\"have a seat on the chair\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"sitting\",\n\"description\": \"Sitting on the chair\",\n\"parameters\": {\n\"chair\": {\n\"type\": \"chair\",\n\"values\": [\n{\n\"name\": \"armchair\",\n\"description\": \"A chair with arms\"\n},\n{\n\"name\": \"lounge chair\",\n\"description\": \"A chair designed for lounging\"\n}\n]\n}\n}\n}\n,\n\"patterns_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"sitting on the chair\",\n      \"example\": \"She sat down on the chair\"\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"standing near the chair\",\n      \"example\": \"He stood near the chair\"\n    },\n    {\n      \"name\": \"leaning\",\n      \"description\": \"leaning on the chair\",\n      \"example\": \"She leaned on the chair\"\n    },\n    {\n      \"name\": \"using\",\n      \"description\": \"using the chair as a seat\",\n      \"example\": \"He used the chair to sit on\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sitting\",\n      \"description\": \"Person is sitting on the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair the person is sitting on\"\n        }\n      ]\n    },\n    {\n      \"name\": \"standing\",\n      \"description\": \"Person is standing next to the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair the person is standing next to\"\n        }\n      ]\n    },\n    {\n      \"name\": \"moving\",\n      \"description\": \"Person is moving away from or towards the chair\",\n      \"entities\": [\n        {\n          \"name\": \"chair\",\n          \"description\": \"The chair the person is moving away from or towards\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"sit on the chair\",\n\"sit down\",\n\"take a seat\",\n\"have a seat\",\n\"sit\",\n\"down\",\n\"seat\",\n\"chair\"\n]\n}\n"
+  }
+]

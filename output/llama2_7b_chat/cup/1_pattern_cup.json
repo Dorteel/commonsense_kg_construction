@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"hold the cup with both hands\",\n\"bring the cup to the mouth\",\n\"pour liquid into the cup\",\n\"drink from the cup\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"hot beverage\",\n        \"pattern\": \"cup of hot coffee/tea\"\n    },\n    {\n        \"name\": \"dessert\",\n        \"pattern\": \"cup of ice cream\"\n    },\n    {\n        \"name\": \"drink\",\n        \"pattern\": \"cup of juice\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Hold and carry\",\n      \"description\": \"Hold the cup in your hand and carry it to another location\",\n      \"actions\": [\n        \"move_cup\"\n      ]\n    },\n    {\n      \"name\": \" Pour contents\",\n      \"description\": \"Pour the contents of the cup into another container or onto a surface\",\n      \"actions\": [\n        \"pour_cup\"\n      ]\n    },\n    {\n      \"name\": \"Drink\",\n      \"description\": \"Drink the contents of the cup\",\n      \"actions\": [\n        \"drink_cup\"\n      ]\n    },\n    {\n      \"name\": \"Clean\",\n      \"description\": \"Clean the cup\",\n      \"actions\": [\n        \"clean_cup\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":[\"hold cup handle\", \"cup in hand\", \"cupped in hand\", \"cupping hand\", \"hand cupped\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"hold cup\",\n\"use handle\",\n\"drink from cup\",\n\"pour from cup\",\n\"empty cup\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"hold\",\n      \"description\": \"hold the cup with both hands and bring it to the mouth\",\n      \"example\": \"I will hold this cup and take a sip\"\n    },\n    {\n      \"name\": \"lift\",\n      \"description\": \"lift the cup with one hand and bring it to the mouth\",\n      \"example\": \"I will lift this cup with one hand and take a sip\"\n    },\n    {\n      \"name\": \"pour\",\n      \"description\": \"pour liquid from the cup into another container\",\n      \"example\": \"I will pour some water from this cup into a glass\"\n    },\n    {\n      \"name\": \"pass\",\n      \"description\": \"pass the cup to another person\",\n      \"example\": \"I will pass this cup to my friend\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Cup of coffee\",\n        \"description\": \"A common pattern for the cup is to hold a cup of coffee.\",\n        \"example\": \"I need a cup of coffee.\"\n    },\n    {\n        \"name\": \"Cup of tea\",\n        \"description\": \"Another common pattern for the cup is to hold a cup of tea.\",\n        \"example\": \"I would like a cup of tea, please.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"drink\",\n\"hold\",\n\"use\",\n\"serve\",\n\"carry\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"fill\",\n        \"description\": \"fill the cup with liquid\",\n        \"parameters\": [\n            {\n                \"name\": \"liquid\",\n                \"description\": \"the liquid to be filled in the cup\"\n            }\n        ]\n    },\n    {\n        \"name\": \"drink\",\n        \"description\": \"drink from the cup\",\n        \"parameters\": [\n            {\n                \"name\": \"cup\",\n                \"description\": \"the cup to be drunk from\"\n            }\n        ]\n    },\n    {\n        \"name\": \"empty\",\n        \"description\": \"empty the cup of liquid\",\n        \"parameters\": [\n            {\n                \"name\": \"cup\",\n                \"description\": \"the cup to be emptied\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cup of coffee\",\n\"coffee in a cup\",\n\"cup of tea\",\n\"tea in a cup\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"drinking\",\n      \"description\": \"using the cup to drink a liquid\",\n      \"entities\": [\n        {\n          \"name\": \"cup\",\n          \"description\": \"the small open container used for drinking\",\n          \"patterns\": [\n            {\n              \"name\": \"holding\",\n              \"description\": \"holding the cup in one's hand\",\n              \"entities\": [\n                {\n                  \"name\": \"hand\",\n                  \"description\": \"the part of the body used to hold the cup\"\n                }\n              ]\n            },\n            {\n              \"name\": \"pouring\",\n              \"description\": \"pouring liquid into the cup\",\n              \"entities\": [\n                {\n                  \"name\": \"liquid\",\n                  \"description\": \"the substance being poured into the cup\"\n                },\n                {\n                  \"name\": \"pouring_method\",\n                  \"description\": \"the method used to pour the liquid into the cup\"\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cup\",\n      \"description\": \"A small open container usually used for drinking; usually has a handle\",\n      \"pattern\": \"cup\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"patterns\": [\n        {\n            \"name\": \"drink\",\n            \"pattern\": \"cup drink\"\n        },\n        {\n            \"name\": \"fill\",\n            \"pattern\": \"fill cup\"\n        },\n        {\n            \"name\": \"hold\",\n            \"pattern\": \"hold cup\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"pattern\": \"hold the cup\",\n        \"description\": \"Hold the cup in one's hands, usually for drinking.\"\n    },\n    {\n        \"pattern\": \"pour from the cup\",\n        \"description\": \"Pour liquid from the cup into another container or directly into someone's mouth.\"\n    },\n    {\n        \"pattern\": \"pass the cup\",\n        \"description\": \"Pass the cup to someone else, usually for them to drink from.\"\n    },\n    {\n        \"pattern\": \"place the cup on a surface\",\n        \"description\": \"Place the cup on a flat surface, usually for storage or to indicate that it is available for use.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"container\",\n\"drinkware\",\n\"mug\",\n\"goblet\",\n\"chalice\",\n\"cup\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"pattern\": \"hold cup\",\n\"description\": \"hold the cup in your hands\"\n},\n{\n\"pattern\": \"drink from cup\",\n\"description\": \"pour liquid into the cup and drink from it\"\n},\n{\n\"pattern\": \"pass cup\",\n\"description\": \"pass the cup to someone else\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Drink\",\n      \"pattern\": \"cup drink\"\n    },\n    {\n      \"name\": \"Hold\",\n      \"pattern\": \"cup hold\"\n    },\n    {\n      \"name\": \"Carry\",\n      \"pattern\": \"cup carry\"\n    },\n    {\n      \"name\": \"Pour\",\n      \"pattern\": \"cup pour\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"cup of coffee\",\n\"coffee in a cup\",\n\"cup of tea\",\n\"tea in a cup\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cup of coffee\",\n      \"description\": \"A hot beverage made by pouring coffee into a cup.\",\n      \"related_concepts\": [\n        \"coffee\",\n        \"hot beverage\",\n        \"drink\"\n      ]\n    },\n    {\n      \"name\": \"cup of tea\",\n      \"description\": \"A hot beverage made by pouring tea into a cup.\",\n      \"related_concepts\": [\n        \"tea\",\n        \"hot beverage\",\n        \"drink\"\n      ]\n    },\n    {\n      \"name\": \"cup of juice\",\n      \"description\": \"A beverage made by pouring juice into a cup.\",\n      \"related_concepts\": [\n        \"juice\",\n        \"beverage\",\n        \"drink\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"hold\",\n\"description\": \"Hold the cup in one's hand\",\n\"args\": {\n\"cup\": {\n\"type\": \"cup\",\n\"properties\": {\n\"handle\": {\n\"type\": \"handle\",\n\"properties\": {\n\"grip\": {\n\"type\": \"grip\",\n\"properties\": {\n\"firm\": {\n\"type\": \"firm\",\n\"properties\": {\n\"hard\": {\n\"type\": \"hard\",\n\"properties\": {\n\"solid\": {\n\"type\": \"solid\",\n\"properties\": {\n\"material\": {\n\"type\": \"material\",\n\"properties\": {\n\"ceramic\": {\n\"type\": \"ceramic\",\n\"properties\": {\n\"porcelain\": {\n\"type\": \"porcelain\",\n\"properties\": {\n\"china\": {\n\"type\": \"china\",\n\"properties\": {\n\"glazed\": {\n\"type\": \"glazed\",\n\"properties\": {\n\"glossy\": {\n\"type\": \"glossy\",\n\"properties\": {\n\"smooth\": {\n\"type\": \"smooth\",\n\"properties\": {\n\"smoothness\": {\n\"type\": \"smoothness\",\n\"properties\": {\n\"slick\": {\n\"type\": \"slick\",\n\"properties\": {\n\"lubricated\": {\n\"type\": \"lubricated\",\n\"properties\": {\n\"oiled\": {\n\"type\": \"oiled\",\n\"properties\": {\n\"greasy\": {\n\"type\": \"greasy\",\n\"properties\": {\n\"sticky\": {\n\"type\": \"sticky\",\n\"properties\": {\n\"ad"
+  }
+]

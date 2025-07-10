@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"park\",\"beach\",\"ballpark\",\"foodtruck\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"restaurant\", \"food truck\", \"beachside stand\", \"ballpark\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"ballpark\",\n\"beach\",\n\"boardwalk\",\n\"food truck\",\n\"parade\",\n\"sidewalk\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"food truck\",\"beachside stand\",\"sports stadium\",\"barbecue joint\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"beach\",\n    \"ballpark\",\n    \"boardwalk\",\n    \"food truck\",\n    \"street cart\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"beach\",\n    \"ball park\",\n    \"concert\",\n    \"fair\",\n    \"food truck\",\n    \"golf course\",\n    \"park\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"restaurant\", \"park\", \"beach\", \"festival\", \"ballpark\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"hot dog stand\", \"ball park\", \"beach\", \"boardwalk\", \"amusement park\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"park\", \"beach\", \"ballpark\", \"foodtruck\", \"stadium\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"beach\", \"ballpark\", \"food truck\", \"parade\", \"party\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"beach\",\n\"ballpark\",\n\"boardwalk\",\n\"fair\",\n\"food truck\",\n\"parade\",\n\"park\",\n\"sidewalk\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\":[\"restaurant\",\"foodtruck\",\"beachside\",\"ballpark\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"beach\",\n    \"ballpark\",\n    \"boardwalk\",\n    \"food truck\",\n    \"street cart\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"restaurant\", \"food stand\", \"ball park\", \"beach\", \"barbecue\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"ballpark\", \"beach\", \"boardwalk\", \"deli\", \"fair\", \"foodstand\", \"park\", \"sidewalk\", \"street\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"beach\",\n\"ballpark\",\n\"boardwalk\",\n\"city street\",\n\"food truck\",\n\"outdoor festival\",\n\"parade\",\n\"picnic area\",\n\"street corner\",\n\"tailgate party\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"beachside stands\",\n\"ballparks\",\n\"bars\",\n\"carnivals\",\n\"concession stands\",\n\"food trucks\",\n\"parks\",\n\"sidewalks\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"beachside\",\n\"ballpark\",\n\"boardwalk\",\n\"convenience store\",\n\"deli\",\n\"food truck\",\n\"hot dog stand\",\n\"mall food court\",\n\"park\",\n\"recreation center\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"hot dog stand\",\n\"ball park\",\n\"beach\",\n\"street corner\",\n\"food truck\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"beach\",\n\"ballpark\",\n\"street cart\",\n\"restaurant\",\n\"store\"\n]\n}\n"
+  }
+]

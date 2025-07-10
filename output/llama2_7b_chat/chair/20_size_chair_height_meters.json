@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.98\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"chair\": {\"height\": 0.75}}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.91\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"height\": 0.95,\n\"width\": 0.65,\n\"depth\": 0.85\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"age\": 30,\n  \"city\": \"New York\",\n  \"job\": {\n    \"title\": \"Software Engineer\",\n    \"company\": \"Google\"\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.85\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 0.85\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.90\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.85\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.92\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.98\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 0.85\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.8\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.75\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"height\": 0.92\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.85\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.91\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"chair\": {\n    \"height\": 0.95\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.85\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"height\": 0.75\n  }\n}\n"
+  }
+]

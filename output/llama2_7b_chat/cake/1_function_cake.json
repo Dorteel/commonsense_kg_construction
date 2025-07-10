@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"eat\",\n\"serve\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"bake\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n   \"function\": [\n      {\n         \"name\": \"Bake\",\n         \"description\": \"To cook cake using an oven.\",\n         \"parameters\": [\n            {\n               \"name\": \"type\",\n               \"description\": \"Type of cake to be baked (e.g. chocolate, vanilla, red velvet).\",\n               \"required\": true\n            },\n            {\n               \"name\": \"ingredients\",\n               \"description\": \"List of ingredients required for the cake (e.g. flour, sugar, eggs, butter).\",\n               \"required\": true\n            },\n            {\n               \"name\": \"size\",\n               \"description\": \"Size of the cake (e.g. small, medium, large).\",\n               \"required\": true\n            }\n         ]\n      }\n   ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"serve\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"bake\",\n      \"description\": \"to cook or prepare (dough or batter) by heat in an oven\",\n      \"parameters\": [\n        {\n          \"name\": \"ingredients\",\n          \"description\": \"list of ingredients to use in baking\"\n        },\n        {\n          \"name\": \"temperature\",\n          \"description\": \"temperature at which to bake\"\n        }\n      ]\n    },\n    {\n      \"name\": \"decorate\",\n      \"description\": \"to add a decoration or design to (a cake or other baked goods)\",\n      \"parameters\": [\n        {\n          \"name\": \"design\",\n          \"description\": \"the design or decoration to be added\"\n        }\n      ]\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"to provide or offer (food or drink) for consumption\",\n      \"parameters\": [\n        {\n          \"name\": \"guests\",\n          \"description\": \"the people being served\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"bake\",\n      \"description\": \"To heat the cake in an oven\"\n    },\n    {\n      \"name\": \"decorate\",\n      \"description\": \"To add aesthetically pleasing designs to the cake\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"To present the cake to the intended recipient\"\n    },\n    {\n      \"name\": \"eat\",\n      \"description\": \"To consume the cake\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"bake\",\n        \"description\": \"The act of cooking a cake using heat and time\",\n        \"parameters\": [\n            {\n                \"name\": \"cake\",\n                \"description\": \"The cake to be baked\"\n            }\n        ]\n    },\n    {\n        \"name\": \"decorate\",\n        \"description\": \"The act of adding aesthetically pleasing toppings or decorations to a cake\",\n        \"parameters\": [\n            {\n                \"name\": \"cake\",\n                \"description\": \"The cake to be decorated\"\n            },\n            {\n                \"name\": \"toppings\",\n                \"description\": \"The aesthetically pleasing toppings or decorations to be added to the cake\"\n            }\n        ]\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"The act of presenting a cake to a person or group\",\n        \"parameters\": [\n            {\n                \"name\": \"cake\",\n                \"description\": \"The cake to be served\"\n            },\n            {\n                \"name\": \"recipient\",\n                \"description\": \"The person or group to receive the cake\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"functions\":[\n    {\"name\": \"bake\", \"description\": \"to cook (usually in an oven) a cake\"},\n    {\"name\": \"decorate\", \"description\": \"to add decorations to a cake\"},\n    {\"name\": \"serve\", \"description\": \"to provide or offer (a cake) for people to eat\"},\n    {\"name\": \"consume\", \"description\": \"to eat (a cake)\"},\n    {\"name\": \"store\", \"description\": \"to keep (a cake) in a safe place\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"eat\",\n\"serve\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"bake\",\n  \"parameters\": {\n    \"cake\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"ingredients\": {\n          \"type\": \"array\",\n          \"items\": {\n            \"type\": \"string\"\n          }\n        },\n        \"size\": {\n          \"type\": \"string\",\n          \"pattern\": \"^(small|medium|large)$\"\n        },\n        \"design\": {\n          \"type\": \"string\",\n          \"pattern\": \"^(single|layer)$\"\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"bake\",\n  \"arguments\": [\n    {\n      \"name\": \"cake\",\n      \"description\": \"The cake to be baked\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"serve\",\n\"enjoy\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"bake\":{\n\"function\": \"bake\"\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"cake\": {\n\"functions\": [\n\"bake\",\n\"decorate\",\n\"eat\",\n\"serve\"\n]\n}\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"serve\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"bake\",\n\"decorate\",\n\"serve\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n  \"bake\",\n  \"decorate\",\n  \"serve\",\n  \"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"baking\":{\n\"cake\":[\"mix\", \"bake\", \"cool\"],\n\"cupcakes\":[\"mix\", \"bake\", \"decorate\"]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"bake\",\n  \"parameters\": [\n    {\n      \"name\": \"cake\",\n      \"description\": \"The cake to be baked\"\n    },\n    {\n      \"name\": \"temperature\",\n      \"description\": \"The temperature at which the cake should be baked\"\n    },\n    {\n      \"name\": \"time\",\n      \"description\": \"The time at which the cake should be baked\"\n    }\n  ]\n}\n"
+  }
+]

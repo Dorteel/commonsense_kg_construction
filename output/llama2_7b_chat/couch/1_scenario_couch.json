@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Family Movie Night\",\n        \"description\": \"The couch is used by a family of four to watch a movie together.\",\n        \"entities\": [\n            {\n                \"name\": \"couch\",\n                \"description\": \"The couch is the central piece of furniture in the living room where the family gathers to watch the movie.\"\n            },\n            {\n                \"name\": \"TV\",\n                \"description\": \"The TV is the source of entertainment for the family movie night.\"\n            },\n            {\n                \"name\": \"popcorn\",\n                \"description\": \"The family brings out a bag of popcorn to snack on during the movie.\"\n            }\n        ]\n    },\n    {\n        \"name\": \"Guest Room\",\n        \"description\": \"The couch is used by a guest who is staying overnight as a place to rest.\",\n        \"entities\": [\n            {\n                \"name\": \"couch\",\n                \"description\": \"The couch is the comfortable place for the guest to sleep.\",\n           \"},{  \" :\"name\" ,\"description\" :\"The guest brings their own blanket and pillow to make themselves comfortable on the couch.\" }\n        ]\n    },\n    {\n        \"name\": \"Game Night\",\n        \"description\": \"A group of friends gather around the couch to play board games.\",\n        \"entities\": [\n            {\n                \"name\": \"couch\",\n                \"description\": \"The couch is the central piece of furniture where the group gathers to play games.\",\n           \"},{  \" :\"name\" ,\"description\" :\"The group brings their own games and snacks to enjoy during the game night.\" }\n       "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\": [\n  {\"scenario\": \"sitting on the couch while watching a movie\"},\n  {\"scenario\": \"having a conversation with a friend on the couch\"},\n  {\"scenario\": \"reading a book on the couch\"},\n  {\"scenario\": \"taking a nap on the couch\"},\n  {\"scenario\": \"playing video games on the couch\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Giving a presentation\",\n\"description\": \"Using a couch as a makeshift stage for a presentation\"\n},\n{\n\"scenario\": \"Guest seating\",\n\"description\": \"Using a couch as additional seating for guests\"\n},\n{\n\"scenario\": \"Relaxing\",\n\"description\": \"Relaxing on a couch after a long day\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Sitting together on the couch to watch a movie\"\n    },\n    {\n        \"scenario\": \"Sharing a meal on the couch while watching TV\"\n    },\n    {\n        \"scenario\": \"Sitting on the couch with a friend playing video games\"\n    },\n    {\n        \"scenario\": \"Cuddling on the couch while reading a book\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Sitting with family\"\n    },\n    {\n        \"scenario\": \"Sitting with friends\"\n    },\n    {\n        \"scenario\": \"Sitting alone\"\n    },\n    {\n        \"scenario\": \"Sitting in a meeting\"\n    },\n    {\n        \"scenario\": \"Sitting in a classroom\"\n    },\n    {\n        \"scenario\": \"Sitting in a restaurant\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Giving a presentation on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"spouse\",\n\"children\"\n]\n}\n,\n\"scenario\": \"Hosting a dinner party on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"friends\",\n\"significant other\"\n]\n}\n,\n\"scenario\": \"Taking a nap on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"self\"\n]\n}\n,\n\"scenario\": \"Watching TV on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"self\"\n]\n}\n,\n\"scenario\": \"Doing homework on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"self\"\n]\n}\n,\n\"scenario\": \"Reading a book on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"self\"\n]\n}\n,\n\"scenario\": \"Eating dinner on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"self\"\n]\n}\n,\n\"scenario\": \"Drinking coffee on the couch in the living room\",\n\"context\": {\n\"location\": \"home\",\n\"people\": [\n\"self\"\n]\n}\n,\n\"scenario\": \"Listening to music on the couch in"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Giving a presentation\",\n        \"description\": \"Giving a presentation using the couch as a makeshift stage.\"\n    },\n    {\n        \"scenario\": \"Hosting a party\",\n        \"description\": \"Hosting a party on the couch and having guests sit and socialize with others.\"\n    },\n    {\n        \"scenario\": \"Relaxing\",\n        \"description\": \"Sitting on the couch and relaxing after a long day.\"\n    },\n    {\n        \"scenario\": \"Working from home\",\n        \"description\": \"Working from home on the couch and using it as a desk.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"using the couch as a coffee table\",\n        \"description\": \"A group of friends are hanging out in the living room and decide to use the couch as a coffee table instead of the traditional coffee table.\"\n    },\n    {\n        \"scenario\": \"reading a book on the couch\",\n        \"description\": \"A person is reading a book on the couch and gets comfortable, maybe even falls asleep.\"\n    },\n    {\n        \"scenario\": \"watching TV on the couch\",\n        \"description\": \"A family is watching TV on the couch and someone falls asleep during the show.\"\n    },\n    {\n        \"scenario\": \"having a meeting on the couch\",\n        \"description\": \"A group of coworkers are having a meeting on the couch in the break room.\"\n    },\n    {\n        \"scenario\": \"having a nap on the couch\",\n        \"description\": \"A person is taking a nap on the couch during the day.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"sitting on couch watching TV\", \"having a party on couch\", \"reading a book on couch\", \"having a meeting on couch\", \"having a nap on couch\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"title\": \"Couch gathers family for movie night\",\n      \"description\": \"The couch is the central gathering place for a family movie night. Everyone piles onto the couch, snacks in hand, and watches a favorite film together.\",\n      \"entities\": [\n        {\n          \"name\": \"couch\",\n          \"description\": \"The couch is the focal point of the room, providing a comfortable surface for everyone to sit on.\"\n        },\n        {\n          \"name\": \"family\",\n          \"description\": \"The family members are the primary users of the couch, using it for a variety of activities.\"\n        },\n        {\n          \"name\": \"movie\",\n          \"description\": \"The movie is the central entertainment for the family movie night, providing a shared experience for everyone.\"\n        }\n      ]\n    },\n    {\n      \"title\": \"Couch serves as a bed for overnight guests\",\n      \"description\": \"A tired traveler comes to visit and needs a place to rest. The couch is converted into a comfortable bed, providing a cozy space for the guest to sleep.\",\n      \"entities\": [\n        {\n          \"name\": \"couch\",\n          \"description\": \"The couch is transformed into a bed, providing a comfortable sleeping surface for the guest.\"\n        },\n        {\n          \"name\": \"guest\",\n          \"description\": \"The guest is a tired traveler who needs a place to rest after a long day of travel.\"\n        },\n        {\n          \"name\": \"overnight\",\n          \"description\": \"The couch is used for an overnight stay, providing a cozy space for the guest to rest.\"\n        }\n      ]\n    },\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Using the couch as a coffee table\",\n        \"description\": \"A person places a cup of coffee on the couch, next to their laptop, and begins to work.\"\n    },\n    {\n        \"scenario\": \"Watching TV on the couch\",\n        \"description\": \"A person sits on the couch with their significant other and watches TV.\"\n    },\n    {\n        \"scenario\": \"Cuddling with pets on the couch\",\n        \"description\": \"A person sits on the couch with their dog and cat, both of whom are also sitting on the couch.\"\n    },\n    {\n        \"scenario\": \"Having a couch party\",\n        \"description\": \"A group of friends gather on the couch to play board games, eat snacks, and socialize.\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Using the couch as a bed for a guest\",\n      \"description\": \"A friend comes over and needs a place to sleep. You offer them the couch.\"\n    },\n    {\n      \"scenario\": \"Lounging on the couch while watching TV\",\n      \"description\": \"You are relaxing at home and decide to watch TV. You sit on the couch.\"\n    },\n    {\n      \"scenario\": \"Having a conversation on the couch\",\n      \"description\": \"You and a friend are hanging out at home and decide to sit on the couch and talk.\"\n    },\n    {\n      \"scenario\": \"Reading a book on the couch\",\n      \"description\": \"You are at home and want to read a book. You sit on the couch and read.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Family dinner\",\n      \"description\": \"Multiple family members sit on couch to eat dinner\",\n      \"entities\": [\n        \"couch\",\n        \"dinner\"\n      ]\n    },\n    {\n      \"name\": \"Movie night\",\n      \"description\": \"Group of friends sit on couch to watch movie\",\n      \"entities\": [\n        \"couch\",\n        \"movie\"\n      ]\n    },\n    {\n      \"name\": \"Sleepover\",\n      \"description\": \"Multiple children sit on couch to sleep\",\n      \"entities\": [\n        \"couch\",\n        \"sleepover\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Living room\",\n      \"description\": \"The couch is in the living room, and it's where the family gathers to watch TV or play games.\"\n    },\n    {\n      \"name\": \"Guest room\",\n      \"description\": \"The couch is in the guest room, and it's where visitors sleep or relax.\"\n    },\n    {\n      \"name\": \"Home office\",\n      \"description\": \"The couch is in the home office, and it's where the person works or reads.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"description\": \"Give a couch to a friend\",\n      \"parameters\": [\n        {\n          \"name\": \"friend\",\n          \"type\": \"person\"\n        },\n        {\n          \"name\": \"couch\",\n          \"type\": \"couch\"\n        }\n      ]\n    },\n    {\n      \"description\": \"Use a couch for a picnic\",\n      \"parameters\": [\n        {\n          \"name\": \"couch\",\n          \"type\": \"couch\"\n        },\n        {\n          \"name\": \"blanket\",\n          \"type\": \"blanket\"\n        },\n        {\n          \"name\": \"food\",\n          \"type\": \"food\"\n        }\n      ]\n    },\n    {\n      \"description\": \"Sell a couch\",\n      \"parameters\": [\n        {\n          \"name\": \"couch\",\n          \"type\": \"couch\"\n        },\n        {\n          \"name\": \"buyer\",\n          \"type\": \"person\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Sitting on the couch with family members\",\n\"Watching TV on the couch\",\n\"Sleeping on the couch\",\n\"Reading a book on the couch\",\n\"Eating snacks on the couch\",\n\"Having a conversation on the couch\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Gathering around a couch in the living room to watch TV\"\n},\n{\n\"scenario\": \"Using a couch as a makeshift bed during a power outage\"\n},\n{\n\"scenario\": \"Having a group of friends over for a movie night on the couch\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"sitting in the living room\",\n        \"description\": \"A group of friends are sitting on the couch in the living room, watching a movie.\"\n    },\n    {\n        \"scenario\": \"on a picnic\",\n        \"description\": \"A family is sitting on a couch in a park, eating a picnic lunch.\"\n    },\n    {\n        \"scenario\": \"in a hotel room\",\n        \"description\": \"A couple is sitting on the couch in their hotel room, watching TV.\"\n    },\n    {\n        \"scenario\": \"at the office\",\n        \"description\": \"A group of coworkers are sitting on the couch in the office break room, chatting.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Using the couch for a group project\",\n      \"entities\": [\n        {\n          \"entity\": \"couch\",\n          \"role\": \"seat\"\n        },\n        {\n          \"entity\": \"laptop\",\n          \"role\": \"computer\"\n        },\n        {\n          \"entity\": \"group project\",\n          \"role\": \"task\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"Using the couch for a movie night\",\n      \"entities\": [\n        {\n          \"entity\": \"couch\",\n          \"role\": \"seat\"\n        },\n        {\n          \"entity\": \"television\",\n          \"role\": \"medium\"\n        },\n        {\n          \"entity\": \"dvd player\",\n          \"role\": \"device\"\n        },\n        {\n          \"entity\": \"movie\",\n          \"role\": \"content\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"Using the couch for a nap\",\n      \"entities\": [\n        {\n          \"entity\": \"couch\",\n          \"role\": \"seat\"\n        },\n        {\n          \"entity\": \"pillow\",\n          \"role\": \"comfort\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Family dinner\",\n        \"description\": \"The couch is used for a family dinner, with multiple people sitting on it.\"\n    },\n    {\n        \"scenario\": \"Movie night\",\n        \"description\": \"The couch is used for a movie night, with people sitting and watching a movie on a TV or projector.\"\n    },\n    {\n        \"scenario\": \"Guest sleepover\",\n        \"description\": \"The couch is used as a place for a guest to sleep over, with a sleeping bag or bedding provided.\"\n    },\n    {\n        \"scenario\": \"Game night\",\n        \"description\": \"The couch is used for a game night, with people sitting and playing games on the couch.\"\n    }\n]\n}\n"
+  }
+]

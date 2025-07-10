@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Apple is a fruit with a sweet taste\",\n\"An apple a day keeps the doctor away\",\n\"The red apple is a symbol of health and vitality\",\n\"Apple pie is a popular dessert in the United States\",\n\"The Apple Watch is a smartwatch that tracks fitness and health\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Apple is a fruit that grows on trees.\"\n,\"Apple is a sweet and juicy fruit.\"\n,\"Apple is a popular fruit for snacking.\"\n,\"Apple is a healthy fruit that is good for you.\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple a day keeps the doctor away\",\n\"an apple a day\",\n\"red apple\",\n\"yellow apple\",\n\"green apple\",\n\"tart apple\",\n\"sweet apple\",\n\"crunchy apple\",\n\"juicy apple\",\n\"whitish apple\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple juice\",\n\"apple sauce\",\n\"apple cider\",\n\"apple crisp\",\n\"apple pie\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple juice\",\n\"apple cider\",\n\"apple pie\",\n\"apple crisp\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"apple is a fruit\",\n\"apples are sweet\",\n\"apples are good for you\",\n\"eating an apple a day keeps the doctor away\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"red apple\",\n      \"description\": \"a red apple is an apple with a red skin\",\n      \"attributes\": [\n        {\n          \"name\": \"color\",\n          \"value\": \"red\"\n        }\n      ]\n    },\n    {\n      \"name\": \"yellow apple\",\n      \"description\": \"a yellow apple is an apple with a yellow skin\",\n      \"attributes\": [\n        {\n          \"name\": \"color\",\n          \"value\": \"yellow\"\n        }\n      ]\n    },\n    {\n      \"name\": \"green apple\",\n      \"description\": \"a green apple is an apple with a green skin\",\n      \"attributes\": [\n        {\n          \"name\": \"color\",\n          \"value\": \"green\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Fruit\",\n      \"type\": \"object\",\n      \"properties\": {\n        \"name\": {\n          \"type\": \"string\"\n        },\n        \"color\": {\n          \"type\": \"string\",\n          \"pattern\": \"red|yellow|green\"\n        },\n        \"taste\": {\n          \"type\": \"string\",\n          \"pattern\": \"sweet|tart\"\n        },\n        \"texture\": {\n          \"type\": \"string\",\n          \"pattern\": \"crisp|juicy\"\n        }\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"fruit\",\n\"red\",\n\"yellow\",\n\"green\",\n\"sweet\",\n\"tart\",\n\"crunchy\",\n\"whitish\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple juice\",\n\"apple pie\",\n\"apple cider\",\n\"apple crisp\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"apple is a fruit\",\n\"apple is a type of fruit\",\n\"apples are sweet\",\n\"apples are crunchy\",\n\"apples are good for you\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple sauce\",\n\"apple cider\",\n\"apple pie\",\n\"apple crisp\",\n\"apple juice\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple pie\",\n\"apple cider\",\n\"apple sauce\",\n\"apple crisp\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"apple\",\n      \"description\": \"a fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\"\n    },\n    {\n      \"name\": \"apple pie\",\n      \"description\": \"a dessert made from apples and pastry\"\n    },\n    {\n      \"name\": \"apple juice\",\n      \"description\": \"a beverage made from the juice of apples\"\n    },\n    {\n      \"name\": \"apple cider\",\n      \"description\": \"a beverage made from the juice of apples\"\n    },\n    {\n      \"name\": \"apple crisp\",\n      \"description\": \"a dessert made from apples and oats and sugar and spices\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"apple is a fruit\",\n\"the apple is red\",\n\"apples are sweet\",\n\"apple is a type of fruit\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Fruit\",\n      \"value\": \"apple\"\n    },\n    {\n      \"name\": \"Color\",\n      \"value\": \"red\"\n    },\n    {\n      \"name\": \"Shape\",\n      \"value\": \"round\"\n    },\n    {\n      \"name\": \"Taste\",\n      \"value\": \"sweet\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Apple is a fruit with a sweet and crunchy texture.\",\n\"The apple is a popular fruit that is easy to eat on the go.\",\n\"Apples are a great source of fiber and antioxidants.\",\n\"Eating an apple a day can help keep the doctor away.\",\n\"There are many varieties of apples, each with its own unique flavor and texture.\",\n\"Apples are a versatile fruit that can be used in a variety of dishes, from salads to baked goods.\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Apple is a fruit with red/yellow/green skin and sweet to tart crisp whitish flesh.\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"apple\",\n      \"description\": \"Fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\",\n      \"pattern\": \"apple\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"fruit\",\n\"type\": \"category\",\n\"pattern\": \"apple\"\n},\n{\n\"name\": \"food\",\n\"type\": \"category\",\n\"pattern\": \"dessert\"\n}\n]\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Donut\",\n        \"description\": \"A small ring-shaped fried cake, typically topped with sugar, frosting, or other toppings.\"\n    },\n    {\n        \"name\": \"Ring-Shaped\",\n        \"description\": \"A small cake that is shaped like a ring.\"\n    },\n    {\n        \"name\": \"Fried Cake\",\n        \"description\": \"A cake that is made by frying a batter in oil.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Donut\",\n        \"description\": \"A small ring-shaped fried cake, often topped with sugar, frosting, or other toppings.\"\n    },\n    {\n        \"name\": \"Hole\",\n        \"description\": \"The empty space in the center of a donut.\"\n    },\n    {\n        \"name\": \"Topping\",\n        \"description\": \"Any additional ingredient or flavoring added to a donut, such as chocolate, sprinkles, or frosting.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake, typically topped with sugar or chocolate.\"\n    },\n    {\n      \"name\": \"Glazed Donut\",\n      \"description\": \"A donut topped with a sweet glaze.\"\n    },\n    {\n      \"name\": \"Chocolate Donut\",\n      \"description\": \"A donut topped with chocolate.\"\n    },\n    {\n      \"name\": \" Sprinkles Donut\",\n      \"description\": \"A donut topped with sprinkles.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake\",\n      \"synonyms\": [\n        \"ring doughnut\",\n        \"doughnut\",\n        \"ring cake\"\n      ]\n    },\n    {\n      \"name\": \"Donut Hole\",\n      \"description\": \"The empty space in the center of a donut\",\n      \"synonyms\": [\n        \"donut hole\",\n        \"donut cavity\",\n        \"center of the donut\"\n      ]\n    },\n    {\n      \"name\": \"Donut Topping\",\n      \"description\": \"The sweet or savory topping placed on top of a donut\",\n      \"synonyms\": [\n        \"donut topping\",\n        \"donut glaze\",\n        \"donut frosting\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake\",\n      \"images\": [\n        {\n          \"url\": \"https://example.com/donut.jpg\",\n          \"alt\": \"A donut\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Donut Hole\",\n      \"description\": \"The hole in the center of a donut\",\n      \"images\": [\n        {\n          \"url\": \"https://example.com/donut-hole.jpg\",\n          \"alt\": \"A donut hole\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Donut Topping\",\n      \"description\": \"The sweet topping on top of a donut\",\n      \"images\": [\n        {\n          \"url\": \"https://example.com/donut-topping.jpg\",\n          \"alt\": \"Donut topping\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake, often topped with sugar, cinnamon, or other toppings.\"\n    },\n    {\n      \"name\": \"Hole\",\n      \"description\": \"The empty space in the center of a donut.\"\n    },\n    {\n      \"name\": \"Topping\",\n      \"description\": \"Any substance placed on top of a donut, such as sugar, cinnamon, or frosting.\"\n    },\n    {\n      \"name\": \"Donut Hole Day\",\n      \"description\": \"A holiday celebrating the joy and delight of donuts.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Donut\",\n        \"description\": \"A small ring-shaped fried cake\",\n        \"synonyms\": [\n            \"ring-shaped fried cake\",\n            \"doughnut\",\n            \"hole in the middle\"\n        ]\n    },\n    {\n        \"name\": \"Donut Hole\",\n        \"description\": \"The empty space in the middle of a donut\",\n        \"synonyms\": [\n            \"donut hole\",\n            \"emptiness\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"donut\",\n      \"description\": \"A small ring-shaped fried cake\"\n    },\n    {\n      \"name\": \"holes\",\n      \"description\": \"The empty space in the center of a donut\"\n    },\n    {\n      \"name\": \"toppings\",\n      \"description\": \"Sweet or savory ingredients added to the top of a donut\"\n    },\n    {\n      \"name\": \"frosting\",\n      \"description\": \"A sweet, creamy topping applied to the top of a donut\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A sweet, fried cake, typically made from a yeast dough and flavored with sugar, eggs, and oil.\"\n    },\n    {\n      \"name\": \"Hole\",\n      \"description\": \"A circular opening or depression in something, especially in a donut.\"\n    },\n    {\n      \"name\": \"Ring\",\n      \"description\": \"A circular band or strip of something, especially a donut.\"\n    },\n    {\n      \"name\": \"Fried\",\n      \"description\": \"Cooked in hot oil or fat, especially donuts.\"\n    },\n    {\n      \"name\": \"Cake\",\n      \"description\": \"A sweet baked dessert, often made with flour, sugar, and eggs.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"oil\",\n        \"eggs\"\n      ],\n      \"steps\": [\n        {\n          \"action\": \"mix\",\n          \"ingredients\": [\n            \"flour\",\n            \"sugar\"\n          ]\n        },\n        {\n          \"action\": \"fry\",\n          \"ingredients\": [\n            \"oil\"\n          ]\n        },\n        {\n          \"action\": \"mix\",\n          \"ingredients\": [\n            \"eggs\"\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake, often topped with sugar, cinnamon, or other sweet toppings.\"\n    },\n    {\n      \"name\": \"Ring-Shaped\",\n      \"description\": \"A shape of a cake or pastry that is circular and has a hole in the middle.\"\n    },\n    {\n      \"name\": \"Fried Cake\",\n      \"description\": \"A cake made by frying a batter in hot oil.\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"ring\",\n\"cake\",\n\"fried\",\n\"small\",\n\"circle\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"ring\",\n\"cake\",\n\"fried\",\n\"doughnut\",\n\"treat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Donut\",\n\"ring-shaped fried cake\",\n\"circle cake\",\n\"hole in the middle\",\n\"sweet treat\",\n\"breakfast food\",\n\"dessert\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"pattern\": \"donut\"\n    },\n    {\n      \"name\": \"Ring-Shaped Fried Cake\",\n      \"pattern\": \"ring_shaped_fried_cake\"\n    },\n    {\n      \"name\": \"Fritter\",\n      \"pattern\": \"fritter\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut Hole\",\n      \"description\": \"A donut with a hole in the center\",\n      \"images\": [\n        {\n          \"url\": \"https://example.com/donut-hole.jpg\",\n          \"alt\": \"Donut hole\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Chocolate Glaze\",\n      \"description\": \"A donut covered in chocolate glaze\",\n      \"images\": [\n        {\n          \"url\": \"https://example.com/chocolate-glazed-donut.jpg\",\n          \"alt\": \"Chocolate glazed donut\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Jelly Filling\",\n      \"description\": \"A donut filled with jelly\",\n      \"images\": [\n        {\n          \"url\": \"https://example.com/jelly-filled-donut.jpg\",\n          \"alt\": \"Jelly filled donut\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    \"donut shop\",\n    \"bakery\",\n    \"cafe\",\n    \"coffee shop\",\n    \"food\",\n    \"dessert\",\n    \"sweet treat\",\n    \"breakfast\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake.\"\n    },\n    {\n      \"name\": \"Donut Hole\",\n      \"description\": \"The empty space in the center of a donut.\"\n    },\n    {\n      \"name\": \"Donut Topping\",\n      \"description\": \"The sweet or savory toppings placed on top of a donut.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A sweet, fried cake usually made with flour, sugar, and eggs, and typically topped with sugar, cinnamon, or chocolate.\"\n    },\n    {\n      \"name\": \"Ring-shaped\",\n      \"description\": \"A circular shape resembling a ring.\"\n    },\n    {\n      \"name\": \"Fried\",\n      \"description\": \"Cooked in hot oil or fat.\"\n    },\n    {\n      \"name\": \"Cake\",\n      \"description\": \"A sweet baked dessert made with flour, sugar, and eggs.\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Donut\",\n      \"description\": \"A small ring-shaped fried cake, typically topped with sugar, cinnamon, or glaze.\"\n    },\n    {\n      \"name\": \"Hole\",\n      \"description\": \"The empty space in the center of a donut.\"\n    },\n    {\n      \"name\": \"Topping\",\n      \"description\": \"Any sweet or savory substance placed on top of a donut.\"\n    },\n    {\n      \"name\": \"Donut Hole\",\n      \"description\": \"A holey donut, typically topped with a sweet substance.\"\n    }\n  ]\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n{\n\"description\": \"The user wants to know how to water the potted plant\",\n\"intent\": \"WATER_PLANT\"\n},\n{\n\"description\": \"The user wants to know if the potted plant needs direct sunlight\",\n\"intent\": \"PLANT_CARE\"\n},\n{\n\"description\": \"The user wants to know how to fertilize the potted plant\",\n\"intent\": \"FERTILIZE_PLANT\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Keeping the plant alive during a trip\",\n\"steps\": [\n{\n\"action\": \"Water the plant\",\n\"reason\": \"To prevent the plant from drying out\"\n},\n{\n\"action\": \"Cover the plant to protect it from sunlight\",\n\"reason\": \"To prevent the plant from overheating\"\n},\n{\n\"action\": \"Transport the plant in a suitable container\",\n\"reason\": \"To keep the plant safe during travel\"\n}\n]\n},\n{\n\"scenario\": \"Choosing the right potting soil\",\n\"steps\": [\n{\n\"action\": \"Select a soil with good drainage\",\n\"reason\": \"To prevent waterlogged soil\"\n},\n{\n\"action\": \"Check the soil pH\",\n\"reason\": \"To ensure the soil is suitable for the plant's needs\"\n},\n{\n\"action\": \"Add organic matter to improve soil structure\",\n\"reason\": \"To create a more favorable environment for root growth\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"The user wants to know how to properly care for their potted plant, including watering, pruning, and fertilizing\",\n\"The user wants to know how to choose a suitable pot for their potted plant based on factors such as size, shape, and material\",\n\"The user wants to know how to troubleshoot common problems with their potted plant, such as over-watering, under-watering, or a lack of light\",\n\"The user wants to know how to propagate their potted plant through division or other methods\",\n\"The user wants to know how to create a beautiful and harmonious display of potted plants in their home or office\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"watering\",\n        \"description\": \"The user wants to know how to water the potted plant\",\n        \"intents\": [\n            {\n                \"intent\": \"water_plant\",\n                \"slots\": [\n                    {\n                    \"name\": \"plant_type\",\n                    \"value\": \"potted_plant\"\n                    }\n                ]\n            }\n        ]\n    },\n    {\n        \"scenario\": \"inspecting\",\n        \"description\": \"The user wants to inspect the potted plant\",\n        \"intents\": [\n            {\n                \"intent\": \"inspect_plant\",\n                \"slots\": [\n                    {\n                    \"name\": \"plant_type\",\n                    \"value\": \"potted_plant\"\n                    }\n                ]\n            }\n        ]\n    },\n    {\n        \"scenario\": \"maintaining\",\n        \"description\": \"The user wants to maintain the potted plant\",\n        \"intents\": [\n            {\n                \"intent\": \"maintain_plant\",\n                \"slots\": [\n                    {\n                    \"name\": \"plant_type\",\n                    \"value\": \"potted_plant\"\n                    }\n                ]\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Someone gives the potted plant as a gift\",\n        \"description\": \"The recipient is delighted and excited to receive the potted plant as a gift, and may choose to display it prominently in their home or office.\"\n    },\n    {\n        \"scenario\": \"A person buys a potted plant as a self-care activity\",\n        \"description\": \"The person buys a potted plant as a way to practice self-care and relaxation, and may choose to care for it as a meditative activity.\"\n    },\n    {\n        \"scenario\": \"A person uses a potted plant as a decoration\",\n        \"description\": \"The person uses a potted plant as a decoration in their home or office, and may choose to rotate through different plants to keep things interesting.\"\n    },\n    {\n        \"scenario\": \"A person needs to move a potted plant\",\n        \"description\": \"The person needs to move a potted plant to a new location, and may need to take special care to ensure the plant is transported safely.\"\n    },\n    {\n        \"scenario\": \"A person wants to propagate a potted plant\",\n        \"description\": \"The person wants to propagate a potted plant to create more of the same plant, and may choose to use various methods such as division, cuttings, or seeding.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"The user wants to know the best way to water the potted plant\",\n\"The user wants to know the best way to fertilize the potted plant\",\n\"The user wants to know the best way to prune the potted plant\",\n\"The user wants to know the best way to repot the potted plant\",\n\"The user wants to know the best way to propagate the potted plant\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"The user wants to know the best way to care for their potted plant, given its current condition and location\",\n\"The user wants to know how to troubleshoot common issues with their potted plant, such as overwatering or underwatering\",\n\"The user wants to know how to properly fertilize their potted plant to promote healthy growth\",\n\"The user wants to know how to prune their potted plant to maintain its shape and size\",\n\"The user wants to know how to repot their potted plant to provide better soil and nutrients\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"The user wants to know how to take care of the potted plant\",\n        \"subScenarios\": [\n            {\n                \"scenario\": \"The user wants to know how to water the potted plant\",\n                \"subSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how much water to give the potted plant\",\n                    \"subSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how to check if the soil is dry\",\n                    \"subSubSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how to check if the soil is dry by feeling it\",\n                    \"subSubSubSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how to check if the soil is dry by looking at it\",\n                    \"subSubSubSubSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how to check if the soil is dry by using a soil moisture meter\",\n                    \"subSubSubSubSubSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how to use a soil moisture meter to check if the soil is dry\",\n                    \"subSubSubSubSubSubSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The user wants to know how to read the soil moisture meter\",\n                    \"subSubSubSubSubSubSubSubSubScenarios\": [\n                    {\n                    \"scenario\": \"The"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\":[\n{\"scenario\":\"A gardener is tending to a potted plant and realizes it needs watering\"},\n{\"scenario\":\"A plant is placed in a flowerpot as a gift for a friend's birthday\"},\n{\"scenario\":\"A person is away on vacation and wants to ensure their potted plant is well taken care of\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Watering the potted plant daily\"\n},\n{\n\"scenario\": \"Checking the potted plant's soil moisture\"\n},\n{\n\"scenario\": \"Adding fertilizer to the potted plant\"\n},\n{\n\"scenario\": \"Moving the potted plant to a brighter location\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"description\": \"The plant is in a pot that is too small for its size, causing it to become root-bound.\",\n      \"action\": \"transfer plant to a larger pot\"\n    },\n    {\n      \"description\": \"The plant is not getting enough water, causing it to wilt and become dry.\",\n      \"action\": \"check soil moisture and water plant accordingly\"\n    },\n    {\n      \"description\": \"The plant is exposed to direct sunlight and is overheating, causing its leaves to become scorched and brown.\",\n      \"action\": \"move plant to a shaded area\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"User wants to know how to care for their potted plant\",\n      \"intents\": [\n        {\n          \"intent\": \"Get information on how to care for a potted plant\",\n          \"entities\": [\n            {\n              \"entity\": \"potted plant\",\n              \"role\": \"topic\"\n            }\n          ]\n        },\n        {\n          \"intent\": \"User wants to know how to water a potted plant\",\n          \"entities\": [\n            {\n              \"entity\": \"potted plant\",\n              \"role\": \"topic\"\n            },\n            {\n              \"entity\": \"water\",\n              \"role\": \"action\"\n            }\n          ]\n        },\n        {\n          \"intent\": \"User wants to know how to provide adequate light for a potted plant\",\n          \"entities\": [\n            {\n              \"entity\": \"potted plant\",\n              \"role\": \"topic\"\n            },\n            {\n              \"entity\": \"light\",\n              \"role\": \"action\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"The plant is not getting enough water\",\n\"steps\": [\n{\n\"action\": \"check soil moisture\",\n\"reason\": \"The plant needs water\"\n},\n{\n\"action\": \"water the plant\",\n\"reason\": \"The plant needs water\"\n}\n]\n},\n{\n\"scenario\": \"The plant is getting too much sunlight\",\n\"steps\": [\n{\n\"action\": \"move plant to a less sunny location\",\n\"reason\": \"The plant is overheating\"\n},\n{\n\"action\": \"reduce sunlight exposure\",\n\"reason\": \"The plant is overheating\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Someone buys a potted plant as a gift\",\n        \"description\": \"The receiver is delighted and excited to care for the plant\"\n    },\n    {\n        \"name\": \"Someone wants to brighten up a room with a potted plant\",\n        \"description\": \"The person places the plant in a sunny spot and waters it regularly\"\n    },\n    {\n        \"name\": \"A student needs a potted plant for a school project\",\n        \"description\": \"The student researches the plant's needs and cares for it properly\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Watering the plant\",\n      \"description\": \"The user wants to know how often to water the plant\",\n      \"action\": [\n        {\n          \"type\": \"query\",\n          \"text\": \"How often should I water my potted plant?\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Checking the soil\",\n      \"description\": \"The user wants to check the soil moisture level of the plant\",\n      \"action\": [\n        {\n          \"type\": \"query\",\n          \"text\": \"What is the soil moisture level of my potted plant?\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Troubleshooting\",\n      \"description\": \"The user wants to troubleshoot issues with the plant\",\n      \"action\": [\n        {\n          \"type\": \"query\",\n          \"text\": \"Why is my potted plant not growing?\"\n        },\n        {\n          \"type\": \"query\",\n          \"text\": \"Why is my potted plant droopy?\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"The user wants to know the best way to care for their potted plant during the winter months\",\n\"knowledge\": [\n{\n\"key\": \"watering\",\n\"value\": \"Water the plant sparingly during the winter months, as it will be dormant and require less water.\"\n},\n{\n\"key\": \"lighting\",\n\"value\": \"Move the plant to a bright, sunny location during the winter months, as it will be less active and require less light.\"\n}\n]\n}\n,\n{\n\"scenario\": \"The user wants to know how to propagate their potted plant\",\n\"knowledge\": [\n{\n\"key\": \"propagation\",\n\"value\": \"There are several ways to propagate a potted plant, including dividing the roots, taking cuttings, and using seed pods.\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"checking on plant's health\",\n        \"description\": \"The user wants to know if the plant is healthy and if it needs watering or any other care.\",\n        \"intent\": \"check_health\"\n    },\n    {\n        \"name\": \"watering\",\n        \"description\": \"The user wants to water the plant.\",\n        \"intent\": \"water\"\n    },\n    {\n        \"name\": \"re-potting\",\n        \"description\": \"The user wants to re-pot the plant.\",\n        \"intent\": \"re-pot\"\n    },\n    {\n        \"name\": \"checking for signs of over-watering\",\n        \"description\": \"The user wants to know if the plant is showing signs of over-watering and what can be done to address the issue.\",\n        \"intent\": \"check_over_water\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Watering the potted plant\",\n        \"subScenarios\": [\n            {\n                \"subScenario\": \"Watering every day\",\n                \"step\": \"Pour water into the pot\"\n            },\n            {\n                \"subScenario\": \"Watering every other day\",\n                \"step\": \"Pour water into the pot every other day\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Fertilizing the potted plant\",\n        \"subScenarios\": [\n            {\n                \"subScenario\": \"Fertilizing every week\",\n                \"step\": \"Add fertilizer to the soil\"\n            },\n            {\n                \"subScenario\": \"Fertilizing every other week\",\n                \"step\": \"Add fertilizer to the soil every other week\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Repotting the potted plant\",\n        \"subScenarios\": [\n            {\n                \"subScenario\": \"Repotting when the plant is too big\",\n                \"step\": \"Transfer the plant to a larger pot\"\n            },\n            {\n                \"subScenario\": \"Repotting when the plant is too small\",\n                \"step\": \"Transfer the plant to a smaller pot\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Keeping the plant alive\",\n        \"tasks\": [\n            {\n                \"task\": \"watering\",\n                \"frequency\": \"daily\"\n            },\n            {\n                \"task\": \"pruning\",\n                \"frequency\": \"weekly\"\n            },\n            {\n                \"task\": \"re-potting\",\n                \"frequency\": \"monthly\"\n            }\n        ]\n    },\n    {\n        \"name\": \"Decorating with the plant\",\n        \"tasks\": [\n            {\n                \"task\": \"placing in a decorative planter\",\n                \"frequency\": \"daily\"\n            },\n            {\n                \"task\": \"moving to different locations\",\n                \"frequency\": \"as needed\"\n            },\n            {\n                \"task\": \"arranging with other decorative items\",\n                \"frequency\": \"as needed\"\n            }\n        ]\n    },\n    {\n        \"name\": \"Protecting the plant from pests\",\n        \"tasks\": [\n            {\n                \"task\": \"checking for pests\",\n                \"frequency\": \"daily\"\n            },\n            {\n                \"task\": \"removing pests\",\n                \"frequency\": \"as needed\"\n            },\n            {\n                \"task\": \"applying pesticide\",\n                \"frequency\": \"as needed\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"The user wants to know how to take care of the potted plant, including watering, sunlight, and temperature\",\n\"The user wants to know how to propagate the potted plant by division or cuttings\",\n\"The user wants to know how to diagnose and treat potted plant diseases\",\n\"The user wants to know how to choose the right potting mix for the potted plant\",\n\"The user wants to know how to repot the potted plant in a larger or smaller pot\"\n]\n}\n"
+  }
+]

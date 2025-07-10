@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n{\n\"name\": \"eat\",\n\"description\": \"Eating at the dining table\"\n},\n{\n\"name\": \"serve\",\n\"description\": \"Serving food at the dining table\"\n},\n{\n\"name\": \"clean\",\n\"description\": \"Cleaning the dining table\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"lean back\",\n\"sit down\",\n\"stand up\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"place setting\",\n\"utensils\",\n\"food\",\n\" napkin\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"place\",\n    \"set\",\n    \"arrange\",\n    \"organize\",\n    \"position\",\n    \"situate\",\n    \"locate\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sit\",\n\"stand\",\n\"eat\",\n\"drink\",\n\"talk\",\n\"listen\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"set\",\n    \"clear\",\n    \"add\",\n    \"remove\",\n    \"sort\",\n    \"filter\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"Please pass the salt\",\n        \"type\": \"verbal\"\n    },\n    {\n        \"name\": \"Can you please pass the pepper?\",\n        \"type\": \"verbal\"\n    },\n    {\n        \"name\": \"I'd like to try the chicken\",\n        \"type\": \"verbal\"\n    },\n    {\n        \"name\": \"May I have the butter?\",\n        \"type\": \"verbal\"\n    },\n    {\n        \"name\": \"This soup is too hot\",\n        \"type\": \"nonverbal\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"place\",\n    \"set\",\n    \"set up\",\n    \"arrange\",\n    \"organize\",\n    \"lay out\",\n    \"array\",\n    \"line up\",\n    \"organize\",\n    \"align\",\n    \"position\",\n    \"place\",\n    \"set\",\n    \"set up\",\n    \"arrange\",\n    \"organize\",\n    \"lay out\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"The act of consuming food or drink at a dining table\"\n    },\n    {\n        \"name\": \"drink\",\n        \"description\": \"The act of consuming liquids at a dining table\"\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"The act of placing food or drink on a dining table for others to consume\"\n    },\n    {\n        \"name\": \"cleanse\",\n        \"description\": \"The act of clearing a dining table of food or drink residue\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n  \"sit\",\n  \"stand\",\n  \"lean\",\n  \"lie\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"sit\", \"stand\", \"lean\", \"walk\", \"sit-stand\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"breakfast\",\n      \"description\": \"Eat breakfast on the dining table\",\n      \"confidence\": 0.8\n    },\n    {\n      \"name\": \"lunch\",\n      \"description\": \"Eat lunch on the dining table\",\n      \"confidence\": 0.7\n    },\n    {\n      \"name\": \"dinner\",\n      \"description\": \"Eat dinner on the dining table\",\n      \"confidence\": 0.9\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Eating on the dining table\"\n    },\n    {\n        \"name\": \"clean\",\n        \"description\": \"Cleaning the dining table\"\n    },\n    {\n        \"name\": \"organize\",\n        \"description\": \"Organizing the dining table\"\n    },\n    {\n        \"name\": \"leave\",\n        \"description\": \"Leaving the dining table\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Act of consuming food or drink.\"\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"Act of providing food or drink.\"\n    },\n    {\n        \"name\": \"clean\",\n        \"description\": \"Act of maintaining cleanliness.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"place setting\",\n\"utensils\",\n\"napkin\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"Sit\",\n        \"description\": \"Sitting at the dining table\"\n    },\n    {\n        \"name\": \"Eat\",\n        \"description\": \"Eating at the dining table\"\n    },\n    {\n        \"name\": \"Drink\",\n        \"description\": \"Drinking at the dining table\"\n    },\n    {\n        \"name\": \"Talk\",\n        \"description\": \"Having a conversation at the dining table\"\n    },\n    {\n        \"name\": \"Listen\",\n        \"description\": \"Listening to others at the dining table\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"place setting\",\n\"napkin\",\n\"utensils\",\n\"plate\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"place setting\",\n        \"description\": \"The act of placing each member of the dining party at their designated seat\",\n        \"example\": [\n            \"Please place the spoon next to the fork.\"\n        ]\n    },\n    {\n        \"name\": \"menu selection\",\n        \"description\": \"The act of choosing a dish from the menu\",\n        \"example\": [\n            \"I will have the filet mignon.\"\n        ]\n    },\n    {\n        \"name\": \"ordering\",\n        \"description\": \"The act of placing an order for food or drink\",\n        \"example\": [\n            \"Can I get the lobster thermidor?\"\n        ]\n    },\n    {\n        \"name\": \"payment\",\n        \"description\": \"The act of paying for food or drink\",\n        \"example\": [\n            \"I will pay with my credit card.\"\n        ]\n    },\n    {\n        \"name\": \"excusing oneself\",\n        \"description\": \"The act of getting up from the table\",\n        \"example\": [\n            \"Excuse me, I need to use the restroom.\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"place setting\",\n\"table manners\",\n\"meal\",\n\"conversation\",\n\"entertainment\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"use\"\n,\"serve\"\n,\"place\"\n,\"set\"\n,\"arrange\"\n,\"set_up\"\n,\"organize\"\n,\"clear\"\n,\" tidy\"\n]\n}\n"
+  }
+]

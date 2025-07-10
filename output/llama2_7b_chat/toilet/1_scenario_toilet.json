@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Using the toilet after a night of drinking\"\n    },\n    {\n        \"scenario\": \"Dealing with a clogged toilet\"\n    },\n    {\n        \"scenario\": \"Flushing something down the toilet that shouldn't be flushed\"\n    },\n    {\n        \"scenario\": \"Forgetting to close the toilet lid\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n\"Using the toilet after a night of heavy drinking\",\n\"Flushing a tampon down the toilet\",\n\"Accidentally flushing a ring down the toilet\",\n\"Finding a toy in the toilet\",\n\"A toddler learning to use the toilet\",\n\"A pet accidentally getting into the toilet\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Using the toilet after a night out\"\n    },\n    {\n      \"scenario\": \"Teaching a young child how to use the toilet\"\n    },\n    {\n      \"scenario\": \"Dealing with a clogged toilet\"\n    },\n    {\n      \"scenario\": \"Using a public toilet while traveling\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\": [\n    {\"scenario\": \"Using the toilet after a night of heavy drinking\"},\n    {\"scenario\": \"Cleaning a clogged toilet after a long day at work\"},\n    {\"scenario\": \"Flushing a toy down the toilet\"},\n    {\"scenario\": \"Finding a toilet in an unfamiliar public place\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Need to use the toilet\",\n      \"description\": \"User needs to use the toilet for defecation or urination.\"\n    },\n    {\n      \"scenario\": \"Toilet paper needed\",\n      \"description\": \"User needs toilet paper to clean themselves after using the toilet.\"\n    },\n    {\n      \"scenario\": \"Toilet clogged\",\n      \"description\": \"Toilet is clogged and cannot flush.\"\n    },\n    {\n      \"scenario\": \"Toilet overflow\",\n      \"description\": \"Toilet is overflowing and water is leaking onto the floor.\"\n    },\n    {\n      \"scenario\": \"Toilet not functioning\",\n      \"description\": \"Toilet is not functioning properly and cannot be used.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Toilet is clogged and can't flush\",\n      \"steps\": [\n        {\n          \"step\": \"User tries to flush toilet\",\n          \"response\": \"Toilet won't flush, please call plumber\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"Toilet is overflowing\",\n      \"steps\": [\n        {\n          \"step\": \"User sees toilet overflowing\",\n          \"response\": \"Please clean up the mess and call a plumber\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"Toilet is leaking\",\n      \"steps\": [\n        {\n          \"step\": \"User notices toilet leaking\",\n          \"response\": \"Please fix the leak or call a plumber\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"Toilet malfunction\"\n  },\n  {\n    \"scenario\": \"Toilet paper shortage\"\n  },\n  {\n    \"scenario\": \"Toilet backup\"\n  },\n  {\n    \"scenario\": \"Toilet clogged\"\n  },\n  {\n    \"scenario\": \"Toilet flooded\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Toilet clogs and floods the bathroom\",\n\"steps\": [\n{\n\"step\": \"Flush toilet and listen for clogging sound\",\n\"action\": \"Clogged toilet\"\n},\n{\n\"step\": \"Check if toilet is clogged by flushing it again\",\n\"action\": \"Check if clogged\"\n},\n{\n\"step\": \"If toilet is clogged, use plunger to clear clog\",\n\"action\": \"Plunger\"\n},\n{\n\"step\": \"If plunger does not work, call plumber\",\n\"action\": \"Call plumber\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Toilet overflows due to clog\",\n\"description\": \"The toilet is clogged and water starts overflowing onto the floor.\"\n},\n{\n\"scenario\": \"Toilet paper runs out\",\n\"description\": \"There is no toilet paper left in the toilet.\"\n},\n{\n\"scenario\": \"Toilet won't flush\",\n\"description\": \"The toilet won't flush when the handle is pushed or the pedal is stepped on.\"\n},\n{\n\"scenario\": \"Toilet leaks\",\n\"description\": \"Water is leaking from the toilet and onto the floor.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\":[\n{\"scenario\":\"Trying to use the toilet after consuming too much alcohol\"},\n{\"scenario\":\"Needing to use the toilet during a power outage\"},\n{\"scenario\":\"Having to clean up after a messy toilet accident\"},\n{\"scenario\":\"Using a public toilet during a trip\"},\n{\"scenario\":\"Dealing with a clogged toilet\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Using the toilet after consuming a large amount of water\",\n        \"description\": \"The person may feel the need to urinate frequently after drinking a lot of water, and may need to use the toilet more often than usual.\"\n    },\n    {\n        \"scenario\": \"Using the toilet after eating a large or spicy meal\",\n        \"description\": \"The person may feel the need to have a bowel movement after eating a meal that is difficult to digest, and may need to use the toilet more often than usual.\"\n    },\n    {\n        \"scenario\": \"Using the toilet during a medical condition such as diarrhea or constipation\",\n        \"description\": \"The person may need to use the toilet more frequently or urgently due to changes in their bowel movements caused by a medical condition.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Toilet overflows during a party\"\n    },\n    {\n        \"scenario\": \"Toilet clogs and cannot be flushed\"\n    },\n    {\n        \"scenario\": \"Toilet is broken and cannot be used\"\n    },\n    {\n        \"scenario\": \"Toilet is leaking and water is on the floor\"\n    },\n    {\n        \"scenario\": \"Toilet is not cleaned for an extended period of time\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Toilet needs to be cleaned\",\n        \"description\": \"The toilet has a visible layer of grime or debris that needs to be removed for proper functioning.\"\n    },\n    {\n        \"scenario\": \"Toilet paper runs out\",\n        \"description\": \"There is no toilet paper available for use.\"\n    },\n    {\n        \"scenario\": \"Toilet overflows\",\n        \"description\": \"The toilet bowl has excess water that needs to be addressed to prevent damage to the surrounding area.\"\n    },\n    {\n        \"scenario\": \"Toilet needs plunger\",\n        \"description\": \"The toilet is clogged and a plunger is needed to clear the blockage.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"Toilet overflows\",\n    \"description\": \"The toilet is clogged and water starts overflowing onto the floor.\"\n  },\n  {\n    \"scenario\": \"Toilet paper runs out\",\n    \"description\": \"There are no toilet paper rolls left in the bathroom.\"\n  },\n  {\n    \"scenario\": \"Toilet not flushing properly\",\n    \"description\": \"The toilet is not flushing properly and waste is accumulating.\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Toilet overflows\",\n        \"description\": \"The toilet fills up with water and starts overflowing, causing a mess and potential damage to the surrounding area.\"\n    },\n    {\n        \"scenario\": \"Toilet clogs\",\n        \"description\": \"The toilet becomes clogged and is unable to flush properly, causing difficulty and inconvenience for users.\"\n    },\n    {\n        \"scenario\": \"Toilet breaks\",\n        \"description\": \"The toilet breaks or malfunctions, leaving users without a functioning toilet.\"\n    },\n    {\n        \"scenario\": \"Toilet needs maintenance\",\n        \"description\": \"The toilet requires regular maintenance or cleaning to function properly.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Using the toilet during a power outage\"\n},\n{\n\"scenario\": \"Flushing a toy down the toilet\"\n},\n{\n\"scenario\": \"Dealing with a clogged toilet\"\n},\n{\n\"scenario\": \"Using a toilet in a public restroom\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Toilet needs to be fixed\",\n      \"description\": \"The toilet is leaking or clogged and needs to be repaired.\"\n    },\n    {\n      \"scenario\": \"Toilet needs to be cleaned\",\n      \"description\": \"The toilet needs to be cleaned, but the person using it is unable to do so.\"\n    },\n    {\n      \"scenario\": \"Toilet is out of paper\",\n      \"description\": \"The toilet has no toilet paper and the person using it needs to obtain some.\"\n    },\n    {\n      \"scenario\": \"Toilet is occupied\",\n      \"description\": \"The toilet is currently in use and cannot be used by anyone else.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Using the toilet after a night of drinking\",\n      \"description\": \"The user has consumed a significant amount of alcohol and needs to relieve themselves. They may be unsteady on their feet and have difficulty navigating to the toilet.\"\n    },\n    {\n      \"scenario\": \"Using the toilet during a pandemic\",\n      \"description\": \"The user is in a public restroom and is concerned about the spread of illness. They may be wearing personal protective equipment such as gloves and a mask.\"\n    },\n    {\n      \"scenario\": \"Using the toilet in a public restroom\",\n      \"description\": \"The user is in a public restroom and is concerned about privacy and hygiene. They may be trying to avoid eye contact with other people in the restroom.\"\n    },\n    {\n      \"scenario\": \"Using the toilet at work\",\n      \"description\": \"The user is at work and needs to use the toilet. They may be trying to avoid being seen by their coworkers or boss.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\":[\n{\"scenario\":\"Using the toilet after a meal\",\"arbitrary_data\":null},\n{\"scenario\":\"Cleaning the toilet after use\",\"arbitrary_data\":null},\n{\"scenario\":\"Fixing a leaky toilet\",\"arbitrary_data\":null}\n]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Toilet overflowing\",\n        \"description\": \"The toilet is clogged and water is overflowing onto the floor.\"\n    },\n    {\n        \"scenario\": \"Toilet not flushing\",\n        \"description\": \"The toilet will not flush properly.\"\n    },\n    {\n        \"scenario\": \"Toilet leaking\",\n        \"description\": \"The toilet is leaking water onto the floor.\"\n    },\n    {\n        \"scenario\": \"Toilet not available\",\n        \"description\": \"The toilet is not available for use.\"\n    }\n]\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"office\",\n    \"bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": [\n        \"living room\",\n        \"family room\",\n        \"den\",\n        \"home office\",\n        \"bedroom\"\n    ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"den\",\n\"family room\",\n\"sofa\",\n\"couch potato\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"living room\", \"family room\", \"den\", \"basement\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"parlor\",\n    \"lounge\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"parlor\",\n    \"library\",\n    \"study\",\n    \"kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"home office\",\n    \"bedroom\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": [\n        \"living room\",\n        \"family room\",\n        \"den\",\n        \"home office\",\n        \"bedroom\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"parlor\",\n\"front room\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"office\",\n\"bedroom\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"living room\", \"family room\", \"den\", \"home office\", \"bedroom\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"sunroom\",\n    \"backyard\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"office\",\n    \"kitchen\",\n    \"bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"office\",\n\"bedroom\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"home office\",\n    \"bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    {\n      \"name\": \"living room\",\n      \"description\": \"a common room in a home for relaxation, entertainment, and socializing\"\n    },\n    {\n      \"name\": \"family room\",\n      \"description\": \"a room in a home used for relaxation, entertainment, and socializing\"\n    },\n    {\n      \"name\": \"den\",\n      \"description\": \"a small room in a home used for relaxation, entertainment, and socializing\"\n    },\n    {\n      \"name\": \"kitchen\",\n      \"description\": \"the room in a home where meals are prepared and eaten\"\n    },\n    {\n      \"name\": \"dining room\",\n      \"description\": \"a room in a home used for eating meals\"\n    },\n    {\n      \"name\": \"bedroom\",\n      \"description\": \"a room in a home used for sleeping\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"lounge\",\n    \"parlor\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"home office\",\n\"kitchen\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"living room\", \"family room\", \"den\", \"office\", \"bedroom\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": [\"living room\", \"family room\", \"den\", \"office\", \"recreation room\", \"guest room\", \"kitchen\"]}\n"
+  }
+]

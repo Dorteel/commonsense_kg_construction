@@ -1,52 +1,68 @@
-import json
-from pathlib import Path
 from collections import defaultdict
-from dotenv import load_dotenv
+from pathlib import Path
+import json
 import os
+from dotenv import load_dotenv
 from utils.logger import setup_logger
 from kg_constructors.json_extractor import extract_json_from_string
-
-
+import logging
 load_dotenv()
 runs = int(os.getenv("RUNS", 20))
-OUTPUT_FOLDER = Path("output")
+logger = setup_logger(level=logging.INFO)
 
-print(Path(__file__).parent.parent / OUTPUT_FOLDER)
+def nested_defaultdict():
+    return defaultdict(nested_defaultdict)
 
-logger = setup_logger(level="ERROR")
+def create_aggregated_summary():
+    output = nested_defaultdict()
+    OUTPUT_FOLDER = Path("output")
 
-output = defaultdict(defaultdict)
+    for model in OUTPUT_FOLDER.iterdir():
+        if model.is_dir() and model.name != "context":
+            logger.debug(f"Processing model: {model.name}")
+            for concept in model.iterdir():
+                logger.debug(f"\tProcessing concept: {concept.name}")
+                for file in concept.iterdir():
+                    if file.suffix != ".json":
+                        logger.debug(f"Skipping non-JSON file: {file.name}")
+                        continue
 
-for model in OUTPUT_FOLDER.iterdir():
-    if model.is_dir() and model.name != "context":
-        logger.debug(f"Processing model: {model.name}")
-        output[model.name] = defaultdict(defaultdict)
-        for concept in model.iterdir():
-            logger.debug(f"\tProcessing concept: {concept.name}")
-            output[model.name] = defaultdict(defaultdict)
-            for file in concept.iterdir():
-                if file.suffix == ".json":
                     with open(file, 'r', encoding='utf-8') as f:
                         data = json.load(f)
-                        if len(data) != runs:
-                            logger.warning(f"Expected {runs} runs, but found {len(data)} in {file.name}")
-                        # Create summary statistics
-                        logger.debug(f"Processing {data[0]['dimension']} for {data[0]['concept']}")
-                        for run in data:
-                            if isinstance(run, dict):
-                                
-                                value = extract_json_from_string(run.get("response", None))
-                                if not value:
-                                    logger.error(f"Failed to extract JSON from response in {file.name} for {run['concept']}")
-                                    continue
-                                # if run['dimension'] not in value:
-                                #     logger.error(f"Dimension {run['dimension']} not found in response for {run['concept']}")
-                                #     continue
-                                # print(value)
-                            else:
-                                logger.error(f"Invalid data format in {file.name}: {run}")
-                                continue
-                        # print(f"Parsed data from {file.name}: {data}")
-                else:
-                    logger.debug(f"Skipping non-JSON file: {file.name}")
-        logger.debug(f"Finished processing model: {model.name}\n")
+
+                    if len(data) != runs:
+                        logger.warning(f"Expected {runs} runs, but found {len(data)} in {file.name}")
+
+                    logger.debug(f"Processing {data[0]['domain']} for {data[0]['concept']}")
+                    file_results = []
+
+                    for run in data:
+                        if not isinstance(run, dict):
+                            logger.error(f"Invalid data format in {file.name}: {run}")
+                            continue
+
+                        value = extract_json_from_string(run.get("response", None))
+                        if not isinstance(value, dict):
+                            logger.error(f"Failed to extract JSON from response in {file.name} for {run['concept']}")
+                            continue
+
+                        key = run['dimension'] if run['dimension'] else run['domain']
+                        file_results.append(value.get(key, None))
+
+                    output[model.name][concept.name][file.name] = file_results
+
+            logger.debug(f"Finished processing model: {model.name}\n")
+
+    return output
+
+def to_dict(d):
+    if isinstance(d, defaultdict):
+        return {k: to_dict(v) for k, v in d.items()}
+    return d
+
+if __name__ == "__main__":
+    output = create_aggregated_summary()
+    output_path = Path("output") / "aggregated_summary.json"
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(to_dict(output), f, indent=4)
+    logger.info(f"Aggregated summary saved to {output_path}")

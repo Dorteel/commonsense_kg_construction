@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"can hold liquid\", \"has handle\", \"is used for drinking\", \"is small\", \"has opening\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": [\n        \"place in cupboard\",\n        \"place in drawer\",\n        \"place on table\",\n        \"place in fridge\",\n        \"place in freezer\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"drink from\",\n    \"hold\",\n    \"carry\",\n    \"store\",\n    \"serve\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"drink\",\n      \"description\": \"Use the cup to drink a beverage\"\n    },\n    {\n      \"name\": \"hold\",\n      \"description\": \"Hold the cup with both hands\"\n    },\n    {\n      \"name\": \"lift\",\n      \"description\": \"Lift the cup to take a sip\"\n    },\n    {\n      \"name\": \"set_down\",\n      \"description\": \"Set the cup down on a flat surface\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"drink\",\n\"eat\",\n\"use as a vase\",\n\"use as a container for small items\",\n\"use as a makeshift bowl\",\n\"use as a makeshift plate\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"use\", \"hold\", \"drink\", \"store\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"hold\",\n\"drink\",\n\"carry\",\n\"store\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"hold\", \"use\", \"store\", \"throw\", \"give\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": [\n        {\n            \"name\": \"hold\",\n            \"description\": \"Hold the cup in one's hand, usually for drinking from it.\"\n        },\n        {\n            \"name\": \"set down\",\n            \"description\": \"Place the cup on a surface, usually after finishing drinking from it.\"\n        },\n        {\n            \"name\": \"throw away\",\n            \"description\": \"Discard the cup, usually when it is no longer needed or useful.\"\n        },\n        {\n            \"name\": \"recycle\",\n            \"description\": \"Recycle the cup, usually by placing it in a designated recycling bin.\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"hold\", \"use\", \"drink\", \"store\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"drink\",\n        \"definition\": \"to consume the contents of the cup\"\n    },\n    {\n        \"name\": \"hold\",\n        \"definition\": \"to grip the handle of the cup\"\n    },\n    {\n        \"name\": \"move\",\n        \"definition\": \"to transfer the cup to a different location\"\n    },\n    {\n        \"name\": \"empty\",\n        \"definition\": \"to have the cup with no contents\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"hold\", \"carry\", \"place\", \"set down\", \"drink from\", \"serve\", \"store\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"hold\", \"use\", \"store\", \"throw\"]}\n   "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"drink\",\n    \"hold\",\n    \"carry\",\n    \"store\",\n    \"serve\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"drink\",\n      \"description\": \"Use the cup to drink a beverage\"\n    },\n    {\n      \"name\": \"hold\",\n      \"description\": \"Hold the cup\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"Store something in the cup\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"Serve something from the cup\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"hold\",\n        \"description\": \"hold the cup with both hands, keeping it steady\"\n    },\n    {\n        \"name\": \"carry\",\n        \"description\": \"hold the cup with one hand and carry it with the other\"\n    },\n    {\n        \"name\": \"set down\",\n        \"description\": \"place the cup on a flat surface\"\n    },\n    {\n        \"name\": \"drink\",\n        \"description\": \"take a sip of liquid from the cup\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"drink\", \"hold\", \"carry\", \"store\", \"serve\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"hold\", \"use\", \"drop\", \"break\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"drink from\",\n\"hold and carry\",\n\"store in a cabinet\",\n\"serve hot\",\n\"serve cold\",\n\"wash with soap and water\",\n\"use for tea parties\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"drink\",\n      \"definition\": \"to take a liquid from the cup and bring it to the mouth for consumption\"\n    },\n    {\n      \"name\": \"hold\",\n      \"definition\": \"to grasp the cup with one's hand\"\n    },\n    {\n      \"name\": \"move\",\n      \"definition\": \"to transfer the cup from one location to another\"\n    },\n    {\n      \"name\": \"empty\",\n      \"definition\": \"to remove all contents from the cup\"\n    }\n  ]\n}\n"
+  }
+]

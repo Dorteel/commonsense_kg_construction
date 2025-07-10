@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"sitting in a chair at a desk\",\n\"entities\": [\n\"chair\",\n\"desk\"\n]\n},\n{\n\"scenario\": \"sitting in a chair at a meeting\",\n\"entities\": [\n\"chair\",\n\"meeting\"\n]\n},\n{\n\"scenario\": \"sitting in a chair on a plane\",\n\"entities\": [\n\"chair\",\n\"plane\"\n]\n}\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"sitting in a meeting\",\n      \"chair\": {\n        \"type\": \"chair\",\n        \"features\": [\n          \"upholstered seat\",\n          \"back support\",\n          \"armrests\"\n        ]\n      }\n    },\n    {\n      \"scenario\": \"sitting in a lecture\",\n      \"chair\": {\n        \"type\": \"chair\",\n        \"features\": [\n          \"upholstered seat\",\n          \"back support\",\n          \"armrests\"\n        ]\n      }\n    },\n    {\n      \"scenario\": \"sitting in a courtroom\",\n      \"chair\": {\n        \"type\": \"judge's chair\",\n        \"features\": [\n          \"upholstered seat\",\n          \"back support\",\n          \"armrests\",\n          \"adjustable height\"\n        ]\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Sitting in a chair at a desk\",\n\"context\": {\n\"desk\": {\n\"type\": \"piece of furniture\",\n\"features\": [\n\"surface\",\n\"height\",\n\"size\"\n]\n}\n}\n,\n\"scenarios\": [\n{\n\"scenario\": \"Sitting in a chair on a couch\",\n\"context\": {\n\"couch\": {\n\"type\": \"piece of furniture\",\n\"features\": [\n\"size\",\n\"material\",\n\"color\"\n]\n}\n}\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\"scenario\": \"sitting in a chair at a desk\"},\n    {\"scenario\": \"sitting in a chair in a meeting room\"},\n    {\"scenario\": \"sitting in a chair on a train\"},\n    {\"scenario\": \"sitting in a chair at a restaurant\"},\n    {\"scenario\": \"sitting in a chair at a park\"}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"sitting in a chair at a desk\",\n        \"chair\": {\n            \"type\": \"office_chair\",\n            \"props\": {\n                \"desk\": \"computer_desk\"\n            }\n        }\n    },\n    {\n        \"scenario\": \"sitting in a chair at a meeting\",\n        \"chair\": {\n            \"type\": \"conference_chair\",\n            \"props\": {\n                \"table\": \"meeting_table\"\n            }\n        }\n    },\n    {\n        \"scenario\": \"sitting in a chair on a plane\",\n        \"chair\": {\n            \"type\": \"airline_seat\",\n            \"props\": {\n                \"tray_table\": \"airplane_tray_table\"\n            }\n        }\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"A person sitting in a chair at their desk\",\n\"entities\": [\n{\n\"entity\": \"chair\",\n\"type\": \"seat\"\n}\n],\n\"next_action\": \"sit\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Sitting in the living room\",\n        \"description\": \"A person sits on the chair in their living room, watching TV.\"\n    },\n    {\n        \"name\": \"At the office\",\n        \"description\": \"An employee sits on the chair at their desk, working on a project.\"\n    },\n    {\n        \"name\": \"In a meeting\",\n        \"description\": \"A person sits on the chair in a conference room, attending a meeting with colleagues.\"\n    },\n    {\n        \"name\": \"In a restaurant\",\n        \"description\": \"A customer sits on a chair in a restaurant, waiting for their food to be served.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Using the chair in a home office\"\n},\n{\n\"scenario\": \"Using the chair in a living room\"\n},\n{\n\"scenario\": \"Using the chair in a conference room\"\n},\n{\n\"scenario\": \"Using the chair in a classroom\"\n},\n{\n\"scenario\": \"Using the chair in a bedroom\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Sitting in a chair at a desk\"\n},\n{\n\"scenario\": \"Sitting in a chair on a plane\"\n},\n{\n\"scenario\": \"Sitting in a chair at a restaurant\"\n},\n{\n\"scenario\": \"Sitting in a chair in a meeting\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"sitting at a desk\",\n        \"chair\": {\n            \"type\": \"office chair\",\n            \"props\": [\n                {\n                    \"prop\": \"cushion\",\n                    \"value\": \"soft\"\n                },\n                {\n                    \"prop\": \"color\",\n                    \"value\": \"brown\"\n                }\n            ]\n        }\n    },\n    {\n        \"scenario\": \"sitting on a couch\",\n        \"chair\": {\n            \"type\": \"couch\",\n            \"props\": [\n                {\n                    \"prop\": \"cushion\",\n                    \"value\": \"soft\"\n                },\n                {\n                    \"prop\": \"color\",\n                    \"value\": \"beige\"\n                }\n            ]\n        }\n    },\n    {\n        \"scenario\": \"sitting in a movie theater\",\n        \"chair\": {\n            \"type\": \"theater seat\",\n            \"props\": [\n                {\n                    \"prop\": \"cushion\",\n                    \"value\": \"soft\"\n                },\n                {\n                    \"prop\": \"color\",\n                    \"value\": \"red\"\n                }\n            ]\n        }\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"description\": \"chair in office\",\n        \"entities\": [\n            \"office\",\n            \"worker\"\n        ]\n    },\n    {\n        \"description\": \"chair in living room\",\n        \"entities\": [\n            \"living room\",\n            \"family member\"\n        ]\n    },\n    {\n        \"description\": \"chair in conference room\",\n        \"entities\": [\n            \"conference room\",\n            \"colleagues\"\n        ]\n    },\n    {\n        \"description\": \"chair in classroom\",\n        \"entities\": [\n            \"classroom\",\n            \"students\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Sitting in a chair at a desk\",\n        \"entities\": [\n            {\n                \"entity\": \"chair\",\n                \"attributes\": {\n                    \"seat\": \"for one person\",\n                    \"back\": \"support for the back\"\n                }\n            },\n            {\n                \"entity\": \"desk\",\n                \"attributes\": {\n                    \"type\": \"workspace\"\n                }\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Sitting in a chair at a meeting\",\n        \"entities\": [\n            {\n                \"entity\": \"chair\",\n                \"attributes\": {\n                    \"seat\": \"for one person\",\n                    \"back\": \"support for the back\"\n                }\n            },\n            {\n                \"entity\": \"meeting\",\n                \"attributes\": {\n                    \"type\": \"gathering\"\n                }\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Sitting in a chair on a plane\",\n        \"entities\": [\n            {\n                \"entity\": \"chair\",\n                \"attributes\": {\n                    \"seat\": \"for one person\",\n                    \"back\": \"support for the back\"\n                }\n            },\n            {\n                \"entity\": \"airplane\",\n                \"attributes\": {\n                    \"type\": \"vehicle\"\n                }\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Sitting in a chair at a desk while working\",\n\"Sitting in a chair at a dinner table with family\",\n\"Sitting in a chair at a movie theater\",\n\"Sitting in a chair at a park bench\",\n\"Sitting in a chair at a beach\",\n\"Sitting in a chair at a doctor's office\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"sitting in a chair while working at a desk\",\n    \"chair\": {\n      \"type\": \"office_chair\",\n      \"features\": [\n        \"adjustable_seat_height\",\n        \"cushion\",\n        \"armrests\"\n      ]\n    }\n  },\n  {\n    \"scenario\": \"sitting in a chair during a meeting\",\n    \"chair\": {\n      \"type\": \"conference_chair\",\n      \"features\": [\n        \"adjustable_seat_height\",\n        \"cushion\",\n        \"armrests\",\n        \"reclining_function\"\n      ]\n    }\n  },\n  {\n    \"scenario\": \"sitting in a chair while watching a movie\",\n    \"chair\": {\n      \"type\": \"living_room_chair\",\n      \"features\": [\n        \"comfortable_cushion\",\n        \"reclining_function\",\n        \"footrest\"\n      ]\n    }\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"chair meeting\",\n        \"description\": \"chair is used in a meeting room for a group of people to sit and discuss\",\n        \"elements\": [\n            {\n                \"name\": \"chair\",\n                \"description\": \"chair used by the meeting leader\",\n                \"type\": \"chair\"\n            },\n            {\n                \"name\": \"attendees\",\n                \"description\": \"people attending the meeting and sitting in the chairs\",\n                \"type\": \"person\"\n            }\n        ]\n    },\n    {\n        \"name\": \"dinner party\",\n        \"description\": \"chair is used in a dining room for a dinner party\",\n        \"elements\": [\n            {\n                \"name\": \"chair\",\n                \"description\": \"chair used by the host or hostess\",\n                \"type\": \"chair\"\n            },\n            {\n                \"name\": \"guests\",\n                \"description\": \"people attending the dinner party and sitting in the chairs\",\n                \"type\": \"person\"\n            }\n        ]\n    },\n    {\n        \"name\": \"office\",\n        \"description\": \"chair is used in an office for a worker to sit and work\",\n        \"elements\": [\n            {\n                \"name\": \"chair\",\n                \"description\": \"chair used by the worker\",\n                \"type\": \"chair\"\n            },\n            {\n                \"name\": \"computer\",\n                \"description\": \"computer used by the worker\",\n                \"type\": \"computer\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Sitting in a meeting\",\n\"Watching a movie at home\",\n\"Working on a project\",\n\"Eating breakfast\",\n\"Sitting in a park\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"sitting in a chair at a desk\",\n      \"entities\": [\n        {\n          \"entity\": \"chair\",\n          \"label\": \"chair\"\n        },\n        {\n          \"entity\": \"desk\",\n          \"label\": \"desk\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"sitting in a chair at a meeting\",\n      \"entities\": [\n        {\n          \"entity\": \"chair\",\n          \"label\": \"chair\"\n        },\n        {\n          \"entity\": \"table\",\n          \"label\": \"table\"\n        },\n        {\n          \"entity\": \"people\",\n          \"label\": \"people\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"sitting in a chair in a living room\",\n      \"entities\": [\n        {\n          \"entity\": \"chair\",\n          \"label\": \"chair\"\n        },\n        {\n          \"entity\": \"sofa\",\n          \"label\": \"sofa\"\n        },\n        {\n          \"entity\": \" tv\",\n          \"label\": \"tv\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n  {\n    \"name\": \"sitting for long periods of time\",\n    \"description\": \"chair is used for work, study, or other daily activities\"\n  },\n  {\n    \"name\": \"hosting guests\",\n    \"description\": \"chair is used for socializing, entertaining, or hosting guests\"\n  },\n  {\n    \"name\": \"reading or watching TV\",\n    \"description\": \"chair is used for relaxation and leisure activities\"\n  },\n  {\n    \"name\": \"meditation or yoga\",\n    \"description\": \"chair is used for spiritual or physical well-being\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"chair in office\"\n    },\n    {\n      \"scenario\": \"chair in living room\"\n    },\n    {\n      \"scenario\": \"chair in conference room\"\n    },\n    {\n      \"scenario\": \"chair in classroom\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"sitting in a chair at a desk\"\n},\n{\n\"scenario\": \"sitting in a chair on a plane\"\n},\n{\n\"scenario\": \"sitting in a chair at a meeting\"\n},\n{\n\"scenario\": \"sitting in a chair in a classroom\"\n}\n]\n}\n"
+  }
+]

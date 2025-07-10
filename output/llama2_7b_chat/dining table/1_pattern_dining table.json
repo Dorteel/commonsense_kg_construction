@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Breakfast\",\n        \"description\": \"Serve breakfast on the dining table\",\n        \"parameters\": {\n            \"breakfast\": {\n                \"type\": \"string\",\n                \"required\": true,\n                \"description\": \"Type of breakfast to be served\"\n            }\n        }\n    },\n    {\n        \"name\": \"Lunch\",\n        \"description\": \"Serve lunch on the dining table\",\n        \"parameters\": {\n            \"lunch\": {\n                \"type\": \"string\",\n                \"required\": true,\n                \"description\": \"Type of lunch to be served\"\n            }\n        }\n    },\n    {\n        \"name\": \"Dinner\",\n        \"description\": \"Serve dinner on the dining table\",\n        \"parameters\": {\n            \"dinner\": {\n                \"type\": \"string\",\n                \"required\": true,\n                \"description\": \"Type of dinner to be served\"\n            }\n        }\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"patterns\": [\n        {\n            \"name\": \"breakfast\",\n            \"pattern\": \"serves breakfast\"\n        },\n        {\n            \"name\": \"lunch\",\n            \"pattern\": \"serves lunch\"\n        },\n        {\n            \"name\": \"dinner\",\n            \"pattern\": \"serves dinner\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"breakfast\",\n\"lunch\",\n\"dinner\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"pattern\": \"breakfast\",\n\"meaning\": \"the first meal of the day\"\n},\n{\n\"pattern\": \"dinner\",\n\"meaning\": \"the last meal of the day\"\n},\n{\n\"pattern\": \"lunch\",\n\"meaning\": \"the middle meal of the day\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"pattern\": \"dinner\"\n},\n{\n\"pattern\": \"breakfast\"\n},\n{\n\"pattern\": \"lunch\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"DiningTable\",\n\"MealServed\",\n\"TableSetting\",\n\"PlaceSetting\",\n\"FoodPlacement\",\n\"Course\",\n\"BeveragePlacement\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"pattern\": \"dinner\",\n\"concept\": \"dining table\"\n},\n{\n\"pattern\": \"lunch\",\n\"concept\": \"dining table\"\n},\n{\n\"pattern\": \"breakfast\",\n\"concept\": \"dining table\"\n}\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"pattern\": \"meal\",\n      \"description\": \"A meal is served at the dining table\",\n      \"entities\": [\n        {\n          \"entity\": \"meal\",\n          \"type\": \"Meal\"\n        },\n        {\n          \"entity\": \"dining table\",\n          \"type\": \"DiningTable\"\n        }\n      ]\n    },\n    {\n      \"pattern\": \"setting\",\n      \"description\": \"The dining table is set for a meal\",\n      \"entities\": [\n        {\n          \"entity\": \"dining table\",\n          \"type\": \"DiningTable\"\n        },\n        {\n          \"entity\": \"meal\",\n          \"type\": \"Meal\"\n        }\n      ]\n    },\n    {\n      \"pattern\": \"meal served\",\n      \"description\": \"A meal is served at the dining table\",\n      \"entities\": [\n        {\n          \"entity\": \"meal\",\n          \"type\": \"Meal\"\n        },\n        {\n          \"entity\": \"dining table\",\n          \"type\": \"DiningTable\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"serve breakfast\",\n\"serve brunch\",\n\"serve dinner\",\n\"serve lunch\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"patterns\": [\n{\"name\": \"Breakfast\", \"description\": \"Meal served in the morning, typically between 6am and 10am.\"},\n{\"name\": \"Brunch\", \"description\": \"Meal served between breakfast and lunch, typically between 10am and 2pm.\"},\n{\"name\": \"Lunch\", \"description\": \"Meal served between 11am and 3pm.\"},\n{\"name\": \"Dinner\", \"description\": \"Meal served between 5pm and 9pm.\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n  {\n    \"name\": \"breakfast\",\n    \"description\": \"Serve breakfast on the dining table\",\n    \"example\": \"scrambled eggs, toast, orange juice\"\n  },\n  {\n    \"name\": \"dinner\",\n    \"description\": \"Serve dinner on the dining table\",\n    \"example\": \"roasted chicken, mashed potatoes, green beans\"\n  },\n  {\n    \"name\": \"lunch\",\n    \"description\": \"Serve lunch on the dining table\",\n    \"example\": \"sandwiches, salad, fruit\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Dinner\",\n        \"description\": \"A meal served in the evening, typically between 5pm and 8pm\",\n        \"example\": \"The family sat down to dinner at 6pm.\"\n    },\n    {\n        \"name\": \"Lunch\",\n        \"description\": \"A meal served in the middle of the day, typically between 11am and 2pm\",\n        \"example\": \"The coworkers gathered for lunch at noon.\"\n    },\n    {\n        \"name\": \"Breakfast\",\n        \"description\": \"A meal served in the morning, typically between 6am and 10am\",\n        \"example\": \"The children ate breakfast before school.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Meal\",\n        \"description\": \"A meal is a set of food served at a single sitting.\",\n        \"pattern\": \"meal\"\n    },\n    {\n        \"name\": \"Course\",\n        \"description\": \"A course is a sequence of foods served at a meal.\",\n        \"pattern\": \"course\"\n    },\n    {\n        \"name\": \"Menu\",\n        \"description\": \"A menu is a list of foods served at a restaurant or other establishment.\",\n        \"pattern\": \"menu\"\n    },\n    {\n        \"name\": \"Meal Plan\",\n        \"description\": \"A meal plan is a set of meals planned in advance.\",\n        \"pattern\": \"mealplan\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Breakfast\",\n        \"pattern\": \"breakfast\"\n    },\n    {\n        \"name\": \"Lunch\",\n        \"pattern\": \"lunch\"\n    },\n    {\n        \"name\": \"Dinner\",\n        \"pattern\": \"dinner\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"dinner\",\n        \"pattern\": \"Dinner is served at 6pm every day.\"\n    },\n    {\n        \"name\": \"brunch\",\n        \"pattern\": \"Brunch is served from 10am to 2pm on weekends.\"\n    },\n    {\n        \"name\": \"lunch\",\n        \"pattern\": \"Lunch is served from 11am to 2pm every day.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n  {\n    \"name\": \"breakfast\",\n    \"pattern\": \"BREAKFAST\"\n  },\n  {\n    \"name\": \"brunch\",\n    \"pattern\": \"BRUNCH\"\n  },\n  {\n    \"name\": \"dinner\",\n    \"pattern\": \"DINNER\"\n  },\n  {\n    \"name\": \"lunch\",\n    \"pattern\": \"LUNCH\"\n  },\n  {\n    \"name\": \"supper\",\n    \"pattern\": \"SUPPER\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"use-case\",\n\"concept\",\n\"domain\",\n\"task\",\n\"role\",\n\"persona\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"pattern\": \"breakfast\",\n\"description\": \"Serve breakfast on the dining table\"\n},\n{\n\"pattern\": \"lunch\",\n\"description\": \"Serve lunch on the dining table\"\n},\n{\n\"pattern\": \"dinner\",\n\"description\": \"Serve dinner on the dining table\"\n},\n{\n\"pattern\": \"brunch\",\n\"description\": \"Serve brunch on the dining table\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"breakfast\",\n\"description\": \"The most important meal of the day\",\n\"pattern_type\": \"daily\",\n\"frequency\": \"morning\",\n\"duration\": \"30minutes\"\n},\n{\n\"name\": \"lunch\",\n\"description\": \"The meal that re-energizes you\",\n\"pattern_type\": \"daily\",\n\"frequency\": \"noon\",\n\"duration\": \"1hour\"\n},\n{\n\"name\": \"dinner\",\n\"description\": \"The meal that brings the family together\",\n\"pattern_type\": \"daily\",\n\"frequency\": \"evening\",\n\"duration\": \"1hour\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dining table",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\"pattern\": \"dinner\", \"description\": \"A meal eaten in the evening.\"},\n{\"pattern\": \"breakfast\", \"description\": \"A meal eaten in the morning.\"},\n{\"pattern\": \"lunch\", \"description\": \"A meal eaten between breakfast and dinner.\"},\n{\"pattern\": \"brunch\", \"description\": \"A meal eaten in the late morning or early afternoon.\"},\n{\"pattern\": \"supper\", \"description\": \"A meal eaten in the evening.\"}\n]\n}\n"
+  }
+]

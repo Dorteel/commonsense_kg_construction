@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"eat\",\n\"description\": \"Consume the apple for nutrition and pleasure\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"drink\",\n\"sell\",\n\"give\",\n\"use\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Consume the apple for nutrition or enjoyment.\"\n    },\n    {\n      \"name\": \"use\",\n      \"description\": \"Employ the apple for a specific purpose, such as making juice or applesauce.\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"Preserve the apple for later use, such as in a fruit bowl or refrigerator.\"\n    },\n    {\n      \"name\": \"share\",\n      \"description\": \"Give the apple to another person as a gift or offering.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"describe\",\n    \"input\": {\n        \"apple\": {\n            \"red\": true,\n            \"yellow\": false,\n            \"green\": false\n        }\n    },\n    \"output\": {\n        \"description\": \"Apple is a fruit with a red skin and sweet to tart crisp whitish flesh.\"\n    }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"taste\",\n\"smell\",\n\"look\",\n\"touch\",\n\"hold\",\n\"store\",\n\"use\",\n\"share\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Consume the apple for sustenance or pleasure.\"\n    },\n    {\n      \"name\": \"sell\",\n      \"description\": \"Exchange the apple for money or other goods.\"\n    },\n    {\n      \"name\": \"use\",\n      \"description\": \"Employ the apple for a specific purpose, such as making apple sauce or apple juice.\"\n    },\n    {\n      \"name\": \"give\",\n      \"description\": \"Donate the apple to a charity or friend.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Consume the apple for nourishment or pleasure\",\n        \"parameters\": [\n            {\n                \"name\": \"portion\",\n                \"description\": \"The amount of apple to be eaten\"\n            },\n            {\n                \"name\": \"location\",\n                \"description\": \"Where to eat the apple\"\n            }\n        ]\n    },\n    {\n        \"name\": \"peel\",\n        \"description\": \"Remove the skin of the apple\",\n        \"parameters\": [\n            {\n                \"name\": \"method\",\n                \"description\": \"The way to remove the skin\"\n            },\n            {\n                \"name\": \"size\",\n                \"description\": \"The size of the apple to be peeled\"\n            }\n        ]\n    },\n    {\n        \"name\": \"chop\",\n        \"description\": \"Cut the apple into smaller pieces\",\n        \"parameters\": [\n            {\n                \"name\": \"size\",\n                \"description\": \"The size of the pieces to be chopped\"\n            },\n            {\n                \"name\": \"shape\",\n                \"description\": \"The shape of the chopped apple pieces\"\n            }\n        ]\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"Present the apple in a visually appealing manner\",\n        \"parameters\": [\n            {\n                \"name\": \"plate\",\n                \"description\": \"The plate or surface to serve the apple on\"\n            },\n            {\n                \"name\": \"garnish\",\n                \"description\": \"Any additional items to be served with the apple\"\n            }\n        ]\n    }\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"describe\",\n  \"args\": [\n    {\n      \"name\": \"fruit\",\n      \"type\": \"apple\"\n    }\n  ],\n  \"response\": {\n    \"fruit\": {\n      \"name\": \"apple\",\n      \"description\": \"The apple is a fruit with a red or yellow or green skin and sweet to tart crisp whitish flesh.\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"peel\",\n\" cores\",\n\"cook\",\n\"make juice\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"look\",\n\"taste\",\n\"smell\",\n\"touch\",\n\"throw\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"serve\",\n\"store\",\n\"cook\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Consume the apple for nourishment or pleasure\",\n      \"parameters\": [\n        {\n          \"name\": \"portion\",\n          \"description\": \"The amount of apple to eat\"\n        }\n      ]\n    },\n    {\n      \"name\": \"identify\",\n      \"description\": \"Determine the variety of apple\",\n      \"parameters\": [\n        {\n          \"name\": \"apple\",\n          \"description\": \"The apple to be identified\"\n        }\n      ]\n    },\n    {\n      \"name\": \"compare\",\n      \"description\": \"Compare the taste of apple with other fruit\",\n      \"parameters\": [\n        {\n          \"name\": \"other_fruit\",\n          \"description\": \"The fruit to be compared with the apple\"\n        }\n      ]\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"Store the apple for later use or consumption\",\n      \"parameters\": [\n        {\n          \"name\": \"container\",\n          \"description\": \"The container to store the apple in\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Consume the apple for sustenance or enjoyment\",\n        \"parameters\": [\n            {\n                \"name\": \"portion\",\n                \"description\": \"The amount of apple to be eaten\",\n                \"type\": \"integer\"\n            }\n        ]\n    },\n    {\n        \"name\": \"store\",\n        \"description\": \"Save the apple for later use or consumption\",\n        \"parameters\": [\n            {\n                \"name\": \"container\",\n                \"description\": \"The container to store the apple in\",\n                \"type\": \"string\"\n            },\n            {\n                \"name\": \"location\",\n                \"description\": \"The location in the container where the apple will be stored\",\n                \"type\": \"string\"\n            }\n        ]\n    },\n    {\n        \"name\": \"share\",\n        \"description\": \"Give some of the apple to another person\",\n        \"parameters\": [\n            {\n                \"name\": \"recipient\",\n                \"description\": \"The person to receive some of the apple\",\n                \"type\": \"string\"\n            },\n            {\n                \"name\": \"portion\",\n                \"description\": \"The amount of apple to be given to the recipient\",\n                \"type\": \"integer\"\n            }\n        ]\n    },\n    {\n        \"name\": \"compost\",\n        \"description\": \"Dispose of the apple in an environmentally friendly manner\",\n        \"parameters\": [\n            {\n                \"name\": \"location\",\n                \"description\": \"The location where the apple will be composted\",\n                \"type\": \"string\"\n            }\n        ]\n   "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n{\n\"name\": \"eat\",\n\"description\": \"Consume the apple for sustenance or pleasure\",\n\"arguments\": [\n{\n\"name\": \"portion\",\n\"description\": \"The amount of apple to eat\",\n\"type\": \"integer\"\n},\n{\n\"name\": \"context\",\n\"description\": \"The location or situation in which the apple is eaten\",\n\"type\": \"string\"\n}\n],\n\"type\": \"function\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"apple_eating\",\n\"apple_juicing\",\n\"apple_making_pie\",\n\"apple_making_cider\",\n\"apple_making_jam\",\n\"apple_making_sauce\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"consuming the apple for nutrition or pleasure\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"storing the apple for later use or consumption\"\n    },\n    {\n      \"name\": \"share\",\n      \"description\": \"sharing the apple with others\"\n    },\n    {\n      \"name\": \"use\",\n      \"description\": \"using the apple for a specific purpose or task\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Consume the apple for nutrition or pleasure\"\n    },\n    {\n        \"name\": \"use\",\n        \"description\": \"Use the apple for a specific purpose, such as making juice or cider\"\n    },\n    {\n        \"name\": \"sell\",\n        \"description\": \"Sell the apple for profit\"\n    },\n    {\n        \"name\": \"give\",\n        \"description\": \"Give the apple as a gift\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"cook\",\n\"serve\",\n\"store\",\n\"grow\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Consume the apple for sustenance or enjoyment.\"\n    },\n    {\n      \"name\": \"use\",\n      \"description\": \"Employ the apple for a specific purpose, such as making cider or apple sauce.\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"Preserve the apple for later use, such as by canning or freezing.\"\n    },\n    {\n      \"name\": \"sell\",\n      \"description\": \"Offer the apple for sale to others.\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"serve\",\n\"cook\",\n\"store\",\n\"idle\"\n]\n}\n"
+  }
+]

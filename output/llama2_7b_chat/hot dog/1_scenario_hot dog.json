@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Hot dog at the ball game\",\n        \"description\": \"A hot dog is a popular snack at baseball games.\"\n    },\n    {\n        \"name\": \"Hot dog at the beach\",\n        \"description\": \"A hot dog is a refreshing snack at the beach.\"\n    },\n    {\n        \"name\": \"Hot dog at a picnic\",\n        \"description\": \"A hot dog is a popular picnic food.\"\n    },\n    {\n        \"name\": \"Hot dog at a barbecue\",\n        \"description\": \"A hot dog is a popular barbecue food.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"eating a hot dog at a baseball game\"\n},\n{\n\"scenario\": \"ordering a hot dog at a fast food restaurant\"\n},\n{\n\"scenario\": \"making a hot dog at home\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"at a baseball game\",\n        \"hot dogs are a popular snack\"\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t: [\n            {\n                \"action\": \"buy\",\n                \"with mustard and relish\"\n           \t\t\t\t\t\t\t\t\t: {\n                    \"type\": \"ingredient\",\n                    \"value\": \"mustard\"\n                }\n            },\n            {\n                \"action\": \"eat\",\n                \"while watching the game\"\n           \t\t\t\t\t\t\t\t\t: {\n                    \"type\": \"activity\",\n                    \"value\": \"watching baseball game\"\n                }\n            }\n        ]\n    },\n    {\n        \"scenario\": \"at a picnic\",\n        \"hot dogs are a classic picnic food\"\n   \t\t\t\t\t\t\t\t\t\t: [\n            {\n                \"action\": \"bring\",\n                \"in a cooler\"\n           \t\t\t\t\t\t\t\t: {\n                    \"type\": \"item\",\n                    \"value\": \"cooler\"\n                }\n            },\n            {\n                \"action\": \"serve\",\n                \"with ketchup and mustard\"\n           \t\t\t\t\t\t\t\t: {\n                    \"type\": \"ingredient\",\n                    \"value\": \"ketchup\"\n                }\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"At the ball park\",\n    \"description\": \"A man is eating a hot dog at a baseball game while wearing a team jersey.\"\n  },\n  {\n    \"scenario\": \"At a picnic\",\n    \"description\": \"A family is eating hot dogs and drinking soda at a park.\"\n  },\n  {\n    \"scenario\": \"At a barbecue\",\n    \"description\": \"A group of friends are grilling hot dogs and hamburgers at a backyard barbecue.\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n\"You are at a baseball game and want to know where the closest hot dog stand is.\",\n\"You are at a beach party and want to know how to keep your hot dog from getting soggy.\",\n\"You are at a state fair and want to know what kind of toppings you can put on your hot dog.\",\n\"You are at a BBQ and want to know how to grill the perfect hot dog.\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Hot Dog at the Ball Game\",\n      \"description\": \"A hot dog is served at a baseball game, typically with condiments such as ketchup, mustard, and relish.\",\n      \"entities\": [\n        {\n          \"name\": \"hot dog\",\n          \"type\": \"food\"\n        },\n        {\n          \"name\": \"baseball game\",\n          \"type\": \"event\"\n        },\n        {\n          \"name\": \"condiments\",\n          \"type\": \"food\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Hot Dog at the Beach\",\n      \"description\": \"A hot dog is served at the beach, often with a side of chips or a drink.\",\n      \"entities\": [\n        {\n          \"name\": \"hot dog\",\n          \"type\": \"food\"\n        },\n        {\n          \"name\": \"beach\",\n          \"type\": \"location\"\n        },\n        {\n          \"name\": \"chips\",\n          \"type\": \"food\"\n        },\n        {\n          \"name\": \"drink\",\n          \"type\": \"beverage\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Hot Dog at a Picnic\",\n      \"description\": \"A hot dog is served at a picnic, often with a variety of toppings and sides.\",\n      \"entities\": [\n        {\n          \"name\": \"hot dog\",\n          \"type\": \"food\"\n        },\n        {\n          \"name\": \"toppings\",\n          \"type\": \"food\"\n        },\n        {\n          \"name\": \"sides\",\n          \"type\":"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Buying a hot dog at a ballpark\"\n},\n{\n\"scenario\": \"Ordering a hot dog at a fast food restaurant\"\n},\n{\n\"scenario\": \"Making a hot dog at home\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"eating a hot dog at a baseball game\",\n        \"description\": \"A person is eating a hot dog while watching a baseball game at a stadium.\"\n    },\n    {\n        \"scenario\": \"at the beach\",\n        \"description\": \"A person is eating a hot dog while sitting on a beach towel in the sand.\"\n    },\n    {\n        \"scenario\": \"at a picnic\",\n        \"description\": \"A person is eating a hot dog while sitting on a blanket in a park or other outdoor location.\"\n    },\n    {\n        \"scenario\": \"at a barbecue\",\n        \"description\": \"A person is eating a hot dog while at a barbecue or other outdoor gathering.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Eating a hot dog at a baseball game\"\n},\n{\n\"scenario\": \"Ordering a hot dog at a fast food restaurant\"\n},\n{\n\"scenario\": \"Making a hot dog at home for a picnic\"\n},\n{\n\"scenario\": \"Hot dog as a snack while watching TV\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Ordering at a restaurant\"\n},\n{\n\"scenario\": \"Eating at a ball game\"\n},\n{\n\"scenario\": \"Eating in a park\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Hot dog at a ball game\"\n    },\n    {\n        \"scenario\": \"Hot dog at a cookout\"\n    },\n    {\n        \"scenario\": \"Hot dog at a food truck\"\n    },\n    {\n        \"scenario\": \"Hot dog at a restaurant\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"at a baseball game\",\n      \"ingredients\": [\n        \"hot dog\",\n        \"baseball game\"\n      ]\n    },\n    {\n      \"scenario\": \"at a picnic\",\n      \"ingredients\": [\n        \"hot dog\",\n        \"picnic blanket\",\n        \"park\"\n      ]\n    },\n    {\n      \"scenario\": \"at a barbecue\",\n      \"ingredients\": [\n        \"hot dog\",\n        \"bbq sauce\",\n        \"grill\"\n      ]\n    },\n    {\n      \"scenario\": \"at a festival\",\n      \"ingredients\": [\n        \"hot dog\",\n        \"festival food\",\n        \"music\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"eating a hot dog at a baseball game\"\n  },\n  {\n    \"scenario\": \"ordering a hot dog at a fast food restaurant\"\n  },\n  {\n    \"scenario\": \"eating a hot dog while camping\"\n  },\n  {\n    \"scenario\": \"eating a hot dog for breakfast\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n\"Enjoying a hot dog at a ballpark\",\n\"Ordering a hot dog at a fast food restaurant\",\n\"Making a hot dog at home for a barbecue\",\n\"Bringing a hot dog to a picnic\",\n\"Hot dog eating contest\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"eating a hot dog at a baseball game\",\n        \"entities\": [\n            {\n                \"entity\": \"hot dog\",\n                \"role\": \"food\"\n            },\n            {\n                \"entity\": \"baseball game\",\n                \"role\": \"event\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"eating a hot dog for lunch\",\n        \"entities\": [\n            {\n                \"entity\": \"hot dog\",\n                \"role\": \"food\"\n            },\n            {\n                \"entity\": \"lunch\",\n                \"role\": \"meal\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"hot dog as a snack\",\n        \"entities\": [\n            {\n                \"entity\": \"hot dog\",\n                \"role\": \"food\"\n            },\n            {\n                \"entity\": \"snack\",\n                \"role\": \"food\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are at a baseball game and want to buy a hot dog from a vendor\",\n\"You are at a backyard BBQ and want to serve hot dogs to your guests\",\n\"You are at a food truck festival and want to try a unique hot dog\",\n\"You are at a ball park and want to know what toppings to get on your hot dog\",\n\"You are at a grocery store and want to pick up hot dogs for a quick dinner\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\": [\n{\"scenario\": \"enjoying a hot dog at a baseball game\"},\n{\"scenario\": \"ordering a hot dog at a fast food restaurant\"},\n{\"scenario\": \"making a hot dog at home\"},\n{\"scenario\": \"bringing a hot dog to a picnic\"}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"eating a hot dog at a baseball game\"\n    },\n    {\n        \"scenario\": \"ordering a hot dog at a fast food restaurant\"\n    },\n    {\n        \"scenario\": \"making a hot dog at home\"\n    },\n    {\n        \"scenario\": \"hot dog as a snack while watching TV\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Hot dog at the ball park\",\n\"description\": \"It's a beautiful day at the ball park and you're craving a hot dog. You walk up to the vendor and order a hot dog with ketchup, mustard, and relish. The vendor hands you a steaming hot dog on a bun and you take a big bite, feeling the juices run down your chin.\"\n},\n{\n\"scenario\": \"Hot dog at a party\",\n\"description\": \"You're at a friend's party and everyone is mingling and having a good time. You see the host offering hot dogs and you decide to grab one. You take a bite and feel the flavors of the toppings mix with the savory hot dog.\"\n},\n{\n\"scenario\": \"Hot dog for breakfast\",\n\"description\": \"You're feeling hungry in the morning and decide to make a breakfast of hot dogs. You cook up a few hot dogs and serve them on a plate with eggs, bacon, and toast.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Hot dog at the ballpark\",\n        \"description\": \"A man buys a hot dog at a baseball game and eats it while watching the game.\"\n    },\n    {\n        \"scenario\": \"Hot dog at a picnic\",\n        \"description\": \"A family packs a picnic basket with hot dogs and eats them in a park.\"\n    },\n    {\n        \"scenario\": \"Hot dog at a party\",\n        \"description\": \"A group of friends throw a party and serve hot dogs as a main course.\"\n    },\n    {\n        \"scenario\": \"Hot dog at a street vendor\",\n        \"description\": \"A street vendor sells hot dogs on a busy street corner.\"\n    }\n]\n}\n"
+  }
+]

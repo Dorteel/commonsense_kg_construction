@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"water-once-a-week\",\n\"feed-once-a-month\",\n\"prune-twice-a-year\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"watering\",\n\"re-potting\",\n\"pruning\",\n\"fertilizing\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n  \"watering\",\n  \"fertilizing\",\n  \"pruning\",\n  \"re-potting\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"watering\",\n\"pruning\",\n\"re-potting\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"watering\",\n\"feeding\",\n\"pruning\",\n\"repotting\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"watering\",\n\"description\": \"Water the plant regularly, taking into account the type of plant and the time of year\",\n\"parameters\": [\n{\n\"name\": \"watering_frequency\",\n\"description\": \"How often to water the plant\",\n\"type\": \"integer\"\n},\n{\n\"name\": \"watering_time\",\n\"description\": \"When to water the plant\",\n\"type\": \"time\"\n}\n]\n},\n{\n\"name\": \"pruning\",\n\"description\": \"Prune the plant to maintain its shape and promote healthy growth\",\n\"parameters\": [\n{\n\"name\": \"pruning_frequency\",\n\"description\": \"How often to prune the plant\",\n\"type\": \"integer\"\n},\n{\n\"name\": \"pruning_tool\",\n\"description\": \"The tool to use for pruning\",\n\"type\": \"string\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"watering\",\n\"re-potting\",\n\"pruning\",\n\"fertilizing\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"water\",\n\"feed\",\n\"repot\",\n\"prune\",\n\"give light\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"water_once_a_week\",\n\"feed_once_a_month\",\n\"give_light_twice_a_day\",\n\"check_soil_moisture\",\n\"prune_after_blooming\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"watering\",\n\"feeding\",\n\"pruning\",\n\"re-potting\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"watering\",\n\"description\": \"Water the plant once a week\",\n\"parameters\": [\n{\n\"name\": \"water_amount\",\n\"description\": \"Amount of water to use\",\n\"type\": \"number\"\n}\n]\n},\n{\n\"name\": \"fertilizing\",\n\"description\": \"Feed the plant with fertilizer once a month\",\n\"parameters\": [\n{\n\"name\": \"fertilizer_type\",\n\"description\": \"Type of fertilizer to use\",\n\"type\": \"string\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"water-plants\",\n\"feed-plants\",\n\"place-plants\",\n\"garden-plants\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"watering\",\n\"description\": \"watering the plant regularly to keep it healthy\",\n\"pattern_type\": \"maintenance\"\n},\n{\n\"name\": \"pruning\",\n\"description\": \"pruning dead or damaged leaves and stems to promote healthy growth\",\n\"pattern_type\": \"maintenance\"\n},\n{\n\"name\": \"repotting\",\n\"description\": \"repotting the plant into a larger pot to give it more room to grow\",\n\"pattern_type\": \"transfer\"\n},\n{\n\"name\": \"protection\",\n\"description\": \"protecting the plant from extreme temperatures or drafts to prevent damage\",\n\"pattern_type\": \"shelter\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"watering\",\n      \"description\": \"Watering the potted plant regularly to keep it healthy and alive\",\n      \"frequency\": \"daily\",\n      \"duration\": \"10-30 minutes\"\n    },\n    {\n      \"name\": \"pruning\",\n      \"description\": \"Pruning the potted plant to maintain its shape and encourage new growth\",\n      \"frequency\": \"weekly\",\n      \"duration\": \"10-30 minutes\"\n    },\n    {\n      \"name\": \"re-potting\",\n      \"description\": \"Re-potting the potted plant in a larger pot to provide more room for growth\",\n      \"frequency\": \"every 6-12 months\",\n      \"duration\": \"1-2 hours\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"water\",\n\"feed\",\n\"prune\",\n\"repot\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"water\",\n\"feed\",\n\"give_sunlight\",\n\"give_soil\",\n\"give_pot\",\n\"give_other_plants\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"watering\",\n        \"pattern\": \"Water the plant once a week.\",\n        \"parameters\": [\n            {\n                \"name\": \"plant\",\n                \"value\": \"potted plant\"\n            }\n        ]\n    },\n    {\n        \"name\": \"fertilizing\",\n        \"pattern\": \"Fertilize the plant once a month.\",\n        \"parameters\": [\n            {\n                \"name\": \"plant\",\n                \"value\": \"potted plant\"\n            }\n        ]\n    },\n    {\n        \"name\": \"pruning\",\n        \"pattern\": \"Prune the plant every 3 months.\",\n        \"parameters\": [\n            {\n                \"name\": \"plant\",\n                \"value\": \"potted plant\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"watering\",\n\"description\": \"Water the plant once a day, ideally in the morning.\",\n\"example\": \"Please water the potted plant every day.\"\n},\n{\n\"name\": \"fertilizing\",\n\"description\": \"Fertilize the plant once a month, ideally with a balanced fertilizer.\",\n\"example\": \"Please fertilize the potted plant once a month.\"\n},\n{\n\"name\": \"pruning\",\n\"description\": \"Prune the plant once a month to keep it healthy and prevent overgrowth.\",\n\"example\": \"Please prune the potted plant once a month.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"watering-schedule\",\n\"soil-quality\",\n\"light-level\",\n\"temperature\",\n\"humidity\",\n\"re-potting\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "potted plant",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"watering-every-other-day\",\n\"giving-too-much-water\",\n\"not-enough-light\",\n\"giving-too-much-light\",\n\"not-enough-food\",\n\"giving-too-much-food\"\n]\n}\n"
+  }
+]

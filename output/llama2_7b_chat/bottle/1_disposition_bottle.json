@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"donate\",\n\"trash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"recycle\", \"reuse\", \"throw away\", \"donate\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"recycle\",\n    \"reuse\",\n    \"throw away\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"donate\",\n\"trash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"donate\",\n\"trash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"recycle\",\n        \"action\": \"place in recycling bin\"\n    },\n    {\n        \"name\": \"trash\",\n        \"action\": \"throw away\"\n    },\n    {\n        \"name\": \"donate\",\n        \"action\": \"give to charity\"\n    },\n    {\n        \"name\": \"store\",\n        \"action\": \"put in cupboard\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"donate\",\n\"landfill\",\n\"trash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"store in pantry\",\n\"recycle\",\n\"donate to charity\",\n\"trash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"recycle\", \"reuse\", \"throw away\", \"donate\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"Recycle\",\n        \"description\": \"Recycle the bottle after using it to reduce waste and conserve natural resources.\"\n    },\n    {\n        \"name\": \"Reuse\",\n        \"description\": \"Reuse the bottle for storing other liquids, such as water or juice, to reduce the need for single-use plastic bottles.\"\n    },\n    {\n        \"name\": \"Proper disposal\",\n        \"description\": \"Properly dispose of the bottle in a designated recycling bin or trash can to prevent litter and pollution.\"\n    },\n    {\n        \"name\": \"Donate\",\n        \"description\": \"Donate the bottle to a local charity or organization that can use it for other purposes, such as storing food or water.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"recycle\", \"reuse\", \"properly dispose\", \"donate to charity\", \"give to friend\", \"sell\"]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"recycle\", \"reuse\", \"landfill\", \"donate\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"recycle\", \"reuse\", \"throw away\", \"donate\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"RECYCLABLE\",\n\"REUSEABLE\",\n\"REFILLABLE\",\n\"DISPOSABLE\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"properly dispose\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"recycle\",\n      \"description\": \"Recycle the bottle after using it.\",\n      \"action\": {\n        \"type\": \"action\",\n        \"name\": \"recycle\",\n        \"description\": \"Recycle the bottle\",\n        \"icon\": \"https://example.com/recycle.png\"\n      }\n    },\n    {\n      \"name\": \"donate\",\n      \"description\": \"Donate the bottle to a charity or organization that helps people in need.\",\n      \"action\": {\n        \"type\": \"action\",\n        \"name\": \"donate\",\n        \"description\": \"Donate the bottle\",\n        \"icon\": \"https://example.com/donate.png\"\n      }\n    },\n    {\n      \"name\": \"giveaway\",\n      \"description\": \"Give the bottle away for free to someone who needs it.\",\n      \"action\": {\n        \"type\": \"action\",\n        \"name\": \"giveaway\",\n        \"description\": \"Give the bottle away\",\n        \"icon\": \"https://example.com/giveaway.png\"\n      }\n    },\n    {\n      \"name\": \"reuse\",\n      \"description\": \"Reuse the bottle for storing another liquid or as a decorative item.\",\n      \"action\": {\n        \"type\": \"action\",\n        \"name\": \"reuse\",\n        \"description\": \"Reuse the bottle\",\n        \"icon\": \"https://example.com/reuse.png\"\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n  \"recycle\",\n  \"reuse\",\n  \"throw away\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"donate\",\n\"trash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"recycle\",\n\"reuse\",\n\"donate\",\n\"landfill\",\n\"trash\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"recycle\",\n    \"trash\",\n    \"donate\",\n    \"use for cooking or cleaning\"\n]\n}"
+  }
+]
