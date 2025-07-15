@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"type\": \"table\",\n    \"purpose\": \"where meals are served\",\n    \"location\": \"in the dining room\"\n  },\n  \"dining room\": {\n    \"type\": \"room\",\n    \"purpose\": \"where meals are eaten\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 70}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 25.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"average temperature\": 65\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 74.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"average\": 72\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"dining_table\": {\n        \"temperature\": 75\n    },\n    \"living_room\": {\n        \"temperature\": 70\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 68}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"temperature\": 21\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 50,\n  \"height\": 180,\n  \"weight\": 80\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 73.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"temperature\": 50,\n  \"units\": \"f\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 71.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"dining table\": 68.17\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 68.0}\n"
+  }
+]

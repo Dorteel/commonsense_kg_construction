@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 12,\n  \"height\": \"1.80\",\n  \"weight\": \"70.3\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 40000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"1234.56\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"name\" : \"Bob\", \"age\" : 50}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"person\": {\n  \"name\": \"Mike\",\n  \"age\": 35,\n  \"location\": {\n    \"city\": \"San Francisco\",\n    \"state\": \"California\",\n    \"country\": \"USA\"\n  },\n  \"company\": {\n    \"name\": \"Google\",\n    \"type\": \"Internet\"\n  },\n  \"title\": \"Software Engineer\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": \"123456789.00\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"started\": \"2019-01-01T00:00:00.000Z\",\n  \"user\": {\n    \"name\": \"user\",\n    \"started\": \"2019-01-01T00:00:00.000Z\",\n    \"monetary value\": 1000000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 34,\n  \"height\": 69.05,\n  \"weight\": 75,\n  \"eyeColor\": \"brown\",\n  \"hairColor\": \"black\",\n  \"skinColor\": \"white\"\n}\n       \t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"name\": \"John Smith\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"John\",\n    \"age\": 38,\n    \"gender\": \"male\"\n  },\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mike Smith\",\n  \"age\": 38,\n  \"married\": true,\n  \"kids\": 2,\n  \"income\": 120000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"name\": \"assistant\", \"description\": \"assistant\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"person\": {\n\"name\": \"Ron Weasley\",\n\"height\": 5.3,\n\"weight\": 55,\n\"blood_type\": \"AB+\",\n\"eye_color\": \"blue\",\n\"hair_color\": \"black\",\n\"handedness\": \"right\",\n\"shoe_size\": 10,\n\"age\": 21\n},\n\"average_value\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"person\": {\n\"name\": \"Jane Smith\",\n\"age\": 33,\n\"gender\": \"female\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"person\": { \"firstname\": \"Bob\", \"lastname\": \"Smith\", \"age\": 34 },\n\"monetary value\": 200000 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"id\": \"02772\",\n\"name\": \"Roger\",\n\"phone\": \"(800) 123-1234\",\n\"email\": \"roger@example.com\",\n\"address\": {\n\"streetAddress\": \"753 5th Ave.\",\n\"postalCode\": \"10021\",\n\"geo\": {\n\"latitude\": \"40.765554\",\n\"longitude\": \"-73.979544\"\n}\n}\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"John Smith\",\n    \"age\": 45,\n    \"income\": 40000\n  },\n  \"monetary value\": 20000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"question\": \"What is the average monetary value of a person?\",\n    \"type\": \"simple\",\n    \"answer\": 40000,\n    \"correct\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"id\": \"42\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Amy\",\n  \"age\": 29,\n  \"role\": \"assistant\",\n  \"title\": \"Executive Assistant\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

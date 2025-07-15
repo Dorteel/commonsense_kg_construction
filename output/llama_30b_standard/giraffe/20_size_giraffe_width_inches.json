@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"3.2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"giraffe\",\n  \"width\": 48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"150\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 1000.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 15.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 180.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": \"11.8\" }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"giraffe\": [\n    {\n      \"width\": 47.24\n    }\n  ],\n  \"width\": \"47.24\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"6.2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 60 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": {\n    \"type\": \"float\",\n    \"min\": -9.999999,\n    \"max\": 9.999999,\n    \"avg\": 2.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : \"80\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.0\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"size\": [\n{\n\"width\": 5.495094402883548\n}\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25\n}\n"
+  }
+]

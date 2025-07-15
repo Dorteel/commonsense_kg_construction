@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 12 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"1.4\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"bowl\":{\n  \"width\":2\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\" : \"A round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Hal 9000\",\n  \"version\": \"2.0\",\n  \"description\": \"He's a robot.\",\n  \"mood\": \"good\",\n  \"birthday\": \"2000-03-12\",\n  \"eyeColor\": \"green\",\n  \"maritalStatus\": \"single\",\n  \"numberOfChildren\": 0,\n  \"numberOfPets\": 1,\n  \"favoriteFood\": \"Pizza\",\n  \"favoriteSportsTeam\": \"Cincinnati Bengals\",\n  \"favoriteBooks\": [\n    \"2001: A Space Odyssey\",\n    \"The Hitchhiker's Guide to the Galaxy\",\n    \"Rendezvous with Rama\"\n  ],\n  \"favoriteMovies\": [\n    \"2001: A Space Odyssey\",\n    \"The Matrix\",\n    \"The Hitchhiker's Guide to the Galaxy\",\n    \"Rendezvous with Rama\"\n  ],\n  \"favoriteTvShows\": [\n    \"Futurama\",\n    \"Star Trek: The Next Generation\"\n  ],\n  \"favoriteQuote\": \"I'm sorry Dave, I'm afraid I can't do that.\",\n  \"favoriteDrink\": \"Whiskey\",\n  \"favoriteHobby\": \"Chess\",\n  \"favoriteSeason\": \"Winter\",\n  \"favoriteMonth\": \"December\",\n  \"favoriteDay\": \"Saturday\",\n  \"favoriteTime\": \"11:00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"user\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"size\": \"average\",\n    \"type\": \"round\"\n  },\n  \"wine\": {\n    \"size\": \"average\",\n    \"type\": \"red\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 4}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  }
+]

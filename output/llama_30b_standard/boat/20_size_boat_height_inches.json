@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 48.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 20.0}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"120\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.64\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":20}\n   \t   \t   \t   \t   \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 60\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"boat\" : \"small vessel for travel on water\",\n  \"height\" : \"100\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"boat\": {\n    \"type\": \"small vessel for travel on water\",\n    \"size\": {\n      \"height\": 40\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 12\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 4}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\" : 10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 200\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"boat\": {\n    \"height\": 3.60\n  },\n  \"assistant\": {\n    \"height\": 3.60\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"boat\": \"small vessel for travel on water\",\n  \"height\": 12.0\n}\n"
+  }
+]

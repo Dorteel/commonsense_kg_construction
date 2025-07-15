@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a small vessel for travel on water\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"travel\",\n  \"data\": {\n    \"boat\": {\n      \"subtype\": \"small\",\n      \"type\": \"vessel\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\":\"a small vessel for travel on water\",\n\"id\":5,\n\"name\":\"boat\",\n\"type\":\"noun\",\n\"properties\":{\"synonyms\":[\n\"boat\",\"boats\",\"boatman\",\"boatmen\",\n\"boatwoman\",\"boatwomen\",\"boating\",\n\"boatload\",\"boatful\",\"boatfuls\",\n\"boatload\",\"boatloads\",\"boatlike\",\n\"boatman\",\"boatmen\",\"boatwoman\",\n\"boatwomen\",\"boating\",\"boats\",\n\"boatload\",\"boatful\",\"boatfuls\",\n\"boatloads\",\"boatlike\",\"boatman\",\n\"boatmen\",\"boatwoman\",\"boatwomen\",\n\"boating\",\"boats\",\"boatload\",\n\"boatloads\",\"boatlike\",\"boating\",\n\"boats\",\"boatload\",\"boatloads\",\n\"boatlike\",\"boatman\",\"boatmen\",\n\"boatwoman\",\"boatwomen\",\"boating\",\n\"boatload\",\"boatful\",\"boatfuls\",\n\"boatloads\",\"boatlike\",\"boatman\",\n\"boatmen\",\"boatwoman\",\"boatwomen\",\n\"boating\",\"boats\",\"boatload\",\n\"boatloads\",\"boatlike\",\"boating\",\n\"boats\",\"boatload\",\"boatloads\",\n\"boatlike\",\"boatman\",\"boatmen\",\n\"boatwoman\",\"boatwomen\",\"boating\",\n\"boatload\",\"boatful\",\"boatfuls\",\n\"boatloads\",\"boatlike\",\"boatman\",\n\"boatmen\",\"boatwoman\",\"boatwomen\",\n\"boating\",\"boats\",\"boat"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vessel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vessel for travel on water\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"nautical\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\",\n  \"synonyms\": [\n    \"ship\",\n    \"craft\",\n    \"watercraft\",\n    \"vessel\",\n    \"boat\",\n    \"bark\",\n    \"barge\",\n    \"bateau\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n    \"boat\",\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a small vessel for travel on water\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\" : \"transportation\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"in a boat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a boat on a ship\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a small vessel for travel on water\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"context_1\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context1\",\n  \"context\": \"context2\",\n  \"context\": \"context3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vessel used for travel on the water\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"water\",\n  \"context\": \"travel\",\n  \"context\": \"sport\",\n  \"context\": \"water-vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"boat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"travel\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"an example sentence with boat\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"watch\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a device that is used to show the time of day\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"a timepiece that shows the time of day\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"something that is owned or possessed by someone\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"personal\",\"definition\":\"a person who is employed by a business or wealthy person to manage their affairs\"}\n \t  \t\t  \t\t  \t  \t  \t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"clock\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"a thing that tells the time\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"place\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\" : \"timekeeping device\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The clock was in the living room.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"time\",\n  \"score\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [ \"time\", \"date\", \"current_time\", \"time_of_day\", \"the_time\", \"t\", \"what_time_is_it\", \"what_time_is_it_in\", \"what_time_is_it_in_my_time_zone\", \"what_time_is_it_in_my_current_time_zone\", \"what_time_is_it_in_my_location\", \"what_time_is_it_now\", \"what_time_is_it_now_in_my_time_zone\", \"what_time_is_it_now_in_my_current_time_zone\", \"what_time_is_it_now_in_my_location\", \"what_time_is_it_in_new_york\", \"what_time_is_it_in_my_current_location\", \"what_time_is_it_in_my_current_location_in_new_york\", \"what_time_is_it_in_my_location_in_new_york\", \"what_time_is_it_in_my_current_location_in_my_current_time_zone\", \"what_time_is_it_in_my_current_location_in_my_current_time_zone_in_new_york\", \"what_time_is_it_in_my_location_in_new_york\", \"what_time_is_it_in_my_location_in_my_current_time_zone_in_new_york\", \"what_time_is_it_now_in_new_york\", \"what_time_is_it_now_in_my_current_time_zone_in"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"watch\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a room\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"watch\",\n  \"suggestions\": [\n    \"Wrist Watch\",\n    \"Bracelet\",\n    \"Ring\",\n    \"Pocket Watch\",\n    \"Necklace\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"a timepiece that shows the time of day\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a wall clock\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"an alarm clock\",\"description\":\"A clock that is used to wake you up\",\"image\":\"http://www.gadgetreview.com/wp-content/uploads/2015/05/alarm-clock.jpg\",\"keywords\":[\"clock\",\"time\",\"alarm\"],\"name\":\"Alarm clock\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"time\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

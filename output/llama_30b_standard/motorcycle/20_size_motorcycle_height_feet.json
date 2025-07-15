@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"assistant_id\": \"234234\",\n\"message\": \"Hello, what is the average size of a motorcycle?\",\n\"original_query\": \"what is the average size of a motorcycle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.1,\n  \"name\": \"Harley-Davidson\",\n  \"sport\": \"motorcycle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 7.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Raj\",\n  \"age\": \"40\",\n  \"address\": {\n    \"street\": \"Elm Street\",\n    \"city\": \"Salem\",\n    \"state\": \"MA\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.56,\n  \"width\": 0.31\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"what is the average size of a motorcycle in feet?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0,\n  \"width\": 1.0,\n  \"length\": 1.0,\n  \"weight\": 1.0,\n  \"engine\": 1.0,\n  \"engine_type\": 1.0,\n  \"engine_power\": 1.0,\n  \"seat_position\": 1.0,\n  \"seat_type\": 1.0,\n  \"seat_material\": 1.0,\n  \"suspension_type\": 1.0,\n  \"brakes_type\": 1.0,\n  \"brakes_size\": 1.0,\n  \"frame_type\": 1.0,\n  \"frame_material\": 1.0,\n  \"frame_size\": 1.0,\n  \"wheels_type\": 1.0,\n  \"wheels_size\": 1.0,\n  \"wheels_material\": 1.0,\n  \"tires_type\": 1.0,\n  \"tires_size\": 1.0,\n  \"tires_pressure\": 1.0,\n  \"tires_material\": 1.0,\n  \"tires_speed\": 1.0,\n  \"tires_wear\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.75,\n  \"name\": \"Honda CRF250R\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 6.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": \"10\"}\n"
+  }
+]

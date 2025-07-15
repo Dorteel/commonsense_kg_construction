@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 12.34\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 11.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 14.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"name\": \"teddy bear\",\n\"size\": {\n\"width\": 30,\n\"height\": 14\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.0,\n  \"length\": 3.0,\n  \"height\": 2.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 27.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"user_id\": \"1234\",\n\"text\": \"Given the teddy bear (which is a child's toy bear (usually plush and stuffed with soft materials)), provide the average size as in {} measured in inches. Return only JSON with key: width (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"size\": {\"width\": 10}}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"12\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 45\n}\n"
+  }
+]

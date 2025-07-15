@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal,plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"Metal\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": [\n        \"wood\",\n        \"metal\",\n        \"plastic\",\n        \"aluminum\",\n        \"steel\",\n        \"leather\",\n        \"glass\",\n        \"rubber\",\n        \"cotton\",\n        \"fabric\",\n        \"stone\",\n        \"paper\",\n        \"plastic\",\n        \"steel\",\n        \"leather\",\n        \"glass\",\n        \"rubber\",\n        \"cotton\",\n        \"fabric\",\n        \"stone\",\n        \"paper\"\n    ],\n    \"other\": null\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\" : \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"glass\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"steel,plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"steel\",\n  \"material\": \"plastic\",\n  \"material\": \"wood\",\n  \"material\": \"glass\",\n  \"material\": \"rubber\",\n  \"material\": \"cotton\",\n  \"material\": \"stone\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\"leather\", \"wood\", \"steel\", \"plastic\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"Aluminum\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"carbon\",\n  \"material\": \"chrome\",\n  \"material\": \"metal\",\n  \"material\": \"steel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"steel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"steel\"}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\",\n  \"location\": \"table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"in the kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"cupboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"in the spoon drawer\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"table\",\"location\":\"drawer\",\"location\":\"kitchen\",\"location\":\"cabinet\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : [\n    \"table\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"in a kitchen drawer\" }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"table\",\n  \"location\": \"cupboard\",\n  \"location\": \"drawer\",\n  \"location\": \"box\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\",\n  \"location\": \"dining room\",\n  \"location\": \"bedroom\",\n  \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"table\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"table\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"table\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"table\",\n    \"drawer\",\n    \"kitchen\"\n  ]\n}\n"
+  }
+]

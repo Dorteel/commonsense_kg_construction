@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell_time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell_time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"show_time\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [ \"show time\", \"show date\", \"show alarm\" ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\" : [\n\"display time\",\n\"sound alarm\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"tell_the_time\",\n    \"set_the_time\",\n    \"change_the_time\",\n    \"display_the_time\",\n    \"tell_the_date\",\n    \"set_the_date\",\n    \"display_the_date\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"shows the time of day\",\n  \"function\": \"reveals the time of day\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : [\n    \"telling the time\",\n    \"reading the time\",\n    \"reading the time of day\",\n    \"reading the time of day with a timepiece\",\n    \"reading the time of day with a clock\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day)\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day) which is a timepiece that shows the time of day\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day) which is a timepiece that shows the time of day which is a timepiece that shows the time of day\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day) which is a timepiece that shows the time of day which is a timepiece that shows the time of day which is a timepiece\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day) which is a timepiece that shows the time of day which is a timepiece that shows the time of day which is a timepiece which is a timepiece\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day) which is a timepiece that shows the time of day which is a timepiece that shows the time of day which is a timepiece which is a timepiece which is a timepiece\",\n    \"reading the time of day with a clock (which is a timepiece that shows the time of day) which is a timepiece that shows the time of day which is a timepiece that shows the time of day which"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"time\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tells the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"show time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\" : \"tellTime\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"show_time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell-time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"showTime\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"tellTime\"\n}\n"
+  }
+]

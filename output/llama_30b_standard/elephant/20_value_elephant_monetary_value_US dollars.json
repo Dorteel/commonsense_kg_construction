@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 5000000000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"elephant\": {\n    \"monetary value\": 50000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5500000000000000,\n  \"elephant\": {\n    \"description\": \"five-toed pachyderm\",\n    \"name\": \"elephant\",\n    \"size\": \"very big\",\n    \"weight\": 5000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\" : 13000 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"elephant\": \"5\",\n  \"monetary value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"key\": \"value\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"elephant\": \"five-toed pachyderm\",\n  \"monetary value\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary_value\" : 12.34\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 100000.0,\n  \"number_of_toes\": 5.0,\n  \"elephant_species\": \"African Elephant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetaryValue\": 29.57}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 14500000.0,\n\"value\": 300000.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"elephant\": {\n    \"five-toed\": \"pachyderm\",\n    \"average value\": \"as in {}\",\n    \"monetary value\": 5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"key\": \"monetary value\", \"value\": 1000000000000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 400000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5000\n}\n"
+  }
+]

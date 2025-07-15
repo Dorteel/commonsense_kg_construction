@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"cut\",\n  \"description\": \"Cut the sandwich in half\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"smile\",\n  \"example\": \"smile\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"toast\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"eat\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"cut\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"take apart\",\n\"description\": \"to remove the filling and eat the ingredients separately\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"make\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"spread\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"butter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"add cheese\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"filling\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"toast\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"Make\",\"parameters\":[{\"name\":\"Bread\",\"type\":\"object\",\"value\":\"Bread\",\"function\":\"Create\"}]}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"create(bread,filling,bread)\",\"function\":\"eat(sandwich)\",\"function\":\"destroy(sandwich)\",\"function\":\"dispose(sandwich)\",\"function\":\"create(sandwich)\",\"function\":\"create(sandwich)\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"cut\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"toast\"\n}\n"
+  }
+]

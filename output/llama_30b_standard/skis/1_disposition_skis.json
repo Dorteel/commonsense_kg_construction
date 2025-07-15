@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"user\": \"assistant\", \"result\": [{\n  \"disposition\": \"sport\"\n}, {\n  \"disposition\": \"ski\"\n}]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"sport\",\n    \"skiing\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"sporting equipment\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"snow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"skiing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"recreational\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"concept\":\"skis\",\"disposition\":\"equipment\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"snowboarding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : [ \"sport\", \"hobby\" ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sports equipment\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"skis\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"sport\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"Noun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"dispose\",\n  \"definition\": \"to get rid of\",\n  \"synonyms\": \"abandon, cast off, chuck out, discard, dispose of, dispose, ditch, drop, dump, give up, jettison, leave behind, let go, relinquish, shed, shuck, throw away\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"narrow wood or metal or plastic runners used in pairs for gliding over snow\",\n  \"type\": \"ski\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\" : \"dry\", \"wet\" :\"slippery\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"a pair of narrow wooden or metal or plastic runners used in pairs for gliding over snow\"\n  ],\n  \"confidence\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"Athletic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"concept\":\"skis\",\"disposition\":\"narrow wood or metal or plastic runners used in pairs for gliding over snow\"}\n   "
+  }
+]

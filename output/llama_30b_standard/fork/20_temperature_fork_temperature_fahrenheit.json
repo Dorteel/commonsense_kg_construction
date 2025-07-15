@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user1\",\n  \"room\": \"room1\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 212.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": {\n        \"value\": 37.0,\n        \"unit\": \"C\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 27.78\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"45.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"fork\": \"Cutlery used for serving and eating food\",\n  \"temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"system\",\n  \"text\": \"Given the fork (which is cutlery used for serving and eating food), provide the average temperatureas in {} measured in fahrenheit. Return only JSON with key: \\n - temperature (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"10.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 66\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"mr. robot\",\n  \"location\": \"New York\",\n  \"temperature\": 60\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\" : 70.0 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 73\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.5\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\" : 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"21.12\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 71.6\n}\n"
+  }
+]

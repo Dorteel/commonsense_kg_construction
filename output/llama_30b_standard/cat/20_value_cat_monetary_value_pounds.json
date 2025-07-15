@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5.86\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"cat\": \"domestic cat\",\n  \"mammal\": \"feline mammal\",\n  \"value\": 10.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 8.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"float\": \"5\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 6.4 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 7.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 10.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"2.2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 2.5,\n    \"type\": \"pound\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 8.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"pounds\": {\n      \"average\": \"15.0\"\n    },\n    \"dollars\": {\n      \"average\": \"15.0\"\n    },\n    \"euros\": {\n      \"average\": \"15.0\"\n    },\n    \"yen\": {\n      \"average\": \"15.0\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"cat\": {\n    \"monetary value\": 10.25\n  }\n}\n"
+  }
+]

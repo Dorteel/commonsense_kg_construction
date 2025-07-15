@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"home\", \"office\"\n  : \"work\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"home\", \"work\", \"school\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"a cell phone store\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"at home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"telephony\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"a cell tower\",\"a cellular network\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": [ \"home\", \"work\", \"school\" ] }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"battery\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"in the pocket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"telephony\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"car\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"house\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"home\",\n    \"office\",\n    \"car\",\n    \"pocket\",\n    \"belt\",\n    \"purse\",\n    \"desk\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"cell phone\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : [\n    \"home\",\n    \"office\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"pocket, purse\"\n}\n"
+  }
+]

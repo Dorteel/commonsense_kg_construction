@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a red traffic light indicates that cars must stop and may not proceed until a green light is shown.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"There are traffic lights on every single intersection\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You can turn on or off the traffic lights\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"the traffic light is green\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"Given the traffic light(which is a visual signal to control the flow of traffic at intersections),provide a list of common scenarios for this concept.Return only JSON with key:  - scenario (string)\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The traffic light is red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Stop when it is red, and go when it is green.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"There are two cars and one pedestrian at an intersection. The pedestrian has right of way. A green light means the pedestrian is allowed to cross the road. A red light means the pedestrian must not cross the road.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A traffic light has three positions: red, green, and amber.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"a traffic light is a signal at an intersection that controls traffic flow.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"Telling a user what to do in case of emergency\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"red light\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"It can be red, yellow and green.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"scenario\": \"The traffic light has red, green and amber lights.\" }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A traffic light has 3 lights. The lights are red, yellow, and green. The lights are in a horizontal line. The lights are in the same vertical line.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"stop\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"A traffic light is a signaling device that is placed at a road intersection, pedestrian crossing, or other location in order to control competing flows of traffic, such as vehicular traffic on a roadway. Traffic lights are also placed where multiple roadways join together, sometimes only as an advisory to drivers as to what is going to happen on the other road.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A traffic light is an important part of the traffic management system. It provides a visual signal to control the flow of traffic at intersections.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"An intersection with red, green, and yellow traffic lights\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The traffic light is a visual signal to control the flow of traffic at intersections.\"\n}\n"
+  }
+]

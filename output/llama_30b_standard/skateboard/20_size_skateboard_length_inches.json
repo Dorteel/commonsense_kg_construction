@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": {\n        \"type\": \"float\",\n        \"value\": 32,\n        \"unit\": \"in\"\n    }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30.48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"assistant\": [\n    {\n      \"length\": 30\n    }\n  ],\n  \"user\": [\n    {\n      \"length\": 31\n    }\n  ],\n  \"skateboard\": [\n    {\n      \"length\": 29\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 31.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 32\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 31.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 29.4\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"growing indoors\"}\n                    "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a potted plant is a plant that is suitable for growing in a flowerpot, especially indoors.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The plant will be potted in a flowerpot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A potted plant is a plant that is suitable for growing in a flowerpot (especially indoors).\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"plant is healthy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The potted plant is placed in the living room. The living room is a room in a house. The house is the residence of a person or family, or a group of people.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a potted plant is placed on the balcony\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"planted by a person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\" : \"sitting at a table with a pot plant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"The pot is on the floor, the plant is on the pot, the soil is in the pot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"plant has no water\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"The plant is placed in a sunny location.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You have a plant that is not growing. What should you do?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A pot plant is a plant that is grown in a container such as a pot or flower pot. Pot plants are typically small, and are grown indoors. Pot plants are often grown for decorative purposes.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"A potted plant is given as a gift.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A potted plant is often decorated with a planter.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The plant is in need of water and fertilizer.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"The potted plant is a good gift for any occasion.\",\"scenario\":\"The potted plant needs watering every day.\",\"scenario\":\"The potted plant has flowers and can be used as a decorative piece.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or office.\",\"scenario\":\"The potted plant is the best way to add greenery to your home or"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Grow a potted plant\"\n}\n"
+  }
+]

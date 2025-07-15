@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 17.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":11}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":\"40\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"22\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"5\",\n  \"height\": \"30\",\n  \"length\": \"10\",\n  \"weight\": \"30\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 12}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"size\": 13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": \"22\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Nicholas\",\n  \"gender\": \"male\",\n  \"company\": \"Jetpack\",\n  \"title\": \"Software Engineer\",\n  \"company_name\": \"Jetpack\",\n  \"years\": \"10\",\n  \"years_in_industry\": 10,\n  \"skills\": [\n    \"java\",\n    \"c\",\n    \"c++\",\n    \"c#\",\n    \"cold fusion\",\n    \"sql\",\n    \"oracle\",\n    \"sql server\",\n    \"mongodb\",\n    \"db2\",\n    \"oracle\",\n    \"hbase\",\n    \"mysql\",\n    \"postgresql\",\n    \"redis\",\n    \"nosql\",\n    \"mongodb\",\n    \"hbase\",\n    \"neo4j\",\n    \"hadoop\",\n    \"mapreduce\",\n    \"hadoop\",\n    \"hdfs\",\n    \"spark\",\n    \"scala\",\n    \"clj\",\n    \"clojure\",\n    \"groovy\",\n    \"ruby\",\n    \"rails\",\n    \"sinatra\",\n    \"jruby\",\n    \"jython\",\n    \"jvm\",\n    \"oracle\",\n    \"java\",\n    \"j2ee\",\n    \"jsp\",\n    \"servlet\",\n    \"ejb\",\n    \"spring\",\n    \"hibernate\",\n    \"aop\",\n    \"aspectj\",\n    \"maven\",\n    \"osgi\",\n    \"weld\",\n    \"glassfish\",\n    \"tomcat\",\n    \"jboss\",\n    \"weblogic\",\n    \"websphere\",\n    \"apache\",\n    \"tomcat\",\n    \"nginx\",\n    \"postgresql\",\n    \"oracle\",\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 11.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 14\n}\n"
+  }
+]

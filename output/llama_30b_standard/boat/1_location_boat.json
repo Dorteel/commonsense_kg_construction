@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a lake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"at sea\",\n  \"location\": \"on the ocean\",\n  \"location\": \"on the river\",\n  \"location\": \"on the canal\",\n  \"location\": \"on the lake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"sea\", \"lake\", \"ocean\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"river\", \"stream\", \"lake\", \"ocean\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"pond\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"river\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"ocean\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\" : \"river\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"ocean\",\n    \"lake\",\n    \"river\",\n    \"water\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"lake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"lake\",\n    \"river\",\n    \"ocean\",\n    \"sea\",\n    \"beach\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"sea\",\n    \"ocean\",\n    \"river\",\n    \"lake\",\n    \"pond\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"ocean\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"boat dock\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"lake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"sea\", \"ocean\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"ocean\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"shipyard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"ocean\",\n    \"river\",\n    \"lake\",\n    \"pond\",\n    \"sea\",\n    \"reservoir\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"at sea\",\n  \"location\": \"in the harbor\",\n  \"location\": \"at the pier\",\n  \"location\": \"in the water\"\n}\n"
+  }
+]

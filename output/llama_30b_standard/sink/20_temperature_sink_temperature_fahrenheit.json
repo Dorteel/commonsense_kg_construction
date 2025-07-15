@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100.321\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\":\"Geraldine\",\n  \"company\": \"Assist AI, Inc.\",\n  \"phone\": \"123-123-1234\",\n  \"email\": \"geraldine@assistai.com\",\n  \"address\": {\n    \"street\": \"123 Main Street\",\n    \"city\": \"New York\",\n    \"state\": \"NY\",\n    \"zip\": \"12345\"\n  },\n  \"children\": [\n    {\n      \"name\": \"Grace\",\n      \"age\": 13\n    },\n    {\n      \"name\": \"Hannah\",\n      \"age\": 11\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"sink\" : 100}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\":\n  [\n    {\n      \"location\": \"bathroom\",\n      \"temperature\": 65\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 74.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\": {\n    \"drain\": 1,\n    \"basin\": 2\n  },\n  \"faucet\": {\n    \"faucet\": 2,\n    \"handle\": 3\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user1\",\n  \"time\": \"2018-07-11T22:15:50.984Z\",\n  \"device_id\": \"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\",\n  \"intent\": \"assistant.intent.action.MAIN\",\n  \"locale\": \"en\",\n  \"conversation_id\": \"1499109553161\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 101.2,\n  \"sink\": \"plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\":\n  {\n    \"name\": \"sink\"\n    ,\n    \"average_temperature\": 47\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 78.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": {\n    \"average\": 60,\n    \"minimum\": 50,\n    \"maximum\": 70\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 212\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user1\",\n  \"user_type\": \"user_type1\",\n  \"device\": \"device1\",\n  \"device_type\": \"device_type1\",\n  \"app_name\": \"app_name1\",\n  \"app_version\": \"app_version1\",\n  \"app_type\": \"app_type1\",\n  \"app_package\": \"app_package1\",\n  \"app_id\": \"app_id1\",\n  \"os_name\": \"os_name1\",\n  \"os_version\": \"os_version1\",\n  \"os_type\": \"os_type1\",\n  \"carrier\": \"carrier1\",\n  \"carrier_type\": \"carrier_type1\",\n  \"carrier_name\": \"carrier_name1\",\n  \"carrier_id\": \"carrier_id1\",\n  \"ip\": \"ip1\",\n  \"ip_type\": \"ip_type1\",\n  \"ip_version\": \"ip_version1\",\n  \"ip_address\": \"ip_address1\",\n  \"ip_range\": \"ip_range1\",\n  \"ip_country\": \"ip_country1\",\n  \"ip_country_code\": \"ip_country_code1\",\n  \"ip_location\": \"ip_location1\",\n  \"ip_timezone\": \"ip_timezone1\",\n  \"ip_lat\": \"ip_lat1\",\n  \"ip_lon\": \"ip_lon1\",\n  \"gps_accuracy\": \"gps_accuracy1\",\n  \"gps_alt\": \"gps_alt1\",\n  \"gps_alt"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": \"37\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\" : {\n    \"basin\" : {\n      \"water\" : {\n        \"temperature\" : 66\n      }\n    }\n  }\n}\n"
+  }
+]

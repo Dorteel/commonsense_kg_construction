@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.234567\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 1100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 2165 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\": {\n    \"weight\": 560\n  },\n  \"vehicle\": {\n    \"weight\": 1000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500,\n  \"wheels\": 4,\n  \"internal_combustion_engine\": \"yes\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1360\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1100\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0,\n  \"length\": 2500,\n  \"max_speed\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\":\n  {\n    \"weight\":\n    {\n      \"kg\": 100\n    },\n    \"is\":\n    {\n      \"propelled\": true,\n      \"by\":\n      {\n        \"internal\": true,\n        \"combustion\": true,\n        \"engine\": true\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\": {\n    \"weight\": 2500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"gender\": \"female\",\n  \"birthday\": \"1984-02-29\",\n  \"age\": 31\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1025\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\":\n  {\n    \"description\":\n    \"a motor vehicle with four wheels; usually propelled by an internal combustion engine\",\n    \"weight\":\n    {\n      \"unit\": \"kilograms\",\n      \"value\": 1000.0\n    }\n  }\n}\n"
+  }
+]

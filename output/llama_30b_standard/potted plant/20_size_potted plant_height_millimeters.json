@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 434\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\":\"Pam\",\n  \"age\":42,\n  \"gender\":\"female\",\n  \"address\":{\"street\":\"Park Avenue\",\n    \"number\":\"1234\",\n    \"city\":\"New York\",\n    \"state\":\"NY\",\n    \"zip\":\"10021\"},\n  \"phone\":[{\"type\":\"Home\",\"number\":\"212-555-1234\"},\n    {\"type\":\"Mobile\",\"number\":\"646-555-4567\"}]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"height\": {\n      \"type\": \"number\",\n      \"minimum\": 1000,\n      \"maximum\": 2000\n    }\n  },\n  \"required\": [\n    \"height\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"49\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\":\"Felix\",\n\"age\":26,\n\"address\":\"Berlin, Germany\",\n\"hobbies\":[\"cooking\",\"programming\",\"skiing\"]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\":\"Cactus\",\n    \"family\":\"Cactaceae\",\n    \"plant_type\":\"succulent\",\n    \"growing_region\":\"worldwide\",\n    \"height_range_mm\": [\n        {\n            \"min_height_mm\": 15,\n            \"max_height_mm\": 100,\n        \"average_height_mm\": 65.5\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 288.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\" : \"Alice\",\n  \"age\" : 42,\n  \"phone\" : \"18005551212\",\n  \"likes\" : [\"Chocolates\", \"Tiramisu\", \"Strawberry shortcake\"],\n  \"dislikes\" : [\"Onions\", \"Pepper\", \"Garlic\"]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 60}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"150\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"type\": \"assistant\",\n  \"gender\": \"female\",\n  \"personality\": \"happy\",\n  \"birthday\": \"July 2017\",\n  \"age\": 1.0,\n  \"last_update\": \"2018-12-12T12:00:00.000Z\",\n  \"favorite_food\": \"chicken\",\n  \"favorite_color\": \"white\",\n  \"hair_length\": 1.0,\n  \"eye_color\": \"brown\",\n  \"favorite_number\": 10,\n  \"favorite_animal\": \"dog\",\n  \"favorite_song\": \"Despacito\",\n  \"favorite_movie\": \"Toy Story\",\n  \"favorite_quote\": \"Beep beep\",\n  \"favorite_books\": \"Harry Potter\",\n  \"favorite_games\": \"Fortnite\",\n  \"favorite_places\": \"Pokemon center\",\n  \"favorite_movies\": \"Harry Potter\",\n  \"favorite_foods\": \"chicken\",\n  \"favorite_animals\": \"dog\",\n  \"favorite_colors\": \"white\",\n  \"favorite_songs\": \"Despacito\",\n  \"favorite_books\": \"Harry Potter\",\n  \"favorite_games\": \"Fortnite\",\n  \"favorite_places\": \"Pokemon center\",\n  \"favorite_movies\": \"Harry"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"900\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Tesla Model S\",\n  \"price\": 45000,\n  \"description\": \"Amazing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"key\": \"assistant\",\n    \"payload\": {\n        \"type\": \"text\",\n        \"value\": \"Given the potted plant (which is a plant suitable for growing in a flowerpot (especially indoors)), provide the average sizeas in {} measured in millimeters. Return only JSON with key:  - height (float)\"\n    }\n}\n"
+  }
+]

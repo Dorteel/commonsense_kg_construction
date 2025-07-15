@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 62.990000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 45}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 96\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 75.0,\n  \"width\": 80.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 80}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"version\": 1,\n  \"default_language\": \"en-US\",\n  \"default_domain\": \"assistant\",\n  \"dialog_flow\": true,\n  \"assistant_sdk\": true,\n  \"is_final_response\": false\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Kay\",\n  \"gender\": \"male\",\n  \"age\": 45,\n  \"height\": 72,\n  \"weight\": 80,\n  \"bmi\": 26.5,\n  \"eyeColor\": \"hazel\",\n  \"hairColor\": \"brown\",\n  \"skinColor\": \"caucasian\",\n  \"bloodGroup\": \"A\",\n  \"medicalConditions\": [\n    {\n      \"name\": \"allergies\",\n      \"type\": \"food\",\n      \"symptoms\": \"wheezing\",\n      \"severity\": \"mild\"\n    },\n    {\n      \"name\": \"allergies\",\n      \"type\": \"medication\",\n      \"symptoms\": \"rash\",\n      \"severity\": \"moderate\"\n    }\n  ],\n  \"preferredFood\": \"pizza\",\n  \"preferredDrink\": \"water\",\n  \"favoriteSports\": \"soccer\",\n  \"favoriteMovies\": [\n    \"star wars\",\n    \"the lord of the rings\"\n  ],\n  \"favoriteBooks\": [\n    \"the chronicles of narnia\",\n    \"a song of ice and fire\"\n  ],\n  \"favoriteMusic\": [\n    \"metallica\",\n    \"queen\"\n  ],\n  \"favoriteQuotes\": [\n    \"may the force be with you\",\n    \"you shall not pass\"\n  ],\n  \"hobbies\": [\n    \"video games\",\n    \"reading\"\n  ],\n  \"likes\": [\n    \"pizza\",\n    \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 9.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 800}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bus\" : {\n    \"height\" : 12\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"bus\": \"4.5\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bus\": \"vehicle carrying many passengers; used for public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 72.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"id\": \"1111111111\",\n\"name\": \"My Assistant\",\n\"last_name\": \"My Assistant\",\n\"address\": {\n    \"street\": \"1600 Amphitheatre Parkway\",\n    \"city\": \"Mountain View\",\n    \"state\": \"California\",\n    \"zip\": \"94043\"\n  },\n  \"email\": \"myassistant@gmail.com\",\n  \"phone\": \"6505550000\",\n  \"company\": \"Google\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 62.99}\n                   "
+  }
+]

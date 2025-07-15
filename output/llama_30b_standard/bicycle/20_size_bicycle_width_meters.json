@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.6\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.6\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 0.9144}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"2.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.63\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 66.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.75,\n  \"height\": 1.5,\n  \"weight\": 15,\n  \"max_speed\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"80\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.52\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 0.5 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.83\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 0.60 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 0.73\n}\n"
+  }
+]

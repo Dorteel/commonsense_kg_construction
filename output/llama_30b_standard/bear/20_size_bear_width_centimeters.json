@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Knowledge Engineer\",\n  \"title\": \"Knowledge Engineer\",\n  \"type\": \"user\",\n  \"avatar\": \"http://www.gravatar.com/avatar/854e5f82a7b8f90fce128780c0ca36f8?s=32&d=identicon&r=PG\",\n  \"date_created\": \"2019-06-08T13:08:18.749Z\",\n  \"date_updated\": \"2020-09-18T05:52:31.483Z\",\n  \"url\": \"https://api.com/knowledge_engineers/72068367\",\n  \"id\": 72068367,\n  \"locale\": \"en-US\",\n  \"gender\": \"male\",\n  \"languages\": [ \"en-US\" ],\n  \"emails\": [ \"knowledgeengineer@example.com\" ],\n  \"phones\": [ \"4155555555\" ],\n  \"addresses\": [ {\n    \"type\": \"home\",\n    \"formatted\": \"123 Example Street, San Francisco, CA 94111, USA\",\n    \"street\": \"123 Example Street\",\n    \"city\": \"San Francisco\",\n    \"region\": \"CA\",\n    \"country\": \"USA\",\n    \"postal_code\": \"94111\",\n    \"geo\": {\n      \"type\": \"Point\",\n      \"co"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 152.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bear\": \"massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\",\n  \"width\": \"50\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": \"210\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 160.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 4.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150.0,\n  \"height\": 90.0,\n  \"weight\": 450.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\" : 1.83\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 90.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 250.0,\n  \"height\": 175.0,\n  \"length\": 180.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bear\": \"massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws\",\n  \"average size\": \"in {}\"\n  }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Amazon Alexa\",\n  \"description\": \"Amazon Alexa is a virtual assistant developed by Amazon\",\n  \"intents\": {\n    \"GetWeatherIntent\": {\n      \"slots\": {\n        \"city\": {\n          \"name\": \"city\",\n          \"value\": \"city\"\n        },\n        \"date\": {\n          \"name\": \"date\",\n          \"value\": \"date\"\n        }\n      },\n      \"utterances\": [\n        \"What is the weather in city?\",\n        \"What is the weather like in city?\",\n        \"What is the weather forecast in city?\",\n        \"What is the weather like in {city}?\",\n        \"What is the weather forecast in {city}?\",\n        \"What is the weather like in {city} on {date}?\",\n        \"What is the weather forecast in {city} on {date}?\",\n        \"What is the weather forecast for {city} on {date}?\",\n        \"What is the weather forecast for {city} on {date}?\",\n        \"What is the weather in {city} on {date}?\",\n        \"What is the weather forecast in {city} on {date}?\",\n        \"What is the weather forecast for {city}?\",\n        \"What is the weather forecast for {city}?\",\n        \"What is the weather forecast for {city} on {date}?\"\n      ]\n    }\n  }\n}\n"
+  }
+]

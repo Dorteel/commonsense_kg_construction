@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Boris\",\n    \"age\": 35\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"how hot is the air in London\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 30.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": [\n    \"Tom\",\n    \"Jim\",\n    \"Jack\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"id\": \"67b454c0-5f70-4b01-8d7a-94e246464eb6\",\n    \"name\": \"assistant\",\n    \"version\": \"1.2.0\",\n    \"nickname\": \"assistant\",\n    \"description\": \"Your personal assistant\",\n    \"url\": \"https://assistant.google.com\",\n    \"imageUrl\": \"https://assistant.google.com/images/assistant-logo-svg.svg\",\n    \"category\": \"assistant\",\n    \"categoryDefined\": false,\n    \"defaultLanguage\": \"en\",\n    \"availableSurfaces\": [\"STANDARD\"],\n    \"surfaceCapabilities\": {\"screenSize\": {\"height\": \"2228\", \"width\": \"1080\"}},\n    \"canHandleRequest\": true,\n    \"isTransactional\": false,\n    \"isPersistent\": false,\n    \"isNotificationsCapable\": false,\n    \"isListeningCapable\": false,\n    \"isConversational\": true,\n    \"isAudible\": true,\n    \"isReadAloudCapable\": true,\n    \"isBrowsable\": true,\n    \"isSwipeDisabled\": false,\n    \"isScrollDisabled\": false,\n    \"isImageCarouselCapable\": false,\n    \"isPanOrZoomCapable\": false,\n    \"isVideoPlaybackCapable\": false,\n    \"isVideoMessagingCapable\": false,\n    \"isSharingCapability\": false,\n    \"isSharingTargetCapability\": false,\n    \"isSharingSourceCapability\": false,\n    \"isVoiceOnly\": false,"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": \"user\",\n  \"temperature\": 37.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Alice\",\n    \"age\": 50,\n    \"location\": {\n      \"city\": \"Washington\",\n      \"country\": \"United States\",\n      \"latitude\": 38.895100,\n      \"longitude\": -77.036600,\n      \"zip\": \"20008\"\n    }\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alice\",\n  \"gender\": \"Female\",\n  \"age\": 32,\n  \"maritalStatus\": \"Single\",\n  \"children\": 0\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": \"John\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average temperature in Seattle\",\n  \"answer\": \"The average temperature in Seattle is 50 degree Fahrenheit.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user123\",\n  \"password\": \"secret123\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"person\": \"user\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"Kelvin\",\n    \"age\": 44\n  },\n  \"temperature\": 29.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Mike\",\n    \"age\": 29,\n    \"gender\": \"Male\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": \"Joe Smith\",\n  \"temperature\": \"37.4\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Alan\",\n    \"age\": 18,\n    \"sex\": \"male\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"person\": \"bob\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"you\"\n}\n"
+  }
+]

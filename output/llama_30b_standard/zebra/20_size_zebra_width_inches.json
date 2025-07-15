@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"142\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 68,\n  \"name\": \"zebra\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 44\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 43.5,\n  \"length\": 65,\n  \"average_size\": 54.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 38\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 60}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 56\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 53.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"size\": 42.4}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 55}\n  \t \t \t  \t  \t \t \t \t "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 24, \"height\": 20, \"length\": 15, \"weight\": 500}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 52.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"name\":\"Alice\",\"age\":33}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 39.5,\n  \"height\": 51.5,\n  \"weight\": 400,\n  \"lifespan\": 25,\n  \"speed\": 55,\n  \"litter\": 1,\n  \"diet\": \"grass\",\n  \"group_name\": \"herd\",\n  \"group_description\": \"A herd of zebras.\",\n  \"class\": \"Mammal\",\n  \"order\": \"Perissodactyla\",\n  \"family\": \"Equidae\",\n  \"genus\": \"Equus\",\n  \"species\": \"Equus quagga\",\n  \"subspecies\": \"Equus quagga\",\n  \"kingdom\": \"Animalia\",\n  \"phylum\": \"Chordata\",\n  \"domain\": \"Eukarya\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 3.5\n}\n"
+  }
+]

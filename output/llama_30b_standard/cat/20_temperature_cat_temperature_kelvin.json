@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 0.0,\n  \"time\" : \"11:11\",\n  \"cat\" : \"brown\",\n  \"dog\" : \"black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 1.004678393874838e+03\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the cat (which is feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats), provide the average temperatureas in {} measured in kelvin.\",\n  \"context\": \"context\",\n  \"entities\": {\n    \"cat\": {\n      \"type\": \"entities.animal.feline\"\n    },\n    \"temperature\": {\n      \"type\": \"entities.number\",\n      \"value\": 0\n    }\n  },\n  \"metadata\": {\n    \"intent_id\": \"e427a3f5-7a10-43e5-878c-f41613930c2c\",\n    \"webhook_used\": \"false\",\n    \"intent_name\": \"temperature\"\n  },\n  \"fulfillment_messages\": []\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"300.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"459.67\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15,\n  \"animal\": \"cat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15,\n  \"animal\": \"feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1000000000000000\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 142,\n    \"height\": 150,\n    \"weight\": 60,\n    \"eyes\": \"brown\",\n    \"hair\": \"black\",\n    \"gender\": \"male\",\n    \"name\": \"John Doe\",\n    \"age\": 42\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Ann\",\n  \"height\": 178\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"name\": \"James Bond\",\n    \"title\": \"secret agent\",\n    \"home\": \"London\",\n    \"car\": \"Aston Martin\",\n    \"weapon\": \"a gun\"\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": {\n    \"min\": 50,\n    \"max\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"height\": 1.7,\n    \"weight\": 75,\n    \"sex\": \"female\"\n  }\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100,\n  \"height\": 100,\n  \"weight\": 100,\n  \"average_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 190\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"id\": {\n      \"type\": \"string\"\n    },\n    \"name\": {\n      \"type\": \"string\"\n    },\n    \"email\": {\n      \"type\": \"string\"\n    },\n    \"phone\": {\n      \"type\": \"string\"\n    },\n    \"address\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"street\": {\n          \"type\": \"string\"\n        },\n        \"city\": {\n          \"type\": \"string\"\n        },\n        \"state\": {\n          \"type\": \"string\"\n        },\n        \"zipcode\": {\n          \"type\": \"string\"\n        }\n      }\n    },\n    \"age\": {\n      \"type\": \"integer\"\n    },\n    \"company\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"name\": {\n          \"type\": \"string\"\n        },\n        \"address\": {\n          \"type\": \"object\",\n          \"properties\": {\n            \"street\": {\n              \"type\": \"string\"\n            },\n            \"city\": {\n              \"type\": \"string\"\n            },\n            \"state\": {\n              \"type\": \"string\"\n            },\n            \"zipcode\": {\n              \"type\": \"string\"\n            }\n          }\n        }\n      }\n    },\n    \"about\": {\n      \"type\": \"string\"\n    }\n  },\n  \"required\": [\n    \"id\",\n    \"name\",\n    \"email\",\n    \"phone\",\n    \"age\",\n    \"company\",\n    \"about\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Alice Smith\",\n    \"age\": 25,\n    \"height\": 1.75,\n    \"weight\": 65,\n    \"gender\": \"female\",\n    \"marital_status\": \"single\",\n    \"employment\": \"full_time\",\n    \"eye_color\": \"blue\",\n    \"hair_color\": \"brown\",\n    \"handedness\": \"right\",\n    \"education\": \"bachelor's\",\n    \"ethnicity\": \"white\",\n    \"nationality\": \"United States\"\n  },\n  \"measurements\": {\n    \"arm\": [\n      {\n        \"length\": 60.0,\n        \"width\": 45.0\n      },\n      {\n        \"length\": 60.0,\n        \"width\": 45.0\n      }\n    ],\n    \"neck\": [\n      {\n        \"length\": 40.0,\n        \"width\": 25.0\n      }\n    ],\n    \"thigh\": [\n      {\n        \"length\": 30.0,\n        \"width\": 50.0\n      }\n    ]\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 260\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"John Doe\",\n    \"age\": 25\n  },\n  \"width\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\" : 100 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"human\",\n  \"name\": \"John\",\n  \"age\": 32,\n  \"height\": 178.9,\n  \"weight\": 74.5,\n  \"bmi\": 24.11,\n  \"gender\": \"male\",\n  \"nationality\": \"US\",\n  \"eyeColor\": \"brown\",\n  \"hairColor\": \"black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"person\": {\n        \"name\": \"John\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Craig\",\n    \"gender\": \"male\",\n    \"height\": \"1.75 m\",\n    \"weight\": \"75 kg\",\n    \"shoesize\": \"45\",\n    \"birthday\": \"1978-06-05\",\n    \"nationality\": \"Dutch\",\n    \"haircolor\": \"dark brown\",\n    \"eyecolor\": \"brown\",\n    \"skincolor\": \"white\",\n    \"ethnicity\": \"Caucasian\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 180,\n  \"height\": 80,\n  \"weight\": 60,\n  \"gender\": \"male\",\n  \"age\": 30,\n  \"race\": \"white\",\n  \"nationality\": \"American\",\n  \"marital\": \"single\",\n  \"eyeColor\": \"brown\",\n  \"hairColor\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"name\":\"Jane Doe\",\"age\":35,\"location\":\"NYC\",\"hobbies\":[\"running\"]}\n \t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 597}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Susan\",\n  \"age\": 25,\n  \"location\": \"New York\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

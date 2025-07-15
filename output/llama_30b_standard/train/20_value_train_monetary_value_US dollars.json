@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 45000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"119.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"key\": 100,\n  \"value\": 150,\n  \"data\": {\n    \"train\": \"Metro-North Railroad\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 4000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 13.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.32434\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 345.67\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 68.00,\n  \"mode\": \"train\",\n  \"country\": \"USA\",\n  \"year\": 2016\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\" : 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 0.92\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"1100000\",\n  \"transport\": \"train\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary_value\" : 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 45000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 69.89\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 125.25}\n"
+  }
+]

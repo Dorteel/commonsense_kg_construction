@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"Apple\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"wood\",\n    \"material\": \"metal\",\n    \"material\": \"stone\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\" : \"fruit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\",\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"Flesh\",\n  \"fruit\": \"Apple\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"fruit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"apple\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"fruit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"materials\": [{\"name\": \"apple\", \"category\": \"fruit\", \"attributes\": [{\"name\": \"color\", \"value\": \"red\"}, {\"name\": \"taste\", \"value\": \"tart\"}]}]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"wooden\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"red\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"paper\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"red\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"aluminum\"\n}\n"
+  }
+]

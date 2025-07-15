@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"frying\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"get_size\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\": \"give\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"donut\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": [\n        \"is_donut\",\n        \"donut_is_donut\",\n        \"donut_is_cake\",\n        \"donut_is_food\",\n        \"donut_is_pastry\",\n        \"donut_is_food_item\",\n        \"donut_is_fatty\",\n        \"donut_is_sugary\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"eating\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\",\n  \"action\": \"eat the donut\",\n  \"description\": \"Eat the donut.\",\n  \"examples\": [\n    \"Eat the donut.\",\n    \"I will eat the donut.\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"bake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"make\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"sugar\" }\n     \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\",\n  \"function\": \"think\",\n  \"function\": \"dance\",\n  \"function\": \"talk\",\n  \"function\": \"read\",\n  \"function\": \"sleep\",\n  \"function\": \"wake up\",\n  \"function\": \"work\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"Eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"donut\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"give\"}\n"
+  }
+]

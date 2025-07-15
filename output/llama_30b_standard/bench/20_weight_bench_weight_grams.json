@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"32.2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1000000000000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bench\": {\n    \"seats\": 5,\n    \"seat\": {\n      \"width\": 480,\n      \"length\": 180\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200000000000000\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"name\":\"assistant\",\n\"type\":\"assistant\",\n\"weight\":\"100\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"name\": \"Abby\",\n    \"type\": \"assistant\",\n    \"gender\": \"female\",\n    \"age\": 27,\n    \"language\": \"english\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 225\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 43.4 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 45.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"bench\" : {\"seat\" : {\"seat\" : {}}} }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bench\": {\n    \"description\": \"a long seat for more than one person\"\n  },\n  \"weight\": 2.55\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12345.678\n}\n"
+  }
+]

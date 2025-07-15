@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"put your clothes on the bed\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a place to sleep.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"bed is used for sleeping\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\":\"I sleep on it.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Bed is where you sleep, when you are tired.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"There is a bed.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"scenario\": \"a person sleeps on the bed\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"You can use a bed to sleep in.\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"puts his/her body on the bed to sleep\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"A bed is used to sleep in. It has a boxspring, a mattress, and a cover.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"The bed is used for sleeping in.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"The bed is in a room. The room is in a house. The house is in a city.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\" : \"you are in the bed\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"This is the bed where the guest sleeps.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"It is where you sleep.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A bed is a piece of furniture that provides a place to sleep.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A user sleeps on the bed.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"The bed is made.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"The bed is a piece of furniture that provides a place to sleep.\"\n}\n"
+  }
+]

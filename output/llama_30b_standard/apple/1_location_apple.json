@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a basket, a bag, a bowl, a box, a bucket, a dish, a drawer, a fruit bowl, a jar, a pan, a plate, a refrigerator, a shelf, a sink, a table, a tray, a vegetable bin, a vase, a window sill\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"apple tree\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"in a basket\",\n    \"on the ground\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"on the tree\",\n    \"in the supermarket\",\n    \"in the kitchen\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"tree\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\",\n  \"location\": \"fruit basket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"in a bowl of fruit\",\n    \"in a fruit basket\",\n    \"in the produce section of the supermarket\",\n    \"in the refrigerator\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"kitchen, fruit bowl, fruit basket, refrigerator\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"tree\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"grocery\", \"orchard\", \"tree\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in your fruit basket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"supermarket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"basket\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"supermarket\",\n    \"farmers market\",\n    \"grocery store\",\n    \"fruit stand\",\n    \"garden\",\n    \"orchard\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on a tree\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"house\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in a basket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"on the tree\", \"in the supermarket\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"apple store\"\n}\n"
+  }
+]

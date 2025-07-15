@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2.0,\n  \"unit\": \"pounds\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 2.3}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 0.84 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1.62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 15.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1.0,\n\"units\": \"pounds\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 1.5 }\n   \t  \t  \t  \t  \t  \t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 2.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 6.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.1234567890\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"number\": {\n      \"value\": 2,\n      \"unit\": \"lb\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"4 pounds\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 0.0 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 500000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.44\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 50800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 599\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 5000 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 7000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 230.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\" : 2561168,\n  \"is_admin\" : true,\n  \"display_name\" : \"Sarah Connor\",\n  \"language_code\" : \"en-US\",\n  \"last_seen_ip\" : \"172.16.0.1\",\n  \"last_seen_ts\" : \"2018-01-16 00:00:00 UTC\",\n  \"created_ts\" : \"2018-01-16 00:00:00 UTC\",\n  \"updated_ts\" : \"2018-01-16 00:00:00 UTC\",\n  \"is_active\" : true\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"16.7\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 4.75}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"airplane\": {\n    \"width\": 3000.0\n  },\n  \"airplane\": {\n    \"width\": 5000.0\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.4384\n}\n"
+  }
+]

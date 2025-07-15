@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"disposition\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"a kind of\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"trains\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"commonly_used_by_people\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":\"noun\",\"sense\":\"a line of railway cars coupled together and drawn by a locomotive\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"disposition\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"movement\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"commuter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"public\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concepts\": [\n    {\n      \"concept_id\": \"train\",\n      \"name\": \"train\",\n      \"properties\": [\n        {\n          \"property_id\": \"public\",\n          \"name\": \"public\",\n          \"value\": \"public\"\n        },\n        {\n          \"property_id\": \"transport\",\n          \"name\": \"transport\",\n          \"value\": \"transport\"\n        },\n        {\n          \"property_id\": \"line\",\n          \"name\": \"line\",\n          \"value\": \"line\"\n        },\n        {\n          \"property_id\": \"railway\",\n          \"name\": \"railway\",\n          \"value\": \"railway\"\n        },\n        {\n          \"property_id\": \"cars\",\n          \"name\": \"cars\",\n          \"value\": \"cars\"\n        },\n        {\n          \"property_id\": \"locomotive\",\n          \"name\": \"locomotive\",\n          \"value\": \"locomotive\"\n        }\n      ],\n      \"dispositions\": [\n        {\n          \"disposition_id\": \"coupled\",\n          \"name\": \"coupled\",\n          \"value\": \"coupled\"\n        },\n        {\n          \"disposition_id\": \"drawn\",\n          \"name\": \"drawn\",\n          \"value\": \"drawn\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"public\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"public\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"public\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"stationary\",\n  \"description\": \"A train is a form of rail transport consisting of a series of connected vehicles that run along a railroad track to transport passengers or goods.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"positive\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"commute\",\n  \"disposition\": \"get to work\",\n  \"disposition\": \"return home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"public\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"disposition of the train\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"public\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"public\"\n}\n"
+  }
+]

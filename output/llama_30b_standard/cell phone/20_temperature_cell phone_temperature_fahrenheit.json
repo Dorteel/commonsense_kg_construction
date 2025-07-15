@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cell phone\": \"telephony that uses transmission by radio rather than by wire\",\n  \"average temperature\": \"as in {} measured in fahrenheit.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Rajat\",\n  \"location\": \"London, UK\",\n  \"temperature\": 15,\n  \"telephony\": {\n    \"cell phone\": true\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 95.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 70.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cellphone\": \"cellphone\",\n  \"temperature\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"cell phone\": {\"temperature\": 52.0}, \"telephony\": {\"temperature\": 51.0}, \"telephony that uses transmission by radio rather than by wire\": {\"temperature\": 53.0}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 84}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 57.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 73.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68,\n  \"system\": {\n    \"id\": \"1234567890\",\n    \"name\": \"Amazon\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 76\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 80.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"telephony\": {\n        \"uses\": [\n            \"transmission\",\n            \"by radio\"\n        ],\n        \"instruments\": [\n            \"cell phone\"\n        ]\n    },\n    \"temperature\": {\n        \"measurements\": [\n            {\n                \"instrument\": \"celsius\"\n            },\n            {\n                \"instrument\": \"fahrenheit\"\n            }\n        ]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.00000000000001\n}\n"
+  }
+]

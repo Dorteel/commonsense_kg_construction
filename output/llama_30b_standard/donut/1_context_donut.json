@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"A pastry, or bun, is a sweet baked food made with dough that is more or less flattened and folded in on itself, often many times, in order to create a layered pastry. Pastry dough is rolled out thinly and used to line the bottom of baking dishes to prevent food from sticking. Pastry can also refer to the pastry case or \"\n        , \"context\":\"A donut or doughnut is a type of fried dough confectionery or dessert food. The doughnut or donut is popular in many countries and prepared in various forms as a sweet snack that can be homemade or purchased in bakeries, supermarkets, food stalls, and franchised specialty outlets. Doughnuts are usually deep-fried from a flour dough, and typically either ring-shaped or a number of shapes without a hole, and often filled."
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bakery\",\n\"restaurant\",\n\"food\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"breakfast\",\n  \"context\": \"dessert\",\n  \"context\": \"pastry\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"sweet baked goods\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\",\n  \"description\": \"a baked food that is deep-fried and sweet\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"donut shop\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bakery\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"Desserts\",\"definition\":\"A ring-shaped friedcake\",\n\"synonyms\":[\"ring-shaped friedcake\",\"ring-shaped cake\",\n\"crispy friedcake\",\"friedcake\"],\n\"parent_concepts\":[\n{\"concept\":\"Food\",\"definition\":\"Edible substance\",\n\"context\":\"Foods\"},\n{\"concept\":\"Snacks\",\"definition\":\"Foods eaten between meals\",\n\"context\":\"Snacks\"}\n]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\",\n  \"context\": \"food\",\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"bakery\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"a kind of cake\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bakery\",\n  \"context\": \"cake shop\",\n  \"context\": \"pastry shop\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bakery\",\n  \"context\": \"restaurant\",\n  \"context\": \"cafe\",\n  \"context\": \"supermarket\",\n  \"context\": \"home\",\n  \"context\": \"market\",\n  \"context\": \"store\",\n  \"context\": \"food\",\n  \"context\": \"donut\",\n  \"context\": \"food store\",\n  \"context\": \"sweet\",\n  \"context\": \"pastry\",\n  \"context\": \"snack\",\n  \"context\": \"food\",\n  \"context\": \"food item\",\n  \"context\": \"baked good\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context1\",\n  \"context2\": \"context2\",\n  \"context3\": \"context3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"food\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"baked goods\"\n}\n"
+  }
+]

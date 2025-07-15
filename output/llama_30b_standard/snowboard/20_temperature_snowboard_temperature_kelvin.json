@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"snowboard\" : {\n        \"average temperature\" : 16.67\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": \"true\",\n  \"snowboard\": \"true\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"snowboard\": \"snowboard\",\n  \"temperature\": \"temperature\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"snowboard\": {\n        \"temperature\": 273.15\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"snowboard\": {\n    \"type\": \"snowboard\",\n    \"temperature\": 250.00,\n    \"average_temperature\": \"273.15\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"weather\": \"cold\",\n  \"temperature\": \"10\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 205.57534\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"snowboard\": \"Snowboard\",\n  \"average-temperature\": 250.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"snowboard\": {\n    \"board\": {\n        \"like\": \"small surfboard\",\n        \"broad ski\": true\n    },\n    \"use\": {\n        \"standing position\": true,\n        \"slide down snow-covered slopes\": true\n    }\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": -15.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 230.0}\n"
+  }
+]

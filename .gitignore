@@ -3,5 +3,6 @@ models/
 outputs/
 outputs_debug/
 .venv/
-__*
 *.pyc
+instructor_env/
+commonsense_kg.egg-info/

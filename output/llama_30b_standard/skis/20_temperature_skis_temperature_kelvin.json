@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 299.072\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"skis\": [\n        \"narrow wood or metal or plastic runners used in pairs for gliding over snow\"\n    ],\n    \"average_temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"skis\": {\n  \"which\": \"which is narrow wood or metal or plastic runners used in pairs for gliding over snow\",\n  \"used\": \"used in pairs\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": \"313\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": \"wooden\",\n  \"snow\": \"powder\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 200.0,\n  \"location\": \"snowy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\":\n  {\n    \"name\": \"Jane Doe\"\n  },\n  \"question\":\n  {\n    \"skis\":\n    {\n      \"average temperature\":\n      {\n        \"kelvin\": \"1.3806504e+23\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 278.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"9\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"average\": {\n      \"temperature\": \"10\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"average temperature\": 250.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"The skis are long and narrow wood or metal or plastic runners used in pairs for gliding over snow\",\n  \"system_intent\": \"commonsense knowledge engineer\",\n  \"dialog_state_out\": {},\n  \"query_result\": {\n    \"query_text\": \"The skis are long and narrow wood or metal or plastic runners used in pairs for gliding over snow\",\n    \"parameters\": {},\n    \"contexts\": [],\n    \"metadata\": {\n      \"intent_name\": \"commonsense knowledge engineer\"\n    },\n    \"fulfillment\": {\n      \"fulfillment_messages\": [\n        {\n          \"text\": {\n            \"text\": [\n              \"Given the skis (which is narrow wood or metal or plastic runners used in pairs for gliding over snow),\"\n            ]\n          }\n        }\n      ],\n      \"fulfillment_text\": \"Given the skis (which is narrow wood or metal or plastic runners used in pairs for gliding over snow),\"\n    },\n    \"intent\": {\n      \"name\": \"commonsense knowledge engineer\"\n    }\n  },\n  \"action\": \"query_result\",\n  \"action_incomplete\": false,\n  \"action_status\": \"SUCCESS\",\n  \"version\": \"2.0\"\n}\n"
+  }
+]

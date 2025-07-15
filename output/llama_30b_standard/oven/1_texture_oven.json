@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"smooth\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\":\"ceramic\",\"texture\":\"glass\",\"texture\":\"polished metal\",\"texture\":\"stainless steel\",\"texture\":\"tin\",\"texture\":\"white enamel\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"textured\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"porous\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"baked\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"smooth\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\": \"breadcrumbs\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"hard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"nonstick\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"steel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"metal\",\n  \"description\": \"Metallic texture of an oven.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"metal\",\n  \"texture\": \"polished metal\",\n  \"texture\": \"stainless steel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\":\"steel\",\"color\":\"silver\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"hard\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\": \"porous\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"baked\",\n  \"texture\": \"roasted\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"porous\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"texture\": \"smooth\",\n    \"texture\": \"rough\",\n    \"texture\": \"bumpy\",\n    \"texture\": \"smooth\",\n    \"texture\": \"rough\",\n    \"texture\": \"bumpy\",\n    \"texture\": \"smooth\",\n    \"texture\": \"rough\",\n    \"texture\": \"bumpy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\": \"baked\"}\n"
+  }
+]

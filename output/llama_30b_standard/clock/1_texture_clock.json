@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"texture\": \"clock face\" }\n                 "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\":[\"clock face\",\"clock face with hands\",\"clock face with hands and numbers\",\"clock face with hands and numbers, and a small picture of a clock with hands\",\"clock face with hands and numbers, and a small picture of a clock with hands, and a big picture of a clock with hands\",\"clock face with hands and numbers, and a small picture of a clock with hands, and a big picture of a clock with hands and numbers\",\"clock face with hands and numbers, and a small picture of a clock with hands, and a big picture of a clock with hands and numbers, and a smaller picture of a clock with hands and numbers\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\": \"clock\",\"texture\": \"timepiece\",\"texture\": \"watch\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\":\"alarm\",\"clock\":{\"time\":\"04:10:30\",\"timezone\":null}}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"plastic\",\n  \"texture\": \"metal\",\n  \"texture\": \"glass\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"Gold\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"texture\": \"clock\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"clock face\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"analog\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"glass\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\" : \"flat\",\n  \"time\" : \"1:24:12 PM\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\" : \"wooden\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"texture\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"wood\",\n    \"metal\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\":\"clock-face\",\"texture\":\"clock\",\"texture\":\"timepiece\"}\n   \t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"analog\"\n}\n"
+  }
+]

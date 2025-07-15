@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"bedroom\", \"location\": \"toy store\", \"location\": \"birthday party\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"at home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\" : \"baby toy\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"playroom\", \"bedroom\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"toy shop\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"toy store\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : [\n    {\n      \"id\" : \"001\",\n      \"name\" : \"Bedroom\"\n    },\n    {\n      \"id\" : \"002\",\n      \"name\" : \"Toy Box\"\n    },\n    {\n      \"id\" : \"003\",\n      \"name\" : \"Playroom\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"a child's bedroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"baby's room\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"Playroom\",\n    \"Bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"child's room\",\"location\":\"living room\",\"location\":\"child's bedroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"toy store\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"in a toy store\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"baby bedroom\",\n  \"location\": \"kid's room\",\n  \"location\": \"baby room\",\n  \"location\": \"nursery\",\n  \"location\": \"bedroom\",\n  \"location\": \"cradle\",\n  \"location\": \"baby crib\",\n  \"location\": \"nursery\",\n  \"location\": \"child's room\",\n  \"location\": \"child's bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"bedroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"child's room\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"bed\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"bedroom\"\n}\n"
+  }
+]

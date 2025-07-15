@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 11.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 12\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 23.375\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"gender\": \"male\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"key\": \"width\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 15.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"1\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 6.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\" : 27.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Average size of keyboard\",\n  \"value\": 18.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 17\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 10}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 28.35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"key\": \"width\",\n\"type\": \"float\",\n\"minimum\": 0,\n\"maximum\": 1000000000000000\n}\n"
+  }
+]

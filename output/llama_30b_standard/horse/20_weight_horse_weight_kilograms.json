@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500.00000000000002\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 453}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 450\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the horse (which is solid-hoofed herbivorous quadruped domesticated since prehistoric times), provide the average weightas in {} measured in kilograms.\",\n  \"response\": {\n    \"weight\": 500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 450.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 450.00 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 453.6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 385.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"horse\": {\n    \"weight\": 450\n  }\n}\n"
+  }
+]

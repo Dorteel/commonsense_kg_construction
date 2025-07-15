@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\",\n  \"location\": \"kitchen\",\n  \"location\": \"outdoors\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"Bathroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Bathroom\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"bathroom\",\n    \"living room\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"bathroom\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"bathroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"kitchen\",\"location\":\"bathroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"bathroom\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in the bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"bathroom\",\"location\":\"kitchen\",\"location\":\"living room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"bathroom\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"bathroom\"}\n   "
+  }
+]

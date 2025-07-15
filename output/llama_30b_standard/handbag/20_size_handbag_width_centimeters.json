@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 10.0,\n  \"length\" : 13.0,\n  \"height\" : 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10,\n  \"height\": 10,\n  \"depth\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"width\": 15.5,\n    \"height\": 11.5,\n    \"length\": 6.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"6.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Fabia\",\n  \"title\": \"Chief Executive Officer\",\n  \"company\": \"Bird and Bird\",\n  \"email\": \"Fabia.Sandstrom@bird-bird.se\",\n  \"phone\": \"+46 111 111111\",\n  \"mobile\": \"+46 70 1111111\",\n  \"twitter\": \"fabia_sandstrom\",\n  \"address\": {\n    \"street\": \"Roslagsgatan 10\",\n    \"city\": \"Stockholm\",\n    \"zipcode\": \"11222\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"title\": \"Pocket Bag\",\n  \"imageUrl\": \"/images/pocket_bag.jpg\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"handbag\": {\n    \"size\": {\n      \"width\": 23.92156862745098\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": \"10\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": \"10\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\" : {\n    \"age\" : 20\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 22\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

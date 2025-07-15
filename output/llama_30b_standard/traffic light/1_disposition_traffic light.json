@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"colour signal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"traffic control device\",\n  \"examples\": [\n    \"red light\",\n    \"green light\",\n    \"yellow light\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"disposition\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":\"traffic signal\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"red\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"traffic light\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"color\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"a traffic light system that uses lights to control the flow of traffic at intersections\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"green\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"signal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"signal\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": [\n        \"green\",\n        \"yellow\",\n        \"red\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"stop\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"visual\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"visual\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"A visual signal to control the flow of traffic at intersections.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"traffic light\"\n}\n"
+  }
+]

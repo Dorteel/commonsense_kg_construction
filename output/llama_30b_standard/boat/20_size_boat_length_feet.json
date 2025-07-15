@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"8.1 m\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"boat\": {\n    \"length\": \"15.25\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 500}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": \"1\"}\n \t\t\t \t\t \t\t\t\t \t\t\t\t\t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": \"12\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"boat\" : [\n    {\n      \"length\" : 10,\n      \"type\" : \"motorboat\"\n    },\n    {\n      \"length\" : 15,\n      \"type\" : \"canoe\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 20.0,\n    \"width\": 5.0,\n    \"depth\": 2.0,\n    \"weight\": 500.0,\n    \"engineType\": \"Inboard\",\n    \"engineModel\": \"30 HP\",\n    \"fuelCapacity\": 30.0,\n    \"topSpeed\": 48.0,\n    \"year\": 1984,\n    \"horsepower\": 30.0,\n    \"color\": \"White\",\n    \"description\": \"19 feet long, white, single engine, 250 HP, good condition, $24,000\",\n    \"price\": 24000.0,\n    \"hullType\": \"Pontoon\",\n    \"location\": \"Seattle, WA\",\n    \"owner\": \"Mike\",\n    \"phone\": \"(206) 555-0156\",\n    \"url\": \"http://www.example.com\",\n    \"image\": \"http://www.example.com/images/boat.jpg\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.1412875\n}\n"
+  }
+]

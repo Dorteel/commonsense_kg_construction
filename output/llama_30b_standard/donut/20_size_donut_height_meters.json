@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"11\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.04\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"text\": \"I have a donut\",\n  \"context\": {\n    \"donut\": {\n      \"name\": \"donut\",\n      \"size\": \"small\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 2.54 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.03048}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.121\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.05\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.01145\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"donut\": {\n    \"height\": 1.5\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"donut\": {\n    \"height\": 0.05\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"id\": \"c33a2256-7a1f-49b2-8a92-93b787b96c62\",\n    \"name\": \"Katie\"\n  },\n  \"id\": \"2332423243\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"text\": \"I think the donut is small\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 21,\n  \"city\": \"Boston\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"id\": \"418421\",\n  \"name\": \"Cherry Donut\",\n  \"ingredients\": [\n    \"Flour\",\n    \"Sugar\",\n    \"Milk\",\n    \"Baking Powder\",\n    \"Salt\",\n    \"Sugar\",\n    \"Butter\",\n    \"Vanilla Extract\",\n    \"Sour Cream\"\n  ],\n  \"allergens\": [\n    \"Milk\",\n    \"Egg\",\n    \"Wheat\",\n    \"Sesame\"\n  ],\n  \"nutrition\": {\n    \"calories\": \"300\",\n    \"fat\": \"13.4g\",\n    \"carbs\": \"34g\",\n    \"protein\": \"3.8g\",\n    \"sodium\": \"210mg\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 0.06 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 0.3\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0,\n  \"radius\": 1.0\n}\n   "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 303.15\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"cup\": {\n        \"isA\": \"small open container\",\n        \"usuallyUsedFor\": \"drinking\",\n        \"usuallyHasA\": \"handle\",\n        \"averageTemperature\": \"303.15 Kelvin\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\":\"My Assistant\",\n  \"surname\":\"My Assistant\",\n  \"username\":\"myassistant\",\n  \"password\":\"myassistant\",\n  \"email\":\"myassistant@myassistant.com\",\n  \"phone\":\"+447849284125\",\n  \"address\":\"123 My Street\",\n  \"zipcode\":\"08000\",\n  \"city\":\"London\",\n  \"country\":\"UK\",\n  \"gender\":\"male\",\n  \"birthday\":\"1987-01-01T00:00:00.000Z\",\n  \"sign\":\"aries\",\n  \"marital_status\":\"single\",\n  \"children\":\"0\",\n  \"occupation\":\"software engineer\",\n  \"income\":\"30000\",\n  \"education\":\"BA\",\n  \"car\":\"yes\",\n  \"house\":\"yes\",\n  \"pets\":\"2\",\n  \"money_goals\":\"50000000\",\n  \"health_goals\":\"50000000\",\n  \"money\":\"100000\",\n  \"health\":\"100000\",\n  \"age\":30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cup\": {\n    \"temperature\": {\n      \"kelvin\": 100\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"question\": \"Given the cup (which is a small open container usually used for drinking; usually has a handle), provide the average temperatureas in {} measured in kelvin.\",\n\"context\": {\n    \"user\": \"user\",\n    \"system\": \"system\"\n},\n\"options\": {\n    \"maxRetry\": 3,\n    \"minRetry\": 0,\n    \"maxReliability\": 10,\n    \"minReliability\": 0,\n    \"maxResponsiveness\": 10,\n    \"minResponsiveness\": 0,\n    \"maxRetain\": 1,\n    \"minRetain\": 0\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 255\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 100,\n    \"type\": \"kelvin\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 25.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"Given the cup (which is a small open container usually used for drinking; usually has a handle), provide the average temperatureas in {} measured in kelvin. Return only JSON with key:  - temperature (float).\",\n  \"context\": {\n    \"cup\": {\n      \"name\": \"cup\",\n      \"type\": \"object\",\n      \"properties\": {\n        \"handle\": {\n          \"type\": \"string\",\n          \"pattern\": \"handle\"\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"373\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 310\n}\n"
+  }
+]

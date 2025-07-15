@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bird\": {\n    \"temperature\": \"24\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bird\": {\n    \"temperature\": 35.6\n  },\n  \"cat\": {\n    \"temperature\": 37.2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"bird\":\"bird\",\n\"temperature\":\"temperature\",\n\"bird\": \"bird\",\n\"average\": \"average\",\n\"temperature\": \"temperature\",\n\"bird\": \"bird\",\n\"average\": \"average\",\n\"temperature\": \"temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 34.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\" : 98.6,\n  \"temperature\" : 98.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bird\": \"chicken\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 98.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 28.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 37.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bird\": \"penguin\",\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bird\": {\n    \"wings\": true,\n    \"feathers\": true,\n    \"eggs\": true\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bird\": \"robin\",\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 36.67\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 45.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 45}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alice\",\n  \"address\": {\n    \"street\": \"Eksteenskuil\",\n    \"city\": \"Kempton Park\",\n    \"zip\": \"1620\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

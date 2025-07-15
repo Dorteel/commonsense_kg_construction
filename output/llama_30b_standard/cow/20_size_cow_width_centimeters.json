@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 90\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"cow\": {\n    \"gender\": \"female\",\n    \"domestic_cattle\": \"yes\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"number\",\n  \"value\": \"70\",\n  \"unit\": \"cm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 140.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 56}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 63\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 125.44\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 135.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.6,\n  \"height\": 1.4,\n  \"weight\": 450,\n  \"legs\": 4,\n  \"tails\": 1,\n  \"horns\": 1,\n  \"heads\": 2\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 150}\n"
+  }
+]

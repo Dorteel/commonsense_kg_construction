@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"10\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\" : \"number\",\n  \"minimum\" : 0,\n  \"maximum\" : 100000000,\n  \"multipleOf\": 1\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Susan\",\n  \"gender\": \"female\",\n  \"age\": 22,\n  \"height\": 65.5\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10,\n  \"height\": 5,\n  \"depth\": 10,\n  \"price\": 50,\n  \"is_frosted\": true,\n  \"is_coconut\": true,\n  \"is_chocolate\": true,\n  \"is_lemon\": false,\n  \"is_raspberry\": false\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 16.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 11.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alice\",\n  \"address\": {\n    \"streetAddress\": \"21 2nd Street\",\n    \"city\": \"New York\",\n    \"state\": \"NY\",\n    \"postalCode\": \"10021\"\n  },\n  \"phoneNumbers\": [\n    {\n      \"type\": \"home\",\n      \"number\": \"212 555-1234\"\n    },\n    {\n      \"type\": \"fax\",\n      \"number\": \"646 555-4567\"\n    }\n  ],\n  \"emails\": [\n    {\n      \"type\": \"home\",\n      \"value\": \"alice@example.org\"\n    },\n    {\n      \"type\": \"work\",\n      \"value\": \"alice@example.com\"\n    }\n  ],\n  \"organizations\": [\n    {\n      \"name\": \"Example Corp.\",\n      \"title\": \"VP\",\n      \"department\": \"Accounting\",\n      \"manager\": \"Ringo Starr\",\n      \"office\": {\n        \"streetAddress\": \"94043rd Street\",\n        \"city\": \"Dublin\",\n        \"state\": \"CA\",\n        \"postalCode\": \"94044\"\n      }\n    }\n  ],\n  \"languagesSpoken\": [\n    {\n      \"name\": \"English\",\n      \"level\": \"Fluent\"\n    },\n    {\n      \"name\": \"French\",\n      \"level\": \"Basic\"\n    }\n  ],\n  \"pets\": [\n    {\n      \"name\": \"Tiddles"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the size of the average cake?\",\n  \"context\": {\n    \"cake\": {\n      \"width\": \"12\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\" : \"5\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":\"12\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 4, \"height\": 4, \"length\": 8}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"width\": 10\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 8.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 8}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 16\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"cake\": {\n    \"width\": 12,\n    \"height\": 12,\n    \"batter\": \"chocolate\"\n  }\n}\n"
+  }
+]

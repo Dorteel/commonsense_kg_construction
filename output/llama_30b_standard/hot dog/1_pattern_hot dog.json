@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"a frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"pattern\": \"hot dog\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bun, condiments, frankfurter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"pattern\": \"A frankfurter served hot on a bun\",\n      \"type\": \"text\"\n    },\n    {\n      \"pattern\": \"A frankfurter served hot on a bun, or a hot dog\",\n      \"type\": \"text\"\n    },\n    {\n      \"pattern\": \"A frankfurter served hot on a bun. (noun)\",\n      \"type\": \"text\"\n    },\n    {\n      \"pattern\": \"A frankfurter served hot on a bun (noun).\",\n      \"type\": \"text\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\":\"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"pattern\": \"The hot dog is on a bun\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a frankfurter served hot on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"hot dog\",\n  \"example_text\": [\n    \"a hot dog\",\n    \"a frankfurter served hot on a bun\"\n  ]\n}\n"
+  }
+]

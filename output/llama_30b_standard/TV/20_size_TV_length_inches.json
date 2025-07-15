@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the TV (which is an electronic device that receives television signals and displays them on a screen), provide the average size as in {} measured in inches.\",\n  \"answers\": [\n    {\n      \"answer\": \"1080p\",\n      \"entities\": [\n        {\n          \"type\": \"TV\"\n        }\n      ],\n      \"intent\": \"action.devices.QUERY_CAPABILITIES\",\n      \"confidence\": 0.880538\n    },\n    {\n      \"answer\": \"4k\",\n      \"entities\": [\n        {\n          \"type\": \"TV\"\n        }\n      ],\n      \"intent\": \"action.devices.QUERY_CAPABILITIES\",\n      \"confidence\": 0.880538\n    },\n    {\n      \"answer\": \"720p\",\n      \"entities\": [\n        {\n          \"type\": \"TV\"\n        }\n      ],\n      \"intent\": \"action.devices.QUERY_CAPABILITIES\",\n      \"confidence\": 0.880538\n    },\n    {\n      \"answer\": \"1080i\",\n      \"entities\": [\n        {\n          \"type\": \"TV\"\n        }\n      ],\n      \"intent\": \"action.devices.QUERY_CAPABILITIES\",\n      \"confidence\": 0.880538\n    },\n    {\n      \"answer\": \"4k\",\n      \"entities\": [\n        {\n          \"type\": \"TV\"\n        }\n      ],\n      \"intent\": \"action.devices.QUERY"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 36\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 55,\n  \"width\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"keywords\": [\n\"happy birthday\",\n\"happy birthday dear\",\n\"happy birthday to you\"\n],\n\"text\": \"Happy birthday to you\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 42.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 36.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"user\": {\n        \"TV\": {\n            \"averageSize\": 32\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 45}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"name\": \"Siri\",\n    \"version\": \"3.0\",\n    \"key\": \"1234567890\",\n    \"lang\": \"en-US\",\n    \"type\": \"assistant\",\n    \"request_id\": \"9a72128a-60c2-40d5-b577-b1f621972f0a\",\n    \"timestamp\": \"2019-11-10T16:26:46Z\",\n    \"context\": [\n        {\n            \"name\": \"Airports\",\n            \"parameters\": [\n                {\n                    \"name\": \"from\",\n                    \"type\": \"Airport\",\n                    \"value\": \"Boston Logan International Airport\"\n                }\n            ],\n            \"lifespan\": 120,\n            \"source\": \"agent\",\n            \"entities\": []\n        }\n    ],\n    \"inputs\": [\n        {\n            \"intent\": \"airports.airport\",\n            \"raw_inputs\": [\n                {\n                    \"input_type\": \"voice\",\n                    \"text\": \"airports\"\n                }\n            ],\n            \"arguments\": [\n                {\n                    \"name\": \"from\",\n                    \"type\": \"Airport\",\n                    \"value\": \"Boston Logan International Airport\"\n                }\n            ]\n        }\n    ],\n    \"user\": {\n        \"userId\": \"23d23344-b55d-4e29-9766-741a32c8992e\",\n        \"locale\": \"en-"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 27}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"language\": \"en-US\",\n    \"user_id\": \"user-1234\",\n    \"device_id\": \"device-1234\"\n  },\n  \"request\": {\n    \"source\": \"agent\",\n    \"version\": \"2.0\",\n    \"data\": {\n      \"conversation_id\": \"1493703739344\",\n      \"type\": 2,\n      \"time_zone\": \"America/Los_Angeles\"\n    }\n  },\n  \"contexts\": [\n    {\n      \"name\": \"system\",\n      \"lifespan\": 1000,\n      \"parameters\": {}\n    }\n  ],\n  \"payload\": {}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"40\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 17\n}\n"
+  }
+]

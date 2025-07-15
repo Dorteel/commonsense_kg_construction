@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"12345\",\n  \"assistant_id\": \"12345\",\n  \"question\": \"Given the pizza (which is Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese), provide the average temperatureas in {} measured in kelvin. Return only JSON with key: - temperature (float)\",\n  \"language\": \"en\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"type\": \"food\",\n    \"ingredients\": [\n      \"tomato\",\n      \"cheese\",\n      \"olive\",\n      \"ham\"\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"pizza\": {\n      \"type\": \"string\"\n    },\n    \"temperature\": {\n      \"type\": \"number\",\n      \"minimum\": 0\n    }\n  },\n  \"required\": [\n    \"pizza\"\n  ],\n  \"additionalProperties\": false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 320.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"type\": \"Pizza\",\n    \"ingredients\": [\n      \"dough\",\n      \"tomato\",\n      \"cheese\"\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": \"37\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"47.7\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 368.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 427.53\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 290\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 329.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 2.73\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"temperature\": 25\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Pizza\",\n  \"type\": \"pizza\",\n  \"category\": \"food\",\n  \"price\": 19.99,\n  \"ingredients\": [\"flour\", \"water\", \"tomatoes\", \"cheese\", \"oil\", \"salt\", \"garlic\", \"basil\", \"oregano\", \"yeast\"],\n  \"image\": \"http://static.taste.com.au/pizza-pasta/wp-content/uploads/2014/03/Pizza.jpg\",\n  \"preparation\": [\n    {\n      \"name\": \"Knead the dough\",\n      \"duration\": 10,\n      \"steps\": [\n        \"Put flour, yeast, sugar, salt and water in a bowl. Mix well.\",\n        \"Turn dough out onto a lightly floured surface. Knead for 10 minutes or until smooth and elastic.\",\n        \"Place dough in a large, lightly greased bowl, cover with a tea towel and stand in a warm, draught-free place for 30 minutes or until doubled in size.\",\n        \"Punch dough down and knead for 5 minutes or until smooth. Cover with a tea towel and stand in a warm, draught-free place for 30 minutes or until doubled in size.\",\n        \"Punch dough down and turn out onto a lightly floured surface. Knead for 5 minutes or until smooth. Cover with a tea towel and stand in a warm, draught-free place for 20 minutes or until doubled in size.\"\n      ]\n    },\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  }
+]

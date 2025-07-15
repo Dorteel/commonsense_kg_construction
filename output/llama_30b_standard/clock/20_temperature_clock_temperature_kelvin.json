@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"clock\": {\n        \"location\": {\n            \"temperature\": 15,\n            \"humidity\": 75\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"clock\": \"2:00 PM\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"time\": \"12:00 AM\",\n  \"location\": \"Bedroom\",\n  \"temperature\": \"18.5\",\n  \"humidity\": \"29\",\n  \"light\": \"30\",\n  \"sound\": \"30\",\n  \"co2\": \"400\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"clock\": {\n    \"time\": \"2018-02-01T09:30:00\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"time\": \"2016-01-01 00:00:00\",\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"time\": \"2018-10-16 00:00:00\",\n  \"temperature\": 302.948389961695\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"time\": \"5:00 PM\",\n  \"date\": \"July 5\",\n  \"weather\": \"Cloudy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"id\": \"935239991\",\n    \"first_name\": \"Sunil\",\n    \"last_name\": \"Kumar\",\n    \"gender\": \"male\",\n    \"phone_number\": \"935239991\",\n    \"email\": \"sunil@gmail.com\"\n  },\n  \"conversation\": [\n    {\n      \"time\": \"2016-03-01T23:38:11.819Z\",\n      \"message\": {\n        \"id\": \"935239991-935239991-23\",\n        \"source\": \"user\",\n        \"content\": \"Hi\"\n      }\n    },\n    {\n      \"time\": \"2016-03-01T23:38:12.834Z\",\n      \"message\": {\n        \"id\": \"935239991-935239991-23\",\n        \"source\": \"system\",\n        \"content\": \"Hi, Sunil.\"\n      }\n    },\n    {\n      \"time\": \"2016-03-01T23:38:12.851Z\",\n      \"message\": {\n        \"id\": \"935239991-935239991-23\",\n        \"source\": \"user\",\n        \"content\": \"How are you?\"\n      }\n    },\n    {\n      \"time\": \"2016-03-01T23:38:12.9"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"user\",\n  \"action\": \"run_query\",\n  \"context\": \"clock\",\n  \"parameters\": {\n    \"time\": \"12:00 PM\"\n  },\n  \"metadata\": {\n    \"time\": \"2018-04-10 12:00:00.000\",\n    \"device\": \"phone\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"clock\" : {\n    \"time\" : \"03:00 PM\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 290.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"clock\": {\n    \"time\": \"12:24:12 PM\"\n  },\n  \"temperature\": 300.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0,\n  \"time\": \"01:05:57 AM\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"description\": \"Assistant is a conversational AI that makes it easy to find what you need and get things done.\",\n  \"is_a\": [\n    \"Amazon Echo\",\n    \"Personal assistant\",\n    \"Voice-activated speaker\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 255\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"clock\": \"https://www.google.com/search?q=clock\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"clock\": {\n    \"time\": \"11:55:20\",\n    \"am\": true,\n    \"pm\": false\n  }\n}\n"
+  }
+]

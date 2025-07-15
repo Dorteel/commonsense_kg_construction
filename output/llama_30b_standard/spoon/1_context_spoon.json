@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"fork\",\n\"domain\": \"food\",\n\"name\": \"spoon\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"eating\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food and drink\",\n  \"relevance\": 0.5,\n  \"entities\": [\n    {\n      \"entity\": \"spoon\",\n      \"type\": \"physical_object\",\n      \"start_index\": 0,\n      \"end_index\": 8\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"eating\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"text\": \"in the kitchen\"\n    },\n    {\n      \"text\": \"in the dishwasher\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a utensil for eating or serving food.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\",\n  \"context\": \"kitchen\",\n  \"context\": \"tableware\",\n  \"context\": \"dining\",\n  \"context\": \"tool\",\n  \"context\": \"utensil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"cultural\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"a kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"dining room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"eating\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The spoon is a tableware utensil that is used to take up and convey food to the mouth. A spoon is also a cooking implement that is used to mix, stir, scoop or ladle liquids, ingredients or foods.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"dining\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The spoon is used to eat soup.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"eating utensil\",\n  \"intent\": \"ask_assistant_to_add_spoon_to_shopping_list\",\n  \"slots\": {\n    \"add_item_to_list\": {\n      \"value\": \"spoon\",\n      \"resolution\": {\n        \"resolution_type\": \"Fulfillment\",\n        \"fulfillment_state\": \"Fulfilled\",\n        \"resolution_message\": \"Spoon added to shopping list.\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"cutlery\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"utensil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"eating utensil\"\n}\n"
+  }
+]

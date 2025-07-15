@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"animal\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Given the giraffe, provide a list of common contexts for this concept.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"A giraffe is a large, even-toed ungulate mammal, the tallest living terrestrial animal and the largest ruminant. Its species name derives from its coat patterns that consists of brown patches separated by light-colored, saffron-colored lines. Each individual giraffe has a unique coat pattern, and researchers use them to identify or distinguish between individuals. The number of spots on their coat is also unique for each giraffe. The species is native to Africa, but has been introduced to North America and is found in large game reserves. The giraffe's scattered range extends from Chad in the north to South Africa in the south, and from Niger in the west to Somalia in the east. Giraffes usually inhabit savannas, grasslands, and open woodlands. Their food source is leaves, fruits and flowers of woody plants, primarily acacia species, which they browse at heights most other herbivores cannot reach. They may be preyed on by lions, leopards, spotted hyenas and African wild dogs. Giraffes live in herds of related females and their offspring, or bachelor herds of unrelated adult males, but are gregarious and may gather in large aggregations. Males establish social hierarchies through \"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"large mammal\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa\",\n    \"id\": \"giraffe\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"animals\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"animal\",\n  \"name\": \"giraffe\",\n  \"description\": \"a tall long-necked African mammal with a spotted coat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"animals\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"the giraffe is an even-toed ungulate mammal, the tallest of all land-living animal species, and the largest ruminant. Its species name giraffa is shared with its genus, but the names of individual giraffes often contain the species name, starting with giraffa, e.g. giraffa camelopardalis for the type species. The average mass for an adult male giraffe is 1,192 kilograms (2,628 lb) while the average mass for an adult female is 828 kilograms (1,825 lb). It is approximately 4.3 metres (14 ft) to 5.2 metres (17 ft) tall, although the tallest male recorded stood almost 6 metres (20 ft).\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a large plant-eating animal with a long neck and long legs, native to Africa\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"the tallest living quadruped\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"animal\",\n    \"keywords\": [\n        \"African\",\n        \"beast\",\n        \"beautiful\",\n        \"big\",\n        \"brown\",\n        \"creature\",\n        \"cute\",\n        \"exotic\",\n        \"fauna\",\n        \"fierce\",\n        \"free\",\n        \"furry\",\n        \"gigantic\",\n        \"giant\",\n        \"gracious\",\n        \"great\",\n        \"huge\",\n        \"jungle\",\n        \"king\",\n        \"living\",\n        \"long\",\n        \"mammal\",\n        \"monarch\",\n        \"noble\",\n        \"of\",\n        \"painting\",\n        \"picturesque\",\n        \"plenty\",\n        \"pretty\",\n        \"queen\",\n        \"regal\",\n        \"royal\",\n        \"savanna\",\n        \"savannah\",\n        \"savannahs\",\n        \"tall\",\n        \"tallest\",\n        \"tallest living\",\n        \"terrestrial\",\n        \"the\",\n        \"wild\",\n        \"wildlife\"\n    ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"giraffe is a tallest living quadruped.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"The giraffe is an African even-toed ungulate mammal, the tallest living terrestrial animal and the largest ruminant. Its species name refers to its camel-like appearance and the patches of color on it's coat that bear a vague resemblance to a leopard's spots. The giraffe's chief distinguishing characteristics are its extremely long neck and legs, its horn-like ossicones, and its distinctive coat patterns. It is classified under the family Giraffidae, along with its closest extant relative, the okapi. The nine subspecies are distinguished by their coat patterns. The giraffe's scattered range extends from Chad in the north to South Africa in the south, and from Niger in the west to Somalia in the east. Giraffes usually inhabit savannahs and woodlands. Their food source is leaves, fruits and flowers of woody plants, primarily acacia species, which they browse at heights most other herbivores cannot reach. Giraffes may be preyed on by lions, leopards, spotted hyenas and African wild dogs. Giraffes live in herds of related females and their offspring, or bachelor herds of unrelated adult males, but are gregarious and may gather in large aggregations. Males establish social hierarchies through \"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a tall and beautiful animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"a tall mammal with long neck and long legs\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The giraffe (Giraffa camelopardalis) is an African even-toed ungulate mammal, the tallest of all extant terrestrial animals and the largest ruminant. Its species name refers to its camel-like shape and its leopard-like coloring.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"zoo\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"savannah\"\n}\n"
+  }
+]

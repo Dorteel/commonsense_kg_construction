@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 500000}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 230\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 460\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1000.0,\n  \"width\": 300.0,\n  \"depth\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 400\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 380}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1800,\n  \"width\": 600,\n  \"depth\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 557.89\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 274.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 347\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"toilet\",\n  \"description\": \"a plumbing fixture for defecation and urination\",\n  \"properties\": {\n    \"height\": {\n      \"type\": \"float\",\n      \"value\": 0.56\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 376\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 440\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 254.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 355,\n  \"width\": 360,\n  \"length\": 460\n}\n"
+  }
+]

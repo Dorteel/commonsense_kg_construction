@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.37\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.0000000000000001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5,\n  \"height\": 4,\n  \"weight\": 5,\n  \"lifespan\": 11,\n  \"breed\": \"domestic cat\",\n  \"name\": \"Ginger\",\n  \"location\": \"home\",\n  \"species\": \"feline\",\n  \"sound\": \"meow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 5.18}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"cat\": {\n    \"width\": 1.3333333333333333\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"cat\": [\n    \"feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\",\n    \"A small carnivorous mammal with soft fur and retractable claws: domestic cats are often kept as pets and wildcats include the lynx and the leopard.\",\n    \"A small feline mammal that is domesticated or that has become wild by escape from captivity.\",\n    \"A small four-footed mammal of the genus Felis\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 2.36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1.4}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.3048\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 3.3\n}\n"
+  }
+]

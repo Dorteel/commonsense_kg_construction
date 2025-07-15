@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 76.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 66.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"size\": 40\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 700,\n  \"weight\": 100,\n  \"height\": 100,\n  \"breed\": \"German shepherd\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 50}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 57.622\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"dog\" :\n  {\n    \"name\" : \"Airedale Terrier\",\n    \"description\" : \"The Airedale Terrier, also called the \\u201cKing of Terriers\\u201d is the largest of all terriers and originated in England. It was bred to hunt otters, badgers, rats and other small game. It is a hardy and spirited breed that can be stubborn and needs firm, but not harsh, training. Its wiry coat needs regular grooming. \",\n    \"breed_group\" : \"terrier\",\n    \"breed_sub_group\" : \"terrier\",\n    \"origin\" : \"England\",\n    \"life_span\" : \"12\",\n    \"life_span_description\" : \"12\",\n    \"height\" : 23,\n    \"weight\" : 50,\n    \"average_size\" : 23,\n    \"average_size_description\" : \"23\",\n    \"description\" : \"The Airedale Terrier, also called the \\u201cKing of Terriers\\u201d is the largest of all terriers and originated in England. It was bred to hunt otters, badgers, rats and other small game. It is a hardy and spirited breed that can be stubborn and needs firm, but not harsh, training. Its wiry coat needs regular grooming.\",\n    \"breed_group_description\" : \"Terriers\",\n    \"breed_sub_group_description\" : \"terrier\",\n    \"origin_"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"dog\": {\n        \"size\": [\n            {\n                \"width\": 83,\n                \"height\": 127,\n                \"length\": 150\n            }\n        ]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 50\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 50.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"50\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60.0\n}\n"
+  }
+]

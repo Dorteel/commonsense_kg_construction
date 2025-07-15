@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"run\",\n    \"result\": {\n        \"horses\": [\"horse\", \"horses\", \"horse's\", \"horses'\"]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"run\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\":\"carry\",\n  \"function\":\"eat\",\n  \"function\":\"sleep\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"walk\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"sleeps\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"run\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"makes horse sound\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"jump\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"mobility\",\n    \"beauty\",\n    \"agriculture\"\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"run\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"travel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"move\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"horse_ride\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"riding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"move\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"transportation\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\":\"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"run\"\n}\n"
+  }
+]

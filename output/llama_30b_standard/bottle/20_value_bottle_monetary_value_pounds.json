@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 400.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"2.99\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"amount\": 1.0,\n    \"unit\": \"dollars\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 115.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 0.025}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 100.00 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 4 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 1.99}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n \"monetaryValue\": 1.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 0.3545454545454545}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.59\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 1.01 }\n    \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"1000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12.99\n}\n"
+  }
+]

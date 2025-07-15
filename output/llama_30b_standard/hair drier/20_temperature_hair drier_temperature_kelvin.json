@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"skill\": \"Ask Siri\",\n  \"command\": \"Ask Siri what the temperature of the hair dryer is in Kelvin\",\n  \"result\": {\n    \"answer\": \"Sorry, I don't know what the temperature of the hair dryer is in Kelvin.\",\n    \"response\": \"I can't answer that right now.\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"hair drier\":\n  {\n    \"temperature\": \"45\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 14.2}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"type\": \"SPECIFICATION_REQUEST\",\n    \"payload\": {\n        \"spec\": {\n            \"type\": \"ENTITY\",\n            \"properties\": [\n                {\n                    \"name\": \"temperature\",\n                    \"value\": 350.0000,\n                    \"type\": \"FLOAT\"\n                }\n            ],\n            \"type\": \"ENTITY\"\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 190.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jim\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 333.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"value\": 100\n  },\n  \"type\": \"number\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"hair drier\": {\n      \"temperature\": 295.15\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 273.15}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"hair_drier\" : {\n    \"average_temperature\" : 165.000000\n  },\n  \"heat_drier\" : {\n    \"average_temperature\" : 165.000000\n  },\n  \"hot_drier\" : {\n    \"average_temperature\" : 165.000000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"hair\": \"brown\",\n  \"eyes\": \"brown\",\n  \"height\": \"152 cm\",\n  \"weight\": \"55 kg\",\n  \"age\": \"28 years\",\n  \"hair_length\": \"6 cm\",\n  \"hair_drier\": \"hand-held electric blower\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"22.7\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 314.159\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"hair_drier\": {\n        \"temperature\": 310.15,\n        \"time_limit\": 60,\n        \"time_limit_unit\": \"sec\",\n        \"power\": 1.8\n    },\n    \"power_supply\": {\n        \"voltage\": 110,\n        \"current\": 1.8\n    }\n}\n"
+  }
+]

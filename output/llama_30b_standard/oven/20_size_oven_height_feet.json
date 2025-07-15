@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 6}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.33\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\" : {\n    \"user\" : {\n      \"name\" : \"Jane\"\n    },\n    \"context\" : {\n      \"system\" : {\n        \"name\" : \"Siri\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Average Oven Size\",\n  \"description\": \"Given the oven (which is kitchen appliance used for baking or roasting), provide the average size as in {} measured in feet.\",\n  \"type\": \"object\",\n  \"properties\": {\n    \"height\": {\n      \"type\": \"number\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\": \"assistant\",\n  \"questions\": [\n    {\n      \"type\": \"given\",\n      \"question\": \"Given the oven (which is kitchen appliance used for baking or roasting),\",\n      \"parameters\": [\n        {\n          \"type\": \"given\",\n          \"question\": \"provide the average sizeas in {} measured in feet.\",\n          \"parameters\": []\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12.34\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 3.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.5\n}\n"
+  }
+]

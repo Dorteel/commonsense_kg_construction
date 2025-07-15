@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\": \"eat\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\",\n  \"description\": \"Eat food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"eat\",\n    \"examples\": [\n        \"Cats eat mice.\",\n        \"Cats eat cat food.\"\n    ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"hunt\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"sit\",\n  \"function\": \"run\",\n  \"function\": \"jump\",\n  \"function\": \"sleep\",\n  \"function\": \"play\",\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"cat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"is_mammal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"walk\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"meow\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"eat\",\n    \"description\": \"Eats food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"meow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"to catch mice\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"to keep you warm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"play\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"hunt\",\n  \"parameters\": [\"mouse\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"walk\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"eat\",\"function\":\"sleep\",\"function\":\"walk\"}\n   \t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"sleep\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"sense\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"pet\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

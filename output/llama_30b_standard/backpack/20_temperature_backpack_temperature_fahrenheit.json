@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Given the backpack, provide the average temperature\",\n  \"properties\": {\n    \"backpack\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"temperature\": {\n          \"type\": \"float\"\n        }\n      },\n      \"required\": [\"temperature\"]\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"location\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"backpack\": {\n    \"temperature\": 32.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456\",\n  \"question\": \"What is the average temperature in Seattle?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"82\",\n  \"weather\": \"sunny\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"40\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 78.1\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"backpack\": {\n    \"type\": \"bag\",\n    \"carried\": true\n  },\n  \"average temperature\": {\n    \"as\": \"in {}\",\n    \"measured\": true,\n    \"in\": {\n      \"units\": \"fahrenheit\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"backpack\": \"bag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.123456,\n  \"bag\": {\n    \"size\": 1,\n    \"color\": \"blue\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.000000000000005,\n  \"time\": \"10:00:00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":45.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": \"32\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 60.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 98.6\n}\n"
+  }
+]

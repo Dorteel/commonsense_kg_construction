@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"bed\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"key1\": \"value1\", \"key2\": \"value2\", \"key3\": \"value3\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1499.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"value\": 10000,\n    \"unit\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 20000,\n  \"currency\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"bed\": {\n    \"monetary value\": 1000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 250.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 400\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"bed\": {\n    \"monetary value\": 100.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 2430\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 2000.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 400\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 400}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

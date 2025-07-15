@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench(s)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench(which is a long seat for more than one person)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"A long seat for more than one person.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"a long seat for more than one person\",\"confidence\":1}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"pattern\" : \"sit\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench (n) a seat for more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": \"bench (noun) - A long seat for more than one person\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"long seat for more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"long seat for more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"The bench is a seat for two people.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": \"bench with 1 person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"seat for more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"a bench\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"long seat for more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"pattern\": \"A long seat for more than one person\" }\n"
+  }
+]

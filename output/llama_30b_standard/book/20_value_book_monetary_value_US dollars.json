@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"value\": \"0.0\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 17.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\" : 0.45,\n  \"paper\" : 0.40,\n  \"magazine\" : 0.30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\": \"Harry Potter and the Deathly Hallows\",\n  \"author\": \"J.K. Rowling\",\n  \"genre\": \"fantasy\",\n  \"price\": 15\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\": {\n    \"title\": \"The Adventures of Huckleberry Finn\",\n    \"author\": \"Mark Twain\",\n    \"genre\": \"Young Adult\",\n    \"publisher\": \"Random House\",\n    \"publication_date\": \"2008-05-13\",\n    \"description\": \"The story begins in fictional St. Petersburg, Missouri, on the shore of the Mississippi River \"\n    },\n  \"monetary value\": 5.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 25.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"500.00\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\":\n  {\n    \"title\": \"The Hobbit\",\n    \"author\": \"J. R. R. Tolkien\",\n    \"genre\": \"fiction\",\n    \"price\": 16.99,\n    \"publisher\": \"Houghton Mifflin\",\n    \"published\": \"1937\",\n    \"num_pages\": 320\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 12345.67\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 44.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"books\": [\n    {\n      \"title\": \"Moby Dick\",\n      \"author\": \"Herman Melville\",\n      \"isbn\": \"0-553-21311-3\",\n      \"publisher\": \"Bantam\",\n      \"pages\": \"571\",\n      \"price\": \"18.00\"\n    },\n    {\n      \"title\": \"The Lord of the Rings\",\n      \"author\": \"J. R. R. Tolkien\",\n      \"isbn\": \"0-395-19395-8\",\n      \"publisher\": \"Houghton Mifflin\",\n      \"pages\": \"1216\",\n      \"price\": \"22.95\"\n    },\n    {\n      \"title\": \"The Fellowship of the Ring\",\n      \"author\": \"J. R. R. Tolkien\",\n      \"isbn\": \"0-395-28901-9\",\n      \"publisher\": \"Houghton Mifflin\",\n      \"pages\": \"354\",\n      \"price\": \"8.95\"\n    },\n    {\n      \"title\": \"The Two Towers\",\n      \"author\": \"J. R. R. Tolkien\",\n      \"isbn\": \"0-395-28902-7\",\n      \"publisher\": \"Houghton Mifflin\",\n      \"pages\": \"369\",\n      \"price\": \"8.95\"\n    },\n    {\n      \"title\": \"The Return of the King\",\n      \"author\": \"J. R. R. Tolkien\",\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 10.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0,\n  \"book\": \"Average\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"book\":{\"monetary value\": 48.12}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Ronald\",\n  \"gender\": \"male\",\n  \"age\": 26,\n  \"location\": \"New York\",\n  \"employer\": \"IBM\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\": 10.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"type\": \"float\",\n    \"minimum\": 0,\n    \"maximum\": 1000000000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.50,\n  \"rating\": 5,\n  \"is_fiction\": true,\n  \"title\": \"The Life and Opinions of Tristram Shandy, Gentleman\",\n  \"author\": \"Laurence Sterne\",\n  \"year\": 1759,\n  \"genre\": \"novel\",\n  \"publisher\": \"Penguin Classics\",\n  \"page_count\": 352\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  }
+]

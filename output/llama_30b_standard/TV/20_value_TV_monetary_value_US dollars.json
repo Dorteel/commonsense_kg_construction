@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\" : 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 564.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 215.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5000\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 1000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 300.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"USD\": 150,\n    \"EUR\": 120\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 500.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 42.0,\n  \"monetary unit\": \"USD\",\n  \"average\": 42.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 110.00000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"tv\": {\n    \"average_value\": 299\n  },\n  \"monetary_value\": 299\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 4000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 499.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1499\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 123.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1200\n}\n "
+  }
+]

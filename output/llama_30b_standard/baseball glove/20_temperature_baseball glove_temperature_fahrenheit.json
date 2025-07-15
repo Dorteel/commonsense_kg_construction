@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"baseball\": \"Baseball glove\",\n  \"temperature\": \"40\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"user\": \"user\"\n    , \"message\": \"Given the baseball glove (which is the handwear used by fielders in playing baseball), provide the average temperatureas in {} measured in fahrenheit.\\nReturn only JSON with key:\\n  - temperature (float)\"\n    , \"context\": {\n        \"gloves\": {\n            \"baseball\": {\n                \"handwear\": \"handwear\",\n                \"used\": \"used\"\n            }\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 73.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 78.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 2.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 62.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 73.4}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 71.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 78.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 90\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 29.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 54.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 55\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"baseball\" : {\n    \"glove\" : {\n      \"handwear\" : {\n        \"used\" : {\n          \"fielders\" : {\n            \"playing\" : {\n              \"baseball\" : {\n                \"temperature\" : {\n                  \"average\" : {\n                    \"measured\" : {\n                    }\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n"
+  }
+]

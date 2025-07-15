@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": 0.1938\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.086\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\" : 0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.033222\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.041666666666666666\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"spoon\": {\n    \"height\": 2.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.46320000000000004\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.425656603597417}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"15\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.060000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.42,\n  \"width\": 0.09,\n  \"depth\": 0.07\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"spoon\",\n  \"description\": \"A spoon is a utensil consisting of a small shallow bowl, oval or round, at the end of a handle. It is used for eating liquid foods and solid foods which have been made into a liquid or paste. Spoons are also used in food preparation to measure, mix, stir and toss ingredients.\",\n  \"height\": 0.4,\n  \"width\": 0.4,\n  \"weight\": 0.2,\n  \"average_size\": \"0.4\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 15.1234567}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.2,\n  \"length\": 1,\n  \"width\": 0.3\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"name\",\n  \"height\": 0.65\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 0.0}\n    \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 71.6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 80.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": [\n    {\n      \"type\": \"rectangle\",\n      \"size\": [\n        {\n          \"type\": \"measure\",\n          \"unit\": \"feet\",\n          \"value\": 2.5\n        },\n        {\n          \"type\": \"measure\",\n          \"unit\": \"feet\",\n          \"value\": 1.25\n        },\n        {\n          \"type\": \"measure\",\n          \"unit\": \"feet\",\n          \"value\": 1\n        }\n      ]\n    }\n  ]\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 75}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 60.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": {\n    \"container\": \"portable\",\n    \"clothes\": \"yes\"\n  },\n  \"temperature\": 75.0,\n  \"average\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": {\n    \"temperature\": 60.0,\n    \"humidity\": 50\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"suitcase\": { \"average_temperature\": 40 } }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 63.2,\n  \"time\": \"11:00 PM\",\n  \"location\": \"Los Angeles\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 54.9\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": \"1234567890\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"suitcase\": {\"portable\": {\"rectangular\": {\"container\": {\"carry\": {\"clothes\": {\"average\": {\"temperature\": {\"as\": {\"in\": {\"{\": {\"f\": {\"ahrenheit\": {\"Return\": {\"only\": {\"JSON\": {\"with\": {\"key\": {\"-\": {\"temperature\": {\"(float)\": {\"\"\n:\n[{\"suitcase\": {\"portable\": {\"rectangular\": {\"container\": {\"carry\": {\"clothes\": {\"average\": {\"temperature\": {\"as\": {\"in\": {\"{\": {\"f\": {\"ahrenheit\": {\"Return\": {\"only\": {\"JSON\": {\"with\": {\"key\": {\"-\": {\"temperature\": {\"(float)\": {\"\"\n:\n[{\"suitcase\": {\"portable\": {\"rectangular\": {\"container\": {\"carry\": {\"clothes\": {\"average\": {\"temperature\": {\"as\": {\"in\": {\"{\": {\"f\": {\"ahrenheit\": {\"Return\": {\"only\": {\"JSON\": {\"with\": {\"key\": {\"-\": {\"temperature\": {\"(float)\": {\"\"\n:\n[{\"suitcase\": {\"portable\": {\"rectangular\": {\"container\": {\"carry\": {\"clothes\": {\"average\": {\"temperature\": {\"as\": {\"in\": {\"{\": {\"f\": {\"ahrenheit\": {\"Return\": {\"only\": {\"JSON\": {\"with\": {\"key\": {\"-\": {\"temperature\": {\"(float)\": {\"\"\n:\n[{\"suitcase\": {\"portable\": {\"rectangular\": {\"container\": {\"carry\": {\"clothes\": {\"average\": {\"temperature\": {\"as\": {\"in\": {\"{\": {\"f\": {\"ahrenheit\": {\"Return\": {\"only\": {\"JSON\": {\"with\": {\"key\": {\"-\": {\"temperature\": {\"(float)\": {\"\"\n:\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 70.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 85.0,\n  \"suitcase\": {\n    \"temperature\": 85.0,\n    \"container\": {\n      \"temperature\": 85.0,\n      \"rectangular\": {\n        \"temperature\": 85.0\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25\n}\n"
+  }
+]

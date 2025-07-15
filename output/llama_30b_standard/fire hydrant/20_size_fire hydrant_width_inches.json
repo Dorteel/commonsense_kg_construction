@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"input\": \"Given the fire hydrant (which is an upright hydrant for drawing water to use in fighting a fire), provide the average sizeas in {} measured in inches. \\nReturn only JSON with key:\\n  - width (float)\\n\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"user\": {\n\"age\": 34,\n\"gender\": \"Male\",\n\"name\": \"John\",\n\"height\": 75.0\n},\n\"user_info\": {\n\"user\": {\n\"age\": 34,\n\"gender\": \"Male\",\n\"name\": \"John\",\n\"height\": 75.0\n}\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"name\": \"Bill Smith\",\n    \"email\": \"bill@example.com\",\n    \"phone\": \"123-456-7890\",\n    \"company\": \"Example Corp.\",\n    \"title\": \"Vice President\",\n    \"department\": \"Sales\",\n    \"office\": \"123 Main St., Anytown, USA\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 6.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"user_id\": \"123456789\",\n    \"first_name\": \"Jane\",\n    \"last_name\": \"Doe\",\n    \"user_name\": \"JaneDoe\",\n    \"user_type\": \"customer\",\n    \"email\": \"jane.doe@email.com\",\n    \"phone\": \"1234567890\",\n    \"state\": \"FL\",\n    \"zipcode\": \"33126\",\n    \"country\": \"US\",\n    \"language\": \"en\",\n    \"timezone\": \"America/New_York\",\n    \"created_at\": \"2021-09-15T14:00:00.000Z\",\n    \"updated_at\": \"2021-09-15T14:00:00.000Z\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": {\n    \"value\": 4.5,\n    \"unit\": \"inches\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 24\n}\n"
+  }
+]

@@ -1,18 +1,20 @@
 local:
-  - name: llama2_7b_chat
-    model_path: models/llama-2-7b-chat.Q4_K_M.gguf
-  - name: olmo2_13B_instruct
-    model_path: models/olmo-2-1124-13B-instruct-Q4_K_M.gguf
-  - name: mistral_7b_instruct
-    model_path: models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
-  - name: llama31_8b_instruct
-    model_path: models/Meta-Llama-3.1-8B-Instruct-Q4_K_S.gguf
-  - name: deepseekr1_8b_instruct
-    model_path: models/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M.gguf
+  - name: llama_30b_standard
+    model_path: models/llama-30b.Q4_K_M.gguf
+  # - name: llama2_7b_chat
+  #   model_path: models/llama-2-7b-chat.Q4_K_M.gguf
+  # - name: olmo2_13B_instruct
+  #   model_path: models/olmo-2-1124-13B-instruct-Q4_K_M.gguf
+  # - name: mistral_7b_instruct
+  #   model_path: models/mistral-7b-instruct-v0.1.Q4_K_M.gguf
+  # - name: llama31_8b_instruct
+  #   model_path: models/Meta-Llama-3.1-8B-Instruct-Q4_K_S.gguf
+  # - name: deepseekr1_8b_instruct
+  #   model_path: models/DeepSeek-R1-0528-Qwen3-8B-Q4_K_M.gguf
 
 groq:
-  - name: deepseekr1llama_70b_distill
-    model_path: deepseek-r1-distill-llama-70b
+  # - name: deepseekr1llama_70b_distill
+  #   model_path: deepseek-r1-distill-llama-70b
   - name: qwen3_32b_standard
     model_path: qwen/qwen3-32b
   - name: mistralsaba_24b_standard

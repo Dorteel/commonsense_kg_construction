@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 150\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"diningTable\":{\"weight\":220}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"weight\": 200\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 32}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"average\": 140\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"table\" : {\n    \"dining\" : {\n      \"weight\" : 12.3\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"average weight\": 300\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"table\": {\n    \"weight\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"dining_table\": {\n    \"average_weight\": 138.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"user\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": \"160\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1.3456\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 140.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"dining\": {\n\"table\": {\n\"average_weight\": 250\n}\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\":200}\n"
+  }
+]

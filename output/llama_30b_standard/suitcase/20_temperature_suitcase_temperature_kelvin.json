@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 4.232\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"suitcase\": {\n        \"portable\": true,\n        \"rectangular\": true,\n        \"container\": true,\n        \"carrying\": true,\n        \"clothes\": true,\n        \"average temperature\": {\n            \"kelvin\": 300\n        }\n    }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\" : {\n    \"portable\" : true,\n    \"rectangular\" : true,\n    \"container\" : true,\n    \"carry\" : true,\n    \"clothes\" : true\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300.0}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\" : {\n    \"average temperature\" : 20.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15,\n  \"unit\": \"kelvin\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": {\n    \"is_portable\": true,\n    \"is_rectangular\": true,\n    \"is_container\": true,\n    \"is_for_clothes\": true,\n    \"has_temperature\": true\n  }\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 10.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 20}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": {\n    \"temperature\": \"0.00345678901234567890123456789\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"John Smith\",\n    \"age\": 35,\n    \"is_male\": true,\n    \"children_count\": 2,\n    \"suitcase\": {\n      \"temperature\": 20.0,\n      \"capacity\": 50.0,\n      \"weight\": 5.0,\n      \"color\": \"black\",\n      \"owner\": \"John Smith\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"suitcase\": {\n    \"type\": \"portable rectangular container for carrying clothes\",\n    \"temperature\": {\n      \"value\": 32.0,\n      \"unit\": \"celsius\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 2100000000000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 289.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"suitcase\": {\n        \"type\": \"portable\",\n        \"container\": \"for carrying clothes\",\n        \"temperature\": 25\n    },\n    \"temperature\": 25\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.0,\n  \"unit\": \"kelvin\"\n}\n "
+  }
+]

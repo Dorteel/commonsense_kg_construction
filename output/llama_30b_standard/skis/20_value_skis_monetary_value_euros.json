@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"answer\"\n  , \"answer\": {\n    \"text\": \"I don't know what the average monetary value is, but the average value in terms of length is 170 cm (66.9 inches)\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 6000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\" : {\n\t\"average_value\" : 100.00\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"monetary value\": \"210\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"averageValue\": 100,\n    \"monetaryValue\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": \"100\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"value\": 1000000000000000.0\n  },\n  \"user\": {\n    \"value\": 10000000.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 400.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 150 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 600000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"skis\": [\n{\n\"description\": \"skis\",\n\"monetary value\": 200\n},\n{\n\"description\": \"skis\",\n\"monetary value\": 200\n}\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": [\n    { \"type\": \"alpine\", \"length\": \"165\", \"width\": \"78\" },\n    { \"type\": \"alpine\", \"length\": \"163\", \"width\": \"80\" },\n    { \"type\": \"cross-country\", \"length\": \"189\", \"width\": \"68\" },\n    { \"type\": \"alpine\", \"length\": \"180\", \"width\": \"85\" },\n    { \"type\": \"alpine\", \"length\": \"168\", \"width\": \"82\" }\n  ]\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 234.4}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": \"1000\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"2500\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 200}\n  \t\t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 200\n}\n \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"skis\": [\n    {\n      \"averageValue\": 250.0\n    },\n    {\n      \"averageValue\": 350.0\n    },\n    {\n      \"averageValue\": 150.0\n    }\n  ]\n}\n"
+  }
+]

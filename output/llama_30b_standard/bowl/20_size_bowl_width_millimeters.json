@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": \"180mm\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 200\n}\n  \t\t\t\t\t\t\t\t\t  \t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"width\": \"125mm\",\n    \"height\": \"80mm\",\n    \"color\": \"white\"\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 180,\n  \"volume\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"width\": 100,\n    \"height\": 100,\n    \"diameter\": 100\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\",\n  \"average size\": \"100.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"size\": {\n      \"width\": 100\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": [\n    {\n      \"width\": 110\n    },\n    {\n      \"width\": 120\n    }\n  ],\n  \"pot\": [\n    {\n      \"width\": 120\n    },\n    {\n      \"width\": 130\n    }\n  ]\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 225.0}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 180}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 123456789\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Smith\",\n  \"age\": 60\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":\"27.94\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 24.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"type\": \"AVERAGE_SIZE\",\n\"key\": \"width\",\n\"value\": 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"70\"\n}\n "
+  }
+]

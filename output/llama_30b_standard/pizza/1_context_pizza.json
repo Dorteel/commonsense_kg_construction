@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a list of common contexts for this concept\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"food\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\",\n  \"context\": \"Italian food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context1\",\n  \"context2\": \"context2\",\n  \"context3\": \"context3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\" : \"Pizza Delivery\" }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"food\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"context1\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"eating\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"Pizza is a flatbread generally topped with tomato sauce and cheese and baked in an oven. It is commonly topped with a selection of meats, vegetables and condiments. The term pizza was first recorded in the 10th century in a Latin manuscript from the southern Italian town of Gaeta in Lazio, on the border with Campania. Modern pizza was invented in Naples, Italy, and the dish and its variants have since become popular in many areas of the world."
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\",\n  \"subcontext\": \"pizza\",\n  \"food_subcontext\": \"pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"pizza toppings\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"pizza toppings\",\"value\":\"Toppings are chosen for flavor, texture, and color.\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"meal\",\n  \"description\": \"a dish served as a main part of a meal\",\n  \"examples\": [\n    \"the chef created a delicious pizza\"\n  ],\n  \"id\": \"pizza\",\n  \"image\": \"http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pizza.jpg/1200px-Pizza.jpg\",\n  \"is_a\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"pizza delivery\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"food\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.15,\n  \"has_handle\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.0015\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.00000000001,\n  \"toothbrush\": {\n    \"is_small\": true,\n    \"is_used\": true,\n    \"is_cleaning\": true,\n    \"is_brush\": true,\n    \"is_in_mouth\": true,\n    \"is_handle\": false,\n    \"is_brush_end\": false,\n    \"is_long\": true,\n    \"is_used_to_clean\": true,\n    \"is_clean\": true,\n    \"is_used_to_clean_teeth\": true,\n    \"is_used_to_brush\": true,\n    \"is_brush_end_part\": false,\n    \"is_toothbrush_end\": false,\n    \"is_handle_part\": true,\n    \"is_bristles\": false,\n    \"is_toothbrush_part\": true,\n    \"is_brush_part\": true,\n    \"is_toothbrush_part_of_handle\": false,\n    \"has_bristles\": false,\n    \"is_toothbrush_part_of_handle_end\": false,\n    \"is_toothbrush_part_of_bristles\": false,\n    \"is_toothbrush_part_of_head\": false,\n    \"is_toothbrush_part_of_brush_end\": false,\n    \"is_toothbrush_part_of_brush_end_part\": false,\n    \"is_toothbrush_part_of_brush_end_bristle\": false,\n    \"is_toothbr"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 0.05\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 0.015\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 0.01\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.0,\n  \"brushes_of_this_size\": [\n    \"Toothbrush\",\n    \"Chewing gum\"\n  ],\n  \"categories\": [\n    \"Toothbrush\",\n    \"Chewing gum\"\n  ],\n  \"subcategories\": [\n    \"Toothbrush\",\n    \"Chewing gum\"\n  ],\n  \"sub_subcategories\": [\n    \"Toothbrush\",\n    \"Chewing gum\"\n  ],\n  \"related_items\": [\n    \"Toothbrush\",\n    \"Chewing gum\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 0.00417\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.01524\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 3.141592653589793\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 0.0000000000000001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.1378\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"is_a\": \"vessel\",\n    \"is_a\": \"round vessel\",\n    \"is_a\": \"container\",\n    \"is_a\": \"open at top\",\n    \"is_a\": \"used chiefly for holding food or liquids\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"capacity\": 1000,\n    \"temperature\": 100,\n    \"material\": \"ceramic\"\n  },\n  \"bowl_1\": {\n    \"capacity\": 10000,\n    \"temperature\": 10000,\n    \"material\": \"stainless steel\"\n  },\n  \"bowl_2\": {\n    \"capacity\": 50000,\n    \"temperature\": 10000,\n    \"material\": \"stainless steel\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"http://api.opencyc.org/api/opencyc-api/en/bowl\",\n  \"temperature\": \"http://api.opencyc.org/api/opencyc-api/en/temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"temperature\": 100000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"is_a\": [\n      \"vessel\",\n      \"open_vessel\"\n    ],\n    \"is_a_kind_of\": [\n      \"container\"\n    ],\n    \"is_part_of\": [\n      \"kitchen\"\n    ],\n    \"is_used_for\": [\n      \"storing_food\",\n      \"storing_liquid\"\n    ],\n    \"has_a_name\": \"bowl\"\n  },\n  \"container\": {\n    \"is_a\": [\n      \"vessel\",\n      \"open_vessel\"\n    ],\n    \"is_a_kind_of\": [\n      \"vessel\",\n      \"open_vessel\"\n    ],\n    \"is_used_for\": [\n      \"storing_food\",\n      \"storing_liquid\"\n    ],\n    \"has_a_name\": \"container\"\n  },\n  \"kitchen\": {\n    \"is_a\": [\n      \"room\",\n      \"place\"\n    ],\n    \"is_a_kind_of\": [\n      \"place\",\n      \"room\"\n    ],\n    \"is_used_for\": [\n      \"cooking\"\n    ],\n    \"has_a_name\": \"kitchen\"\n  },\n  \"open_vessel\": {\n    \"is_a\": [\n      \"vessel\",\n      \"open_vessel\"\n    ],\n    \"is_a_kind_of\": [\n      \"container\",\n      \"vessel\"\n    ],\n    \"is_used_for\": [\n      \"storing_food\",\n     "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": \"273\"}\n   \t   \t   \t   \t   \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\",\n  \"temperature\": \"float\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"temperature\": \"500 K\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"is_a\": \"vessel\",\n    \"is_a\": \"food_utensil\",\n    \"is_a\": \"container\",\n    \"is_a\": \"dishware\",\n    \"has_property\": \"volume\",\n    \"has_property\": \"capacity\",\n    \"has_property\": \"capacity_measurement\",\n    \"has_property\": \"content\",\n    \"has_property\": \"content_measurement\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"averageTemperature\": \"401.86688689119994\"\n  },\n  \"user\": {\n    \"averageTemperature\": \"401.86688689119994\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"1\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"shape\": \"round\",\n    \"material\": \"plastic\",\n    \"capacity\": 20000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 0.0001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\",\n\"temperature\": 293.15\n}\n"
+  }
+]

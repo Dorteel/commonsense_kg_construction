@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 14.5\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": \"157.75\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 254\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"key\": \"length\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 16.4,\n  \"height\" : 6.5,\n  \"width\" : 32.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 195.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 29.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the keyboard (which is device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like), provide the average sizeas in {} measured in millimeters. Return only JSON with key:  - length (float)\",\n  \"answer\": {\n    \"length\": 15.2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"key\": \"length\",\n  \"value\": 100.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": \"1500.0\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2900\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"key\": \"length\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"key\": \"length\",\n    \"value\": 293.66\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"assistant\": [\n    {\n      \"assistant_id\": \"1234567890\",\n      \"locale\": \"en-US\"\n    },\n    {\n      \"assistant_id\": \"1234567891\",\n      \"locale\": \"en-US\"\n    }\n  ]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"key\": \"length\",\n  \"value\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 414.752\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 132\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": \"119\",\n\"unit\": \"millimeters\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 590}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"remote\": {\n    \"brand\": \"Philips\",\n    \"model\": \"HD1375\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": \"30\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"data\": {\n    \"title\": \"What is the average height of a remote?\"\n    , \"topics\": []\n    , \"context\": []\n  }\n  , \"source\": \"agent\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"brand\": \"Panasonic\",\n  \"model\": \"RM-EZ40\",\n  \"type\": \"remote control\",\n  \"color\": \"black\",\n  \"size\": 4.5,\n  \"weight\": 130.0,\n  \"batteries\": {\n    \"type\": \"lithium\",\n    \"count\": 2\n  },\n  \"features\": [\n    \"volume control\",\n    \"channel control\",\n    \"power control\"\n  ],\n  \"accessories\": [\n    {\n      \"type\": \"battery charger\",\n      \"model\": \"AC-123\"\n    },\n    {\n      \"type\": \"carrying case\",\n      \"model\": \"EZ-40\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"color\" : \"red\",\n  \"size\" : {\n    \"height\" : 16,\n    \"width\" : 16,\n    \"length\" : 16\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Can you tell me about the remote?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"command\": \"get_size\",\n  \"size_type\": \"height\",\n  \"device_type\": \"remote\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"Wi-Fi Remote\",\n\"type\": \"Wi-Fi Remote\",\n\"description\": \"Control your TV and other devices from your phone.\",\n\"price\": 12.99,\n\"url\": \"www.example.com\",\n\"imageUrl\": \"www.example.com/images/product.jpg\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average sizeas in {} measured in centimeters.\",\n  \"keywords\": [\n    \"remote\",\n    \"device\",\n    \"control\",\n    \"machine\",\n    \"apparatus\",\n    \"distance\"\n  ],\n  \"context\": {\n    \"remote\": {\n      \"question\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average sizeas in {} measured in centimeters.\",\n      \"keywords\": [\n        \"remote\",\n        \"device\",\n        \"control\",\n        \"machine\",\n        \"apparatus\",\n        \"distance\"\n      ]\n    }\n  },\n  \"answer\": {\n    \"question\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average sizeas in {} measured in centimeters.\",\n    \"keywords\": [\n      \"remote\",\n      \"device\",\n      \"control\",\n      \"machine\",\n      \"apparatus\",\n      \"distance\"\n    ]\n  },\n  \"category\": \"technology\",\n  \"type\": \"problem\",\n  \"correctAnswer\": \"remote\",\n  \"incorrectAnswers\": [],\n  \"hints\": [],\n  \"solution\": \"remote\",\n  \"explanation\": \"You are a commonsense knowledge engineer. Return ONLY valid JSON.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"key\":\"assistant\", \"type\":\"string\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Remote\",\n  \"price\": 3.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 51,\n  \"height\": 190\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Ms. Assistant\",\n  \"gender\": \"female\",\n  \"age\": 37,\n  \"email\": \"msassistant@gmail.com\",\n  \"phone\": \"0786843128\",\n  \"country\": \"United Kingdom\",\n  \"city\": \"London\",\n  \"address\": {\n    \"streetAddress\": \"London\",\n    \"postalCode\": \"London\",\n    \"region\": \"England\",\n    \"country\": \"United Kingdom\"\n  },\n  \"picture\": {\n    \"large\": \"https://lh3.googleusercontent.com/-a_V4Wj1hzZw/AAAAAAAAAAI/AAAAAAAAAAA/1288-8cD8QY/photo.jpg?sz=120\"\n  },\n  \"isFemale\": true,\n  \"isMarried\": false,\n  \"isSingle\": true,\n  \"isInRelationship\": false,\n  \"isParent\": false,\n  \"isChild\": false,\n  \"isFriend\": false,\n  \"isFamily\": false,\n  \"isEmployed\": true,\n  \"isRetired\": false,\n  \"isInSchool\": false,\n  \"isInUniversity\": false,\n  \"isStudent\": false,\n  \"isTeacher\": false,\n  \"isInMilitary\": false,\n  \"isMilitaryVeteran\": false,\n  \"isCitizen\": true,\n  \"isRegisteredToVote\": true,\n  \"isHomeOwner\": false,\n  \"isRenter\": false,\n  \"is"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"response_type\": \"in_channel\",\n  \"text\": \"Hi there! How can I help?\",\n  \"attachment\": {\n    \"title\": \"Get started\",\n    \"text\": \"To get started, say something like 'Hi', 'Hello', or 'Hey' to get my attention.\",\n    \"image_url\": \"https://www.botframework.com/images/assistant.png\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"color\": \"white\",\n  \"height\": 60,\n  \"weight\": 10000,\n  \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"properties\": [\n    {\n      \"name\": \"assistant\",\n      \"properties\": [\n        {\n          \"name\": \"remote\",\n          \"properties\": [\n            {\n              \"name\": \"remote\",\n              \"properties\": [\n                {\n                  \"name\": \"remote\",\n                  \"properties\": [\n                    {\n                    \"name\": \"remote\",\n                    \"properties\": [\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                    \"name\",\n                    \"properties\",\n                   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Magnifying Glass\",\n    \"description\": \"A magnifying glass is a convex lens that is used to concentrate the light from the sun onto an object.\",\n    \"keywords\": [\"convex lens\", \"object\"],\n    \"category\": \"Optics\",\n    \"subcategory\": \"Magnifying Glass\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"size\": \"medium\"\n}\n"
+  }
+]

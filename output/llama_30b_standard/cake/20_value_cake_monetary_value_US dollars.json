@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 27\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"cake\": {\n        \"monetary value\": \"200\",\n        \"type\": \"chocolate\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 19.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 20.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the cake (which is baked goods made from or based on a mixture of flour, sugar, eggs, and fat), provide the average value measured in US dollars.\",\n  \"possible_answers\": [\n    \"USD 3.70\",\n    \"USD 3.25\",\n    \"USD 2.47\",\n    \"USD 2.52\",\n    \"USD 1.83\"\n  ],\n  \"correct_answer\": \"USD 3.25\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.3114142178255236\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.53\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 10.00}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 14.4893\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 34.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 25.62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 40.00}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 15.60\n}\n"
+  }
+]

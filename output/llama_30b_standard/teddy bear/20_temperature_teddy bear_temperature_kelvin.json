@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 290.15 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temp\": 293.15,\n    \"toy\": \"teddy bear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.15,\n  \"title\": \"Teddy Bear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"teddy bear\": 305\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": \"4.4 K\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 520.0,\n  \"teddy\": \"bear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"300.15\"\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.1103\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 273.15\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": \"273\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 418.074\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"text\": \"Given the teddy bear (which is plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)), provide the average temperatureas in {} measured in kelvin.\",\n    \"intent\": \"action.intent.TEXT\",\n    \"entities\": [\n        {\n            \"entity\": {\n                \"name\": \"temperature\",\n                \"type\": \"float\"\n            }\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"gender\": \"male\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alexa\",\n  \"gender\": \"female\",\n  \"age\": 43,\n  \"weight\": 132\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100000\n}\n"
+  }
+]

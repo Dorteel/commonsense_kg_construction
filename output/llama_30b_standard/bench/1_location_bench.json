@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"park\",\"location\":\"seating area\",\"location\":\"airport\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    {\n      \"name\": \"outside\",\n      \"description\": \"outside\"\n    },\n    {\n      \"name\": \"inside\",\n      \"description\": \"inside\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"sports stadium\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"park\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a park\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"outdoor\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"outside\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"sports stadium\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"garden\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"on the sidewalk\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\":\"park bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"park\",\"location\":\"beach\",\"location\":\"mall\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"the park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"outside\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"backyard\", \"porch\", \"patio\", \"dining room\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"living room\"}\n"
+  }
+]

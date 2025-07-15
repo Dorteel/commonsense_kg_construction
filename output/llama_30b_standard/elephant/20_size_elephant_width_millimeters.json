@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"1500\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 5000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Smith\",\n  \"age\": 45,\n  \"location\": \"Boston, MA\",\n  \"description\": \"Senior software engineer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\" : 1000.0 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 88.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 1524.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 123.456\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"width\": 305\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1000.0, \"weight\": 2000.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 762.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"elephant\": {\n      \"size\": 1000\n    }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"type\": \"input_text\",\n\"name\": \"width\",\n\"placeholder\": \"2000\",\n\"required\": true,\n\"data\": {\n  \"type\": \"int\",\n  \"minimum\": \"0\",\n  \"maximum\": \"1000000\",\n  \"default\": \"1000\",\n  \"meta\": {\n    \"text\": \"Width in mm\"\n  }\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 44.5\n}\n"
+  }
+]

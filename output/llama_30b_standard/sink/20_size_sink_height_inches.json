@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"id\": \"user\",\n    \"question\": \"Given the sink (which is plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe), provide the average sizeas in {} measured in inches. Return only JSON with key: \\n  - height (float)\",\n    \"options\": [\n        {\n            \"id\": \"option1\",\n            \"text\": \"24\",\n            \"value\": \"24\"\n        },\n        {\n            \"id\": \"option2\",\n            \"text\": \"27\",\n            \"value\": \"27\"\n        },\n        {\n            \"id\": \"option3\",\n            \"text\": \"28\",\n            \"value\": \"28\"\n        },\n        {\n            \"id\": \"option4\",\n            \"text\": \"29\",\n            \"value\": \"29\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":44}\n   \t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 14.75}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"height\": 17,\n    \"weight\": 160,\n    \"shoeSize\": 12\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"type\": \"bot\",\n  \"entities\": [\n    {\n      \"type\": \"device\",\n      \"name\": \"Assistant\"\n    },\n    {\n      \"type\": \"device\",\n      \"name\": \"Sink\"\n    }\n  ],\n  \"dialog_nodes\": [\n    {\n      \"id\": \"node1\",\n      \"type\": \"standard\",\n      \"name\": \"node1\",\n      \"url\": \"https://"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15.5\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 1.5,\n    \"width\": 1.5,\n    \"length\": 1.5,\n    \"capacity\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 50}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"id\": \"d3f3e4f7-f185-4a33-891f-f59439113c6e\",\n    \"is_agent_enabled\": true,\n    \"assistant_app_id\": \"1918e94d-892d-4048-a698-4f367fcd0192\",\n    \"assistant_app_version\": \"1.0\",\n    \"assistant_app_package_name\": \"com.google.assistant.assistant\",\n    \"assistant_app_package_version\": \"2.4.41000001\",\n    \"assistant_app_version_name\": \"2.4.41000001\",\n    \"assistant_app_version_code\": \"204410000\",\n    \"assistant_app_install_time\": \"2019-09-04T12:30:09.000Z\",\n    \"assistant_app_device_locale\": \"en_US\",\n    \"assistant_app_device_country\": \"US\",\n    \"assistant_app_device_model\": \"Pixel 3a\",\n    \"assistant_app_device_screen_density_dpi\": 420,\n    \"assistant_app_device_screen_size_width_dp\": 360,\n    \"assistant_app_device_screen_size_height_dp\": 720,\n    \"assistant_app_device_screen_size_"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"sink\": {\n    \"height\": 14.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"sink\": {\"height\": 14}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 16.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alice\",\n  \"age\": 28,\n  \"job\": \"Developer\",\n  \"married\": false,\n  \"hobby\": \"Golf\",\n  \"favoriteFood\": \"Pizza\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"sink\": {\n    \"height\": \"5\"\n  }\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 132,\n  \"bus\": \"a vehicle carrying many passengers; used for public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 750 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 99.5}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 120\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12.34,\n  \"units\": \"kilograms\",\n  \"vehicle\": \"bus\",\n  \"passengers\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 100\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 81.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 85\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bus\": \"bus\",\n  \"weight\": 200000,\n  \"average\": 150,\n  \"passenger\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.0,\n  \"type\": \"bus\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"name\": \"Romeo\",\n    \"age\": 28,\n    \"weight\": 100.0\n}\n"
+  }
+]

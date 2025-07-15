@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 30}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 17.78 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 22.5\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 2.38}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": \"30\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Jessica\",\n    \"height\": 170,\n    \"weight\": 120,\n    \"age\": 25,\n    \"bmi\": 24.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"avg\": 25\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"21.6\",\n  \"weight\": \"2.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 17.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.03125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 11.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.32\n}\n"
+  }
+]

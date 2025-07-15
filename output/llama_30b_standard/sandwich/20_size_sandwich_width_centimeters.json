@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"user\": \"user\", \"input_text\": \"I'm hungry\", \"intent\": \"default\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"title\": \"The size of a sandwich\",\n  \"question\": \"Given the sandwich (which is two (or more) slices of bread with a filling between them),\\nprovide the average sizeas in {}\\nmeasured in centimeters.\\nReturn only JSON with key:\\n  - width (float)\",\n  \"answers\": [\n    {\n      \"text\": \"20 cm.\",\n      \"key\": \"width\",\n      \"confidence\": 0.95\n    },\n    {\n      \"text\": \"15 cm.\",\n      \"key\": \"width\",\n      \"confidence\": 0.05\n    },\n    {\n      \"text\": \"30 cm.\",\n      \"key\": \"width\",\n      \"confidence\": 0.0\n    }\n  ],\n  \"correctAnswer\": {\n    \"text\": \"20 cm.\",\n    \"key\": \"width\",\n    \"confidence\": 1\n  },\n  \"incorrectAnswers\": [\n    {\n      \"text\": \"15 cm.\",\n      \"key\": \"width\",\n      \"confidence\": 0.05\n    },\n    {\n      \"text\": \"30 cm.\",\n      \"key\": \"width\",\n      \"confidence\": 0.0\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10.0\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.0\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 20}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 16.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"user\": {\n      \"sandwich\": {\n        \"size\": \"10\"\n      }\n    }\n  },\n  \"user\": {\n    \"sandwich\": {\n      \"size\": \"15\"\n    }\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"name\": \"Ms. X\",\n    \"phone\": \"9876543210\",\n    \"email\": \"ms_x@example.com\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": 15,\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 180\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 10,\n\"length\": 5,\n\"name\": \"Sandwich\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"title\": \"sandwich\",\n  \"type\": \"sandwich\",\n  \"subtypes\": [\n    {\n      \"title\": \"sandwich\",\n      \"type\": \"sandwich\"\n    }\n  ],\n  \"properties\": {\n    \"width\": 14,\n    \"height\": 5,\n    \"weight\": 2,\n    \"price\": 2\n  }\n}\n"
+  }
+]

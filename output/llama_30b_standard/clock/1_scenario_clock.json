@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A clock that is located in a house or an office building.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The clock has stopped ticking, so I am going to reset it\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The clock is in the kitchen.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"You are in the office and you check the clock to see if it's time for lunch.\",\"assistant_response\":\"That's a great idea, I'll call you when it's time for lunch.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"the clock is ticking away the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"When the clock has a time that is between 12:00 and 1:00, the clock is showing a time on the hour.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"The clock is on the wall.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"The clock is showing the time of day\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A timepiece that shows the time of day\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"to wake up in the morning\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The clock is broken.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"The clock is on the wall.\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"to tell time\",\n  \"sentence\": \"it shows the time of day.\",\n  \"concept_list\": [\n    { \"concept\": \"timepiece\", \"concept_value\": \"timepiece\" },\n    { \"concept\": \"time\", \"concept_value\": \"time\" }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The clock is in my kitchen.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a clock is a timepiece that shows the time of day\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a clock is used to tell the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The clock has the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"I know the time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"to know the time of day\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"A clock is a timepiece that shows the time of day.\",\"scenario\":\"The clock on your wall tells you what time it is.\",\"scenario\":\"You can look at the clock on the wall to see what time it is.\"}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key1\": \"value1\",\n  \"key2\": \"value2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": 0.87939453125\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bed\": {\n    \"height\": 0.9144,\n    \"length\": 2.0134,\n    \"width\": 1.2402\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 90\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 1000}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"bed\": {\n    \"average_height\": 76.2,\n    \"height_in_cms\": 76.2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100,\n  \"type\": \"king\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":0.2}\n \t  \t   \t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"value\": 200,\n    \"unit\": \"cm\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.381\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 80.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 1200.0\n}\n"
+  }
+]

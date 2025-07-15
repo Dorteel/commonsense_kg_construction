@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": \"4.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.063\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\" : {\n    \"id\" : 10001,\n    \"username\" : \"sally\",\n    \"firstname\" : \"sally\",\n    \"lastname\" : \"smith\",\n    \"email\" : \"sally.smith@email.com\",\n    \"phone\" : \"1234567890\",\n    \"picture\" : \"https://s3.amazonaws.com/profilepics/10001.jpg\"\n  },\n  \"conversation\" : {\n    \"conversation_id\" : \"1481138492525\",\n    \"type\" : \"user\",\n    \"language\" : \"en-US\",\n    \"user_id\" : \"10001\",\n    \"conversation_attributes\" : {\n      \"donut\" : {\n        \"type\" : \"donut\",\n        \"attributes\" : {\n          \"name\" : \"donut\",\n          \"color\" : \"blue\",\n          \"sprinkles\" : \"yes\",\n          \"size\" : \"medium\",\n          \"price\" : 1.99\n        }\n      }\n    },\n    \"created\" : 1481138492,\n    \"updated\" : 1481138492,\n    \"state\" : \"COMPLETED\",\n    \"input\" : {\n      \"text\" : \"i want a donut.\",\n      \"intent\" : \"None\",\n      \"intent_confirmation\" : \"None\",\n      \"slots\" : {\n        \"donut\" : {\n          \"value\" : \"donut\",\n          \"resolutions\""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"user_id\": \"user_id_string\",\n    \"is_admin\": false\n  },\n  \"user_id\": \"user_id_string\",\n  \"is_admin\": false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": 12\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.4921875\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 2.0,\n  \"width\" : 3.0,\n  \"depth\" : 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"gender\": \"female\",\n  \"image\": \"siri\",\n  \"description\": \"Siri is your personal assistant\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"user\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"donut\": {\n    \"type\": \"small ring-shaped friedcake\",\n    \"height\": 4\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 10.00}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\": \"doughnut\",\n  \"name\": \"The Boston Cream\",\n  \"calories\": 420,\n  \"fatContent\": 26.0,\n  \"height\": 1.5\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.5\n}\n"
+  }
+]

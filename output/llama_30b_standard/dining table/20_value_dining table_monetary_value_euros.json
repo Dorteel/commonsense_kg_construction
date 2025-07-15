@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 1200}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"average value\": 250\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 1234.56,\n  \"unit\": \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 1000,\n  \"unit\": \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"dining table\": {\n\t\"monetary value\": 1490,\n\t\"average value\": 0.625\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 24.5 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"average monetary value\": 1320.67\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"dining table\": [\n    {\n      \"monetary value\": 399.99\n    },\n    {\n      \"monetary value\": 599.99\n    },\n    {\n      \"monetary value\": 299.99\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetaryValue\": 3442.547341683113}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"dining_table\": {\n  \"monetary_value\": 10000\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 1234.56\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 62.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"dining table\": {\n    \"average value\": [\n      {\n        \"monetary value\": 100\n      },\n      {\n        \"monetary value\": 150\n      },\n      {\n        \"monetary value\": 100\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"table\": {\n    \"value\": 1000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 450.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": \"213.00\"}\n"
+  }
+]

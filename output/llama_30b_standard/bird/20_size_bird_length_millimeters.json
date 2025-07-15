@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": { \"type\": \"float\", \"value\": 15.8 } }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 400 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Brian\",\n  \"age\": 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 17.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 140\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"value\": 500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\" : \"Mickey Mouse\",\n  \"age\" : 19,\n  \"location\" : \"Bangalore\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 21.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"min\": 65,\n    \"max\": 105\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\" : 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1500.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100,\n  \"height\": 5000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5500,\n  \"mass\": 5000,\n  \"wing_loading\": 650000000,\n  \"wing_area\": 400000,\n  \"lifespan\": 5500000000,\n  \"flight_speed\": 6500000000,\n  \"wingspan\": 10000,\n  \"fuel_consumption\": 6500000000,\n  \"wing_span_to_length_ratio\": 200,\n  \"range\": 55000000000,\n  \"maximum_speed\": 55000000000\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 8.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 50,\n  \"surfboard\": {\n    \"width\": 100,\n    \"length\": 60,\n    \"thickness\": 4,\n    \"material\": \"polyester\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 44.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 1.23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.44\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 10\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12.0,\n  \"surfboard\": {\n    \"color\": \"blue\",\n    \"length\": 6.0,\n    \"width\": 2.0,\n    \"thickness\": 2.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 33.0,\n  \"surfboard\": {\n    \"description\": \"A surfboard is an elongated platform used in the sport of surfing. Surfboards are relatively light, of high-density foam, and generally vary in length from 5 feet (1.5 m) to 20 feet (6.1 m), with most between 6 and 12 feet (1.8 and 3.7 m).\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 14 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 11.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \"23.2\",\n  \"weight\": \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.424242424\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Wet Stuff\",\n  \"type\": \"surfboard\",\n  \"size\": \"medium\",\n  \"price\": 49.95,\n  \"weight\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 11.0,\n  \"weight_unit\": \"lbs\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12.0\n}\n"
+  }
+]

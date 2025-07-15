@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 3500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 4000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"car\":\"motor vehicle with four wheels\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 4000 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\":\"Brian\",\n  \"age\": 31,\n  \"hobbies\": [\"sports\", \"video games\", \"music\"]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"car\" : {\"weight\" : 3650}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\": {\n    \"average_weight\": 3000,\n    \"number_of_wheels\": 4\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1000\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\": \"audi-a8-l-sedan\",\n  \"weight\": {\n    \"lbs\": \"2963.32\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 2000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1100\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"2,000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question_id\": \"2176334543\",\n  \"question\": \"Given the car (which is a motor vehicle with four wheels; usually propelled by an internal combustion engine), provide the average weightas in {} measured in pounds.\",\n  \"answer\": \"3,500\",\n  \"context\": {\n    \"car\": \"https://en.wikipedia.org/wiki/Automobile\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"car\": {\n\"weight\": 4500\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"3000\"\n}\n   "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": \"0.1\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.065\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 7.62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.102\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 0.0012}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0003\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 8.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": [\n    [\n      \"width\",\n      [\n        2.0,\n        2.0\n      ]\n    ]\n  ]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 7.62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.25,\n  \"length\": 0.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.06\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\" : 0.1,\n  \"color\" : \"yellow\",\n  \"taste\" : \"sour\",\n  \"smell\" : \"citrus\",\n  \"texture\" : \"soft\",\n  \"flavor\" : \"sweet\",\n  \"family\" : \"Rutaceae\",\n  \"peel\" : \"thick\",\n  \"pulp\" : \"juicy\",\n  \"shape\" : \"round\",\n  \"seeds\" : \"many\",\n  \"pith\" : \"thick\",\n  \"thickness\" : \"thin\",\n  \"flesh\" : \"juicy\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.0867\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.042\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"type\":\"remote\",\n  \"name\":\"remote\",\n  \"description\":\"A remote control for the TV.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"key1\": \"value1\",\n    \"key2\": 2000,\n    \"key3\": \"value3\",\n    \"key4\": {\n        \"nested_key1\": \"nested_value1\",\n        \"nested_key2\": 2000,\n        \"nested_key3\": \"nested_value3\",\n        \"nested_key4\": [\n            \"nested_value4\",\n            \"nested_value5\"\n        ]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"key\": \"length\",\n    \"value\": \"3.0\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"Hue\",\n\"type\": \"light\",\n\"state\": {\n\"on\": true\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 200.0,\n  \"width\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"length\": {\n      \"type\": \"number\",\n      \"minimum\": 0.0,\n      \"maximum\": 10000.0\n    }\n  },\n  \"additionalProperties\": false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 2.31}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 0.03\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"id\": \"c03d0f05-38f5-488e-9687-b6528348a004\",\n  \"speech_url\": \"https://api.api.ai/api/assistant.json?v=20150910\",\n  \"source\": \"agent\",\n  \"query\": \"Tell me about the remote\",\n  \"action\": \"find\",\n  \"action_incomplete\": false,\n  \"parameters\": {\n    \"device\": \"Remote\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"id\": 12345678,\n  \"name\": \"test remote\",\n  \"type\": \"television\",\n  \"state\": \"on\",\n  \"unique_id\": \"12345678\",\n  \"device_info\": {\n    \"manufacturer\": \"manufacturer\",\n    \"model\": \"model\",\n    \"name\": \"name\",\n    \"sw_version\": \"sw_version\",\n    \"hub\": \"hub\",\n    \"hub_version\": \"hub_version\"\n  },\n  \"traits\": [\n    \"trait_1\",\n    \"trait_2\",\n    \"trait_3\"\n  ],\n  \"capabilities\": [\n    \"capability_1\",\n    \"capability_2\",\n    \"capability_3\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12.0\n}\n"
+  }
+]

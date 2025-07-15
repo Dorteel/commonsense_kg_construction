@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"wear\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to protect neck\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"to keep the neck warm\",\n  \"function\" : \"to be worn\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"tie\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to cover the neck\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"wear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tie-up\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"wear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tying\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\": \"to protect your neck from the cold\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\" : \"to tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to wear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"put on\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"wearing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\":\"Tie\",\n\"arguments\":[\n\"This is a necktie.\",\n\"This is also a necktie.\",\n\"This is another necktie.\"\n],\n\"function\":\"UnTie\",\n\"arguments\":[\n\"This is a necktie.\",\n\"This is also a necktie.\",\n\"This is another necktie.\"\n]\n}\n"
+  }
+]

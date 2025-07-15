@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1191.32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1800.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"gender\": \"female\",\n    \"location\": \"Los Angeles, California\"\n  },\n  \"chat_state\": \"idle\",\n  \"conversation_state\": {\n    \"conversation_type\": \"new\",\n    \"dialog_state_out\": {\n      \"current_intent\": {\n        \"intent\": \"assistant.intent.action.TEXT\",\n        \"data\": \"hi\"\n      },\n      \"latest_response_metadata\": {\n        \"intent_name\": \"assistant.intent.action.TEXT\",\n        \"intent_data\": {\n          \"is_input_text_not_synthesized\": true\n        },\n        \"webhook_used\": false\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 1800.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\": {\n    \"averageWeight\": 1400\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"car\" : {\n    \"type\" : \"motor vehicle\",\n    \"weight\" : 1500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 8000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"The car\",\n  \"required_keys\": [\"weight\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5000000000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 40000000\n}\n"
+  }
+]

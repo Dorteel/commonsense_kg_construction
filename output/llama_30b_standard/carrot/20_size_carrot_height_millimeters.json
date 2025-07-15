@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 230\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 13.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 65.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 50\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.25,\n  \"color\": \"orange\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"carrot_size\": {\n    \"average\": 75.0\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 32 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 19\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"height\": 30\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"180.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"height\": 20\n  },\n  \"tomato\": {\n    \"height\": 20\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 142.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  }
+]

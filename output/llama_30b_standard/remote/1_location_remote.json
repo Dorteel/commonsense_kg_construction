@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"bathroom\"}\n   \t  \t  \t  \t  \t  \t "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"at the top of the screen\",\n    \"at the bottom of the screen\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"remote\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\",\n  \"location\": \"bedroom\",\n  \"location\": \"kitchen\",\n  \"location\": \"bathroom\",\n  \"location\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"remote location\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"home\",\n  \"location\": \"office\",\n  \"location\": \"car\",\n  \"location\": \"boat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"remote control\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"home\",\n    \"office\",\n    \"remote location\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"living room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"garage\",\n    \"living room\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"desk\",\"location\":\"work\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"the living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"bedroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"device\"\n}\n"
+  }
+]

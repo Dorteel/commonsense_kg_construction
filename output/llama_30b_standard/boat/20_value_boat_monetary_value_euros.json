@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 500.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 4500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 200 }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"EUR 3500\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 1000.00,\n  \"currency\": \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 31.50, \"currency\": \"euros\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": {\n    \"euros\": {\n      \"value\": 100\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 40000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 12.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 3000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"boat\": {\"size\": \"small\", \"value\": {\"eur\": 2000}}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"value\": 100000,\n    \"unit\": \"EUR\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"18500\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary_value\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000,\n  \"measurement\": \"euros\",\n  \"units\": \"average\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 855.76}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"boat\": {\n    \"averageValue\": [\n      \"500000.00\",\n      \"200000.00\",\n      \"100000.00\",\n      \"350000.00\",\n      \"350000.00\",\n      \"150000.00\",\n      \"200000.00\"\n    ]\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 150\n}\n"
+  }
+]

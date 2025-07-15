@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Average Skateboard Size\",\n  \"description\": \"Given the skateboard (which is a board with wheels that is ridden in a standing or crouching position and propelled by foot), provide the average sizeas in {} measured in millimeters.\",\n  \"response_model\": {\n    \"0\": {\n      \"name\": \"skateboard\",\n      \"description\": \"A skateboard is a type of sports equipment used primarily for the sport of skateboarding. It usually consists of a specially designed maplewood board combined with a polyurethane coating used for making smoother slides and stronger durability. Most skateboards are made with 7 plies of this wood.\"\n    },\n    \"1\": {\n      \"name\": \"height\",\n      \"description\": \"The average height of the skateboard.\"\n    }\n  },\n  \"input_model\": {\n    \"0\": {\n      \"name\": \"skateboard\",\n      \"description\": \"A skateboard is a type of sports equipment used primarily for the sport of skateboarding. It usually consists of a specially designed maplewood board combined with a polyurethane coating used for making smoother slides and stronger durability. Most skateboards are made with 7 plies of this wood.\"\n    },\n    \"1\": {\n      \"name\": \"height\",\n      \"description\": \"The average height of the skateboard.\"\n    }\n  },\n  \"output_model\": {\n    \"0\": {\n      \"name\": \"height\",\n      \"description\": \"The average height of the skateboard.\"\n    }\n  },\n  \"score_model"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.04\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 120.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 11000 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 280\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\" : 210.000000\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"skateboard\": {\n    \"averageSize\": 120.0,\n    \"height\": 25.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\" : 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 140 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 76.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 150.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 667\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Ford\",\n  \"gender\": \"Male\",\n  \"age\": 13,\n  \"hobbies\": [\n    \"Programming\",\n    \"Playing Video Games\"\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.5,\n  \"width\": 10.2,\n  \"length\": 33.5,\n  \"wheel_diameter\": 50.8,\n  \"wheel_spacing\": 127,\n  \"wheel_base\": 196,\n  \"wheel_pitch\": 43.5,\n  \"wheel_offset\": 38.1,\n  \"truck_kingpin\": 31.8,\n  \"truck_baseplate\": 53.3,\n  \"truck_hanger\": 19.1\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  }
+]

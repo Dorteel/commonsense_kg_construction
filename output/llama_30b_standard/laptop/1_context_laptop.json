@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"computer\",\n  \"value\": \"laptop\",\n  \"key\": \"which is a portable computer small enough to use in your lap\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\",\n  \"context\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"situations\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a computer\",\n  \"context\": \"a machine\",\n  \"context\": \"a personal computer\",\n  \"context\": \"a computing device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"computer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"laptop\",\n  \"answer\": \"computer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"machine\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"computer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"office\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A laptop is a portable computer small enough to use in your lap\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"office\",\"score\":0.5671503911531774}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"computer hardware\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : [\n    \"computing device\",\n    \"computer\",\n    \"desktop computer\",\n    \"notebook\",\n    \"laptop\",\n    \"notebook computer\",\n    \"notebook pc\",\n    \"computer\",\n    \"computer device\",\n    \"electronic device\",\n    \"computing device\",\n    \"electronic device\",\n    \"portable computer\",\n    \"laptop computer\",\n    \"portable computer\",\n    \"personal computer\",\n    \"notebook pc\",\n    \"pc\",\n    \"personal computer\",\n    \"computer system\"\n  ],\n  \"context\" : [\n    \"computing device\",\n    \"computer\",\n    \"desktop computer\",\n    \"notebook\",\n    \"laptop\",\n    \"notebook computer\",\n    \"notebook pc\",\n    \"computer\",\n    \"computer device\",\n    \"electronic device\",\n    \"computing device\",\n    \"electronic device\",\n    \"portable computer\",\n    \"laptop computer\",\n    \"portable computer\",\n    \"personal computer\",\n    \"notebook pc\",\n    \"pc\",\n    \"personal computer\",\n    \"computer system\"\n  ],\n  \"context\" : [\n    \"computing device\",\n    \"computer\",\n    \"desktop computer\",\n    \"notebook\",\n    \"laptop\",\n    \"notebook computer\",\n    \"notebook pc\",\n    \"computer\",\n    \"computer device\",\n    \"electronic device\",\n    \"computing device\",\n    \"electronic device\",\n    \"portable computer\",\n    \"laptop computer\",\n    \"portable computer\",\n    \"personal"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context1\",\n  \"context\": \"context2\",\n  \"context\": \"context3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"mobile\",\n  \"context\": \"mobile-phone\",\n  \"context\": \"mobile-device\",\n  \"context\": \"computer\",\n  \"context\": \"electronics\",\n  \"context\": \"electronics-device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"laptop\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"computer\",\n  \"domain\": \"kitchen\",\n  \"location\": \"living room\",\n  \"object\": \"laptop\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a device for processing information, typically in binary form, according to instructions given to it in a variable program.\"\n}\n"
+  }
+]

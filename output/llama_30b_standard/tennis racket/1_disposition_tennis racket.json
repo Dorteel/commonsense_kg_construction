@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"toy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"for tennis\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tennis\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"tennis racket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"tournament\",\n  \"count\" : 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sports\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"user_id\": \"u123456789\",\n\"text\": \"Hi. How are you doing?\",\n\"timestamp\": \"2016-03-03T19:05:19.957Z\",\n\"locale\": \"en-US\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"battered\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tennis racket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"assistant\": {\n    \"disposition\": {\n      \"type\": \"object\",\n      \"properties\": {\n        \"assistant\": {\n          \"type\": \"object\",\n          \"properties\": {\n            \"name\": {\n              \"type\": \"string\"\n            },\n            \"description\": {\n              \"type\": \"string\"\n            },\n            \"type\": {\n              \"type\": \"string\"\n            }\n          },\n          \"required\": [\n            \"name\",\n            \"type\"\n          ]\n        }\n      },\n      \"required\": [\n        \"assistant\"\n      ]\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"tennis racket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\" : \"tennis\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tennis\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"a racket used to play tennis\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sports equipment\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tennis racket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"the\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"bought\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tennis racket\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"useful for playing tennis\"\n}\n"
+  }
+]

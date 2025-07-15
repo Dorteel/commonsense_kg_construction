@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25.4,\n  \"height\": 12.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"donut\",\n  \"name\": \"Blueberry Donut\"\n}\n \t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 35.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": \"50\",\n\"size\": \"small\",\n\"shape\": \"ring\",\n\"filling\": \"jam\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 44.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 38.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 23.0\n}\n  \t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"donut\",\n  \"variants\": [\n    {\n      \"name\": \"Eclair\",\n      \"flour\": [\n        \"wheat\",\n        \"unbleached\"\n      ],\n      \"size\": 105\n    },\n    {\n      \"name\": \"Croissant\",\n      \"flour\": [\n        \"wheat\",\n        \"unbleached\"\n      ],\n      \"size\": 250\n    },\n    {\n      \"name\": \"Brioche\",\n      \"flour\": [\n        \"wheat\"\n      ],\n      \"size\": 50\n    },\n    {\n      \"name\": \"Churro\",\n      \"flour\": [\n        \"wheat\",\n        \"unbleached\"\n      ],\n      \"size\": 250\n    }\n  ]\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"Given the donut, provide the average sizeas in {} measured in millimeters.\",\n  \"data\": {\n    \"donut\": {\n      \"size\": 60\n    }\n  },\n  \"context\": {\n    \"donut\": {\n      \"size\": \"60\"\n    }\n  },\n  \"metadata\": {\n    \"intent\": \"assistant\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 160\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_name\": \"Jane Doe\",\n  \"user_age\": 25,\n  \"user_gender\": \"female\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"donut\",\n  \"ingredients\": [\n    \"flour\",\n    \"butter\",\n    \"sugar\",\n    \"salt\",\n    \"yeast\",\n    \"water\"\n  ],\n  \"directions\": [\n    \"Dissolve yeast in warm water in a large bowl. Add the flour, sugar, salt, butter, and egg yolks and beat until smooth. Cover the bowl with a damp cloth and let rise in a warm place until doubled in size, about 1 hour. Punch dough down and roll out on a lightly floured surface to 1/2-inch thickness. Cut into 2-inch rounds with a floured 2-inch cutter. Cover and let rise until doubled in size, about 30 minutes. Fry in hot oil at 375 degrees F (190 degrees C) until golden brown, 2 to 3 minutes per side. Drain on paper towels and serve warm. Makes 1 dozen.\"\n  ]\n}\n "
+  }
+]

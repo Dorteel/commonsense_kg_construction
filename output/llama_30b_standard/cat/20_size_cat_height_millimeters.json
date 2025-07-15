@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"Cat\",\n\"height\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":\"28\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 350 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"cat\": \"feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats\",\n  \"averageSize\": 12.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 750\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 129 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 190.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\" : 200}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 40.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 115\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100.46\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5.78\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 320.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1000.0,\n  \"weight\": 1000.0,\n  \"age\": 1000.0\n}\n "
+  }
+]

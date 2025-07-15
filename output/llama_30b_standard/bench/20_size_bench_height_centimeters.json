@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 56.5,\n  \"width\": 25.5,\n  \"length\": 180,\n  \"weight\": 190\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bench\": {\n    \"height\": 100\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 155.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bench\" : {\n    \"height\" : 0.72\n  },\n  \"seat\" : {\n    \"height\" : 0.63\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": \"John\",\n  \"height\": 198,\n  \"bench\": \"long\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 140.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 0.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 121.92\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 91.44,\n  \"weight\": 80,\n  \"waist\": 76,\n  \"chest\": 97,\n  \"biceps\": 38,\n  \"forearms\": 12.7,\n  \"wrist\": 7,\n  \"neck\": 15.2,\n  \"calves\": 40.6,\n  \"thighs\": 63,\n  \"hips\": 94\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"bench\": {\"height\": {\"average\": 85}}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 40,\n  \"width\": 100,\n  \"length\": 100,\n  \"material\": \"wood\",\n  \"color\": \"brown\",\n  \"style\": \"rustic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 22,\n  \"height\": 170.0,\n  \"weight\": 80.0,\n  \"eyes\": \"green\",\n  \"hair\": \"brown\",\n  \"gender\": \"male\",\n  \"nationality\": \"american\",\n  \"marital_status\": \"single\",\n  \"job\": \"student\",\n  \"education\": \"high school\",\n  \"children\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 0.40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20\n}\n"
+  }
+]

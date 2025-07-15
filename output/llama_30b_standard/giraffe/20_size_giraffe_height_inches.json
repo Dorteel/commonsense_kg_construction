@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 6.00 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 13.9,\n  \"color\": \"brown\",\n  \"size\": 60,\n  \"type\": \"mammal\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"answer\":\"40\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 90.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"Jane Doe\",\n\"age\": 35,\n\"height\": 67.74,\n\"weight\": 167.64,\n\"blood_pressure\": 110.3,\n\"eye_color\": \"blue\",\n\"hair_color\": \"blonde\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 580\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 7.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 180,\n  \"average_size\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"answer\": \"19.5\",\n    \"source\": \"https://en.wikipedia.org/wiki/Giraffe\",\n    \"type\": \"float\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 69.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": \"17.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 7.25\n}\n"
+  }
+]

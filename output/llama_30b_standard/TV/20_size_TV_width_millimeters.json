@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1920\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"device\": \"TV\",\n  \"size\": {\n    \"width\": 1200\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 819.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1524.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"type\": \"object\",\n    \"properties\": {\n        \"user\": {\n            \"type\": \"string\"\n        },\n        \"tv\": {\n            \"type\": \"object\",\n            \"properties\": {\n                \"type\": {\n                    \"type\": \"string\"\n                }\n            }\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1270\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"name\":\"Boris\",\"age\":30,\"job\":\"Software Engineer\",\"phone\":\"+1 555 4321 234\",\"address\":{\"street\":\"My Street 1234\",\"city\":\"My City\",\"state\":\"CA\",\"zip\":\"94114\"},\"friends\":[{\"name\":\"John\",\"age\":21,\"job\":\"Student\"},{\"name\":\"Jane\",\"age\":33,\"job\":\"Teacher\"}],\"car\":{\"color\":\"Black\",\"model\":\"Ford\"},\"pet\":\"Cat\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 820\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1334\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 850\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\",\n  \"bot\": \"Given the TV (which is an electronic device that receives television signals and displays them on a screen), provide the average sizeas in {} measured in millimeters. Return only JSON with key: width (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1000.0,\n  \"height\": 1000.0,\n  \"depth\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 700\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1200\n}\n"
+  }
+]

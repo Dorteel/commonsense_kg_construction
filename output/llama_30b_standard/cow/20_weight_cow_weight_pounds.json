@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"cow\": \"female of domestic cattle:\",\n  \"weight\": 1300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000,\n  \"species\": \"cow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"cow\": {\n    \"weight\": 1000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"cow\" : {\n        \"male\": \"bull\",\n        \"female\": \"cow\"\n    },\n    \"dog\": {\n        \"male\": \"dog\",\n        \"female\": \"bitch\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1,234 pounds\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 270.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"gender\": \"female\",\n    \"species\": \"domestic cattle\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 43.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1200,\n    \"gender\": \"female\",\n    \"breed\": \"brown\",\n    \"type\": \"bovine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\" : 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 700\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1500}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"cow\": {\n    \"gender\": \"female\",\n    \"domesticated\": \"true\",\n    \"weight\": 1200\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"name\": \"Fred\",\n\"age\": 30,\n\"weight\": 125\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

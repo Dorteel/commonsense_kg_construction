@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.54\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15.24,\n  \"width\": 3.14,\n  \"length\": 2.81,\n  \"weight\": 0.07,\n  \"volume\": 0.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"value\": \"2.54\",\n    \"units\": \"centimeters\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 12}\n                   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 21\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 1.57476328\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 7.776,\n    \"width\": 8.888\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 9}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5.08\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.54\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15.0,\n  \"width\": 5.0,\n  \"depth\": 2.0,\n  \"weight\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 10.0,\n    \"weight\": 50.0\n  }\n}\n"
+  }
+]

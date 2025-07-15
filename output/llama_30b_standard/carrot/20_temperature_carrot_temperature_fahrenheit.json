@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 108.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 49.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 70.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 73.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"name\": \"carrot\",\n    \"color\": \"deep orange\",\n    \"edible\": true,\n    \"root\": true,\n    \"type\": \"plant\"\n  },\n  \"average\": 42.3,\n  \"temperature\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"carrot\": {\n        \"average_temperature\": 77.0\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 20}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"temperature\": 40\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 22.22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"75\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"carrot\": {\n        \"color\": \"orange\",\n        \"plant\": \"carrot plant\",\n        \"isEdible\": \"true\"\n    }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"color\": \"deep orange\",\n    \"edible\": true,\n    \"plant\": \"carrot plant\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 76.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 35.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"average_temperature\": {\n      \"value\": 86.0,\n      \"units\": \"fahrenheit\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"carrot\": { \"color\": \"deep orange\", \"edible\": true, \"root\": true } }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"carrot\": {\n        \"average temperature\": 70\n    }\n}\n"
+  }
+]

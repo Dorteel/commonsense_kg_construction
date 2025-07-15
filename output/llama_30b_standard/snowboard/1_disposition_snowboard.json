@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":\"Hobbies\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"sports\",\n    \"snowboard\": [\n        {\n            \"disposition\": \"sport\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sport\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports\"\n        },\n        {\n            \"disposition\": \"sport\"\n        },\n        {\n            \"disposition\": \"sports\"\n        },\n        {\n            \"disposition\": \"sport\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sport\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },\n        {\n            \"disposition\": \"sports equipment\"\n        },"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"dangerous\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"to ride\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"A snowboard is a board that resembles a broad ski or a small surfboard; used in a standing position to slide down snow-covered slopes.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"snowboarding\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sport\",\n  \"nouns\": [\n    \"snowboard\",\n    \"snowboards\"\n  ],\n  \"adjectives\": [\n    \"snowboarding\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"snowboarding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"sporting goods\",\n    \"disposition\": \"sports\",\n    \"disposition\": \"hobby\",\n    \"disposition\": \"recreation\",\n    \"disposition\": \"winter sports\",\n    \"disposition\": \"snowboarding\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": \"user\",\n  \"system\": \"system\",\n  \"domain\": \"domain\",\n  \"dialog_id\": \"1332053321996\",\n  \"turn_counter\": 2,\n  \"session_id\": \"1332053321996\",\n  \"data\": {}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"snowboarding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"recreation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"concept\": {\"text\": \"snowboard\", \"offset\": 0, \"length\": 9, \"confidence\": 0.9999702934713623}, \"dispositions\": [{\"text\": \"action\", \"confidence\": 0.9736451607674363}, {\"text\": \"equipment\", \"confidence\": 0.9904058285454596}, {\"text\": \"product\", \"confidence\": 0.9921540790529208}, {\"text\": \"recreation\", \"confidence\": 0.9997481719955444}]}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"user_id\": \"a2c67d71-533e-4851-8b56-250b6ce315e1\",\n  \"concept_id\": \"snowboard\",\n  \"input_text\": \"snowboard\",\n  \"intent\": \"dispositions\",\n  \"slots\": {},\n  \"contexts\": {},\n  \"action\": \"default\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sports equipment\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sports\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"dangerous\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"having or showing the good sense and prudence that are expected of a person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"snowboarding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"favorite\"\n}\n"
+  }
+]

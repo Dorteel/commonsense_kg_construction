@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 400.0,\n    \"bread\": [\n        {\n            \"type\": \"white\",\n            \"size\": 200.0\n        },\n        {\n            \"type\": \"white\",\n            \"size\": 200.0\n        }\n    ],\n    \"filling\": [\n        {\n            \"type\": \"ham\",\n            \"amount\": 100.0\n        },\n        {\n            \"type\": \"cheese\",\n            \"amount\": 100.0\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"length\": {\n    \"type\": \"number\",\n    \"unit\": \"cm\"\n  },\n  \"type\": \"float\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"sandwich\": {\n    \"bread\": \"bread\",\n    \"filling\": \"cheese\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"name\":\"Jane\",\"title\":\"Executive Assistant\",\"age\":35,\"company\":\"Acme, Inc.\",\"email\":\"jane@acme.com\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 16.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"type\": \"text\",\n  \"text\": \"Hey, you are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\" : 30 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\" : \"U123456789\",\n  \"conversation_id\" : \"1478398646931\",\n  \"data\" : {\n    \"timestamp\" : \"2016-09-22T12:50:46.931Z\",\n    \"source\" : \"agent\",\n    \"resolved_query\" : \"tell me a joke\",\n    \"action\" : \"tell_joke\",\n    \"action_incomplete\" : false,\n    \"parameters\" : {\n    }\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 24.2\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"type\": \"user_message\",\n  \"from\": {\n    \"name\": \"Sarah Smith\",\n    \"id\": \"123\"\n  },\n  \"message\": {\n    \"text\": \"What is the average size of a sandwich?\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":10.0,\"bread\":\"white\",\"filling\":\"egg\",\"meat\":\"ham\",\"cheese\":\"cheddar\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

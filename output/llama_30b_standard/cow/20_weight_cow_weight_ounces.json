@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"gender\": \"female\",\n  \"weight\": \"200\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"cow\": {\n    \"weight\": 1500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\":135}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1200.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1234\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1200\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 1221.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 33\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1100,\n  \"type\": \"cow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 260\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1600\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  }
+]

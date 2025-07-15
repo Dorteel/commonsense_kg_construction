@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"eat\",\n    \"mix\",\n    \"measure\",\n    \"serve\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"eat soup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"eat\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"feeding\", \"eating\", \"drinking\", \"taking medication\", \"mixing\", \"serving\", \"stirring\", \"taking\", \"holding\", \"using\", \"holding\", \"taking\", \"using\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"Stirring food\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"eating\",\n\"function\": \"feeding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\":\"serve\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"eat with\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"eating\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"take\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"function\": \"feed\",\n      \"parameters\": [\n        \"food\"\n      ]\n    },\n    {\n      \"function\": \"dine\",\n      \"parameters\": [\n        \"food\"\n      ]\n    },\n    {\n      \"function\": \"clean\",\n      \"parameters\": [\n        \"food\"\n      ]\n    },\n    {\n      \"function\": \"wash\",\n      \"parameters\": [\n        \"food\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to eat with\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"eating\",\n\"function\": \"cutting\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to stir or serve or take up food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"pick up a spoon\",\n  \"function\": \"use it to stir\",\n  \"function\": \"put it back in the drawer\",\n  \"function\": \"eat with it\",\n  \"function\": \"wash it\",\n  \"function\": \"use it to eat soup\",\n  \"function\": \"use it to eat yogurt\",\n  \"function\": \"use it to eat pudding\",\n  \"function\": \"use it to eat ice cream\",\n  \"function\": \"use it to eat cereal\",\n  \"function\": \"use it to eat dessert\",\n  \"function\": \"use it to eat oatmeal\",\n  \"function\": \"use it to eat soup\",\n  \"function\": \"use it to eat yogurt\",\n  \"function\": \"use it to eat pudding\",\n  \"function\": \"use it to eat ice cream\",\n  \"function\": \"use it to eat cereal\",\n  \"function\": \"use it to eat dessert\",\n  \"function\": \"use it to eat oatmeal\",\n  \"function\": \"use it to eat soup\",\n  \"function\": \"use it to eat yogurt\",\n  \"function\": \"use it to eat pudding\",\n  \"function\": \"use it to eat ice cream\",\n  \"function\": \"use it to eat cereal\",\n  \"function\": \"use it to eat dessert\",\n  \"function\": \"use it to eat oatmeal\",\n  \"function\": \"use it to eat soup\",\n  \"function\": \"use it to eat yogurt\",\n  \"function\": \"use it to eat pudding\","
+  }
+]

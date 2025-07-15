@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"snowboard\": {\n    \"monetary value\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 420\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\" : 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.00000000000000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 115\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 132.11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"snowboard\": 129.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"description\": \"The monetary value of the snowboard.\",\n    \"type\": \"float\",\n    \"minimum\": 0.0,\n    \"maximum\": 1000000.0,\n    \"average\": 1000.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"800\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"key\": \"monetary value (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 200.0 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Freddie\",\n  \"age\": 27,\n  \"married\": true,\n  \"hasPet\": true,\n  \"favoriteColor\": \"blue\",\n  \"likes\": [\n    \"snowboarding\",\n    \"skiing\",\n    \"surfing\",\n    \"wakeboarding\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"snowboard\": {\n    \"monetary_value\": {\n      \"avg_value\": 0.39600000000000004\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : \"300\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 250\n}\n"
+  }
+]

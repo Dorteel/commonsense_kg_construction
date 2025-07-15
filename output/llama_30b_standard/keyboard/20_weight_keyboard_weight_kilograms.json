@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 5.21\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 0.5,\n\"device\": \"typewriter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"key\": \"user\",\n\"value\": 70\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"user\": \"system\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"28.86\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"key\": \"weight\",\n  \"value\": 3.0000000000000004\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 10.5,\n    \"keyboard\": 48.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 7.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": \"5.5\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : {\n    \"type\" : \"float\",\n    \"value\" : 1.81\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3.87\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"name\": \"Cortana\",\n\"address\": {\n\"street\": \"1 Microsoft Way\",\n\"city\": \"Redmond\",\n\"state\": \"Washington\",\n\"postalCode\": \"98052\",\n\"country\": \"United States\"\n},\n\"phone\": \"(425) 555-5555\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 33.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10.3,\n  \"keyboard\": {\n    \"type\": \"keyboard\",\n    \"keys\": 88\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 32.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.5\n}\n"
+  }
+]

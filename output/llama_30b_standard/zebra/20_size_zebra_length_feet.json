@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.46\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 0.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 9.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 6.0,\n  \"height\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 3.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\" : 0.0 }\n \t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 136.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"4.5\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 10}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Dolly\",\n  \"age\": 28,\n  \"location\": {\n    \"lat\": 59.9542,\n    \"lon\": 10.7922\n  },\n  \"company\": \"SOLVENCY\",\n  \"email\": \"dolly@solvency.com\",\n  \"phone\": \"0190-244319\",\n  \"income\": 800000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.5,\n  \"weight\": 800\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 350.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2.16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"chair\" : \"chair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"chair\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"1000.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetaryValue\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 10.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"80.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"type\": \"float\",\n    \"unit\": \"euros\",\n    \"value\": 120\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"monetary value\": 0.0,\n    \"material\": \"wood\"\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"currency\": \"EUR\",\n    \"value\": {\n      \"monetary value\": 150,\n      \"monetary value\": 150\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 80\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1500.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000\n}\n"
+  }
+]

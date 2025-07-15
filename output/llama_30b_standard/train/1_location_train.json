@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"train station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"Washington, DC\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"Kharkiv, Ukraine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"Mumbai, Maharashtra, India\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Amsterdam\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"Station\",\"name\":\"Gare de Lyon\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"London, United Kingdom\",\n    \"New York, NY, United States\",\n    \"Washington, DC, United States\",\n    \"San Francisco, CA, United States\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"train station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"station\",\n  \"location\": \"station\",\n  \"location\": \"station\",\n  \"location\": \"station\",\n  \"location\": \"station\",\n  \"location\": \"station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"train station\",\n\"location\": \"station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Railway station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"station\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"station\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"train station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"145, Avenue des Champs-Élysées, 75008 Paris, France\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bus station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"travel\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"park\",\n\"location\": \"city street\",\n\"location\": \"sidewalk\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"park\",\"location\":\"street\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"sidewalk\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"Park\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"park\",\"location\":\"street\",\"location\":\"sidewalk\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\" : \"park\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"outdoors\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"park\",\n    \"sidewalk\",\n    \"street\",\n    \"skate park\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"street\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the street\",\n  \"location\": \"in a skateboard park\",\n  \"location\": \"on a hill\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"skateboard park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"sidewalk\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"street\",\n    \"sidewalk\",\n    \"skate park\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on a road\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"park\",\n    \"street\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"on the street\",\n    \"at a skate park\",\n    \"at a skateboard store\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"street\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"park\",\n  \"location\": \"street\",\n  \"location\": \"sidewalk\"\n}\n "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 10.5 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.85857237382542\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"bench\": \"long seat for more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 29.57777777777778\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 18.18, \"temperatureUnit\": \"celsius\" }\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\" : 28.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bench\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 22,\n  \"time\": \"now\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bench\": [\n    {\n      \"temperature\": 27.6\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 71.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 21.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 20.0 }\n"
+  }
+]

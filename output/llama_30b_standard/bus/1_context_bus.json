@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"place\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context1\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"car\",\n  \"context\": \"vehicle\",\n  \"context\": \"public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"a bus station\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a thing that is used for something else\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a bus with an open top\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"place\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"public transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A bus is used by people in the morning to get to work.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"public_transportation\",\n  \"name\": \"bus\",\n  \"description\": \"a vehicle carrying many passengers; used for public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"a means of transportation\", \"id\": \"buses\", \"name\": \"buses\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\",\n  \"concept\": \"bus\",\n  \"examples\": [\n    \"The bus arrives.\",\n    \"The bus is late.\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vehicle used for public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vehicle carrying many passengers\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\",\n  \"context\": \"transport\",\n  \"context\": \"public transport\",\n  \"context\": \"public service\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"location\",\n    \"context_properties\": {\n        \"location\": {\n            \"type\": \"LOCATION\",\n            \"properties\": {\n                \"country\": \"India\",\n                \"city\": \"Delhi\"\n            }\n        }\n    }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vehicle carrying many passengers; used for public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vehicle carrying many passengers; used for public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\"\n}\n"
+  }
+]

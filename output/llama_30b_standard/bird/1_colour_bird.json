@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"color\": \"black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"black\", \"colour\": \"brown\", \"colour\": \"blue\", \"colour\": \"grey\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\" : [\"blue\", \"red\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"yellow\",\n  \"colour\": \"red\",\n  \"colour\": \"blue\",\n  \"colour\": \"white\",\n  \"colour\": \"black\",\n  \"colour\": \"orange\",\n  \"colour\": \"green\",\n  \"colour\": \"brown\",\n  \"colour\": \"gray\",\n  \"colour\": \"pink\",\n  \"colour\": \"purple\",\n  \"colour\": \"gold\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"bird\": [\n        \"black\",\n        \"brown\",\n        \"white\",\n        \"blue\",\n        \"green\",\n        \"orange\",\n        \"red\",\n        \"yellow\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"brown\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\",\n  \"colour\": \"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"bird\": [\n    \"blue\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\":\"brown\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"bird\": [\n    \"black\",\n    \"red\",\n    \"blue\",\n    \"yellow\",\n    \"green\",\n    \"white\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"color\": \"RED\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"yellow\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\",\n  \"colour\": \"white\",\n  \"colour\": \"brown\"\n}\n"
+  }
+]

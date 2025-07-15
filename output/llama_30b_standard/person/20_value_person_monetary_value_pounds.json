@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1234567.89\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"user\": \"Sarah\", \"monetary value\": 50.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mona\",\n  \"age\": 24,\n  \"income\": 60000,\n  \"monetary\": 20000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 100.00,\n  \"person\":\n  {\n    \"age\": 17,\n    \"name\": \"Sarah\",\n    \"gender\": \"female\",\n    \"hometown\": \"New York City\",\n    \"hometown_state\": \"NY\",\n    \"hometown_country\": \"USA\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 32.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"person\" : \"Joe Smith\",\n    \"occupation\" : \"CEO\",\n    \"yearly_income\" : 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Average person\",\n  \"sex\": \"female\",\n  \"height\": 5.0,\n  \"weight\": 150.0,\n  \"hair\": \"brown\",\n  \"eyes\": \"blue\",\n  \"ethnicity\": \"caucasian\",\n  \"skin\": \"light\",\n  \"age\": 35.0,\n  \"blood\": \"A+\",\n  \"monetary value\": 3000.00,\n  \"person\": [\n      \"Average person\"\n  ],\n  \"person_id\": \"1234567890\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": \"John Doe\",\n  \"monetaryValue\": \"100\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 25,\n  \"country\": \"USA\",\n  \"occupation\": \"Scientist\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"person\": {\n\"monetary value\": 0,\n\"age\": {\n\"average\": 0\n}\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.345\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"age\": 45,\n  \"role\": \"assistant\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\":\"Alice\",\n\"age\":33,\n\"job\":{\"type\":\"Engineer\",\n\"company\":\"Google\",\n\"salary\":45000},\n\"location\":\"Chicago\",\n\"married\":false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 32,\n  \"gender\": \"male\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"height\": 5.0,\n    \"weight\": 125.0,\n    \"gender\": \"male\"\n  },\n  \"monetary value\": 1.78571429\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"John Doe\",\n    \"gender\": \"male\",\n    \"age\": 30,\n    \"height\": 70,\n    \"weight\": 175,\n    \"eyes\": \"blue\",\n    \"hair\": \"brown\",\n    \"ethnicity\": \"white\",\n    \"hometown\": \"Fairfax, VA\",\n    \"hobbies\": [\"cycling\", \"running\", \"basketball\"],\n    \"marital_status\": \"single\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"key\": \"monetary value\",\n  \"value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100.0,\n  \"person\": {\n    \"name\": \"John\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"gender\": \"male\",\n    \"height\": 60\n  },\n  \"monetaryValue\": 200\n}\n"
+  }
+]

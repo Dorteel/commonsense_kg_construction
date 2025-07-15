@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": 1,\n  \"id\": 0,\n  \"text\": \"Given the truck (which is an automotive vehicle suitable for hauling), provide the average size as in {} measured in centimeters. Return only JSON with key:  - height (float)\",\n  \"time\": 1464152462.21,\n  \"contexts\": [\n    {\n      \"name\": \"truck\",\n      \"lifespan\": 1464152462.21,\n      \"parameters\": {\n        \"intent\": \"truck\"\n      }\n    },\n    {\n      \"name\": \"user_id\",\n      \"lifespan\": 1464152462.21,\n      \"parameters\": {\n        \"intent\": \"user_id\"\n      }\n    },\n    {\n      \"name\": \"id\",\n      \"lifespan\": 1464152462.21,\n      \"parameters\": {\n        \"intent\": \"id\"\n      }\n    },\n    {\n      \"name\": \"text\",\n      \"lifespan\": 1464152462.21,\n      \"parameters\": {\n        \"intent\": \"text\"\n      }\n    },\n    {\n      \"name\": \"time\",\n      \"lifespan\": 1464152462.21,\n      \"parameters\": {\n        \"intent\": \"time\"\n      }\n    },\n    {\n      \"name\": \"contexts\",\n      \"lifespan\": 1464152462.2"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 2.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"float\": 2032\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"vehicle\": \"truck\",\n  \"size\": \"medium\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 215}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 243.84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": \"1.7\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.78\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 1.5}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 4000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 2.4400000000000004\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 2300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\" : 183.5,\n  \"weight\" : 13200,\n  \"length\" : 243.8,\n  \"height\" : 194.7,\n  \"width\" : 214.6,\n  \"horsepower\" : 150,\n  \"engine_size\" : 4.2,\n  \"fuel_type\" : \"gas\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.22\n}\n"
+  }
+]

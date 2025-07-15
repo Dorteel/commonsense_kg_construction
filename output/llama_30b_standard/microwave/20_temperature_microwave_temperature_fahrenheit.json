@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 212\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"Bruce Wayne\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"microwave\": {\n  \"temperature\": 100.0\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"50\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"microwave\": {\n    \"average temperature\": 375\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"212\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 127\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 45.67890,\n  \"name\": \"microwave\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 110.0,\n  \"temperature_unit\": \"f\",\n  \"is_microwave\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37.0,\n  \"microwave\": \"kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the current temperature?\",\n  \"context\": {\"weather\": {\"current\": {\"temperature\": 55.0, \"unit\": \"F\"}, \"forecast\": {\"day\": [{\"summary\": \"Partly cloudy in the morning.\", \"low\": 57, \"high\": 72, \"icon\": \"partlycloudy\", \"sunriseTime\": 540393200, \"sunsetTime\": 540396840}, {\"summary\": \"Partly cloudy throughout the day.\", \"low\": 55, \"high\": 71, \"icon\": \"partlycloudy\", \"sunriseTime\": 540396840, \"sunsetTime\": 540400480}, {\"summary\": \"Partly cloudy throughout the day.\", \"low\": 54, \"high\": 71, \"icon\": \"partlycloudy\", \"sunriseTime\": 540400480, \"sunsetTime\": 540404120}, {\"summary\": \"Partly cloudy throughout the day.\", \"low\": 54, \"high\": 71, \"icon\": \"partlycloudy\", \"sunriseTime\": 540404120, \"sunsetTime\": 540407760}, {\"summary\": \"Partly cloudy throughout the day.\", \"low\": 55, \"high\": 70, \"icon\": \"partlycloudy\", \"sunriseTime\": 540407760, \"sunsetTime\":"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"20\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 123\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"microwave\": 900\n  }\n}\n"
+  }
+]

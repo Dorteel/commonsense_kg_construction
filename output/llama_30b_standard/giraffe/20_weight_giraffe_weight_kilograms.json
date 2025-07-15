@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 1500 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1250\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"giraffe_weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1765\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1321\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 4200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1190, \"class\": \"tallest\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1930.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 550\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 850.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jeff\",\n  \"age\": 26,\n  \"height\": 5.5,\n  \"weight\": 145,\n  \"eyes\": \"blue\",\n  \"hair\": \"blond\",\n  \"shoe\": \"10\",\n  \"married\": \"yes\",\n  \"has_children\": \"yes\",\n  \"children_names\": [\"Anne\", \"Brad\", \"George\", \"Holly\"],\n  \"children_ages\": [2, 4, 2, 0],\n  \"children_birthdays\": [\"1991-01-01\", \"1993-07-07\", \"1995-03-03\", \"1998-12-02\"]\n}\n"
+  }
+]

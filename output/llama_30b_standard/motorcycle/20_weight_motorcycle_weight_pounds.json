@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 220.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 250,\n  \"model\": \"sport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 200.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 486.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"motorcycle\",\n  \"type\": \"vehicle\",\n  \"wheels\": 2,\n  \"frame\": \"strong\",\n  \"weight\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": {\n        \"value\": 300\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 312.7}\n  \t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 270\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\" : {\n\"type\" : \"float\",\n\"value\" : \"110\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 750\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 550\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": {\"value\": {\"float\": 500.0}}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Motorcycle\"\n}\n"
+  }
+]

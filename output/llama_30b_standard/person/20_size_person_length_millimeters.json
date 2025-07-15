@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 1000.0000000000001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1700.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Michael\",\n    \"age\": 40,\n    \"weight\": 80,\n    \"height\": 180,\n    \"gender\": \"male\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Jenny\",\n    \"height\": 170\n  },\n  \"length\": 15.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"person\": \"John\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 7.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"750\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 200}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"age\": 34,\n  \"height\": 170,\n  \"weight\": 60,\n  \"gender\": \"female\",\n  \"hairColor\": \"brown\",\n  \"eyeColor\": \"blue\",\n  \"skinColor\": \"white\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\" : 1200 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"0\": 200\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"text\": \"Given the person (which is a human being), provide the average sizeas in {} measured in millimeters.\",\n    \"intent\": \"assistant\"\n  },\n  \"user_id\": \"xxx\",\n  \"timestamp\": 1521406100.998143\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user\" : \"commonsense knowledge engineer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 24.0\n}\n"
+  }
+]

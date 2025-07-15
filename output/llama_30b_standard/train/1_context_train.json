@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"car\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": {\n    \"name\": \"commuter\",\n    \"type\": \"person\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"public transport\",\"context\":\"public transportation\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"a means of transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"public transport\",\n  \"name\": \"train\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a railway transport system for passengers and goods\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"a method of transportation, a method of transportation used for transporting goods and/or people, a method of transportation used for transporting goods and/or people on land, a method of transportation used for transporting goods and/or people on land and not air or water, a method of transportation used for transporting goods and/or people on land that is not air or water, a method of transportation that is not air or water, a method of transportation that is not air or water that is used for transporting goods and/or people, a method of transportation that is not air or water that is used for transporting goods and/or people on land, a method of transportation that is not air or water that is used for transporting goods and/or people on land and not air or water\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"public transport\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"train to work\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\",\n  \"context_score\": 0.2873846355738095\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"public transport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"trains\",\n\"id\": \"1234567890\",\n\"text\": \"a train\",\n\"intent\": \"train\",\n\"confidence\": 1}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bus\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"contexts\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a vehicle for transporting passengers or goods on a railway.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"public transport\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A train is a form of rail transport consisting of a series of vehicles that usually runs along a rail track to transport passengers or cargo.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"travel\",\n  \"definition\": \"a means of moving people and goods from one place to another\",\n  \"synonyms\": [\n    \"transport\",\n    \"locomotion\",\n    \"transportation\",\n    \"movement\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a train is a kind of transportation\"\n}\n"
+  }
+]

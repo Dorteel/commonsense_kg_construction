@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1600\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1700\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 1600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 170\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"130\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 1600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1600.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 1750\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"type\": \"float\",\n    \"value\": 2400\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":499}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1850,\n  \"width\": 110,\n  \"tip\": 100,\n  \"tail\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"140\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2275\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": \"260\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"min\": {\n      \"min\": 100,\n      \"max\": 180,\n      \"mean\": 150,\n      \"standard_deviation\": 10\n    },\n    \"max\": {\n      \"min\": 180,\n      \"max\": 220,\n      \"mean\": 200,\n      \"standard_deviation\": 10\n    },\n    \"median\": 180\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 1650}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 188.0\n}\n"
+  }
+]

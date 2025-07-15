@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"milk\",\n  \"cow\": \"bovine\",\n  \"cow_gender\": \"female\",\n  \"cow_color\": \"brown\",\n  \"cow_hair_type\": \"woolly\",\n  \"cow_name\": \"Moo\",\n  \"cow_age\": 4,\n  \"cow_sound\": \"moo\",\n  \"cow_size\": \"medium\",\n  \"cow_speed\": 3,\n  \"cow_birthday\": \"1996-06-17T00:00:00.000Z\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"Milk Cow\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"bovine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\": \"bovine\", \"domesticated\" : true }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": {\n    \"disposition\": \"milk\"\n  },\n  \"system\": {\n    \"response\": \"That's what cows are good for.\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"farm animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"bovine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"milk\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"milking\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"happy\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"lactating\"}\n                   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concept\": \"cow\",\n  \"disposition\": \"brown\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"friendly\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"cow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"good\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"docile\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"an animal\"\n}\n   "
+  }
+]

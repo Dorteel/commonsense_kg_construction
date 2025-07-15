@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"50\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"value\" : 40.475\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"handbag\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"handbag\": \"purse\"\n  , \"monetary value\": 45\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": {\n\"euros\": 100\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"handbag\": {\n    \"monetary value\": 50000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"handbag\": {\n    \"brand\": \"Louis Vuitton\",\n    \"price\": 11000,\n    \"style\": \"Pochette Accessoires\"\n  },\n  \"shoes\": {\n    \"brand\": \"Christian Louboutin\",\n    \"price\": 600,\n    \"style\": \"Flats\"\n  },\n  \"shirt\": {\n    \"brand\": \"Gucci\",\n    \"price\": 650,\n    \"style\": \"Blazer\"\n  },\n  \"earrings\": {\n    \"brand\": \"Forever 21\",\n    \"price\": 20,\n    \"style\": \"Drop Earrings\"\n  },\n  \"pants\": {\n    \"brand\": \"Mango\",\n    \"price\": 50,\n    \"style\": \"Joggers\"\n  },\n  \"necklace\": {\n    \"brand\": \"H&M\",\n    \"price\": 12,\n    \"style\": \"Pendant\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 11.99}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 275\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 144.91\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"handbag\": \"100\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": \"0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"handbag\": {\n      \"type\": \"string\",\n      \"pattern\": \"^(gucci|prada|chanel|birkin|louis vuitton)$\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 1000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"handbag\": {\n    \"monetary value\": 0.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 2000\n}\n"
+  }
+]

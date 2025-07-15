@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"boat\": \"small vessel for travel on water\",\n  \"weight\": 110,\n  \"measure\": \"ounces\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"150.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"boat\": {\n    \"small\": true\n  },\n  \"water\": {\n    \"travel\": true\n  },\n  \"weight\": 1250.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1000000000000000\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 50}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 352.74,\n  \"fuel\": \"gas\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"boat\": \"small vessel for travel on water\",\n  \"weight\": 160.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the boat, provide the average weight, as in {} measured in ounces.\",\n  \"context\": {\n    \"boat\": {\n      \"id\": \"283717\",\n      \"name\": \"boat\",\n      \"entities\": {\n        \"boat\": {\n          \"id\": \"283717\",\n          \"name\": \"boat\",\n          \"type\": \"object\",\n          \"properties\": {\n            \"id\": {\n              \"type\": \"string\",\n              \"values\": [\n                \"283717\"\n              ]\n            },\n            \"name\": {\n              \"type\": \"string\",\n              \"values\": [\n                \"boat\"\n              ]\n            },\n            \"entities\": {\n              \"id\": \"283717\",\n              \"name\": \"entities\",\n              \"type\": \"object\",\n              \"properties\": {\n                \"id\": {\n                  \"type\": \"string\",\n                  \"values\": [\n                    \"283717\"\n                  ]\n                },\n                \"name\": {\n                  \"type\": \"string\",\n                  \"values\": [\n                    \"entities\"\n                  ]\n                },\n                \"type\": {\n                  \"type\": \"string\",\n                  \"values\": [\n                    \"object\"\n                  ]\n                },\n                \"properties\": {\n                  \"id\": {\n                    \"type\": \"string\",\n                    \"values\": [\n                    ]\n                  },\n                  \"name\": {\n                    \"type\": \"string\",\n                    \"values\": [\n                    ]\n                  },\n                  \"type\":"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"weight\": {\n      \"weight\": {\n        \"weight\": 2.83\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 117.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 175.25 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"user\":\n\"Given the boat (which is a small vessel for travel on water), provide the average weightas in {} measured in ounces. Return only JSON with key: - weight (float)\"\n}\n"
+  }
+]

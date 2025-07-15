@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20,\n  \"implement\": \"baseball bat\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"40.611111111111115\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 29.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"im\": {\n    \"id\": \"5296a61f-4715-4a59-9451-2a39d3703426\",\n    \"is_agent\": true\n  },\n  \"user\": {\n    \"id\": \"5296a61f-4715-4a59-9451-2a39d3703426\",\n    \"is_bot\": false\n  },\n  \"conversation\": {\n    \"id\": \"5296a61f-4715-4a59-9451-2a39d3703426\",\n    \"is_active\": true,\n    \"statements\": [\n      {\n        \"id\": \"5296a61f-4715-4a59-9451-2a39d3703426\",\n        \"query\": \"Given the baseball bat (which is an implement used in baseball by the batter), provide the average temperatureas in {} measured in celsius.Return only JSON with key:  - temperature (float).\",\n        \"intent\": \"BaseballBat\",\n        \"inputs\": {\n          \"baseball_bat\": {\n            \"value\": \"baseball bat\",\n            \"synonyms\": [\n              \"baseball bat\"\n            ]\n          },\n          \"temperature\": {\n            \"value\": \"temperature\",\n            \"synonyms\": [\n              \"temperature\"\n            ]\n          },\n          \"celsius\": {\n            \"value\": \"celsius\",\n            \"synonyms\": [\n             "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"im_start\": \"system\",\n  \"im_end\": \"system\",\n  \"user\": \"user\",\n  \"assistant\": \"assistant\",\n  \"response_type\": \"in_channel\",\n  \"text\": \"I am a commonsense knowledge engineer.\\nI can only return valid JSON.\\n\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"name\": \"Average Temperature\",\n    \"response\": {\n        \"outputContexts\": [\n            {\n                \"name\": \"default\",\n                \"lifespan\": 5\n            }\n        ],\n        \"intents\": [\n            {\n                \"name\": \"temperature\",\n                \"events\": [\n                    {\n                    \"name\": \"query\"\n                },\n                {\n                \"name\": \"followup\"\n                }\n            ]\n        }\n        ],\n        \"inputContexts\": [\n            {\n                \"name\": \"baseball\",\n                \"lifespan\": 3\n            },\n            {\n                \"name\": \"bat\",\n                \"lifespan\": 3\n            },\n            {\n                \"name\": \"batter\",\n                \"lifespan\": 3\n            }\n        ]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"implement\": \"baseball bat\",\n  \"context\": \"baseball\",\n  \"temperature\": 27.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 29.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"baseball bat\": {\n    \"temperature\": 42.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\" : 25}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"average\": {\n      \"celsius\": 20\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 68}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 27.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21.4\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

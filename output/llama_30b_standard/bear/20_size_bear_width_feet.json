@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 2.6}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": 3\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":13}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 4.8,\n  \"length\": 4.8,\n  \"height\": 3.3,\n  \"weight\": 500\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": {\n    \"avg\": 5.9\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"user\"\n  , \"input\": {\n      \"type\": \"text\",\n      \"text\": \"Given the bear (which is massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws),\"\n      , \"selectionStart\": 4\n      , \"selectionEnd\": 4\n    }\n  , \"intent\": {\n      \"name\": \"assistant.intent.action.TEXT\"\n      , \"confidence\": 0.996269440873315\n    }\n  , \"entities\": {\n    }\n  , \"contexts\": {\n      \"app\": {\n        \"parameters\": {\n        }\n      }\n    }\n  , \"metadata\": {\n      \"intentId\": \"266666666\"\n    }\n  , \"output\": {\n      \"type\": 1\n      , \"text\": \"Given the bear (which is massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws),\"\n      , \"selectionStart\": 0\n      , \"selectionEnd\": 4\n    }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"key\": \"average size\",\n  \"value\": {\n    \"width\": 5.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 0.0 }\n \t \t \t \t \t \t \t \t \t \t"
+  }
+]

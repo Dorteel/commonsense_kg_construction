@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A lightweight handheld collapsible canopy used as protection against the rain.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"weather\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a portable canopy to protect from the rain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"weather\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"umbrella context 1\",\n  \"context\": \"umbrella context 2\",\n  \"context\": \"umbrella context 3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"travel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"rain\",\n  \"intent\": \"search\",\n  \"parameters\": {\n    \"query\": \"umbrella\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"gadget\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"rain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"umbrella\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"rain\",\n  \"source\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"umbrella\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"weather\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"weather\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"context\": \"umbrella\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"travel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"umbrella\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"rain\",\n  \"is_a\" : {\n    \"type\" : \"umbrella\"\n  },\n  \"name\" : \"umbrella\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"weather\"\n}\n"
+  }
+]

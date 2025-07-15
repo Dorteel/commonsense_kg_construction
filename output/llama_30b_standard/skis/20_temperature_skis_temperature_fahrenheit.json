@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 18.4 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"skis\": \"skis\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 24.77\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"noun\": \"skis\",\n    \"plural\": \"skis\",\n    \"adjective\": \"skiing\",\n    \"adverb\": \"ski\",\n    \"noun\": \"skiing\",\n    \"verb\": \"ski\",\n    \"past tense\": \"skied\",\n    \"present tense\": \"ski\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\" : 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"skis\": {\n    \"snow_conditions\": {\n      \"average_temperature\": \"35\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Kyle\",\n  \"occupation\": \"programmer\",\n  \"skills\": [\"javascript\", \"c++\", \"html\"]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": \"winter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 31,\n\"average\": 31,\n\"number\": 31,\n\"mean\": 31\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 27\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 25}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 5.24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.000000,\n  \"wind_speed\": 6.000000,\n  \"pressure\": 1034.999997,\n  \"dew_point\": 64.000000,\n  \"humidity\": 81.000000,\n  \"visibility\": 9.000000,\n  \"wind_bearing\": 294.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skis\": \"narrow wood or metal or plastic runners used in pairs for gliding over snow\",\n  \"average temperature\": 20\n}\n"
+  }
+]

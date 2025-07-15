@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 197.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"user\":\n{\n\"gender\": \"male\",\n\"height\": 72,\n\"weight\": 175\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"john smith\",\n  \"title\": \"ceo\",\n  \"company\": \"xyz corp\",\n  \"age\": 40,\n  \"gender\": \"male\",\n  \"marital_status\": \"single\",\n  \"height\": 6.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Joe\",\n  \"age\": 35,\n  \"married\": true,\n  \"children\": 2,\n  \"is_smoker\": false,\n  \"is_alcoholic\": false,\n  \"is_athlete\": false,\n  \"has_cat\": false,\n  \"has_dog\": false,\n  \"favorite_color\": \"blue\",\n  \"favorite_food\": \"chocolate\",\n  \"favorite_book\": \"The Little Prince\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"car\" : {\n    \"average_size\": 160\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"car\": \"BMW 640i GT\",\n  \"width\": 72.8,\n  \"length\": 195.5,\n  \"height\": 58.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"car\": {\n  \"width\": 72\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"question\": \"question\",\n  \"answer\": \"answer\",\n  \"confidence\": 0.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"car\": {\n    \"width\": 76.8\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"car\" : {\n    \"width\" : 65\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"96\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"vehicle\",\n  \"manufacturer\": \"GM\",\n  \"model\": \"Chevrolet\",\n  \"name\": \"Camaro\",\n  \"year\": 1967,\n  \"length\": 175,\n  \"height\": 49,\n  \"width\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\": 123,\n  \"is_assistant\": true,\n  \"intent\": \"intent_name\",\n  \"inputs\": [\n    {\n      \"intent\": \"intent_name\",\n      \"raw_text\": \"Hello, what is the average size of a car in inches?\",\n      \"text\": \"hello what is the average size of a car in inches\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": 36.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 66}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"car\": {\n    \"name\": \"car\",\n    \"attributes\": {\n      \"color\": \"yellow\"\n    },\n    \"size\": {\n      \"width\": 6,\n      \"height\": 4,\n      \"depth\": 5\n    }\n  }\n}\n"
+  }
+]

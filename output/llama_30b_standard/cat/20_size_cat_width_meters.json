@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"cat\": {\n    \"width\": 0.7\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.44\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 0.6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"width\": 0.5,\n    \"height\": 0.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": \"1.1\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1.5}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.56\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.1\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mary\",\n  \"age\": 30,\n  \"title\": \"Developer\",\n  \"company\": \"Google\",\n  \"gender\": \"female\",\n  \"phone\": \"123456789\",\n  \"email\": \"mary@gmail.com\",\n  \"address\": {\n    \"street\": \"1001 Mountain View\",\n    \"city\": \"Mountain View\",\n    \"state\": \"California\",\n    \"zipcode\": 94043\n  }\n}\n"
+  }
+]

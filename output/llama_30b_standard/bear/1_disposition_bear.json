@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"A bear is a massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"polar\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"good\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"bearish\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"hungry\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"dangerous\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"friendly\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concept\": \"bear\",\n  \"disposition\": \"dangerous\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"bear\" : {\n    \"disposition\": [ \"mild\", \"hungry\", \"playful\", \"curious\" ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"sad\", \"emotion\": \"depressed\"}\n     \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"cute\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"silly\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"friendly\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"fat\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sweet\",\n  \"cute\"\n  : \"sweet\",\n  \"adorable\"\n  : \"sweet\",\n  \"huggable\"\n  : \"sweet\",\n  \"cuddly\"\n  : \"sweet\",\n  \"furry\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"cute\"\n  : \"sweet\",\n  \"baby\"\n  : \"sweet\",\n  \"cuddly\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  : \"sweet\",\n  \"bear\"\n  :"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"bear\": \"A massive plantigrade carnivorous or omnivorous mammal with long shaggy coat and strong claws.\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"gentle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concept\": \"bear\",\n  \"disposition\": \"massive\",\n  \"concept\": \"bear\",\n  \"disposition\": \"plantigrade\",\n  \"concept\": \"bear\",\n  \"disposition\": \"carnivorous\",\n  \"concept\": \"bear\",\n  \"disposition\": \"omnivorous\",\n  \"concept\": \"bear\",\n  \"disposition\": \"mammals\",\n  \"concept\": \"bear\",\n  \"disposition\": \"long shaggy coats\",\n  \"concept\": \"bear\",\n  \"disposition\": \"strong claws\"\n}\n"
+  }
+]

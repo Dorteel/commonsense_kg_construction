@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 4673.957654583073\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"giraffe\": {\n  \"weight\": \"600\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1356.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1190}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : \"1700\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 30,\n  \"married\": true,\n  \"height\": 1.78,\n  \"weight\": 80,\n  \"blood\": \"A+\",\n  \"eye\": \"brown\",\n  \"skin\": \"white\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"mean\": {\n      \"float\": \"1650.00\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Meghan\",\n  \"age\": \"25\",\n  \"location\": \"Denver\",\n  \"interest\": \"skiing\",\n  \"occupation\": \"Senior Software Developer\",\n  \"children\": \"2\",\n  \"hobby\": \"swimming\",\n  \"pets\": [\n    {\n      \"name\": \"Kitty\",\n      \"age\": \"2\"\n    },\n    {\n      \"name\": \"Dog\",\n      \"age\": \"3\"\n    }\n  ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2450,\n  \"unit\": \"ounce\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2750\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": \"1320\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 375.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "giraffe",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"average\": 1100\n  }\n}\n"
+  }
+]

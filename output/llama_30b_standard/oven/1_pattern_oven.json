@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    \"oven\",\n    \"kitchen appliance\",\n    \"kitchen appliance used for baking or roasting\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": \"oven_has_temperature\", \"subject\": \"oven\", \"object\": \"temperature\"}\n \t  \t\t  \t\t  \t\t  \t\t  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"cooking appliance\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven is a kitchen appliance used for baking or roasting\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"turn on\",\n  \"action\": \"start\",\n  \"parameter\": \"temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven cooks food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"bake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"A kitchen appliance used for baking or roasting.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven is kitchen appliance used for baking or roasting\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven has ingredients\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": \"oven\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven is a kitchen appliance used for baking or roasting\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"pattern\": \"oven is a kitchen appliance used for baking or roasting\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    \"oven is in the kitchen\",\n    \"oven is a cooking appliance\",\n    \"oven is a device for cooking\",\n    \"oven is used for baking\",\n    \"oven is used for roasting\",\n    \"oven is used for broiling\",\n    \"oven is used for toasting\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven is in the kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"oven is cooking appliance\",\n  \"pattern\": \"oven is kitchen appliance\",\n  \"pattern\": \"oven is electrical appliance\",\n  \"pattern\": \"oven is stovetop cooking appliance\",\n  \"pattern\": \"oven is cooking tool\",\n  \"pattern\": \"oven is cooking utensil\",\n  \"pattern\": \"oven is cooking appliance\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": \"Oven is a kitchen appliance used for baking or roasting.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"cook food\"\n}\n"
+  }
+]

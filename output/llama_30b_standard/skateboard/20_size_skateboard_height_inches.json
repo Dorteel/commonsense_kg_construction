@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": \"Amazon Alexa\",\n  \"app_id\": \"amzn1.echo-api.eu-west-3.1080431783766.5920601074462610681993\",\n  \"user_agent\": \"alexa-voice-service/1.0\",\n  \"request\": {\n    \"type\": \"LaunchRequest\",\n    \"requestId\": \"amzn1.echo-api.eu-west-3.1080431783766.5920601074462610681993\",\n    \"timestamp\": \"2019-02-01T20:10:47Z\",\n    \"locale\": \"en-GB\"\n  },\n  \"version\": \"1.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"user\": {\n        \"height\": 40\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"skateboard\": {\n    \"type\": \"object\",\n    \"properties\": {\n      \"height\": {\n        \"type\": \"number\"\n      }\n    },\n    \"required\": [\n      \"height\"\n    ]\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 10\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 41\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 25.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"user\": \"assistant\",\n    \"task\": {\n        \"id\": \"f03b74d5-8605-448f-a7c1-02a45fbb819a\",\n        \"name\": \"Task Name\",\n        \"description\": \"Task Description\",\n        \"url\": \"https://api.smartsheet.com/2.0/sheet/{sheetId}/task/{taskId}\",\n        \"type\": \"custom\",\n        \"fields\": {\n            \"field_1\": \"field_value_1\",\n            \"field_2\": \"field_value_2\",\n            \"field_3\": \"field_value_3\"\n        }\n    }\n}\n       "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 32.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 31.49\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"skateboard\" : {\n        \"height\" : 14,\n        \"width\" : 7,\n        \"length\" : 28\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 27\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 11.0}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"My Assistant\",\n  \"gender\": \"female\",\n  \"birthday\": \"01-01-2000\",\n  \"age\": 16,\n  \"eye_color\": \"blue\",\n  \"hair_color\": \"brown\",\n  \"height\": 5.0,\n  \"weight\": 115.5,\n  \"favorite_food\": \"pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"key\": \"height\",\n    \"value\": 0.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 32 }\n    \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 36}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"skateboard\": {\n    \"height\": 7.25\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": \"56.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0\n}\n"
+  }
+]

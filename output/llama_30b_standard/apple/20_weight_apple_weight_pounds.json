@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 0.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 7.134}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 10.0 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.67\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": \"300\" }\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 3.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"0.0\"\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 0.4}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"apple\": [\n{\n\"name\": \"apple\",\n\"fruit\": [\n{\n\"name\": \"fruit\",\n\"skin\": [\n{\n\"name\": \"skin\",\n\"color\": [\n{\n\"name\": \"color\",\n\"description\": [\n{\n\"name\": \"description\",\n\"value\": [\n{\n\"name\": \"value\",\n\"weight\": [\n{\n\"name\": \"weight\",\n\"value\": \"5.6\"\n}\n]\n}\n]\n}\n]\n}\n]\n}\n]\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"apple\": {\n    \"weight\": 0.25\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 12.34}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\":2.0}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 28,\n  \"city\": \"New York\",\n  \"height\": 1.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 7.9\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 2.54}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"0.15\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.4\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"role\": \"Assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 5.5}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the cup (which is a small open container usually used for drinking; usually has a handle), provide the average sizeas in {} measured in centimeters.\",\n  \"expect\": {\n    \"size\": {\n      \"height\": 7.62\n    }\n  },\n  \"options\": {\n    \"type\": [\n      {\n        \"type\": \"float\",\n        \"name\": \"size\"\n      }\n    ]\n  },\n  \"inferred\": {\n    \"type\": [\n      {\n        \"type\": \"float\",\n        \"name\": \"size\"\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10.4,\n  \"color\": \"white\",\n  \"type\": \"Coffee Mug\",\n  \"material\": \"porcelain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the cup (which is a small open container usually used for drinking; usually has a handle), provide the average sizeas in {} measured in centimeters.\",\n  \"key\": \"height (float)\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"age\": 40,\n  \"hobbies\": [\"swimming\", \"reading\"],\n  \"favorite food\": \"pizza\",\n  \"married\": true,\n  \"kids\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"question_id\": 1,\n    \"question\": \"What is the average size of the cup in centimeters?\",\n    \"options\": [\n        {\n            \"text\": \"5 cm\",\n            \"correct\": true\n        },\n        {\n            \"text\": \"10 cm\",\n            \"correct\": false\n        },\n        {\n            \"text\": \"15 cm\",\n            \"correct\": false\n        },\n        {\n            \"text\": \"20 cm\",\n            \"correct\": false\n        }\n    ],\n    \"image\": \"images/cup.jpg\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"cup\": {\n    \"height\": 9.5\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 3.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 13.0\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": \"A device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"the mouse is a device that controls the coordinates of a cursor on your computer screen as you move it around on a pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"a mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a hand-operated device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"mouse\",\n  \"synonyms\": [\n    \"computer mouse\",\n    \"mice\",\n    \"mouse pad\",\n    \"mouse pointer\",\n    \"mouse wheel\",\n    \"trackball\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"the mouse is on the computer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"A mouse is a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"A computer mouse is an input device that allows you to control the movement of the cursor on your computer screen.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": \"hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"the mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"an input device that is used to manipulate the mouse pointer and interact with a computer.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"A device with a trackball that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"Given the <entity>, <verb>\",\n  \"example\": \"Given the <mouse>, <click>\",\n  \"properties\": {\n    \"entity\": \"A hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad.\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"Mouse is the hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"mouse\"\n}\n"
+  }
+]

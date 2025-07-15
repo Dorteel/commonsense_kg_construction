@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 68,\n  \"weight\": 255\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 27\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": \"56\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"56 cm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 65.44\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 25.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 66\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 69\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 26.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 32.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 26\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"45.7\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"id\": \"http://data.semanticweb.org/id/1820173\",\n    \"type\": {\n      \"id\": \"http://data.semanticweb.org/id/1820172\",\n      \"type\": \"http://schema.org/QuantitativeValue\",\n      \"properties\": {\n        \"unitCode\": {\n          \"id\": \"http://data.semanticweb.org/id/1820171\",\n          \"type\": {\n            \"id\": \"http://data.semanticweb.org/id/1820170\",\n            \"type\": \"http://schema.org/Code\"\n          },\n          \"properties\": {\n            \"value\": {\n              \"id\": \"http://data.semanticweb.org/id/1820169\",\n              \"type\": \"http://www.w3.org/2001/XMLSchema#string\"\n            }\n          }\n        },\n        \"value\": {\n          \"id\": \"http://data.semanticweb.org/id/1820168\",\n          \"type\": \"http://www.w3.org/2001/XMLSchema#float\"\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":\"125.0\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"325\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 68\n}\n"
+  }
+]

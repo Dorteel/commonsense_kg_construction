@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\" : {\n    \"name\" : \"sink\",\n    \"type\" : \"sink\",\n    \"brand\" : \"Brand\",\n    \"price\" : \"Price\",\n    \"image\" : \"image.jpg\"\n  },\n  \"toilet\" : {\n    \"name\" : \"toilet\",\n    \"type\" : \"toilet\",\n    \"brand\" : \"Brand\",\n    \"price\" : \"Price\",\n    \"image\" : \"image.jpg\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"200\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"average\": {\n      \"kelvin\": \"27.000000000000004\"\n    }\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 1.67E9}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 350.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"sink\": {\n        \"type\": \"plumbing fixture\",\n        \"consists\": [\"water basin\", \"drainpipe\"],\n        \"fixed\": [\"floor\", \"wall\"],\n        \"has\": [\"drainpipe\"]\n    }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"temperature\": 17.5\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15, \"day\": 1}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": {\n    \"value\": 28.0,\n    \"unit\": \"C\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":273.15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\": \"water basin\",\n  \"water\": \"liquid\",\n  \"pipe\": \"conduit\",\n  \"drain\": \"plumbing fixture\",\n  \"kelvin\": \"unit of thermodynamic temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sink\": \"a plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"value\": 14.7\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 303.15, \"temperature_unit\": \"K\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15}\n "
+  }
+]

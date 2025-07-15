@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"metal\",\"material\":\"plastic\",\"material\":\"glass\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": [\n    {\n        \"type\": \"string\",\n        \"value\": \"aluminum\"\n    },\n    {\n        \"type\": \"string\",\n        \"value\": \"glass\"\n    },\n    {\n        \"type\": \"string\",\n        \"value\": \"plastic\"\n    }\n]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"plastic\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"metal\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"iron\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"bread\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\" : \"plastic\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"metal\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"aluminium\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\" : \"aluminum\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"steel\",\n    \"color\": \"silver\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"stainless steel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"metal\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"metal\",\n  \"material\": \"glass\",\n  \"material\": \"plastic\",\n  \"material\": \"wooden\"\n}\n"
+  }
+]

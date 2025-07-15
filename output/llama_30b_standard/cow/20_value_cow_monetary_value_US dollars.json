@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"cow\": 950\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"monetary value\": 1.25\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"cow\": [\n    {\n      \"monetary value\": 3000\n    },\n    {\n      \"monetary value\": 2000\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"name\": \"Molly\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"cow\": [\n    {\n      \"monetary value\": 300.00\n    },\n    {\n      \"monetary value\": 299.99\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 22,\n\"job\": \"Software Engineer\",\n\"marital\": \"single\",\n\"income\": 70000,\n\"savings\": 10000\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"gender\": \"Female\",\n  \"age\": 20,\n  \"nationality\": \"USA\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 1000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"cow\",\n  \"monetary value\": 800,\n  \"currency\": \"USD\",\n  \"gender\": \"female\",\n  \"species\": \"domestic cattle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1420\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary_value\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"cow\": 1500\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 67000.0\n}\n \t\t\t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 150}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"cow\": { \"monetary value\": \"2000.00\" } }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 395000}\n"
+  }
+]

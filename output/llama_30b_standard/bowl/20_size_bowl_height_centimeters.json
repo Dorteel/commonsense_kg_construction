@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"height\": 10\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"bowl\": {\n\"height\": 15\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average sizeas in {} measured in centimeters.\",\n  \"correct_answer\": \"height (float)\",\n  \"incorrect_answers\": [],\n  \"hints\": [\n    \"What is the average size of the bowl?\"\n  ],\n  \"solution\": {\n    \"height\": 12.3\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"key1\": \"value1\",\n\"key2\": \"value2\",\n\"key3\": \"value3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 10.0\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"title\": \"the size of a bowl\",\n  \"description\": \"the average sizeas in {} measured in centimeters\",\n  \"type\": \"answer\",\n  \"possibleTypes\": [\n    \"answer\"\n  ],\n  \"nextQuestion\": null,\n  \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average sizeas in {} measured in centimeters.\",\n  \"options\": [\n    {\n      \"title\": \"0-5\",\n      \"description\": \"0-5\",\n      \"correct\": true,\n      \"correctText\": \"Correct\",\n      \"incorrectText\": \"Incorrect\",\n      \"answer\": 0,\n      \"score\": 0\n    },\n    {\n      \"title\": \"5-10\",\n      \"description\": \"5-10\",\n      \"correct\": false,\n      \"correctText\": \"Correct\",\n      \"incorrectText\": \"Incorrect\",\n      \"answer\": 5,\n      \"score\": 0\n    },\n    {\n      \"title\": \"10-15\",\n      \"description\": \"10-15\",\n      \"correct\": false,\n      \"correctText\": \"Correct\",\n      \"incorrectText\": \"Incorrect\",\n      \"answer\": 10,\n      \"score\": 0\n    },\n    {\n      \"title\": \"15-20\",\n      \"description\": \"15-20\",\n      \"correct\": false,\n      \"correctText\": \"Correct\",\n      \"incorrectText\": \"Incorrect\",\n      \"answer\": 15,"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 16.8}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"name\": \"Jim\", \"age\": 29, \"city\": \"London\"}\n  \t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"key\": \"height\", \"value\": 14.25}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"size\": {\n      \"height\": 3.75\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"12cm in diameter\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 8\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": \"10\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"round vessel that is open at the top; used chiefly for holding food or liquids\",\n  \"size\": \"22 cm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"bowl\",\n  \"type\": \"object\",\n  \"properties\": {\n    \"height\": {\n      \"type\": \"number\",\n      \"minimum\": 0\n    }\n  }\n}\n"
+  }
+]

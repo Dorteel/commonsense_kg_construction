@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"a bowl of rice\",\n    \"a bowl of cereal\",\n    \"a bowl of fruit\",\n    \"a bowl of soup\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"food\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"bowls\",\n    \"eating\",\n    \"drinking\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bowl of food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"dining room\",\n  \"entities\": [\n    \"bowl\",\n    \"pot\",\n    \"plate\",\n    \"table\",\n    \"food\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"dining\",\n  \"description\": \"The bowl is used in eating.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a bowl of soup\",\n  \"context\": \"a bowl of cereal\",\n  \"context\": \"a bowl of popcorn\",\n  \"context\": \"a bowl of fruit\",\n  \"context\": \"a bowl of ice cream\",\n  \"context\": \"a bowl of candy\",\n  \"context\": \"a bowl of punch\",\n  \"context\": \"a bowl of cereal with milk\",\n  \"context\": \"a bowl of salad\",\n  \"context\": \"a bowl of chowder\",\n  \"context\": \"a bowl of water\",\n  \"context\": \"a bowl of soup on a table\",\n  \"context\": \"a bowl of oatmeal\",\n  \"context\": \"a bowl of cereal in a box\",\n  \"context\": \"a bowl of spaghetti\",\n  \"context\": \"a bowl of fruit on a table\",\n  \"context\": \"a bowl of cereal with a spoon\",\n  \"context\": \"a bowl of spaghetti with a fork\",\n  \"context\": \"a bowl of oatmeal on a table\",\n  \"context\": \"a bowl of fruit on a table\",\n  \"context\": \"a bowl of popcorn on a table\",\n  \"context\": \"a bowl of fruit on a table\",\n  \"context\": \"a bowl of fruit on a table\",\n  \"context\": \"a bowl of cereal on a table\",\n  \"context\": \"a bowl of soup on a table\",\n  \"context\": \"a bowl of fruit on a table\",\n  \"context\": \"a bowl of"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen\"\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context1\",\n  \"context\": \"context2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\",\n  \"context\": \"eating\",\n  \"context\": \"drinking\",\n  \"context\": \"kitchen\",\n  \"context\": \"dining\",\n  \"context\": \"meal\",\n  \"context\": \"tableware\",\n  \"context\": \"dinnerware\",\n  \"context\": \"kitchenware\",\n  \"context\": \"vessel\",\n  \"context\": \"bowl\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"dish\",\n  \"score\": 0.97\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"context\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"cooking\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": {\n    \"id\": \"111\",\n    \"type\": \"action.devices.types.PLUGIN\",\n    \"name\": \"PLUGIN\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"place\",\n  \"score\": 100,\n  \"source\": \"assistant\",\n  \"text\": \"bowl\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A bowl can be used to eat soup, cereal, or ice cream.\"\n}\n"
+  }
+]

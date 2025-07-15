@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 100}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"birds\": [\n    {\n      \"name\": \"bob\",\n      \"type\": \"bird\",\n      \"size\": {\n        \"height\": 22\n      }\n    },\n    {\n      \"name\": \"jane\",\n      \"type\": \"bird\",\n      \"size\": {\n        \"height\": 33\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bird\": {\n    \"height\": 1000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 152\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 300.0,\n\"length\": 350.0,\n\"weight\": 450.0,\n\"wing-span\": 650.0,\n\"eyes\": 70.0,\n\"head\": 85.0,\n\"beak\": 90.0,\n\"tail\": 110.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 120,\n\"weight\": 15,\n\"length\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 2500\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.000000142857142857143\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jenny\",\n  \"age\": 30,\n  \"marital_status\": \"single\",\n  \"children\": [],\n  \"pets\": [\"dog\"],\n  \"languages\": [\"english\", \"japanese\"],\n  \"hobbies\": [\"swimming\", \"hiking\", \"playing_tennis\"]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 10000}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bird\": \"average size 1000.0000 millimeters\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 110.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\" : 12.7 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"jane\",\n  \"age\": 36,\n  \"email\": \"jane@email.com\",\n  \"height\": 174.0,\n  \"weight\": 70.0,\n  \"eyecolor\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bird\": \"chicken\",\n  \"height\": 130.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 660\n}\n"
+  }
+]

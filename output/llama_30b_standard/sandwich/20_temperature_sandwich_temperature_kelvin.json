@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 320.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"question\": \"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average temperatureas in {} measured in kelvin.\",\n    \"correct_answers\": [\n        {\n            \"temperature\": \"float\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\" : \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 293.15 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\": 300,\n  \"type\": \"sandwich\",\n  \"filling\": \"salami\",\n  \"slices\": \"2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_name\": \"user@domain.com\",\n  \"password\": \"secret\",\n  \"email\": \"user@domain.com\",\n  \"last_name\": \"User\",\n  \"first_name\": \"Jane\",\n  \"address\": \"321 Main Street, New York, NY 12345\",\n  \"phone_number\": \"1234567890\",\n  \"birth_date\": \"1985-01-01T00:00:00.000+0000\",\n  \"gender\": \"female\",\n  \"marital_status\": \"single\",\n  \"preferred_language\": \"en-US\",\n  \"preferred_timezone\": \"America/Los_Angeles\",\n  \"preferred_currency\": \"USD\",\n  \"preferred_units\": \"metric\",\n  \"preferred_country\": \"United States\",\n  \"preferred_region\": \"New York\",\n  \"preferred_city\": \"New York City\",\n  \"preferred_neighborhood\": \"Chelsea\",\n  \"preferred_postal_code\": \"10011\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"sandwich\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"10\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sandwich\": {\n    \"slices\": 2,\n    \"filling\": \"peanut butter\"\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": \"John\",\n  \"age\": 42,\n  \"hobby\": \"science\",\n  \"hobby_type\": \"physical\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 2.725557561562891\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"Bobby\",\n\"age\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 23.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 59.0 }\n"
+  }
+]

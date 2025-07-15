@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"dogs\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"the dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"Dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\":\"A dog is a domesticated form of the gray wolf, a member of the Canidae family of the order Carnivora. The term is used for both domestic and wild species.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"Dog\",\n  \"is_a\": [\n    \"Animal\",\n    \"Mammal\",\n    \"Carniverous\",\n    \"Pet\",\n    \"Canine\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": \"is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\",\n\"pattern\": \"is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\",\n\"pattern\": \"is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\",\n\"pattern\": \"is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\",\n\"pattern\": \"is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"domesticated\",\"description\":\"The domestication of the dog (Canis lupus familiaris) began as early as 12,000 years ago. The domesticated dog has been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes. Modern dog breeds show more variation in size, appearance, and behavior than any other domestic animal. Dogs are predators and scavengers, and like many other predatory mammals, the dog has powerful muscles, fused wrist bones, a cardiovascular system that supports both sprinting and endurance, and teeth for catching and tearing. Dogs are also highly variable in height and weight. The smallest known adult dog was a Yorkshire Terrier, that stood only 6.3 cm (2.5 in) at the shoulder, 9.5 cm (3.7 in) in length along the head-and-body, and weighed only 113 grams (4.0 oz). The largest known dog was an English Mastiff which weighed 155.6 kg (343 lb) and was 250 cm (98 in) from the snout to the tail. The tallest dog is a Great Dane that stands 106.7 cm (42.0 in) at the shoulder."
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"has_body_part(dog, tail)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"The dog (which is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"A dog is a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"the dog is an animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\" : \"Dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\":\"common\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"dog\"\n}\n"
+  }
+]

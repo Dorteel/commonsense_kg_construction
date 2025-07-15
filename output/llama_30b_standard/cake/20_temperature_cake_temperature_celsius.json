@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 350\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cake\": {\n    \"temperature\": 18.3\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cake\": {\n    \"flour\": 150,\n    \"sugar\": 150,\n    \"eggs\": 150,\n    \"fat\": 150\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"cake\": {\n\"flour\": \"flour\",\n\"sugar\": \"sugar\",\n\"eggs\": \"eggs\",\n\"fat\": \"fat\",\n\"temperature\": \"25\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cake\": {\n    \"temperature\": 45\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cake\": \"baked goods made from or based on a mixture of flour, sugar, eggs, and fat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the cake (which is baked goods made from or based on a mixture of flour, sugar, eggs, and fat), provide the average temperatureas in {} measured in celsius. Return only JSON with key: \\n  - temperature (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 37.4}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"cake\": \"baked goods made from or based on a mixture of flour, sugar, eggs, and fat\",\n    \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 500.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 200,\n  \"baked goods\": \"cake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 400.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average temperature of a cake?\",\n  \"keywords\": [\n    \"cake\",\n    \"temperature\",\n    \"bake\",\n    \"heat\",\n    \"oven\",\n    \"cook\"\n  ],\n  \"entities\": [\n    {\n      \"type\": \"cake\",\n      \"start\": 0,\n      \"end\": 7\n    }\n  ]\n}\n"
+  }
+]

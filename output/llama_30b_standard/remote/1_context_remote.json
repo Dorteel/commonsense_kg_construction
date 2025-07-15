@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"science\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A remote is a device that can be used to control a machine or apparatus from a distance.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"<|im_start|>control\",\"remote\":\""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\",\n  \"intent\": \"control_device\",\n  \"entities\": {\n    \"device_type\": {\n      \"entity_type\": \"device\",\n      \"type_hierarchy\": \"TV\",\n      \"synonyms\": [\n        \"television\",\n        \"televisor\",\n        \"telly\",\n        \"tube\",\n        \"gogglebox\",\n        \"boob-tube\"\n      ]\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"common sense\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sports\",\n  \"entities\": {\n    \"sports\": {\n      \"value\": \"sports\",\n      \"type\": \"category\"\n    }\n  },\n  \"intent\": \"sports\",\n  \"score\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": {\n    \"remote control\": [\n      \"tv remote\",\n      \"car remote\",\n      \"tv remote control\",\n      \"car remote control\",\n      \"tv remote\",\n      \"car remote\"\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"technology\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"a device that can be used to control a machine or apparatus from a distance\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"device\",\n  \"keywords\": [\n    \"remote\",\n    \"control\",\n    \"machine\",\n    \"apparatus\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"context1\",\n  \"context\" : \"context2\",\n  \"context\" : \"context3\",\n  \"context\" : \"context4\",\n  \"context\" : \"context5\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Amazon Echo\",\n  \"entity\": \"Alexa\",\n  \"value\": \"remote\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\":\"context\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"name\": \"remote\",\n      \"subcontexts\": [\n        {\n          \"name\": \"remote\",\n          \"subcontexts\": [\n            {\n              \"name\": \"remote\",\n              \"subcontexts\": [\n                {\n                  \"name\": \"remote\",\n                  \"subcontexts\": [\n                    {\n                    }\n                  ]\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"device\",\n  \"intent\": \"get_context\",\n  \"result\": {\n    \"resolved_query\": \"get context\",\n    \"source\": \"agent\",\n    \"speech\": \"\",\n    \"action\": \"get_context\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"household\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\" : \"device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"a device that can be used to control a machine or apparatus from a distance\"\n  ]\n}\n"
+  }
+]

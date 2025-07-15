@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1500000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 150000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"airplane\": {\"weight\": 130000.0}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 25000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 33600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"user1\",\n  \"first_name\": \"user\",\n  \"last_name\": \"1\",\n  \"email\": \"user1@gmail.com\",\n  \"phone\": \"1231231234\",\n  \"address\": \"1000 Anywhere Street\",\n  \"city\": \"Anytown\",\n  \"state\": \"Any\",\n  \"zip\": 12345,\n  \"credit_card\": {\n    \"number\": \"1111222233334444\",\n    \"expiration\": \"12/2017\",\n    \"cvv\": \"123\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 12000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"airplane\" : { \"weight\" : 100000 }}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 64500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"100\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 10000.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12000.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 263000}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Tina\",\n  \"address\": \"123 Main Street, Anytown, USA\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 500000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 47000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 40000\n}\n"
+  }
+]

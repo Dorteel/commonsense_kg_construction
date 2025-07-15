@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"a vehicle that is driven by a person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"bikes\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"an automobile that is powered by a motor\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A motorcycle is an example of a motor vehicle.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a motorcycle is a vehicle with two wheels and a strong frame.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"transportation\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a motorcycle is a motor vehicle with two wheels and a strong frame.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"motorcycle accidents\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Motorcycle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"a means of transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\" : [\n        {\n            \"name\" : \"motorcycle\",\n            \"type\" : \"object\",\n            \"properties\" : {\n                \"motor\" : {\n                    \"name\" : \"motor\",\n                    \"type\" : \"string\"\n                },\n                \"frame\" : {\n                    \"name\" : \"frame\",\n                    \"type\" : \"string\"\n                },\n                \"wheels\" : {\n                    \"name\" : \"wheels\",\n                    \"type\" : \"string\"\n                }\n            }\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a common context for a motorcycle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"motor vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sports\"\n}\n   "
+  }
+]

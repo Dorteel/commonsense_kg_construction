@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"provides information\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"name\":\"HAL\",\n  \"function\":\"AI assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"eat\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"wake up\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"assisting in the performance of a task\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"help\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"a human being who helps a professional person\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to help\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"assists\",\"definition\":\"helps\",\"related\":\"helps\",\"related_function\":\"helping\",\"related_function_definition\":\"give assistance to\",\"related_function_definition_part_of_speech\":\"verb\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"cook\",\n    \"function\": \"clean\",\n    \"function\": \"wash\",\n    \"function\": \"watch\",\n    \"function\": \"wash\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"wash\",\n    \"function\": \"wash\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n    \"function\": \"watch\",\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"assistant\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\" : \"provide\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\":\"Asks for help from a human being\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"to assist\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n  \"help\",\n  \"search\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"help\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"eat\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to help\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to_be_listed\"\n}\n"
+  }
+]

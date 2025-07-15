@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 55.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Amy\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 254.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.29444138483921\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100.00000000000001\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 50}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 190000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 152.4\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"batter\": 2,\n\"flavor\": \"chocolate\",\n\"filling\": 1,\n\"type\": \"cake\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"How much does a cake weigh?\",\n  \"answers\": {\n    \"weight\": {\n      \"question\": \"How much does a cake weigh?\",\n      \"answers\": {\n        \"weight\": {\n          \"question\": \"How much does a cake weigh?\",\n          \"answers\": {\n            \"weight\": {\n              \"question\": \"How much does a cake weigh?\",\n              \"answers\": {\n                \"weight\": {\n                  \"question\": \"How much does a cake weigh?\",\n                  \"answers\": {\n                    \"weight\": {\n                    },\n                    \"volume\": {\n                    }\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  }
+]

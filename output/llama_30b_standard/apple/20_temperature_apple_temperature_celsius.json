@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"type\": \"fruit\",\n  \"color\": \"red\",\n  \"flavor\": \"sweet\",\n  \"shape\": \"round\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10,\n  \"color\": \"red\",\n  \"fruit\": \"apple\",\n  \"flavor\": \"sweet\",\n  \"season\": \"fall\",\n  \"sugar\": 10,\n  \"type\": \"fruit\",\n  \"weight\": 1,\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": \"50\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"apple\": {\n    \"fruit\": {\n      \"skin\": \"red or yellow or green\",\n      \"flesh\": \"sweet to tart crisp whitish\"\n    }\n  },\n  \"temperature\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 16.67}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0,\n  \"is_a\": \"apple\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": { \"type\": \"float\", \"value\": \"30\" } }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 12.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the apple (which is fruit with red or yellow or green skin and sweet to tart crisp whitish flesh), provide the average temperatureas in {} measured in celsius.\",\n  \"key\": \"temperature (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\" : 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0,\n  \"apple\": {\n    \"name\": \"Apple\",\n    \"color\": \"red\",\n    \"description\": \"is a sweet, crisp fruit.\",\n    \"category\": \"fruit\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": \"50\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

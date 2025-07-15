@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 39.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": {\n        \"min\": 0,\n        \"max\": 150000,\n        \"median\": 600,\n        \"mean\": 500,\n        \"mode\": 250,\n        \"stddev\": 2500,\n        \"variance\": 2000000\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary\":0.74}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\" : 0.10 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": {\n        \"type\": \"float\",\n        \"value\": 500\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 23.42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary_value\": 295\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\":0.5}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 1.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": \"50\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 150.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100,\n  \"unit\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 100,\n  \"average value\" : 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 250.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 2500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 40.00\n}\n"
+  }
+]

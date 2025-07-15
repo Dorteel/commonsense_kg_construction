@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"name\": \"Pizza Margherita\",\n\"toppings\": [\n    \"tomato\",\n    \"mozzarella\",\n    \"basil\"\n]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 30.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 30,\n\"depth\": 3,\n\"height\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"pizza\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"user\": \"user\",\n\"system\": \"system\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": \"180\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"pizza\",\n  \"key\": \"width\",\n  \"value\": 10\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 30\n}\n"
+  }
+]

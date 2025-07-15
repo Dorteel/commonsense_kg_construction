@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John Smith\",\n\"age\": 60,\n\"city\": \"Palo Alto\",\n\"state\": \"California\",\n\"country\": \"United States of America\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 19.95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 53.35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"tie\": {\n    \"monetary_value\": {\n      \"amount\": 39.99,\n      \"currency\": \"USD\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"tie\": {\n    \"color\": \"black\",\n    \"brand\": \"Gucci\",\n    \"sale\": \"yes\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 33.60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"tie\": {\n    \"monetary value\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"key\": \"monetary value\",\n  \"value\": 19.95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 0.0000}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\":26.6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"tie\": {\n    \"monetary value\": 20\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 19.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 21.67,\n  \"value\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 3.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"tie\": \"neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 18.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": {\n\"value\": 30,\n\"units\": \"USD\"\n}\n}\n"
+  }
+]

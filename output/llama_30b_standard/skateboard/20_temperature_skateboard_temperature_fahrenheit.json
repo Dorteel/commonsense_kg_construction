@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 75.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skateboard\": \"A board with wheels that is ridden in a standing or crouching position and propelled by foot.\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 110.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the skateboard (which is a board with wheels that is ridden in a standing or crouching position and propelled by foot), provide the average temperatureas in {} measured in fahrenheit. Return only JSON with key: \\n  - temperature (float)\\n\",\n  \"answers\": [\n    {\n      \"id\": 1,\n      \"answer\": \"100\",\n      \"type\": \"text\",\n      \"title\": \"answer1\"\n    },\n    {\n      \"id\": 2,\n      \"answer\": \"200\",\n      \"type\": \"text\",\n      \"title\": \"answer2\"\n    },\n    {\n      \"id\": 3,\n      \"answer\": \"300\",\n      \"type\": \"text\",\n      \"title\": \"answer3\"\n    }\n  ],\n  \"current_answer_id\": 3,\n  \"correct_answer_id\": null\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"question\": {\n\"text\": \"Given the skateboard (which is a board with wheels that is ridden in a standing or crouching position and propelled by foot), provide the average temperature as in {} measured in fahrenheit. Return only JSON with key: temperature (float).\"\n},\n\"context\": {\n\"entities\": {\n\"skateboard\": {\n\"type\": \"knowledge_graph\",\n\"entity_id\": \"skateboard\",\n\"location\": \"Knowledge Graph\",\n\"locale\": \"en\"\n},\n\"average\": {\n\"type\": \"knowledge_graph\",\n\"entity_id\": \"average\",\n\"location\": \"Knowledge Graph\",\n\"locale\": \"en\"\n},\n\"fahrenheit\": {\n\"type\": \"knowledge_graph\",\n\"entity_id\": \"fahrenheit\",\n\"location\": \"Knowledge Graph\",\n\"locale\": \"en\"\n}\n},\n\"intents\": [],\n\"inputs\": [\n{\n\"intent\": \"assistant.intent.action.TEXT\",\n\"raw_text\": \"Given the skateboard (which is a board with wheels that is ridden in a standing or crouching position and propelled by foot), provide the average temperature as in {} measured in fahrenheit. Return only JSON with key: temperature (float).\",\n\"language_code\": \"en\"\n}\n],\n\"user\": {\n\"user_id\": \"xxxxxxxxxx\",\n\"permissions\": {\n\"devices\": [\n\"xxxxxxxxxx\"\n],\n\"applications\": [\n\"xxxxxxxxxx\"\n]\n}\n},\n\"device\": {\n\"locale\": \"en\"\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 123.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 77.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"skateboard\": {\"board\": 6.0, \"wheels\": 4.0, \"ridden\": 2.0, \"position\": 2.0, \"propelled\": 2.0, \"foot\": 2.0}, \"average\": {\"temperature\": 13.0, \"fahrenheit\": 2.0}}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 73\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 43.89\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"skateboard\": {\n    \"wheels\": \"4\",\n    \"board\": \"wood\",\n    \"propelled\": \"by foot\"\n  },\n  \"temperature\": 212,\n  \"measured\": \"in fahrenheit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"skateboard\": {\n        \"skateboard\": {\n            \"board\": {\n                \"board\": {\n                    \"board\": {\n                    }\n                }\n            },\n            \"wheels\": {\n                \"wheels\": {\n                    \"wheels\": {\n                    }\n                }\n            },\n            \"rider\": {\n                \"rider\": {\n                    \"rider\": {\n                    }\n                }\n            },\n            \"propelled\": {\n                \"propelled\": {\n                    \"propelled\": {\n                    }\n                }\n            }\n        }\n    }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 32\n}\n"
+  }
+]

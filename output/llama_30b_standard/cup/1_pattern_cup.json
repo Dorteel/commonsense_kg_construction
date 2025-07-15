@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"drink from cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"The cup is made of ceramic, glass, metal, plastic, or wood, and has an opening with a small mouth and often a handle for lifting, or for attachment of a lid.\",\"pattern\":\"The cup is a small open container usually used for drinking, and usually has a handle.\",\"pattern\":\"The cup is a small open container usually used for drinking; usually has a handle.\",\"pattern\":\"The cup is a small open container usually used for drinking, usually has a handle.\",\"pattern\":\"The cup is a small open container usually used for drinking, usually has a handle.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"a small open container usually used for drinking; usually has a handle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"a small open container usually used for drinking; usually has a handle\",\"key\":\"pattern\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": \"it was a cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"cup is a small open container usually used for drinking; usually has a handle.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": \"small open container\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"cup of coffee\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"it is a cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"drinking\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"cup of tea\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"container\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": \"cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    \"cup\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"cup\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"has_a_handle\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    \"the cup is empty\",\n    \"the cup is full\",\n    \"the cup is in the sink\",\n    \"the cup is on the floor\",\n    \"the cup is on the table\",\n    \"the cup is on the counter\",\n    \"the cup is on the windowsill\",\n    \"the cup is in the cabinet\",\n    \"the cup is on the shelf\",\n    \"the cup is on the coffee table\",\n    \"the cup is in the drawer\",\n    \"the cup is on the dresser\",\n    \"the cup is in the freezer\",\n    \"the cup is in the refrigerator\",\n    \"the cup is on the carpet\",\n    \"the cup is on the sofa\",\n    \"the cup is in the basket\",\n    \"the cup is on the towel\",\n    \"the cup is in the bowl\",\n    \"the cup is in the pot\",\n    \"the cup is in the vase\",\n    \"the cup is on the chair\",\n    \"the cup is on the desk\",\n    \"the cup is on the stove\",\n    \"the cup is on the countertop\",\n    \"the cup is on the windowsill\",\n    \"the cup is on the sink\",\n    \"the cup is on the shelf\",\n    \"the cup is on the stool\",\n    \"the cup is in the bag\",\n    \"the cup is in the box\",\n    \"the cup is in the drawer\",\n    \"the cup is on the bed\",\n    \"the cup is on the nightstand\",\n    \"the cup is in the cabinet\",\n    \"the cup is in the bathroom\",\n    \"the cup is on the bookshelf\",\n    \"the cup"
+  }
+]

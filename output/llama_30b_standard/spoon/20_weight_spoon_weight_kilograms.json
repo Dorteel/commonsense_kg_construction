@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.015\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12.34567\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 113.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"kg\": 123.45\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"spoon\": {\n    \"weight\": 0.001,\n    \"length\": 3\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.3\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Spoon\",\n  \"image\": \"https://images.unsplash.com/photo-1528603992170-48c843917c59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1200&q=80\",\n  \"description\": \"A spoon is a utensil consisting of a small shallow bowl (also known as a head), oval or round, at the end of a handle. A type of cutlery (sometimes called flatware in the United States), especially as part of a place setting, it is used to transfer food to the mouth.\",\n  \"properties\": {\n    \"weight\": \"weight of the spoon\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 11.345\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 135\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.023\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 70.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.05\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 300\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "spoon",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1000\"\n}\n"
+  }
+]

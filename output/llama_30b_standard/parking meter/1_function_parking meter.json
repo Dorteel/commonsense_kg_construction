@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"time\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"pay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\": \"deposit\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"park\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"countdown\"}\n     \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"insert_money\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\" : \"pay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"coin-operated\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"park a car\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"park\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"insert coin\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"pay\",\n  \"description\": \"give money to the meter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"pay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"accepts\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"deposit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"tell\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"park_car\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"set_time\"\n}\n"
+  }
+]

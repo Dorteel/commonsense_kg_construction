@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"type\": \"noun\",\n      \"pattern\": [\n        \"fork\",\n        \"spoon\",\n        \"knife\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"eating\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"Cutlery\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"knife\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    \"catsup\",\n    \"ketchup\",\n    \"sauce\",\n    \"sauces\",\n    \"sauces, catsup, ketchup\"\n  ],\n  \"score\": 4.5,\n  \"pattern_id\": 123\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"fork(which is cutlery used for serving and eating food)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"fork\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"use to serve food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"eating\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"Given a knife, provide a list of common patterns for this concept.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"to eat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"is used to eat meals\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"tableware\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"pattern\": \"eating\" }\n     "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"use_to_eat_food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"Forks are used to eat food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"fork(which is cutlery used for serving and eating food)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": \"fork,forks\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": \"Utensil used for eating\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":\"fork\"}\n"
+  }
+]

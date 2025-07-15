@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"red\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"yellow\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"color\": [\n    \"red\",\n    \"green\",\n    \"blue\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"RED\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    {\n      \"value\": \"red\"\n    },\n    {\n      \"value\": \"green\"\n    },\n    {\n      \"value\": \"blue\"\n    },\n    {\n      \"value\": \"black\"\n    },\n    {\n      \"value\": \"white\"\n    },\n    {\n      \"value\": \"orange\"\n    },\n    {\n      \"value\": \"purple\"\n    },\n    {\n      \"value\": \"brown\"\n    },\n    {\n      \"value\": \"yellow\"\n    },\n    {\n      \"value\": \"pink\"\n    },\n    {\n      \"value\": \"gray\"\n    },\n    {\n      \"value\": \"maroon\"\n    },\n    {\n      \"value\": \"olive\"\n    },\n    {\n      \"value\": \"teal\"\n    },\n    {\n      \"value\": \"navy\"\n    },\n    {\n      \"value\": \"indigo\"\n    },\n    {\n      \"value\": \"lime\"\n    },\n    {\n      \"value\": \"aqua\"\n    },\n    {\n      \"value\": \"fuchsia\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"red\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\",\n  \"colour\": \"white\",\n  \"colour\": \"red\",\n  \"colour\": \"blue\",\n  \"colour\": \"green\",\n  \"colour\": \"yellow\",\n  \"colour\": \"grey\",\n  \"colour\": \"orange\",\n  \"colour\": \"pink\",\n  \"colour\": \"purple\",\n  \"colour\": \"silver\",\n  \"colour\": \"brown\",\n  \"colour\": \"turquoise\",\n  \"colour\": \"gold\",\n  \"colour\": \"maroon\",\n  \"colour\": \"teal\",\n  \"colour\": \"violet\",\n  \"colour\": \"aqua\",\n  \"colour\": \"lime\",\n  \"colour\": \"magenta\",\n  \"colour\": \"olive\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"black\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"color\": \"white\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    \"red\",\n    \"green\",\n    \"blue\",\n    \"black\",\n    \"white\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"colour\": \"red\",\n\"colour\": \"green\",\n\"colour\": \"blue\",\n\"colour\": \"black\",\n\"colour\": \"white\",\n\"colour\": \"yellow\",\n\"colour\": \"purple\",\n\"colour\": \"pink\",\n\"colour\": \"orange\",\n\"colour\": \"grey\",\n\"colour\": \"brown\",\n\"colour\": \"silver\",\n\"colour\": \"gold\",\n\"colour\": \"turquoise\",\n\"colour\": \"maroon\",\n\"colour\": \"violet\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": [\"white\", \"red\", \"blue\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\":\"red\"}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\": \"Assistant\",\n  \"id\": \"58448f93-7f37-437f-b4a8-a47eb39921c0\",\n  \"name\": \"Terry\",\n  \"version\": 1.1,\n  \"locale\": \"en-us\",\n  \"device\": \"mobile\",\n  \"available_locale\": \"en-us\",\n  \"available_device\": \"mobile\",\n  \"available_version\": 1.1,\n  \"available_version_string\": \"1.1\",\n  \"available_version_number\": 1.1,\n  \"is_active\": false,\n  \"is_configured\": false,\n  \"available_languages\": [\n    \"en-us\"\n  ],\n  \"available_devices\": [\n    \"mobile\"\n  ],\n  \"available_versions\": [\n    1.1\n  ],\n  \"is_available\": false,\n  \"is_available_language\": false,\n  \"is_available_device\": false,\n  \"is_available_version\": false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the keyboard (which is device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like), provide the average sizeas in {} measured in centimeters.\",\n  \"answers\": [\n    {\n      \"key\": \"height\",\n      \"value\": 0.05\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"device\": \"keyboard\",\n  \"height\": \"25.4\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 15.24 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"device\": \"keyboard\",\n  \"measurement_unit\": \"centimeters\",\n  \"value\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"What's the average height of a keyboard?\",\n  \"context\": {\n    \"keyboard\": {\n      \"type\": \"computer\",\n      \"height\": 0.12,\n      \"width\": 0.09\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 0.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane Smith\",\n  \"title\": \"HR Manager\",\n  \"company\": \"Acme Inc.\",\n  \"phone\": \"212-555-1234\",\n  \"cell\": \"555-1234\",\n  \"fax\": \"617-1234\",\n  \"email\": \"jsmith@acme.com\",\n  \"address\": {\n    \"street\": \"123 Main St.\",\n    \"city\": \"Boston\",\n    \"state\": \"MA\",\n    \"zip\": 0,\n    \"country\": \"USA\"\n  },\n  \"website\": \"http://www.acme.com\",\n  \"picture\": {\n    \"large\": \"https://acme.com/files/Jane.jpg\",\n    \"small\": \"https://acme.com/files/Jane_thumb.jpg\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": 4.875\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"device_type\": \"keyboard\",\n  \"height\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"device\": \"keyboard\",\n  \"size\": [\n    {\n      \"measurement\": \"height\",\n      \"unit\": \"centimeters\",\n      \"value\": 10\n    },\n    {\n      \"measurement\": \"width\",\n      \"unit\": \"centimeters\",\n      \"value\": 45\n    },\n    {\n      \"measurement\": \"weight\",\n      \"unit\": \"kilograms\",\n      \"value\": 5\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"key1\": \"value1\", \"key2\": \"value2\", \"key3\": \"value3\" }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"key\": \"height\",\n\"value\": \"5.08\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.54\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"device\": \"keyboard\",\n  \"measurement\": {\n    \"type\": \"size\",\n    \"average\": \"height\",\n    \"unit\": \"cm\"\n  }\n}\n"
+  }
+]

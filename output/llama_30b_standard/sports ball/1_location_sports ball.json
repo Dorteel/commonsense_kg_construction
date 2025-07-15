@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"gym\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"gym, playground, sports ground\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"playground\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"court\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"grass field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"court\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : [ \"playground\", \"stadium\", \"gym\" ] }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"courts\",\n\"location\":\"fields\",\n\"location\":\"rinks\",\n\"location\":\"stadiums\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a grassy field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on a field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"court\",\n\"location\": \"field\",\n\"location\": \"court\",\n\"location\": \"court\",\n\"location\": \"field\",\n\"location\": \"court\",\n\"location\": \"court\",\n\"location\": \"court\",\n\"location\": \"field\",\n\"location\": \"court\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"outside\",\n    \"inside\",\n    \"field\",\n    \"court\",\n    \"pitch\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"the court\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the ground\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"playground\"}\n                   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"court\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"Park\",\n    \"Garden\",\n    \"Stadium\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"Sports\"}\n"
+  }
+]

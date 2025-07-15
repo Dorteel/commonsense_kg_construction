@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 320000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"John Smith\",\n    \"age\": 53,\n    \"location\": \"New York\",\n    \"phone_number\": \"02 9999 9999\",\n    \"email\": \"john@smith.com\"\n  },\n  \"sandwich\": {\n    \"id\": \"5432\",\n    \"type\": \"chicken\",\n    \"size\": \"large\",\n    \"filling\": \"lettuce\",\n    \"bread\": \"brown\",\n    \"toppings\": \"pickles\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 50\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 50,\n\"filling\": \"ham\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\":\"assistant\",\n    \"text\": \"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average sizeas in {} measured in millimeters. Return only JSON with key:  - height (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15,\n  \"bread\": \"white\",\n  \"filling\": \"cheese\",\n  \"name\": \"cheese sandwich\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 5.3\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average size as in {height} measured in millimeters. Return only JSON with key:  - height (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"height\": 180\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 176\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": [\n    {\n      \"name\": \"Peter\",\n      \"age\": 33,\n      \"job\": \"Software Developer\"\n    },\n    {\n      \"name\": \"Jane\",\n      \"age\": 25,\n      \"job\": \"HR Manager\"\n    }\n  ]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"question\":\"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average sizeas in {} measured in millimeters.\",\n    \"key\": [\n        {\n            \"name\":\"height\",\n            \"type\":\"float\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Assistant\",\n    \"description\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\",\n    \"intents\": [\n        {\n            \"name\": \"system\",\n            \"examples\": [\n                \"How big is the average size of a sandwich?\",\n                \"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average sizeas in {} measured in millimeters. Return only JSON with key:  - height (float).\",\n                \"How big is the average size of a sandwich?\",\n                \"What is the average size of a sandwich?\",\n                \"What is the average size of a sandwich?\"\n            ]\n        },\n        {\n            \"name\": \"user\",\n            \"examples\": [\n                \"How big is the average size of a sandwich?\",\n                \"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average sizeas in {} measured in millimeters. Return only JSON with key:  - height (float).\",\n                \"How big is the average size of a sandwich?\",\n                \"What is the average size of a sandwich?\",\n                \"What is the average size of a sandwich?\"\n            ]\n        }\n    ]\n}\n"
+  }
+]

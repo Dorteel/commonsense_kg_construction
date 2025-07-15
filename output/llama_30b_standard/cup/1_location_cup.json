@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"atop a table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in the kitchen\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"on the table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"on a table\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"table\", \"location\": \"kitchen\", \"location\": \"office\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": [\"on the table\", \"on the desk\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the table\",\n  \"location\": \"in the refrigerator\",\n  \"location\": \"in the cupboard\",\n  \"location\": \"in the sink\",\n  \"location\": \"on the counter\",\n  \"location\": \"on the shelf\",\n  \"location\": \"on the floor\",\n  \"location\": \"in the dishwasher\",\n  \"location\": \"in the microwave\",\n  \"location\": \"in the oven\",\n  \"location\": \"in the trash\",\n  \"location\": \"on the floor\",\n  \"location\": \"on the counter\",\n  \"location\": \"in the sink\",\n  \"location\": \"on the table\",\n  \"location\": \"in the refrigerator\",\n  \"location\": \"in the cupboard\",\n  \"location\": \"on the floor\",\n  \"location\": \"in the dishwasher\",\n  \"location\": \"in the trash\",\n  \"location\": \"on the floor\",\n  \"location\": \"in the sink\",\n  \"location\": \"on the table\",\n  \"location\": \"in the refrigerator\",\n  \"location\": \"in the cupboard\",\n  \"location\": \"on the counter\",\n  \"location\": \"on the floor\",\n  \"location\": \"in the dishwasher\",\n  \"location\": \"in the trash\",\n  \"location\": \"on the floor\",\n  \"location\": \"in the sink\",\n  \"location\": \"on the table\",\n  \"location\": \"in the refrigerator\",\n  \"location\": \"in the cupboard\",\n  \"location\": \"on the counter\",\n  \"location\": \"on the floor\",\n  \"location\": \"in"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"bathroom\",\n    \"dining room\",\n    \"bedroom\",\n    \"living room\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"in the kitchen\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"on the table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": {\n    \"value\": [\n      \"KITCHEN\",\n      \"RESTAURANT\"\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\",\n  \"location\": \"bathroom\",\n  \"location\": \"bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"table, sink, counter, etc. \" }\n"
+  }
+]

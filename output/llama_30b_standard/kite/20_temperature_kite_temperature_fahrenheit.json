@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"kite\": \"is a plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"kite\": \"plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\",\n  \"average_temperature\": 20,\n  \"temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 59.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"77.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"kite\": {\n\"plaything\": {\n\"consist\": {\n\"light\": \"plaything\",\n\"frame\": \"plaything\",\n\"cover\": \"plaything\",\n\"tissue paper\": \"plaything\",\n\"flown\": \"plaything\",\n\"wind\": \"plaything\",\n\"end of a string\": \"plaything\",\n\"kite\": \"plaything\"\n},\n\"plaything\": \"plaything\"\n},\n\"kite\": \"plaything\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300.0}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"kite\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"user_name\": \"user_name\",\n\"user_age\": \"user_age\",\n\"kite\": \"kite_description\",\n\"temperature\": \"temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 54.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"weather\": {\n    \"weather\": [\n      {\n        \"main\": \"Clouds\",\n        \"description\": \"overcast clouds\",\n        \"icon\": \"03n\"\n      }\n    ],\n    \"wind\": {\n      \"speed\": 8.58,\n      \"deg\": 315.001\n    },\n    \"sunriseTime\": \"2018-07-10T21:21:44+0200\",\n    \"sunsetTime\": \"2018-07-10T22:52:42+0200\"\n  },\n  \"timezone\": \"Europe/Istanbul\",\n  \"location\": {\n    \"name\": \"Istanbul, Turkey\",\n    \"lat\": 41.0072,\n    \"lon\": 28.9778,\n    \"tz_id\": \"Europe/Istanbul\",\n    \"localtime\": \"2018-07-10T23:21:00+0300\"\n  },\n  \" clouds\": {\n    \"all\": 80\n  },\n  \" dt_txt\": \"Tue Jul 10 2018 22:21:00 GMT+0300 (Eastern European Summer Time)\",\n  \"dt\": 1531283760,\n  \"temp\": {\n    \"day\": 21.6,\n    \"min\": 19.2,\n    \"max\": 25,\n    \"night\": 21.2,\n    \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"user\": \"user\",\n    \"device\": \"assistant\",\n    \"location\": \"assistant\",\n    \"context\": {},\n    \"timestamp\": \"2017-09-27T18:20:42.000Z\",\n    \"data\": {\n        \"kite\": \"plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\"\n    },\n    \"result\": {\n        \"temperature\": 52.8\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 32.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 55.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":36.6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 70.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string), provide the average temperatureas in {} measured in fahrenheit. Return only JSON with key:  - temperature (float)\"\n}\n"
+  }
+]

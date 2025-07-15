@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"car\": [\n    {\n      \"make\": \"BMW\",\n      \"model\": \"525\",\n      \"year\": 1992,\n      \"color\": \"black\",\n      \"doors\": \"4\",\n      \"enginesize\": 2500,\n      \"mileage\": 130000,\n      \"condition\": \"good\"\n    },\n    {\n      \"make\": \"Toyota\",\n      \"model\": \"Corolla\",\n      \"year\": 1998,\n      \"color\": \"red\",\n      \"doors\": \"4\",\n      \"enginesize\": 1500,\n      \"mileage\": 80000,\n      \"condition\": \"poor\"\n    },\n    {\n      \"make\": \"Ford\",\n      \"model\": \"Mustang\",\n      \"year\": 2000,\n      \"color\": \"blue\",\n      \"doors\": \"2\",\n      \"enginesize\": 4000,\n      \"mileage\": 130000,\n      \"condition\": \"average\"\n    },\n    {\n      \"make\": \"Honda\",\n      \"model\": \"Civic\",\n      \"year\": 1997,\n      \"color\": \"green\",\n      \"doors\": \"4\",\n      \"enginesize\": 1500,\n      \"mileage\": 120000,\n      \"condition\": \"good\"\n    },\n    {\n      \"make\": \"Volkswagen\",\n      \"model\": \"Golf\",\n      \"year\": 1999,\n     "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average size of a car?\",\n  \"context\": {\n    \"car\": {\n      \"size\": {\n        \"height\": 150\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":350}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\":\"car\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 130.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 1950,\n    \"width\": 1800,\n    \"length\": 4850\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 155}\n  \t\t\t\t  \t\t\t  \t\t\t  \t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 130.0}\n \t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"car\": {\n    \"height\": 148.5\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 145.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"text\": \"what is the average size of a car\",\n    \"intent\": \"assistant_car\"\n  },\n  \"contexts\": [\n    {\n      \"name\": \"assistant_car\",\n      \"lifespan\": 2\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": \"160\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.57,\n  \"width\": 1.69,\n  \"length\": 4.63,\n  \"weight\": 1.5\n}\n"
+  }
+]

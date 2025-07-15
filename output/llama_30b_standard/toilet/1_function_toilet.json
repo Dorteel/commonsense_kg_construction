@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"urination\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"defecation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"toilet paper\",\"function\":\"toilet seat\",\"function\":\"toilet roll\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\": \"flushing\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"washes\", \"usage\": \"washes the toilet\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"cleaning\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"urination\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"sit\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"use\",\n  \"function\": \"clean\",\n  \"function\": \"repair\",\n  \"function\": \"refill\",\n  \"function\": \"flush\",\n  \"function\": \"empty\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"urination\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"urination\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"urination\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"urination\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"toilet\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"elimination\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"getToiletPaper\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"defecation\",\n  \"function\": \"urination\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"flushing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toilet",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"get_water\"\n}\n"
+  }
+]

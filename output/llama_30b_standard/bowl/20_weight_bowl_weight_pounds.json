@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"300\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"weight\": 3\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 3.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1.3000000000000002\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 2.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"bowl\": {\n      \"average\": 10\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"round\": \"yes\",\n    \"liquid\": \"yes\",\n    \"open\": \"yes\",\n    \"chiefly\": \"yes\",\n    \"holding\": \"yes\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"weight\": 10.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"weight\": 5.2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2.101\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"1\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"bowl\":{\"weight\":0}}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jenna\",\n  \"title\": \"Communications Manager\",\n  \"department\": \"Finance\",\n  \"doB\": \"1984-12-12T05:00:00.000Z\",\n  \"manager\": {\n    \"name\": \"Scott\",\n    \"title\": \"Finance Manager\",\n    \"department\": \"Finance\"\n  },\n  \"teamLeader\": {\n    \"name\": \"Kenneth\",\n    \"title\": \"Finance Supervisor\",\n    \"department\": \"Finance\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\":\"1.2\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average weight as in {} measured in pounds. Return only JSON with key:  - weight (float)\",\n  \"answers\": [\n    {\n      \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average weightas in {} measured in pounds. Return only JSON with key:  - weight (float)\",\n      \"answers\": [\n        {\n          \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average weightas in {} measured in pounds. Return only JSON with key:  - weight (float)\",\n          \"answers\": [\n            {\n              \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average weightas in {} measured in pounds. Return only JSON with key:  - weight (float)\",\n              \"answers\": [\n                {\n                  \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average weightas in {} measured in pounds. Return only JSON with key:  - weight (float)\",\n                  \"answers\": [\n                    {\n                    \"question\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average weightas in {} measured in pounds. Return only JSON with key:  - weight (float"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"userID\": \"1234\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

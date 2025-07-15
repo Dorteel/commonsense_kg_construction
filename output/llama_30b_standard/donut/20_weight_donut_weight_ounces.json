@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 140,\n  \"flavour\": \"vanilla\",\n  \"brand\": \"Dunkin\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.25\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": {\n        \"value\": 1.5\n    },\n    \"unit\": \"ounce\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.3125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 220\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1.1\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"donut\": {\n        \"weight\": 0.45\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 3.14159}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"donut\": {\n    \"weight\": \"75\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"a donut\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 0.0,\n    \"donut\": \"small ring-shaped friedcake\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 0.11111111111111111}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 0.72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": \"Jill\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"donut\": {\n    \"weight\": 275.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"text\": \"15.2 ounces\",\n    \"entity\": \"amount\"\n  }\n}\n"
+  }
+]

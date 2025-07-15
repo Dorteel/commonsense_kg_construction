@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"name\": \"assistant\",\n    \"request_type\": \"action\",\n    \"request_id\": \"79737294-0707-4e52-856e-a615540b645e\",\n    \"version\": \"2\",\n    \"locale\": \"en-US\",\n    \"timestamp\": \"2017-03-01T17:51:30.588Z\",\n    \"source\": \"agent\",\n    \"user\": {\n        \"userId\": \"amzn1.ask.account.AGT1ZLF2Y77J32KXKZBQ7Q6G3MXQCW4E7ZI626H23ZVQPQSJGFJXJMXP477H2G4UWJZJX45L7E5FQ5FJMJXFZDH6B57N262YKHMHX3AZ243JYW25X22D2AZ2YPZ2W34VWZPX5J2G35OGZ7TZ7QYVHXJG3O45XZOZ5TNXKZOZ7HX47VNW7ZOZ73OZ2ZQ\",\n        \"accessToken\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJodHRwczovL3d3dy"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"Jane\",\n\"age\": 36,\n\"isMarried\": \"true\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mikey\",\n  \"gender\": \"male\",\n  \"age\": 41,\n  \"job\": \"engineer\"\n}\n \t \t\t\t\t\t \t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temp\" : 300.0,\n\"speed\" : 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"key\" : \"temperature\",\n  \"value\" : 373.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.15,\n  \"user\": \"test\",\n  \"keyboard\": \"test\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"name\": \"Google Assistant\",\n    \"logo_url\": \"https://assistant.google.com/images/assistant_logo_2x.png\",\n    \"domain_hints\": [\"google.com\"]\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"device\": \"keyboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the temperature in Antarctica?\",\n  \"intent\": \"assistant_temperature\",\n  \"entity\": {\n    \"temperature\": {\n      \"value\": \"72\"\n    }\n  },\n  \"contexts\": [\n    {\n      \"name\": \"location\",\n      \"lifespan\": 2,\n      \"parameters\": {\n        \"city\": {\n          \"value\": \"Antarctica\"\n        }\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 274.15 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"37\",\n  \"time\": \"2019-05-21T21:11:48.241Z\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"device\": {\n    \"type\": \"device\",\n    \"keyboard\": {\n      \"type\": \"device\",\n      \"keys\": [\n        {\n          \"type\": \"device\",\n          \"key\": {\n            \"type\": \"device\",\n            \"key\": {\n              \"type\": \"device\",\n              \"key\": {\n                \"type\": \"device\",\n                \"key\": {\n                  \"type\": \"device\",\n                  \"key\": {\n                    \"type\": \"device\",\n                    \"key\": {\n                    }\n                  }\n                }\n              }\n            }\n          }\n        }\n      ]\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"user\": \"user\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

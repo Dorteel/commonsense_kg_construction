@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 16.47\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\":\"123456\",\n  \"intent\":\"assistant.intent.action.TEXT\",\n  \"query\":\"hi\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 28.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 22.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 40.0\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 27.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 19.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 38.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 20.0\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"32.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100.10\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"Given the orange (which is round yellow to orange fruit of any of several citrus trees), provide the average temperatureas in {} measured in celsius.\",\n  \"system_reply\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\",\n  \"assistant_reply\": \"\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 10}\n"
+  }
+]

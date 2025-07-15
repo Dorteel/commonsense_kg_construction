@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\": 55.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 118.41\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 68.0,\n    \"humidity\": 48\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 65.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 76\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 68}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 69.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0,\n  \"is_outside\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 69.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Bed\",\n  \"properties\": {\n    \"has_temperature\": true,\n    \"average_temperature\": 70\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"question\": \"Given the bed (which is a piece of furniture that provides a place to sleep), provide the average temperatureas in {} measured in fahrenheit.\",\n\"key\": [\"temperature\", \"float\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 70.0,\n    \"bed\": {\n      \"temperature\": 70.0\n    }\n}\n"
+  }
+]

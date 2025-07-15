@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 22.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 23.9}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 30.0,\n  \"chair\": \"seat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 18.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 15.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 15.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 23.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 29.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25,\n  \"user_location\": \"chair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 3.141592654\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 21.3}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\" : 25.0\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"1234\",\n  \"session_start_time\": \"2017-11-22T05:24:49Z\",\n  \"input_text\": \"what is the temperature in san francisco\",\n  \"intent\": \"action.intent.TEXT\",\n  \"intent_confidence\": 1.0,\n  \"slot_filling_result\": {\n    \"intent\": {\n      \"name\": \"action.intent.TEXT\",\n      \"display_name\": \"Action.intent.TEXT\"\n    },\n    \"slots\": {\n      \"location\": {\n        \"name\": \"location\",\n        \"value\": \"san francisco\",\n        \"original_value\": \"san francisco\",\n        \"synonyms\": []\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"keywords\": [\n    \"temperature\",\n    \"device\",\n    \"set\",\n    \"computer\",\n    \"celsius\",\n    \"piano\",\n    \"organ\"\n],\n\"entities\": [\n    {\n        \"start\": 0,\n        \"end\": 4,\n        \"value\": \"temperature\"\n    },\n    {\n        \"start\": 6,\n        \"end\": 16,\n        \"value\": \"device\"\n    },\n    {\n        \"start\": 17,\n        \"end\": 23,\n        \"value\": \"set\"\n    },\n    {\n        \"start\": 24,\n        \"end\": 30,\n        \"value\": \"computer\"\n    },\n    {\n        \"start\": 31,\n        \"end\": 36,\n        \"value\": \"celsius\"\n    },\n    {\n        \"start\": 37,\n        \"end\": 42,\n        \"value\": \"piano\"\n    },\n    {\n        \"start\": 43,\n        \"end\": 49,\n        \"value\": \"organ\"\n    }\n],\n\"intents\": [\n    {\n        \"confidence\": 96.59832602905273,\n        \"intent\": \"actions_intent_SIMPLE_INPUT\",\n        \"inputs\": [\n            {\n                \"input_type\": 2,\n                \"query\": \"temperature\"\n            },\n            {\n                \"input_type\": 3,\n                \"query\": \"device\"\n           "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"device\": \"keyboard\", \"temperature\": 25.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 11.123}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 28.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 23.56\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 20.3,\n\"user\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 32.75}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 10.68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"query\": \"set the volume to 4\",\n  \"parameters\": {\n    \"volume\": 4\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 21.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0,\n  \"device\": \"keyboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"type\": \"float\",\n    \"value\": 14.2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "keyboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"device_id\": \"d932f599-2211-4378-9405-b267dce9640a\",\n  \"user_id\": \"21c60115-23c0-4605-b438-2bf944727933\",\n  \"contexts\": [\n    {\n      \"name\": \"weather\",\n      \"lifespan\": 5,\n      \"parameters\": {\n        \"zip_code\": \"75020\"\n      }\n    }\n  ],\n  \"inputs\": [\n    {\n      \"intent\": \"action.devices.EXECUTE\",\n      \"payload\": {\n        \"commands\": [\n          {\n            \"devices\": [\n              {\n                \"id\": \"d932f599-2211-4378-9405-b267dce9640a\",\n                \"type\": \"light\"\n              }\n            ],\n            \"execution\": {\n              \"command\": \"action.devices.commands.OnOff\",\n              \"params\": {\n                \"on\": true\n              }\n            }\n          }\n        ]\n      }\n    }\n  ],\n  \"user\": {\n    \"locale\": \"en-US\",\n    \"userId\": \"21c60115-23c0-4605-b438-2bf944727933\",\n    \"permissions\": {\n      \"device_info\": {\n        \"status\": \"gr"
+  }
+]

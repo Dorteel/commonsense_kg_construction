@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 107.0}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"20\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"size\": \"1000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 2.75,\n    \"width\": 14,\n    \"thickness\": 0.03,\n    \"profile\": \"camber\",\n    \"core\": \"poplar\",\n    \"base\": \"P-Tex\",\n    \"sidewalls\": \"acrylic\",\n    \"type\": \"freeride\",\n    \"mounting\": \"centered\",\n    \"shape\": \"directional\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 220.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"min\": 145,\n    \"max\": 172\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 90.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 76.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 165\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"key\": \"length\",\n\"value\": 39.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"type\": \"assistant\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":\"60\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 121.92\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 120,\n  \"width\" : 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 123\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 124\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 128\n}\n"
+  }
+]

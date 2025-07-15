@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"spheroid\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"ball\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"shape\": \"quadratic\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\": \"triangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"cat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"box\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\":\"rectangle\",\"name\":\"house\",\"description\":\"a building where a person or family lives\",\"image\":\"http://images.pexels.com/photos/37762/pexels-photo-37762.jpeg\",\"examples\":\"a small house\",\"synonyms\":\"home\",\"subcategories\":[{\"name\":\"house\",\"synonyms\":\"home\",\"subcategories\":[{\"name\":\"home\",\"synonyms\":\"house\",\"subcategories\":[{\"name\":\"residence\",\"synonyms\":\"home\",\"subcategories\":[{\"name\":\"place of residence\",\"synonyms\":\"residence\",\"subcategories\":[{\"name\":\"abode\",\"synonyms\":\"residence\",\"subcategories\":[{\"name\":\"dwelling\",\"synonyms\":\"abode\",\"subcategories\":[{\"name\":\"habitation\",\"synonyms\":\"dwelling\",\"subcategories\":[{\"name\":\"habitancy\",\"synonyms\":\"habitation\",\"subcategories\":[]}]}]}]}]}]}]}]}]}\n \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"quadrilateral\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"four legs\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shapes\": [\"cat\", \"feline\", \"mammal\", \"animal\", \"domestic\", \"wildcat\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cat",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"shape\": \"rectangle\"\n}\n"
+  }
+]

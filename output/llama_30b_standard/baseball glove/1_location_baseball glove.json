@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"first base\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"infield\",\"outfield\",\"left field\",\"center field\",\"right field\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"hand\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"baseball field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"baseball field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in the field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\" : [\n\"baseball field\",\n\"the hand\",\n\"handwear\",\n\"a baseball glove\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"hand\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"hand\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"hand\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": [\n        \"hand\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"left hand\",\n    \"right hand\",\n    \"in a baseball players glove\",\n    \"in a baseball players hand\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"hand\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"baseball field\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"hand\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"Batter's Box\",\n    \"Infield\",\n    \"Outfield\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"hand\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"glove\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"hand\",\n    \"wrist\",\n    \"elbow\",\n    \"shoulder\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"gloves\"\n}\n"
+  }
+]

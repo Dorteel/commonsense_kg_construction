@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The toothbrush is in the bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a part of a toiletries set\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"medical device\",\n  \"concept_id\": \"urn:concept:0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\": \"I'm a toothbrush!\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"in bathroom\",\n    \"in toilet\",\n    \"in toiletries\",\n    \"in toothbrush holder\",\n    \"on countertop\",\n    \"on sink\",\n    \"on toilet\",\n    \"on toothbrush holder\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"in the bathroom\",\n    \"in the kitchen\",\n    \"in the living room\",\n    \"in the bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"bathroom\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"something\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"small brush\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"small brush\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"tool\",\n  \"salience\": 0.9355365651220667\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"type\": \"entity\",\n      \"value\": \"toothbrush\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"brush\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"cleaning tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"household tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"hygiene tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"dental tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"oral care tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"dental care tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"tooth tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"tooth brushes\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"teeth cleaning tools\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"dental care\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"dentists\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"dentistry\"\n    },\n    {\n      \"type\": \"entity\",\n      \"value\": \"dental hygiene\"\n    },\n    {\n      \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"toothbrush\",\"result\":\"Toothbrush\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"household supplies\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"aids in dental care\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"cleaning\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"tooth brush\",\n    \"toothbrush\",\n    \"brush\",\n    \"brushes\",\n    \"brush\",\n    \"dental\",\n    \"dental hygiene\",\n    \"dental care\",\n    \"dental supplies\",\n    \"oral\",\n    \"oral care\",\n    \"oral hygiene\",\n    \"oral hygiene products\",\n    \"oral hygiene care\",\n    \"oral hygiene product\",\n    \"oral care products\",\n    \"oral care product\",\n    \"oral care product\",\n    \"oral health\",\n    \"oral health care\",\n    \"oral health care product\",\n    \"dental hygiene product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\",\n    \"dental care product\","
+  }
+]

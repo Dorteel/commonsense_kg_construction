@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"A bench is used to sit on.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"A bench is a long seat for more than one person.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Someone is sitting on the bench.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A bench is a long seat for more than one person.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"bench is used by a single person to sit on.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"Sitting on a bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a bench with three people.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A bench is a long seat for more than one person.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    \"Bench is for people who wants to sit\",\n    \"Bench is for people who wants to sit in a group\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You are sitting on the bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"scenario\": \"bench used as a seat.\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"A bench is used for seating purpose.\"}\n                   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"The bench is at the park.\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You sit on the bench.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"There are 3 people sitting on the bench.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"sitting on the bench\",\n  \"entities\": {\n    \"seat\": \"bench\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Someone is sitting on the bench.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"a bench is a place where people can sit\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A bench can be used by more than one person\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"sit\"\n}\n"
+  }
+]

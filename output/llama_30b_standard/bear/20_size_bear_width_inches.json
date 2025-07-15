@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 27.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 10.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 34.0 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 240,\n  \"height\": 120,\n  \"weight\": 120,\n  \"length\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.2\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"userID\": \"25608\",\n  \"context\": \"bear\",\n  \"question\": \"Given the bear (which is massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws), provide the average size as in {} measured in inches. Return only JSON with key:  - width (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 22.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 190.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"key\": \"width\",\n  \"value\": 33\n}\n"
+  }
+]

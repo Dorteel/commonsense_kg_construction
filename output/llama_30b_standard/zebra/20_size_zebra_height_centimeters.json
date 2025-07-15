@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123\",\n  \"message\": \"please\",\n  \"timestamp\": \"2017-10-06T13:17:13.513Z\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 135.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 142.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Kelly\",\n  \"age\": 32,\n  \"height\": 176,\n  \"weight\": 68,\n  \"eyeColor\": \"brown\",\n  \"hairColor\": \"brown\",\n  \"address\": \"New York\",\n  \"phoneNumber\": \"0123456789\",\n  \"bloodType\": \"A+\",\n  \"gender\": \"female\",\n  \"maritalStatus\": \"single\",\n  \"nationality\": \"American\",\n  \"emailAddress\": \"kelly@gmail.com\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": \"system\",\n  \"message\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\",\n  \"input\": \"{\\\"user\\\": \\\"user\\\", \\\"message\\\": \\\"Given the zebra (which is any of several fleet black-and-white striped African equines), provide the average sizeas in {} measured in centimeters. Return only JSON with key:  - height (float)\\\", \\\"input\\\": \\\"{\\\\\\\"height\\\\\\\": 150, \\\\\\\"weight\\\\\\\": 350, \\\\\\\"species\\\\\\\": \\\\\\\"zebra\\\\\\\"}\\\"}\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 145\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 2300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Zebra\",\n  \"height\": 140,\n  \"species\": \"Equus quagga\",\n  \"averageLifeSpan\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": [\n    \"Alexa\",\n    \"Cortana\",\n    \"Google Assistant\",\n    \"Siri\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 160,\n  \"color\": \"black and white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"zebra\": \"zebras\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 152.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 220.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"size\": {\n  \"height\": 142\n}\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.021\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 84.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": \"1300\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 40 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\": \"number\",\n  \"value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 260\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 70}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"1\",\n  \"height\": 120.0,\n  \"cup\": {\n    \"capacity\": 120,\n    \"material\": \"glass\",\n    \"size\": {\n      \"height\": 100.0,\n      \"length\": 80.0,\n      \"width\": 80.0\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"cup\": {\n  \"height\": 80.0\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 84.73\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"cup\",\n  \"description\": \"A cup is a small open container usually used for drinking. It is usually has a handle.\",\n  \"attributes\": {\n    \"height\": 10\n  },\n  \"actions\": {\n    \"getAverage\": {\n      \"description\": \"Given the cup (which is a small open container usually used for drinking; usually has a handle), provide the average sizeas in {} measured in millimeters. Return only JSON with key: - height (float)\",\n      \"parameters\": {\n        \"height\": \"float\"\n      },\n      \"returns\": {\n        \"height\": \"float\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"How many grams are in 1 ounce?\",\n  \"answer\": 28.349523125,\n  \"context\": [],\n  \"action\": \"NONE\",\n  \"source\": \"google\",\n  \"timestamp\": \"2017-09-17T03:49:03.312Z\",\n  \"id\": \"1505690443139\",\n  \"locale\": \"en-US\",\n  \"conversation\": \"1496331547122\",\n  \"state\": \"active\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"version\": \"1.0.0\",\n    \"sessionId\": \"1497972454420\",\n    \"locale\": \"en-US\"\n  },\n  \"user\": {\n    \"userId\": \"1234567890\",\n    \"permissions\": {\n      \"audio\": true,\n      \"billing\": true,\n      \"calendar\": true,\n      \"contacts\": true,\n      \"location\": true,\n      \"notifications\": true,\n      \"phone\": true,\n      \"sms\": true,\n      \"storage\": true,\n      \"visual\": true\n    },\n    \"profile\": {\n      \"displayName\": \"John Smith\",\n      \"email\": \"john@example.com\",\n      \"firstName\": \"John\",\n      \"lastName\": \"Smith\",\n      \"photoUrl\": \"https://example.com/john.png\"\n    },\n    \"accountLinking\": {\n      \"status\": \"LINKED\",\n      \"isAccountLinkingEnabled\": true\n    },\n    \"conversation\": {\n      \"conversationId\": \"1497972454309\",\n      \"type\": \"ACTIVE\",\n      \"conversationToken\": \"{\"\n    },\n    \"userStorage\": {\n      \"userStorage\": \"{\\\"greeting\\\":\\\"hello\\\"}\"\n    }\n  },\n  \"conversation\": {\n    \"conversationId\": \"1497972454309\",\n    \"type\": \"ACTIVE\",\n    \"conversationToken\": \"{\"\n  },\n  \"inputs"
+  }
+]
