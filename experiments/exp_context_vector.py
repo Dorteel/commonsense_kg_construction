@@ -37,7 +37,10 @@ def get_checkpoint(model_name, concepts):
     concepts_to_check = {}
     for key in concepts.keys():
         concepts_to_check[concepts[key]["name"]] = key
-    output_path = Path("output") / Path('context') / Path(model_name)
+    output_path = Path("output") / Path('context') / Path(model_name)    
+    if not output_path.exists():
+        logger.info(f"Output path does not exist for model {model_name}, creating it.")
+        output_path.mkdir(parents=True, exist_ok=True)
     for folder in output_path.iterdir():
         if str(folder.name) in list(concepts_to_check.keys()):
             logger.info(f"Found existing output for concept: {folder.name}")
@@ -49,15 +52,12 @@ def get_checkpoint(model_name, concepts):
         logger.info(f"Remaining concepts for model {model_name}: {len(list(concepts_remaining.keys()))}")
         return concepts_remaining
 
-
-# Generate prompt
-        
-for entry in model_config.get("groq", []):
-    model_name = entry["model_path"]
+for entry in model_config.get("local", []):
+    model_name = entry["name"]
+    model_path = entry["model_path"]
     concepts = get_checkpoint(model_name, concepts)
     logger.info(f"Loading Groq model: {entry['model_path']}")
-    model_name = entry["model_path"]
-    current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
+    current_client = LocalClient(model_name=model_name, model_path=model_path)
     logger.info(f"Loaded client: {model_name}")
     for _, obj_info in concepts.items():
         name = obj_info.get("name", "")
@@ -77,5 +77,33 @@ for entry in model_config.get("groq", []):
             measurement="",
             output_path=output_path
         )
+
+# Generate prompt
+        
+# for entry in model_config.get("groq", []):
+#     model_name = entry["model_path"]
+#     concepts = get_checkpoint(model_name, concepts)
+#     logger.info(f"Loading Groq model: {entry['model_path']}")
+#     model_name = entry["model_path"]
+#     current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
+#     logger.info(f"Loaded client: {model_name}")
+#     for _, obj_info in concepts.items():
+#         name = obj_info.get("name", "")
+#         definition = obj_info.get("definition", "")
+#         output_dir = os.path.join(OUTPUT_PARENT_DIR, "context", current_client.model_name, name)
+#         output_path = os.path.join(output_dir, f"{name}.json")
+#         logger.info(f"Processing concept: {name} - ({definition})")
+#         runner = Runner(clients=[current_client], serializer=JsonConstructor())
+#         runner.run(
+#             concept=name,
+#             description=definition,
+#             domain=dimensions,
+#             dimension="",
+#             template_name="context",
+#             runs=RUNS,
+#             return_range="",
+#             measurement="",
+#             output_path=output_path
+#         )
 
 
