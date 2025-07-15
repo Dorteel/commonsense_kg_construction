@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"fruit\",\n    \"vegetable\",\n    \"supermarket\",\n    \"kitchen\",\n    \"diet\",\n    \"health\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"food\"\n    },\n    {\n      \"context\": \"fruit\"\n    },\n    {\n      \"context\": \"supermarket\"\n    },\n    {\n      \"context\": \"grocery shopping\"\n    }\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"fruit\",\n    \"supermarket\",\n    \"shopping\",\n    \"diet\",\n    \"nutrition\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"key\": \"kitchen\",\n      \"value\": \"The banana is commonly used in cooking and baking, particularly in sweet dishes such as banana bread, muffins, and smoothies.\"\n    },\n    {\n      \"key\": \"garden\",\n      \"value\": \"Bananas are grown in tropical and subtropical climates, and are often cultivated in home gardens for their fruit.\"\n    },\n    {\n      \"key\": \"food\",\n      \"value\": \"Bananas are a nutritious fruit, rich in potassium, vitamins, and minerals, and are a popular snack or dessert.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"fruit\"\n},\n{\n\"context\": \"food\"\n},\n{\n\"context\": \"botany\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"veggies\",\n\"supermarket\",\n\"kitchen\",\n\"diet\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"vegetable\",\n\"grocery\",\n\"supermarket\",\n\"market\",\n\"food\",\n\"diet\",\n\"nutrition\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"food\",\n    \"fruit\",\n    \"tropical fruit\",\n    \"supermarket\",\n    \"grocery store\",\n    \"kitchen\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"fruit\"\n},\n{\n\"context\": \"food\"\n},\n{\n\"context\": \"vegetable\"\n},\n{\n\"context\": \"plant\"\n}\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"food\",\n\"gardening\",\n\"agriculture\",\n\"supermarket\",\n\"kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"food\",\n\"veggie\",\n\"supermarket\",\n\"grocery\",\n\"shopping\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"gardening\",\n\"food\",\n\"botany\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":[\"food\", \"fruit\", \"plant\", \"tropical\", \"subtropical\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n  {\n    \"context\": \"food\"\n  },\n  {\n    \"context\": \"fruit\"\n  },\n  {\n    \"context\": \"nutrition\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\"food\", \"fruit\", \"supermarket\", \"kitchen\", \"breakfast\", \"snack\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"food\",\n  \"fruit\",\n  \"supermarket\",\n  \"grocery\",\n  \"shopping\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"food\",\n      \"description\": \"The banana is a type of fruit commonly eaten as a snack or used in cooking and baking.\"\n    },\n    {\n      \"name\": \"fruit\",\n      \"description\": \"The banana is a type of fruit that grows on trees.\"\n    },\n    {\n      \"name\": \"nutrition\",\n      \"description\": \"Bananas are a good source of potassium, vitamins, and minerals.\"\n    },\n    {\n      \"name\": \"gardening\",\n      \"description\": \"Banana plants can be grown in tropical and subtropical climates and require regular watering and maintenance.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"food\",\n\"supermarket\",\n\"groceries\",\n\"produce\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"food\",\n\"plant\",\n\"vegetable\",\n\"supermarket\",\n\"grocery store\",\n\"kitchen\",\n\"diet\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "banana",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"kitchen\",\n\"garden\",\n\"store\"\n]\n}\n"
+  }
+]

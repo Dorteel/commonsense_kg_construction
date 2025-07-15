@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"fruit\",\n      \"concepts\": [\n        {\n          \"name\": \"apple\",\n          \"definitions\": [\n            {\n              \"definition\": \"Fruit with red or yellow or green skin and sweet to tart crisp whitish flesh\",\n              \"synonyms\": [\n                {\n                  \"name\": \"fruit\",\n                  \"definitions\": [\n                    {\n                  \"definition\": \"Any part of a plant that is used or considered useful\",\n                  \"synonyms\": [\n                    ]\n                  }\n                  ]\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit salad\",\n\"breakfast\",\n\"snack\",\n\"dessert\",\n\"kitchen\",\n\"garden\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit salad\",\n\"breakfast\",\n\"snack\",\n\"dessert\",\n\"cooking\",\n\"gardening\",\n\"gift\",\n\"recipe\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"name\": \"kitchen\",\n\"description\": \"This is where you prepare and cook food.\"\n},\n{\n\"name\": \"garden\",\n\"description\": \"This is where you grow plants, including fruits like apples.\"\n},\n{\n\"name\": \"supermarket\",\n\"description\": \"This is where you buy food and other products.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"garden\",\n    \"supermarket\",\n    \"fruit bowl\",\n    \"diet\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n    {\n        \"name\": \"kitchen\",\n        \"description\": \"Apples are commonly used in cooking and baking, such as in pies, cakes, and sauces.\"\n    },\n    {\n        \"name\": \"health\",\n        \"description\": \"Apples are a good source of fiber, vitamins, and antioxidants, making them a healthy snack or addition to meals.\"\n    },\n    {\n        \"name\": \"outdoors\",\n        \"description\": \"Apples are often enjoyed as a picnic or trail snack, and can be used in outdoor activities such as apple picking and apple cider pressing.\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"food\",\n    \"produce\",\n    \"fruit\",\n    \"red fruit\",\n    \"yellow fruit\",\n    \"green fruit\",\n    \"juicy fruit\",\n    \"tart fruit\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"farm\",\n    \"orchard\",\n    \"supermarket\",\n    \"kitchen\",\n    \"dining room\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"food\",\n\"fruit\",\n\"nutrition\",\n\"health\",\n\"snack\",\n\"meal\",\n\"kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"produce\",\n\"food\",\n\"veggie\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"fruit\",\n  \"vegetables\",\n  \"desserts\",\n  \"kitchen\",\n  \"gardening\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"food\",\n    \"fruit\",\n    \"produce\",\n    \"supermarket\",\n    \"grocery\",\n    \"kitchen\",\n    \"dining\",\n    \"dinner\",\n    \"dessert\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"Fruit\",\n    \"Food\",\n    \"Nutrition\",\n    \"Health\",\n    \"Cooking\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"name\": \"kitchen\",\n      \"description\": \"A place in a house or building where food is prepared and cooked\"\n    },\n    {\n      \"name\": \"garden\",\n      \"description\": \"An outdoor area for growing plants\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"A place where goods are sold\"\n    },\n    {\n      \"name\": \"restaurant\",\n      \"description\": \"A place where food is served and eaten\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"food\",\n      \"predicates\": [\n        {\n          \"name\": \"tastes_good\",\n          \"value\": \"true\"\n        }\n      ]\n    },\n    {\n      \"context\": \"kitchen\",\n      \"predicates\": [\n        {\n          \"name\": \" contains_apple\",\n          \"value\": \"true\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"cooking\",\n\"gardening\",\n\"health\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"food\",\n\"fruit\",\n\"supermarket\",\n\"shopping\",\n\"kitchen\",\n\"dining\",\n\"breakfast\",\n\"snack\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"fruit\",\n    \"food\",\n    \"gardening\",\n    \"cooking\",\n    \"diet\",\n    \"health\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"kitchen\"\n},\n{\n\"context\": \"garden\"\n},\n{\n\"context\": \"farm\"\n},\n{\n\"context\": \"store\"\n}\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "apple",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"veggies\",\n\"desserts\",\n\"snacks\",\n\"lunch\",\n\"dinner\",\n\"breakfast\"\n]\n}\n"
+  }
+]

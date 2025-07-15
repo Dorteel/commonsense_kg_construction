@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"bottle_opening\",\n        \"pattern\": \"open bottle\"\n    },\n    {\n        \"name\": \"bottle_closing\",\n        \"pattern\": \"close bottle\"\n    },\n    {\n        \"name\": \"bottle_storage\",\n        \"pattern\": \"store bottle\"\n    },\n    {\n        \"name\": \"bottle_removal\",\n        \"pattern\": \"remove bottle\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"bottle cap\",\n\"bottle opener\",\n\"bottle of wine\",\n\"bottle rocket\",\n\"bottle service\",\n\"bottle store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"bottle-cap\",\n\"description\": \"The bottle cap is a cap that fits on the top of a bottle, typically made of plastic or metal, and is used to seal the opening of the bottle to prevent contents from spilling or leaking.\",\n\"synonyms\": [\n\"bottle cap\",\n\"cap\",\n\"closure\"\n],\n\"entities\": [\n{\n\"name\": \"bottle\",\n\"description\": \"A bottle is a container made of glass, plastic, or other materials, used for storing liquids or gases.\",\n\"synonyms\": [\n\"bottle\",\n\"vessel\",\n\"container\"\n],\n\"relationships\": [\n{\n\"name\": \"cap\",\n\"description\": \"The cap is a part of the bottle that fits on the top of the bottle and seals the opening.\",\n\"type\": \"IS_A\"\n}\n]\n}\n]\n}\n,\n{\n\"name\": \"bottle-open\",\n\"description\": \"The bottle opener is a tool used to open a bottle, typically made of metal or plastic, and has a lever or corkscrew mechanism to remove the cap from the bottle.\",\n\"synonyms\": [\n\"bottle opener\",\n\"opener\",\n\"wrench\"\n],\n\"entities\": [\n{\n\"name\": \"bottle\",\n\"description\": \"A bottle is a container made of glass, plastic, or other materials, used for storing liquids or gases.\",\n\"synonyms\": [\n\"bott"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n    {\n        \"name\": \"Bottle\",\n        \"description\": \"A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped\",\n        \"types\": [\n            {\n                \"name\": \"container\",\n                \"description\": \"A vessel used for storing or carrying a liquid or solid substance\"\n            },\n            {\n                \"name\": \"vessel\",\n                \"description\": \"A hollow object designed to hold or carry something\"\n            }\n        ],\n        \"attributes\": [\n            {\n                \"name\": \"material\",\n                \"description\": \"The substance or material used to make the bottle\"\n            },\n            {\n                \"name\": \"size\",\n                \"description\": \"The volume of liquid that the bottle can hold\"\n            },\n            {\n                \"name\": \"shape\",\n                \"description\": \"The shape or form of the bottle\"\n            },\n            {\n                \"name\": \"neck\",\n                \"description\": \"The part of the bottle where the liquid is poured in or out\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"bottle shape\",\n\"bottle size\",\n\"bottle material\",\n\"bottle shape and size\",\n\"bottle shape and material\",\n\"bottle shape, size, and material\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"bottle\",\n\"description\": \"A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped.\"\n},\n{\n\"name\": \"water bottle\",\n\"description\": \"A type of bottle used for storing water or other liquids; typically made of plastic and has a narrow neck and a screw-top cap.\"\n},\n{\n\"name\": \"wine bottle\",\n\"description\": \"A type of bottle used for storing wine or other alcoholic beverages; typically made of glass and has a narrow neck and a cork stopper.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"bottle\",\n\"container\",\n\"vessel\",\n\"liquid holder\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"bottle\",\n\"container\",\n\"vessel\",\n\"flask\",\n\"jug\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"bottle\",\n\"container\",\n\"vessel\",\n\"flask\",\n\"jug\",\n\"pitcher\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n  {\n    \"name\": \"bottle-cap\",\n    \"description\": \"The bottle cap is a device used to seal the opening of a bottle, typically made of plastic or metal and designed to screw onto the neck of the bottle.\",\n    \"subpatterns\": [\n      {\n        \"name\": \"screw-top\",\n        \"description\": \"A screw-top bottle cap is a type of bottle cap that is secured by screwing it onto the neck of the bottle.\",\n        \"pattern\": \"screw-top\"\n      },\n      {\n        \"name\": \"cork\",\n        \"description\": \"A cork is a type of bottle cap made from the bark of the cork oak tree, used to seal the opening of a bottle by being inserted into the neck of the bottle and then compressed to form a tight seal.\",\n        \"pattern\": \"cork\"\n      }\n    ]\n  },\n  {\n    \"name\": \"bottle-opener\",\n    \"description\": \"A bottle opener is a tool used to remove the cap from a bottle, typically made of metal or plastic and designed to fit around the neck of the bottle.\",\n    \"subpatterns\": [\n      {\n        \"name\": \"wing-corkscrew\",\n        \"description\": \"A wing-corkscrew is a type of bottle opener with a curved blade that is designed to fit around the neck of a bottle and remove the cap by twisting the handle.\",\n        \"pattern\": \"wing-corkscrew\"\n     "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Bottle - Glass\",\n\"Bottle - Plastic\",\n\"Bottle - Wine\",\n\"Bottle - Water\",\n\"Bottle - Soft drink\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"bottle_cap\",\n\"description\": \"The bottle cap is a closure for a bottle that is typically made of plastic or metal and is used to seal the mouth of the bottle.\",\n\"subpatterns\": [\n{\n\"name\": \"screw_cap\",\n\"description\": \"A screw cap is a type of bottle cap that is secured with a screw thread on the bottle.\"\n},\n{\n\"name\": \"cork\",\n\"description\": \"A cork is a type of bottle cap that is made from the bark of the cork oak tree and is used to seal the mouth of a wine bottle.\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"bottle cap\",\n\"bottle plug\",\n\"bottle stopper\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"bottle-opening\",\n      \"description\": \"The act of opening a bottle using a bottle opener or other tool\",\n      \"steps\": [\n        {\n          \"name\": \"step1\",\n          \"description\": \"Purchase a bottle opener\",\n          \"input\": [\n            {\n              \"name\": \"tool\",\n              \"value\": \"bottle opener\"\n            }\n          ]\n        },\n        {\n          \"name\": \"step2\",\n          \"description\": \"Locate the cap of the bottle\",\n          \"input\": [\n            {\n              \"name\": \"object\",\n              \"value\": \"cap\"\n            }\n          ]\n        },\n        {\n          \"name\": \"step3\",\n          \"description\": \"Use the bottle opener to remove the cap\",\n          \"input\": [\n            {\n              \"name\": \"action\",\n              \"value\": \"turn\"\n            },\n            {\n              \"name\": \"tool\",\n              \"value\": \"bottle opener\"\n            }\n          ]\n        },\n        {\n          \"name\": \"step4\",\n          \"description\": \"Enjoy your drink!\",\n          \"input\": [\n            {\n              \"name\": \"action\",\n              \"value\": \"drink\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"bottle\",\n\"container\",\n\"vessel\",\n\"liquid holder\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Bottle\",\n\"Glass\",\n\"Plastic bottle\",\n\"Vessel\",\n\"Container\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"bottle cap\",\n\"bottle opener\",\n\"bottle service\",\n\"bottle shop\",\n\"bottle store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"bottle\",\n\"glass\",\n\"container\",\n\"vessel\",\n\"liquid holder\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"bottle\",\n      \"pattern\": \"bottle\"\n    },\n    {\n      \"name\": \"container\",\n      \"pattern\": \"bottle\"\n    },\n    {\n      \"name\": \"vessel\",\n      \"pattern\": \"bottle\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"bottle\",\n\"container\",\n\"vessel\",\n\"receptacle\",\n\"flask\"\n]\n}\n"
+  }
+]

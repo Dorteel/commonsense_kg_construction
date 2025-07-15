@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"play tennis\",\n\"practice tennis\",\n\"hit ball with racket\",\n\"serve ball with racket\",\n\"volley ball with racket\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n\"serve\",\n\"volley\",\n\"forehand\",\n\"backhand\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"Racket\",\n      \"description\": \"A racket is a sporting implement used to hit a ball in a game of tennis.\"\n    },\n    {\n      \"name\": \"Tennis\",\n      \"description\": \"Tennis is a sport played on a rectangular court with a net in the middle.\"\n    },\n    {\n      \"name\": \"Game\",\n      \"description\": \"A game of tennis is a competition between two or four players.\"\n    },\n    {\n      \"name\": \"Sport\",\n      \"description\": \"Sport is any form of physical activity that is done competitively.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve\",\n\"volley\",\n\"backhand\",\n\"forehand\",\n\"smash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n  \"serve\",\n  \"volley\",\n  \"forehand\",\n  \"backhand\",\n  \"love\",\n  \"advantage\",\n  \"game\",\n  \"set\",\n  \"match\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve\",\n\"volley\",\n\"forehand\",\n\"backhand\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n \"function\": [\n  \"serve\",\n  \"volley\",\n  \"ace\",\n  \"return\",\n  \"smash\"\n ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n    {\n        \"name\": \"serve\",\n        \"description\": \"The act of hitting the ball into the air with a tennis racket.\"\n    },\n    {\n        \"name\": \"volley\",\n        \"description\": \"Hitting the ball back and forth in the air with a tennis racket without it touching the ground.\"\n    },\n    {\n        \"name\": \"groundstroke\",\n        \"description\": \"Hitting the ball on the ground with a tennis racket.\"\n    },\n    {\n        \"name\": \"lob\",\n        \"description\": \"Hitting the ball high into the air with a tennis racket.\"\n    },\n    {\n        \"name\": \"drop shot\",\n        \"description\": \"Hitting the ball softly and close to the net with a tennis racket.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"serve\",\n\"volley\",\n\"smash\",\n\"forehand\",\n\"backhand\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n   \"function\": [\n      \"serve\",\n      \"volley\",\n      \"forehand\",\n      \"backhand\",\n      \"ace\",\n      \"double fault\",\n      \"foot fault\",\n      \"out of bounds\",\n      \"net violation\"\n   ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"hit\",\n\"description\": \"Hit the tennis ball with the racket.\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"serve\",\n\"volley\",\n\"return\",\n\"ace\",\n\"double fault\",\n\"forehand\",\n\"backhand\",\n\"love\",\n\"advantage\",\n\"break\",\n\"set\",\n\"match\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"functions\": [\n    {\n        \"name\": \"hit\",\n        \"description\": \"Perform a tennis shot by swinging the racket and hitting the ball\",\n        \"parameters\": [\n            {\"name\": \"ball\", \"description\": \"The ball to be hit\"},\n            {\"name\": \"force\", \"description\": \"The amount of force to be applied to the ball\"}\n        ]\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"Perform a tennis serve by tossing the ball in the air and hitting it with the racket\",\n        \"parameters\": [\n            {\"name\": \"ball\", \"description\": \"The ball to be served\"},\n            {\"name\": \"force\", \"description\": \"The amount of force to be applied to the ball\"}\n        ]\n    },\n    {\n        \"name\": \"volley\",\n        \"description\": \"Hit the ball in mid-air without it touching the ground\",\n        \"parameters\": [\n            {\"name\": \"ball\", \"description\": \"The ball to be volleyed\"},\n            {\"name\": \"force\", \"description\": \"The amount of force to be applied to the ball\"}\n        ]\n    }\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve\",\n\"volley\",\n\"groundstroke\",\n\"lob\",\n\"smash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n\"hit ball\",\n\"serve\",\n\"volley\",\n\"forehand\",\n\"backhand\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"hit\",\n      \"description\": \"Hit the ball with the racket\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"Serve the ball with the racket\"\n    },\n    {\n      \"name\": \"volley\",\n      \"description\": \"Hit the ball in mid-air with the racket\"\n    },\n    {\n      \"name\": \"lobb\",\n      \"description\": \"Hit the ball softly and slowly over the net\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve\",\n\"volley\",\n\"groundstroke\",\n\"lobb\",\n\"slice\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve\",\n\"volley\",\n\"slice\",\n\"forehand\",\n\"backhand\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"hit\",\n      \"description\": \"Perform a tennis shot by hitting the ball with the racket.\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"Serve the ball in a tennis game using the racket.\"\n    },\n    {\n      \"name\": \"volley\",\n      \"description\": \"Hit the ball in mid-air without it touching the ground using the racket.\"\n    },\n    {\n      \"name\": \"lob\",\n      \"description\": \" Hit the ball high into the air using the racket.\"\n    },\n    {\n      \"name\": \"drop\",\n      \"description\": \"Hit the ball softly and slowly using the racket.\"\n    },\n    {\n      \"name\": \"smash\",\n      \"description\": \"Hit the ball with a lot of force and speed using the racket.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hit\",\n\"serve\",\n\"volley\",\n\"forehand\",\n\"backhand\"\n]\n}\n"
+  }
+]

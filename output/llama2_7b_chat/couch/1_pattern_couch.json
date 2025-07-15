@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Couch Potato\",\n      \"definition\": \"A person who spends most of their time sitting on a couch, often watching television or using electronic devices.\"\n    },\n    {\n      \"name\": \"Couch Surfer\",\n      \"definition\": \"A person who frequently uses or occupies a couch, often without permission or invitation.\"\n    },\n    {\n      \"name\": \"Couch Hopper\",\n      \"definition\": \"A person who moves from one couch to another, often without a fixed home or residence.\"\n    },\n    {\n      \"name\": \"Couch Crasher\",\n      \"definition\": \"A person who enters or occupies a couch without permission or invitation, often for an extended period of time.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n   \"patterns\": [\n      {\n         \"name\": \"Couch Potato\",\n         \"description\": \"A person who spends most of their time on the couch, often doing nothing productive.\"\n      },\n      {\n         \"name\": \"Couch Surfer\",\n         \"description\": \"A person who spends their time on the couch, but is also able to surf the internet on their phone or laptop.\"\n      },\n      {\n         \"name\": \"Couch Gamer\",\n         \"description\": \"A person who spends their time on the couch, playing video games on their console or PC.\"\n      },\n      {\n         \"name\": \"Couch Reading\",\n         \"description\": \"A person who spends their time on the couch, reading books or articles on their e-reader or phone.\"\n      },\n      {\n         \"name\": \"Couch Binge-Watching\",\n         \"description\": \"A person who spends their time on the couch, watching TV shows or movies on their streaming service.\"\n      }\n   ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Couch Potato\",\n      \"description\": \"Sitting or lying on the couch, often while watching television or taking a nap.\"\n    },\n    {\n      \"name\": \"Couch Surfing\",\n      \"description\": \"Riding or sitting on the couch of a friend or acquaintance, often without their permission.\"\n    },\n    {\n      \"name\": \"Couch Hopping\",\n      \"description\": \"Jumping or bouncing on a couch, often while playing a video game or watching a movie.\"\n    },\n    {\n      \"name\": \"Couch Fortress\",\n      \"description\": \"Using the couch as a fort or barrier, often to protect oneself from an imagined threat.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"sofa\",\n        \"description\": \"A long, wide couch typically for lounging\",\n        \"synonyms\": [\"sectional\", \"three-seater\", \"two-seater\"],\n        \"related_concepts\": [\"living room\", \"family room\", \"den\"]\n    },\n    {\n        \"name\": \"couch\",\n        \"description\": \"A flexible, upholstered seat for more than one person\",\n        \"synonyms\": [\"sofa\", \"settee\", \"chair\"],\n        \"related_concepts\": [\"living room\", \"bedroom\", \"guest room\"]\n    },\n    {\n        \"name\": \"chaise longue\",\n        \"description\": \"A long, low couch for lounging\",\n        \"synonyms\": [\"daybed\", \"napkin\", \"recliner\"],\n        \"related_concepts\": [\"bedroom\", \"living room\", \"den\"]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"seating\",\n      \"pattern\": \"seat\",\n      \"description\": \"a couch is a piece of furniture for seating more than one person\"\n    },\n    {\n      \"name\": \"lounge\",\n      \"pattern\": \"sofa\",\n      \"description\": \"a couch is a piece of furniture for lounging\"\n    },\n    {\n      \"name\": \"furniture\",\n      \"pattern\": \"couch\",\n      \"description\": \"a couch is a piece of furniture\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"seating\",\n      \"pattern\": \"a couch is a piece of furniture with a hard or soft surface for sitting on, typically with back or armrests\"\n    },\n    {\n      \"name\": \"socializing\",\n      \"pattern\": \"people gather on a couch to spend time together, often for relaxation or entertainment\"\n    },\n    {\n      \"name\": \"conversation\",\n      \"pattern\": \"people talk on a couch, often while sitting or lying down\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"sofa\",\n        \"description\": \"A piece of furniture for seating more than one person, typically with a back and arms.\",\n        \"pattern\": \"couch\"\n    },\n    {\n        \"name\": \"sectional\",\n        \"description\": \"A long, low-sitting piece of furniture for seating more than one person.\",\n        \"pattern\": \"couch\"\n    },\n    {\n        \"name\": \"loveseat\",\n        \"description\": \"A smaller version of a sectional sofa.\",\n        \"pattern\": \"couch\"\n    },\n    {\n        \"name\": \"daybed\",\n        \"description\": \"A piece of furniture for seating one or two people, typically with a trundle bed underneath.\",\n        \"pattern\": \"bed\"\n    },\n    {\n        \"name\": \"sofa bed\",\n        \"description\": \"A piece of furniture that can be used as both a sofa and a bed.\",\n        \"pattern\": \"sofa\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Couch Potato\",\n        \"definition\": \"An inanimate object that is a upholstered seat for more than one person, typically located in a living room or family room.\"\n    },\n    {\n        \"name\": \"Couch Surfer\",\n        \"definition\": \"A person who spends a lot of time sitting on a couch, often while watching television or using electronic devices.\"\n    },\n    {\n        \"name\": \"Couch Hopper\",\n        \"definition\": \"A person who moves from one couch to another, often in a rapid or irregular manner.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"patterns\": [\n        {\n            \"name\": \"Couch Potato\",\n            \"description\": \"Sitting on the couch watching TV or movies\",\n            \"activities\": [\n                {\n                    \"name\": \"Sitting\",\n                    \"description\": \"Sitting on the couch for extended periods of time\"\n                }\n            ]\n        },\n        {\n            \"name\": \"Couch Surfing\",\n            \"description\": \"Sitting on the couch and surfing the internet\",\n            \"activities\": [\n                {\n                    \"name\": \"Sitting\",\n                    \"description\": \"Sitting on the couch for extended periods of time\"\n                }\n            ],\n            \"dependencies\": [\n                {\n                    \"name\": \"Computer\",\n                    \"description\": \"Having a computer nearby to access the internet\"\n                }\n            ]\n        },\n        {\n            \"name\": \"Couch Gaming\",\n            \"description\": \"Playing video games on a console or computer while sitting on the couch\",\n            \"activities\": [\n                {\n                    \"name\": \"Sitting\",\n                    \"description\": \"Sitting on the couch for extended periods of time\"\n                },\n                {\n                    \"name\": \"Gaming\",\n                    \"description\": \"Playing video games on a console or computer\"\n                }\n            ],\n            \"dependencies\": [\n                {\n                    \"name\": \"Video Game Console\",\n                    \"description\": \"Having a video game console nearby to play games\"\n                }\n            ]\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Couch potato\"\n],\n\"user\": {\n\"name\": \"John\",\n\"age\": 32\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Couch Potato\",\n      \"description\": \"A person who spends most of their time on the couch, often watching TV or playing video games.\",\n      \"example\": \"The couch potato spent the entire weekend on the couch, only getting up to get snacks.\"\n    },\n    {\n      \"name\": \"Couch Surfer\",\n      \"description\": \"A person who frequently visits and spends time on other people's couches, often without being invited.\",\n      \"example\": \"The couch surfer was always showing up at his friends' houses uninvited, looking for a place to crash.\"\n    },\n    {\n      \"name\": \"Couch Fort\",\n      \"description\": \"A person who sets up their own fort on someone else's couch, often without permission.\",\n      \"example\": \"The child set up his own couch fort using pillows and blankets, much to his parent's dismay.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"sit\",\n\"lie\",\n\"relax\",\n\"read\",\n\"watch TV\",\n\"eat\",\n\"drink\",\n\"sleep\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"couch for sleeping\",\n\"couch for lounging\",\n\"couch for reading\",\n\"couch for watching TV\",\n\"couch for snuggling\",\n\"couch for relaxing\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"patterns\": [\n        {\n            \"name\": \"Couch Potato\",\n            \"description\": \"Sitting on the couch for extended periods of time, often with no particular purpose or activity.\"\n        },\n        {\n            \"name\": \"Couch Surfer\",\n            \"description\": \"Riding on the couch, often without permission or invitation.\"\n        },\n        {\n            \"name\": \"Couch Crasher\",\n            \"description\": \"Suddenly and uninvitedly sitting on the couch, often without permission or invitation.\"\n        }\n    ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"upholstered seat for more than one person\",\n\"seat for more than one person\",\n\"couch for more than one person\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Couch Potato\",\n      \"description\": \"A person who spends most of their time sitting on the couch, often watching television or sleeping.\"\n    },\n    {\n      \"name\": \"Couch Surfer\",\n      \"description\": \"A person who frequently visits and spends time on other people's couches, often without being invited or expected.\"\n    },\n    {\n      \"name\": \"Couch Hopper\",\n      \"description\": \"A person who constantly moves from one couch to another, never staying in one place for too long.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"sofa\",\n      \"definition\": \"a piece of furniture for seating more than one person, typically with a back and arms\",\n      \"synonyms\": [\"couch\", \"settee\", \"chair\"],\n      \"related_concepts\": [\n        {\n          \"name\": \"living room\",\n          \"definition\": \"a room in a house or apartment where people relax and socialize\",\n          \"synonyms\": [\"family room\", \"parlor\", \"rec room\"],\n          \"related_concepts\": [\n            {\n              \"name\": \"sofa\",\n              \"definition\": \"a piece of furniture for seating more than one person\",\n              \"synonyms\": [\"couch\", \"settee\", \"chair\"],\n              \"related_concepts\": [\n                {\n                  \"name\": \"coffee table\",\n                  \"definition\": \"a low table with a flat top and low legs, often used for holding drinks and snacks\",\n                  \"synonyms\": [\"coffee table\", \"side table\", \"ottoman\"],\n                  \"related_concepts\": []\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"pattern\": [\n        {\n            \"name\": \"coffee table\",\n            \"description\": \"A low coffee table with a flat top and legs\",\n            \"types\": [\n                {\n                    \"name\": \"coffee table\",\n                    \"description\": \"A low coffee table with a flat top and legs\"\n                }\n            ]\n        },\n        {\n            \"name\": \"sofa table\",\n            \"description\": \"A low coffee table with a flat top and legs\",\n            \"types\": [\n                {\n                    \"name\": \"sofa table\",\n                    \"description\": \"A low coffee table with a flat top and legs\"\n                }\n            ]\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Couch Potato\",\n      \"description\": \"Sitting on the couch for an extended period of time, often with no clear purpose or goal.\"\n    },\n    {\n      \"name\": \"Couch Surfer\",\n      \"description\": \"Riding on the couch of a moving vehicle, often with no clear destination or purpose.\"\n    },\n    {\n      \"name\": \"Couch Hopper\",\n      \"description\": \"Jumping from one couch to another, often with no clear reason or purpose.\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "couch",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"couch potato\",\n      \"description\": \"A person who spends most of their time on the couch, often watching TV or playing video games.\",\n      \"entities\": [\n        {\n          \"name\": \"TV\",\n          \"type\": \"electronic device\"\n        },\n        {\n          \"name\": \"video games\",\n          \"type\": \"leisure activity\"\n        }\n      ]\n    },\n    {\n      \"name\": \"couch surfer\",\n      \"description\": \"A person who spends a lot of time on the couch, often surfing the internet or social media.\",\n      \"entities\": [\n        {\n          \"name\": \"internet\",\n          \"type\": \"medium\"\n        },\n        {\n          \"name\": \"social media\",\n          \"type\": \"medium\"\n        }\n      ]\n    },\n    {\n      \"name\": \"couch crasher\",\n      \"description\": \"A person who falls asleep or crashes on the couch, often after a long day or a late night.\",\n      \"entities\": [\n        {\n          \"name\": \"sleep\",\n          \"type\": \"activity\"\n        },\n        {\n          \"name\": \"night\",\n          \"type\": \"time of day\"\n        }\n      ]\n    }\n  ]\n}\n"
+  }
+]

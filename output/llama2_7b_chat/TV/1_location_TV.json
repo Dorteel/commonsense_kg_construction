@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"living room\", \"family room\", \"den\", \"home theater\", \"bedroom\"],\n  \"user\": {\n    \"name\": \"John\",\n    \"age\": 32,\n    \"gender\": \"male\"\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"Living room\",\n\"Family room\",\n\"Den\",\n\"Bedroom\",\n\"Home office\",\n\"Kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": [\"living room\", \"family room\", \"den\", \"bedroom\", \"outdoor space\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\":[\"living room\", \"bedroom\", \"kitchen\", \"family room\", \"den\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"living room\",\n    \"bedroom\",\n    \"family room\",\n    \"kitchen\",\n    \"home office\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"bedroom\",\n\"kitchen\",\n\"den\",\n\"home office\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\":[\"living room\", \"bedroom\", \"kitchen\", \"family room\", \"den\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"living room\", \"family room\", \"den\", \"home theater\", \"bedroom\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\":[\"living room\", \"bedroom\", \"kitchen\", \"family room\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    \"living room\",\n    \"bedroom\",\n    \"kitchen\",\n    \"family room\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    {\n        \"name\": \"Living room\",\n        \"description\": \"The living room is a common location for watching TV.\"\n    },\n    {\n        \"name\": \"Bedroom\",\n        \"description\": \"Some people watch TV in their bedroom before going to sleep.\"\n    },\n    {\n        \"name\": \"Family room\",\n        \"description\": \"The family room is a common location for watching TV together with family members.\"\n    },\n    {\n        \"name\": \"Kitchen\",\n        \"description\": \"Some people watch TV while cooking or preparing meals in the kitchen.\"\n    },\n    {\n        \"name\": \"Home office\",\n        \"description\": \"Some people watch TV while working from home in their home office.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"bedroom\",\n\"family room\",\n\"den\",\n\"kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    \"living room\",\n    \"family room\",\n    \"den\",\n    \"bedroom\",\n    \"kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"home office\",\n\"bedroom\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"bedroom\",\n\"home office\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"bedroom\",\n\"kitchen\",\n\"home office\",\n\"basement\",\n\"backyard\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"bedroom\",\n\"kitchen\",\n\"family room\",\n\"den\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n  \"Living room\",\n  \"Family room\",\n  \"Den\",\n  \"Home office\",\n  \"Bedroom\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"bedroom\",\n\"kitchen\",\n\"family room\",\n\"home office\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"living room\",\n\"family room\",\n\"den\",\n\"bedroom\",\n\"kitchen\"\n]\n}\n"
+  }
+]

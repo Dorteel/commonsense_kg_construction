@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting food with a knife\",\n      \"example\": \"cutting an apple\"\n    },\n    {\n      \"name\": \"preparing\",\n      \"description\": \"Preparing food with a knife\",\n      \"example\": \"chopping vegetables\"\n    },\n    {\n      \"name\": \"cooking\",\n      \"description\": \"Cooking with a knife\",\n      \"example\": \"slicing meat\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n    {\n        \"name\": \"cutting\",\n        \"description\": \"Cutting is a common pattern for the knife, used for cutting through various materials such as food, wood, or fabric.\"\n    },\n    {\n        \"name\": \"chopping\",\n        \"description\": \"Chopping is a common pattern for the knife, used for cutting through larger pieces of material into smaller pieces.\"\n    },\n    {\n        \"name\": \"slicing\",\n        \"description\": \"Slicing is a common pattern for the knife, used for cutting through material in a smooth, even motion.\"\n    },\n    {\n        \"name\": \"dicing\",\n        \"description\": \"Dicing is a common pattern for the knife, used for cutting through material into small, uniform pieces.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting something with a knife\",\n      \"example\": \"She used the knife to cut the cake.\",\n      \"related\": [\n        \"cutting board\",\n        \"blade\",\n        \"edge\"\n      ]\n    },\n    {\n      \"name\": \"chopping\",\n      \"description\": \"Chopping something with a knife\",\n      \"example\": \"He chopped the vegetables with a knife.\",\n      \"related\": [\n        \"chopping board\",\n        \"knife\",\n        \"cutting\"\n      ]\n    },\n    {\n      \"name\": \"dicing\",\n      \"description\": \"Dicing something with a knife\",\n      \"example\": \"She diced the onions with a knife.\",\n      \"related\": [\n        \"dicing board\",\n        \"knife\",\n        \"cutting\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cut\",\n\"slice\",\n\"chop\",\n\"dice\",\n\"mince\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"cutting\",\n\"description\": \"Cutting is the process of using the knife to cut something\",\n\"example\": \"I need to cut the roast with a knife\",\n\"related\": [\n\"cooking\",\n\"food\",\n\"kitchen\"\n]\n},\n{\n\"name\": \"chopping\",\n\"description\": \"Chopping is the process of cutting something into smaller pieces using the knife\",\n\"example\": \"Can you chop this vegetable with a knife?\",\n\"related\": [\n\"cooking\",\n\"food\",\n\"kitchen\"\n]\n},\n{\n\"name\": \"slicing\",\n\"description\": \"Slicing is the process of cutting something into thin pieces using the knife\",\n\"example\": \"Can you slice this bread with a knife?\",\n\"related\": [\n\"bakery\",\n\"food\",\n\"kitchen\"\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cutting\",\n\"slicing\",\n\"chopping\",\n\"dicing\",\n\"mincing\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\": [\"cut\", \" slice\", \"dice\", \"chop\", \"trim\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting is the action of using the knife to cut or divide something into smaller pieces.\",\n      \"pattern_type\": \"action\"\n    },\n    {\n      \"name\": \"slicing\",\n      \"description\": \"Slicing is the action of using the knife to cut something into thin, flat pieces, often for food.\",\n      \"pattern_type\": \"action\"\n    },\n    {\n      \"name\": \"dicing\",\n      \"description\": \"Dicing is the action of using the knife to cut something into small, uniform cubes, often for cooking.\",\n      \"pattern_type\": \"action\"\n    },\n    {\n      \"name\": \"chopping\",\n      \"description\": \"Chopping is the action of using the knife to cut something into smaller pieces, often for food or other purposes.\",\n      \"pattern_type\": \"action\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"cutting vegetables\",\n\"chopping meat\",\n\"dicing fruit\",\n\"slicing bread\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting is the action of using the knife to cut through an object\",\n      \"example\": \"The chef is cutting the meat with a sharp knife.\",\n      \"related\": [\n        {\n          \"name\": \"edge\",\n          \"description\": \"The edge of a tool is the side that is opposite the handle\",\n          \"example\": \"The knife has a sharp edge that is used for cutting.\",\n          \"related\": [\n            {\n              \"name\": \"blade\",\n              \"description\": \"The blade of a tool is the part that is used for cutting\",\n              \"example\": \"The knife has a sharp blade that is used for cutting through the meat.\",\n              \"related\": [\n                {\n                  \"name\": \"handle\",\n                  \"description\": \"The handle of a tool is the part that is used to grip and control the tool\",\n                  \"example\": \"The chef is holding the knife with a firm grip.\",\n                  \"related\": [\n                    {\n                    }\n                  ]\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"cutting\",\n        \"pattern\": \"cuts an object with the knife\"\n    },\n    {\n        \"name\": \"chopping\",\n        \"pattern\": \"cuts an object into smaller pieces with the knife\"\n    },\n    {\n        \"name\": \"slicing\",\n        \"pattern\": \"cuts an object into thin slices with the knife\"\n    },\n    {\n        \"name\": \"dicing\",\n        \"pattern\": \"cuts an object into small cubes with the knife\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting food, vegetables, meat, etc.\"\n    },\n    {\n      \"name\": \"chopping\",\n      \"description\": \"Cutting or chopping food into smaller pieces.\"\n    },\n    {\n      \"name\": \"slicing\",\n      \"description\": \"Cutting food into thin slices.\"\n    },\n    {\n      \"name\": \"dicing\",\n      \"description\": \"Cutting food into small cubes.\"\n    },\n    {\n      \"name\": \"mincing\",\n      \"description\": \"Cutting food into small, fine pieces.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"Cutting food\",\n\"description\": \"Use the knife to cut food into smaller pieces\",\n\"parameters\": {\n\"food\": {\n\"type\": \"string\",\n\"description\": \"Food to be cut\"\n}\n},\n\"Cutting through material\": {\n\"name\": \"Cutting through material\",\n\"description\": \"Use the knife to cut through a material\",\n\"parameters\": {\n\"material\": {\n\"type\": \"string\",\n\"description\": \"Material to be cut\"\n}\n}\n}\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cutting\",\n\"chopping\",\n\"slicing\",\n\"dicing\",\n\"mincing\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cut\",\n\"slice\",\n\"chop\",\n\"dice\",\n\"mash\",\n\"mince\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"cutting something with the knife\",\n      \"example\": \"He cut the steak with a swift motion of the knife.\"\n    },\n    {\n      \"name\": \"chopping\",\n      \"description\": \"chopping something with the knife\",\n      \"example\": \"She chopped the vegetables into small pieces with a few swift cuts of the knife.\"\n    },\n    {\n      \"name\": \"slicing\",\n      \"description\": \"slicing something with the knife\",\n      \"example\": \"He sliced the bread into thin pieces with a smooth motion of the knife.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting refers to the act of using the knife to cut or divide an object or material into two or more parts.\",\n      \"entities\": [\n        {\n          \"name\": \"object\",\n          \"description\": \"The object being cut or divided.\"\n        },\n        {\n          \"name\": \"material\",\n          \"description\": \"The material being cut or divided.\"\n        }\n      ]\n    },\n    {\n      \"name\": \"slicing\",\n      \"description\": \"Slicing refers to the act of using the knife to cut through an object or material in a smooth, continuous motion, often for food preparation or presentation.\",\n      \"entities\": [\n        {\n          \"name\": \"food\",\n          \"description\": \"The food being sliced.\"\n        },\n        {\n          \"name\": \"utensil\",\n          \"description\": \"The utensil used to slice the food.\"\n        }\n      ]\n    },\n    {\n      \"name\": \"dicing\",\n      \"description\": \"Dicing refers to the act of using the knife to cut an object or material into small, uniform pieces, often for cooking or food preparation.\",\n      \"entities\": [\n        {\n          \"name\": \"food\",\n          \"description\": \"The food being diced.\"\n        },\n        {\n          \"name\": \"utensil\",\n          \"description\": \"The utensil used to dice the food.\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cutting board\",\n\"vegetables\",\n\"meat\",\n\"potatoes\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cut\",\n\"chop\",\n\"slice\",\n\"dice\",\n\"mince\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "knife",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cutting\",\n      \"description\": \"Cutting food, vegetables, meat, etc.\",\n      \"example\": \"Can you please cut this steak with the knife?\"\n    },\n    {\n      \"name\": \"chopping\",\n      \"description\": \"Chopping wood, vegetables, meat, etc.\",\n      \"example\": \"Can you please chop this wood with the knife?\"\n    },\n    {\n      \"name\": \"slicing\",\n      \"description\": \"Slicing bread, meat, cheese, etc.\",\n      \"example\": \"Can you please slice this bread with the knife?\"\n    },\n    {\n      \"name\": \"dicing\",\n      \"description\": \"Dicing vegetables, meat, etc.\",\n      \"example\": \"Can you please dice this carrot with the knife?\"\n    }\n  ]\n}\n"
+  }
+]

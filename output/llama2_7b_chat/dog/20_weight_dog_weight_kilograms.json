@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 25.5,\n\"range\": [10, 50]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 20.6\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 25.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"Akita\": 50,\n\"Beagle\": 15,\n\"Chihuahua\": 2,\n\"German Shepherd\": 40,\n\"Golden Retriever\": 55,\n\"Labrador Retriever\": 55,\n\"Poodle\": 20,\n\"Rottweiler\": 50,\n\"Siberian Husky\": 35,\n\"Boxer\": 25,\n\"Bulldog\": 30\n}\n   }\n  "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 45.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 40.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50,\n\"range\": [30, 70]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 20,\n\"range\": [10, 40]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 27.6\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 45.65\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 45\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 25.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50.0\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"average\": 50\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 45\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"Bowl is used to hold food or liquids.\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"hold\", \"serve\", \"store\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve in a bowl\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"bowl of soup\",\n    \"bowl of cereal\",\n    \"bowl of fruit\",\n    \"bowl of salad\",\n    \"bowl of pasta\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"holder\", \"container\", \"bowl\", \"vessel\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"bowl-as-container\", \"bowl-as-vessel\", \"bowl-for-food\", \"bowl-for-liquids\", \"bowl-as-storage\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"serve\",\n    \"hold\",\n    \"contain\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Use the bowl to hold food or drink\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"Use the bowl to serve food or drink\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"Use the bowl to store food or drink\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"hold\", \"serve\", \"store\", \"display\"],\n\"bowl\": {\n\"name\": \"bowl\",\n\"description\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\",\n\"synonyms\": [\"plate\", \"dish\", \"vessel\"],\n\"related_concepts\": [\n\"food\",\n\"liquid\",\n\"container\",\n\"tableware\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"hold\", \"serve\", \"store\", \"display\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve\",\n\"hold\",\n\"store\",\n\"display\",\n\"mix\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"Bowl for food\",\n      \"description\": \"Used to hold and serve food or drinks\",\n      \"example\": \"I need a bowl for the soup\"\n    },\n    {\n      \"name\": \"Bowl for decoration\",\n      \"description\": \"Used as a decorative item\",\n      \"example\": \"That vase would look great in a bowl\"\n    },\n    {\n      \"name\": \"Bowl for storage\",\n      \"description\": \"Used to store items\",\n      \"example\": \"I need a big bowl to store my craft supplies\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"bowl as a container\",\n\"bowl as a holder\",\n\"bowl as a vessel\",\n\"bowl as a receptacle\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"serve\",\n    \"hold\",\n    \"store\",\n    \"display\",\n    \"use\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve\",\n\"hold\",\n\"contain\",\n\"protect\",\n\"preserve\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve\",\n\"hold\",\n\"store\",\n\"mold\",\n\"display\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n{\n\"name\": \"serving\",\n\"description\": \"The bowl is used to serve food or drinks\"\n},\n{\n\"name\": \"storing\",\n\"description\": \"The bowl is used to store food or drinks\"\n},\n{\n\"name\": \"displaying\",\n\"description\": \"The bowl is used to display food or drinks\"\n},\n{\n\"name\": \"holding\",\n\"description\": \"The bowl is used to hold food or drinks\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"serve\",\n    \"hold\",\n    \"store\",\n    \"eat\",\n    \"drink\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"bowl as a container for food\",\n\"bowl as a container for liquids\",\n\"bowl as a decorative item\",\n\"bowl as a serving dish\",\n\"bowl as a storage container\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"bowl\", \"container\", \"vessel\", \"holding\", \"food\", \"liquids\"]\n}\n"
+  }
+]

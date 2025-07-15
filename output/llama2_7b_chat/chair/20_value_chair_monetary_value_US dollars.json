@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 49.99\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"name\": \"Ergonomic Chair\",\n\"material\": \"Mahogany Wood\",\n\"price\": 250.99,\n\"brand\": \"Herman Miller\"\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 49.99\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0,\n\"type\": \"chair\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"chair\": {\n\"monetary value\": 100.0\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 49.99\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"chair\": {\n    \"brand\": \"IKEA\",\n    \"model\": \"POÄNG\",\n    \"year\": 2018,\n    \"material\": \"MDF\",\n    \"size\": {\n      \"width\": 50,\n      \"depth\": 50,\n      \"height\": 78\n    },\n    \"weight\": 12,\n    \"retail_price\": 49.99,\n    \"condition\": \"new\"\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 100.0\n}\n"
+  }
+]

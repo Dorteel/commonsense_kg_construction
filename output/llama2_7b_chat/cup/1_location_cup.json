@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"living room\",\n\"bedroom\",\n\"office\",\n\"dining room\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"living room\",\n    \"office\",\n    \"bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    \"kitchen\",\n    \"living room\",\n    \"dining room\",\n    \"bedroom\",\n    \"office\",\n    \"outside\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"kitchen\", \"living room\", \"bedroom\", \"office\", \"backyard\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"living room\",\n    \"dining room\",\n    \"bedroom\",\n    \"office\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"dining room\",\n    \"living room\",\n    \"office\",\n    \"bedroom\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    {\n      \"name\": \"Kitchen\",\n      \"description\": \"This is where you will most likely find your cup, next to the sink or on the counter.\"\n    },\n    {\n      \"name\": \"Living Room\",\n      \"description\": \"You might also find your cup on the coffee table or on a shelf.\"\n    },\n    {\n      \"name\": \"Office\",\n      \"description\": \"If you work from home, you might find your cup on your desk or in the break room.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\":[\"kitchen\", \"living room\", \"dining room\", \"bedroom\", \"office\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":[\"kitchen\", \"living room\", \"office\", \"bedroom\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"living room\",\n\"bedroom\",\n\"dining room\",\n\"office\",\n\"desk\",\n\"outside\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"kitchen\",\n    \"living room\",\n    \"bedroom\",\n    \"office\",\n    \"dining room\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"kitchen\", \"dining room\", \"living room\", \"office\", \"backyard\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"living room\",\n\"bedroom\",\n\"office\",\n\"backyard\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"dining room\",\n\"living room\",\n\"office\",\n\"bedroom\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\":[\"kitchen\", \"living room\", \"dining room\", \"bedroom\", \"office\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"living room\",\n\"office\",\n\"bedroom\",\n\"outdoor\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\"kitchen\", \"living room\", \"office\", \"desk\", \"bedroom\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n    \"kitchen\",\n    \"living room\",\n    \"bedroom\",\n    \"desk\",\n    \"outside\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"living room\",\n\"bedroom\",\n\"office\",\n\"outside\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"kitchen\",\n\"living room\",\n\"bedroom\",\n\"office\",\n\"backyard\"\n]\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n  {\n    \"context\": \"drinking\",\n    \"items\": [\n      {\n        \"item\": \"water\",\n        \"description\": \"clear liquid\"\n      },\n      {\n        \"item\": \"coffee\",\n        \"description\": \"hot liquid\"\n      },\n      {\n        \"item\": \"tea\",\n        \"description\": \"hot liquid\"\n      }\n    ]\n  }\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"drinking tea\",\n  \"coffee\",\n  \"water\",\n  \"juice\",\n  \"soda\",\n  \"beer\",\n  \"wine\",\n  \"cocktails\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"holding the cup as a drink\",\n\"placing the cup on a table\",\n\"using the cup to hold hot liquid\",\n\"stirring coffee in the cup\",\n\"placing the cup in the dishwasher\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"key\": \"home\",\n      \"value\": \"The cup is on the kitchen counter.\"\n    },\n    {\n      \"key\": \"work\",\n      \"value\": \"The cup is on the desk at work.\"\n    },\n    {\n      \"key\": \"restaurant\",\n      \"value\": \"The cup is on the table at the restaurant.\"\n    }\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"bringing a cup to a party\",\n      \"example\": \"You bring your favorite cup to the party to enjoy your favorite drink.\"\n    },\n    {\n      \"name\": \"using a cup in a coffee shop\",\n      \"example\": \"You use a cup to order and drink your coffee in a coffee shop.\"\n    },\n    {\n      \"name\": \"holding a cup during a hike\",\n      \"example\": \"You hold a cup to drink water during a long hike.\"\n    },\n    {\n      \"name\": \"drinking from a cup in a car\",\n      \"example\": \"You drink from a cup while driving.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"holding the cup while walking\",\n\"using the cup to drink water\",\n\"storing the cup in a cupboard\",\n\"passing the cup to a friend\",\n\"accidentally spilling the cup\",\n\"cleaning the cup\",\n\"breaking the cup\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"drinking a cup of coffee\",\n    \"holding a cup of water\",\n    \"sipping a cup of tea\",\n    \"enjoying a cup of soup\",\n    \"using a cup as a makeshift bowl\",\n    \"playing with a toy cup\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"holding the cup in one's hand\",\n\"placing the cup on a flat surface\",\n\"using the cup to drink a liquid\",\n\"storing the cup in a cupboard\",\n\"transporting the cup in a bag\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"holding a hot beverage\",\n\"drinking from a cup\",\n\"using a cup as a makeshift container\",\n\"holding a cup of coffee\",\n\"carrying a cup of tea\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"holding\",\n    \"using\",\n    \"drinking\",\n    \"storing\",\n    \"serving\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"at the office\",\n\"at home\",\n\"at the beach\",\n\"in the kitchen\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"drinking\",\n    \"holding\",\n    \"carrying\",\n    \"storing\",\n    \"serving\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"coffee shop\",\n\"workplace\",\n\"home\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"name\": \"drinking\",\n      \"description\": \"A context in which the cup is used for drinking liquids.\"\n    },\n    {\n      \"name\": \"eating\",\n      \"description\": \"A context in which the cup is used for eating soups or other liquid foods.\"\n    },\n    {\n      \"name\": \"traveling\",\n      \"description\": \"A context in which the cup is used for drinking liquids while on the go.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": [\n        \"holding the cup while walking\",\n        \"drinking from the cup\",\n        \"placing the cup on a table\",\n        \"passing the cup to someone\",\n        \"storing the cup in a cupboard\"\n    ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\"dining\", \"travel\", \"outdoor\"]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"brought a cup of coffee to work\",\n    \"using a cup to measure liquid ingredients\",\n    \"enjoying a hot cup of tea on a cold day\",\n    \"spilling a cup of water on the floor\",\n    \"using a cup to carry a liquid from one place to another\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n  {\n    \"context\": \"drinking water\"\n  },\n  {\n    \"context\": \"making tea\"\n  },\n  {\n    \"context\": \"coffee\"\n  },\n  {\n    \"context\": \"eating soup\"\n  },\n  {\n    \"context\": \"holding cup while walking\"\n  }\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"holding the cup while walking\",\n\"using the cup to drink water\",\n\"storing the cup in a cupboard\",\n\"offering the cup to a friend\",\n\"accidentally dropping the cup\",\n\"cleaning the cup with soap and water\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"coffee\",\n\"tea\",\n\"water\",\n\"juice\",\n\"cocktail\"\n]\n}\n"
+  }
+]

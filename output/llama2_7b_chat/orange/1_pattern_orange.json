@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Orange is a round yellow fruit of any of several citrus trees.\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"pattern\":[\"circle\",\"round\",\"orange fruit\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"color\",\n      \"value\": \"yellow\"\n    },\n    {\n      \"name\": \"fruit\",\n      \"value\": \"orange\"\n    },\n    {\n      \"name\": \"round\",\n      \"value\": \"round\"\n    },\n    {\n      \"name\": \"edible\",\n      \"value\": \"edible\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"color\",\n\"fruit\",\n\"round\",\n\"yellow\",\n\"orange tree\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"orange juice\",\n      \"description\": \"A beverage made from the juice of oranges\",\n      \"ingredients\": [\n        \"orange juice\",\n        \"water\"\n      ]\n    },\n    {\n      \"name\": \"orange marmalade\",\n      \"description\": \"A preserve made from oranges\",\n      \"ingredients\": [\n        \"orange peel\",\n        \"orange juice\",\n        \"sugar\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"orange is a round yellow fruit\",\n\"orange is a citrus fruit\",\n\"orange is a popular fruit\",\n\"orange is a juicy fruit\",\n\"orange is a sweet fruit\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"color\",\n      \"value\": \"yellow\"\n    },\n    {\n      \"name\": \"fruit\",\n      \"value\": \"orange\"\n    },\n    {\n      \"name\": \"round\",\n      \"value\": \"round\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Orange is a round yellow to orange fruit of any of several citrus trees\",\n\"Oranges are a round yellow to orange fruit of any of several citrus trees\",\n\"A round yellow to orange fruit of any of several citrus trees is an orange\",\n\"Round yellow to orange fruits of any of several citrus trees are oranges\",\n\"Any of several citrus trees can produce round yellow to orange fruits that are oranges\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Orange\",\n      \"description\": \"A round yellow to orange fruit of any of several citrus trees.\",\n      \"synonyms\": [\n        {\n          \"name\": \"Naranja\",\n          \"description\": \"A variety of orange.\"\n        },\n        {\n          \"name\": \"Pekin\",\n          \"description\": \"A variety of orange.\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Orange is a round yellow fruit\",\n\"Orange is a type of citrus fruit\",\n\"Orange is a popular fruit\",\n\"Orange is grown on orange trees\",\n\"Orange is a nutritious fruit\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"round yellow fruit\",\n      \"description\": \"Orange is a round yellow fruit of any of several citrus trees.\"\n    },\n    {\n      \"name\": \"orange fruit\",\n      \"description\": \"Orange is a round yellow fruit of any of several citrus trees.\"\n    },\n    {\n      \"name\": \"orange\",\n      \"description\": \"Orange is a round yellow fruit of any of several citrus trees.\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"orange\",\n      \"description\": \"A round yellow to orange fruit of any of several citrus trees\",\n      \"pattern\": \"circle\"\n    },\n    {\n      \"name\": \"orange\",\n      \"description\": \"A round yellow to orange fruit of any of several citrus trees\",\n      \"pattern\": \"ellipse\"\n    },\n    {\n      \"name\": \"orange\",\n      \"description\": \"A round yellow to orange fruit of any of several citrus trees\",\n      \"pattern\": \"oval\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"Orange\",\n\"round yellow to orange fruit of any of several citrus trees\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"patterns\": [\n        {\n            \"name\": \"Color\",\n            \"values\": [\"round\", \"yellow\", \"orange\"]\n        },\n        {\n            \"name\": \"Fruit\",\n            \"values\": [\"orange\", \"lemon\", \"lime\"]\n        },\n        {\n            \"name\": \"Tree\",\n            \"values\": [\"orange tree\", \"lemon tree\", \"lime tree\"]\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"color\",\n      \"description\": \"The orange fruit is typically yellow in color.\",\n      \"pattern\": \"/yellow/i\"\n    },\n    {\n      \"name\": \"fruit\",\n      \"description\": \"The orange is a type of fruit.\",\n      \"pattern\": \"/fruit/i\"\n    },\n    {\n      \"name\": \"round\",\n      \"description\": \"The orange is typically round in shape.\",\n      \"pattern\": \"/round/i\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"round yellow to orange fruit of any of several citrus trees\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"pattern\": \"round yellow to orange fruit of any of several citrus trees\",\n      \"description\": \"Orange is a round yellow fruit that is typically grown on citrus trees. It is a popular fruit for eating fresh or using in cooking and baking.\"\n    },\n    {\n      \"pattern\": \"orange fruit\",\n      \"description\": \"Orange is a type of fruit that is typically round and yellow in color. It is grown on citrus trees and is a popular fruit for eating fresh or using in cooking and baking.\"\n    },\n    {\n      \"pattern\": \"citrus tree fruit\",\n      \"description\": \"Citrus trees produce a variety of fruits, including oranges, lemons, and limes. These fruits are known for their sour taste and are often used in cooking and baking.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Orange is a round yellow fruit\",\n\"Orange is a citrus fruit\",\n\"Orange is a popular fruit\",\n\"Orange is a juicy fruit\",\n\"Orange is a sweet fruit\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Orange\",\n      \"pattern\": \"round yellow to orange fruit of any of several citrus trees\"\n    },\n    {\n      \"name\": \"Fruit\",\n      \"pattern\": \"any of several types of trees or shrubs that produce fruit\"\n    },\n    {\n      \"name\": \"Tree\",\n      \"pattern\": \"a perennial plant with a single stem or trunk, supporting branches and leaves above ground\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"round yellow to orange fruit of any of several citrus trees\",\n\"round yellow fruit with a thick skin\",\n\"orange fruit with a thin skin\"\n]\n}\n"
+  }
+]

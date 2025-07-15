@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Ordering a sandwich at a deli\"\n    },\n    {\n        \"scenario\": \"Making a sandwich at home\"\n    },\n    {\n        \"scenario\": \"Creating a sandwich for a picnic\"\n    },\n    {\n        \"scenario\": \"Ordering a custom sandwich at a restaurant\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"making a sandwich for lunch\"\n    },\n    {\n        \"scenario\": \"creating a sandwich for a party\"\n    },\n    {\n        \"scenario\": \"making a sandwich for a picnic\"\n    },\n    {\n        \"scenario\": \"making a sandwich for a special dietary need\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Lunch meeting\",\n\"description\": \"A meeting between two or more people for the purpose of discussing business or sharing information.\"\n},\n{\n\"scenario\": \"Dinner party\",\n\"description\": \"A gathering of people for the purpose of sharing a meal and socializing.\"\n},\n{\n\"scenario\": \"Sandwich shop\",\n\"description\": \"A business that sells sandwiches to customers.\"\n},\n{\n\"scenario\": \"Lunch on the go\",\n\"description\": \"A sandwich eaten while walking or traveling.\"\n}\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"making a sandwich for lunch\"\n  },\n  {\n    \"scenario\": \"making a sandwich for a party\"\n  },\n  {\n    \"scenario\": \"making a sandwich for a picnic\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n\"Make me a BLT sandwich\",\n\"Make me a grilled cheese sandwich\",\n\"Make me a club sandwich\",\n\"Make me a tuna melt sandwich\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Ordering a sandwich at a deli\",\n\"description\": \"A customer walks into a deli and places an order for a sandwich. The deli worker asks for the type of sandwich, meat, cheese, and any other toppings. The customer confirms the order and pays for it.\"\n},\n{\n\"scenario\": \"Making a sandwich at home\",\n\"description\": \"A person is making a sandwich at home using ingredients they have in their kitchen. They place the bread slices on a plate, add the filling, and then top it with cheese and any other toppings they want.\"\n},\n{\n\"scenario\": \"Making a sandwich for a picnic\",\n\"description\": \"A person is preparing a sandwich for a picnic in a park. They choose a filling, such as turkey or ham, and add cheese and condiments. They place the sandwich in a container and pack it in a bag with other food and drinks for the picnic.\"\n},\n{\n\"scenario\": \"Making a sandwich for a party\",\n\"description\": \"A person is preparing a sandwich for a party. They choose a filling, such as roast beef or chicken, and add cheese and condiments. They place the sandwich on a platter and serve it to guests along with other food and drinks.\"\n},\n{\n\"scenario\": \"Making a sandwich for a quick snack\",\n\"description\": \"A person is making a sandwich for a quick snack. They choose a filling, such as peanut butter and jelly or ham and cheese, and place it between two slices of bread. They eat the sandwich quickly and move on with their day.\"\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Ordering a sandwich at a deli\",\n        \"description\": \"Customer walks into a deli and asks for a particular type of sandwich, such as a BLT or a grilled cheese.\"\n    },\n    {\n        \"scenario\": \"Making a sandwich at home\",\n        \"description\": \"A person is making a sandwich at home using ingredients they have on hand.\"\n    },\n    {\n        \"scenario\": \"Ordering a sandwich for delivery\",\n        \"description\": \"A customer places an order for a sandwich to be delivered to their location.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Making a sandwich for lunch\",\n        \"steps\": [\n            \"Grab two slices of bread\",\n            \"Spread mayonnaise on one slice\",\n            \"Add cheese and turkey on the other slice\",\n            \"Place the slices together with the filling in between\"\n        ]\n    },\n    {\n        \"scenario\": \"Making a sandwich for a party\",\n        \"steps\": [\n            \"Cut a large bread into two equal halves\",\n            \"Spread mustard on one half\",\n            \"Add ham and bacon on the other half\",\n            \"Place the halves together with the filling in between\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"making a sandwich for lunch\"\n},\n{\n\"scenario\": \"creating a sandwich for a party\"\n},\n{\n\"scenario\": \"customizing a sandwich for a dietary restriction\"\n},\n{\n\"scenario\": \"using a sandwich as a meal delivery vehicle\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Ordering a sandwich at a deli\"\n    },\n    {\n        \"scenario\": \"Making a sandwich at home\"\n    },\n    {\n        \"scenario\": \"Bringing a sandwich to a picnic\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Lunchtime\",\n        \"description\": \"It's noon and you're at work. You're feeling hungry and decide to make a sandwich.\"\n    },\n    {\n        \"name\": \"On-the-go\",\n        \"description\": \"You're running errands in the city and need a quick bite to eat. You stop at a deli and grab a sandwich.\"\n    },\n    {\n        \"name\": \"Party\",\n        \"description\": \"You're hosting a party and want to make something easy and impressive. You decide on a sandwich bar with a variety of fillings.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"making a sandwich for a picnic\"\n  },\n  {\n    \"scenario\": \"making a sandwich for a party\"\n  },\n  {\n    \"scenario\": \"making a sandwich for a quick lunch\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"At a workplace meeting\",\n    \"description\": \"An employee brings in a sandwich for a coworker's birthday.\"\n  },\n  {\n    \"scenario\": \"At a picnic\",\n    \"description\": \"A group of friends share a sandwich during a picnic.\"\n  },\n  {\n    \"scenario\": \"At a restaurant\",\n    \"description\": \"A couple shares a sandwich as part of a date.\"\n  },\n  {\n    \"scenario\": \"At a party\",\n    \"description\": \"A host serves sandwiches as part of a buffet.\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Lunchtime at work\"\n    },\n    {\n      \"scenario\": \"On a picnic\"\n    },\n    {\n      \"scenario\": \"At a party\"\n    },\n    {\n      \"scenario\": \"On a road trip\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are at a party and someone asks you if you want a sandwich\",\n\"You are at a restaurant and you order a sandwich\",\n\"You are at work and someone brings in sandwiches for lunch\",\n\"You are on a road trip and stop at a sandwich shop\",\n\"You are at home and make a sandwich for yourself\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n\"You are at a party and someone asks you if you want a sandwich\",\n\"You are at work and someone offers you a sandwich for lunch\",\n\"You are on a camping trip and you want to make a sandwich for dinner\",\n\"You are at a beach and you want to make a sandwich for a picnic\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"making a sandwich for lunch\",\n      \"entities\": [\n        {\n          \"entity\": \"bread\",\n          \"type\": \"food\",\n          \"properties\": {\n            \"ingredients\": [\n              {\n                \"ingredient\": \"mayo\",\n                \"quantity\": 2\n              },\n              {\n                \"ingredient\": \"cheese\",\n                \"quantity\": 3\n              }\n            ]\n          }\n        },\n        {\n          \"entity\": \"filling\",\n          \"type\": \"food\",\n          \"properties\": {\n            \"ingredients\": [\n              {\n                \"ingredient\": \"turkey\",\n                \"quantity\": 4\n              },\n              {\n                \"ingredient\": \"avocado\",\n                \"quantity\": 2\n              }\n            ]\n          }\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a party and want to know what to eat\"\n    },\n    {\n        \"scenario\": \"You are at work and want to grab a quick lunch\"\n    },\n    {\n        \"scenario\": \"You are on a picnic and want to bring a sandwich\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Birthday party\",\n      \"description\": \"The user is at a birthday party for a child and wants to know what kind of sandwiches they can make for the kids.\"\n    },\n    {\n      \"name\": \"Camping trip\",\n      \"description\": \"The user is on a camping trip and wants to know how to make a sandwich that will keep them full and satisfied.\"\n    },\n    {\n      \"name\": \"Lunch at work\",\n      \"description\": \"The user is at work and wants to know how to make a sandwich that is easy to eat at their desk.\"\n    },\n    {\n      \"name\": \"Sporting event\",\n      \"description\": \"The user is at a sporting event and wants to know how to make a sandwich that is easy to eat and will not get messy.\"\n    },\n    {\n      \"name\": \"Beach day\",\n      \"description\": \"The user is at the beach and wants to know how to make a sandwich that is easy to eat and will not get soggy.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"making a sandwich for lunch\"\n  },\n  {\n    \"scenario\": \"ordering a sandwich at a deli\"\n  },\n  {\n    \"scenario\": \"creating a sandwich for a party\"\n  },\n  {\n    \"scenario\": \"making a vegan sandwich\"\n  }\n]\n}\n"
+  }
+]

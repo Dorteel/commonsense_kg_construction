@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pizza\": {\n\"functions\": [\n\"topping\",\n\"cheese\",\n\"sauce\",\n\"crust\",\n\"bake\",\n\"microwave\",\n\"oven\",\n\"cooked\",\n\"uncooked\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"topping\",\n\"pizza_size\",\n\"crust_thickness\",\n\"cheese_type\",\n\"sauce_type\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"topping\",\n\"ordering\",\n\"delivery\",\n\"menu\",\n\"pricing\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"topping\",\n\"cheese\",\n\"sauce\",\n\"crust\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pizza\": {\n    \"functions\": [\n      {\n        \"name\": \"order\",\n        \"description\": \"Place an order for a pizza\",\n        \"example\": \"I'd like to order a margherita pizza for delivery\",\n        \"input\": [\n          {\n            \"name\": \"size\",\n            \"description\": \"Select the size of the pizza\",\n            \"values\": [\n              {\n                \"value\": \"small\",\n                \"description\": \"Small (12 inches)\"\n              },\n              {\n                \"value\": \"medium\",\n                \"description\": \"Medium (14 inches)\"\n              },\n              {\n                \"value\": \"large\",\n                \"description\": \"Large (16 inches)\"\n              }\n            ]\n          },\n          {\n            \"name\": \"toppings\",\n            \"description\": \"Select any additional toppings\",\n            \"values\": [\n              {\n                \"value\": \"cheese\",\n                \"description\": \"Mozzarella cheese\"\n              },\n              {\n                \"value\": \"sausage\",\n                \"description\": \"Italian sausage\"\n              },\n              {\n                \"value\": \"mushrooms\",\n                \"description\": \"Sliced mushrooms\"\n              },\n              {\n                \"value\": \"onions\",\n                \"description\": \"Fresh onions\"\n              },\n              {\n                \"value\": \"pepperoni\",\n                \"description\": \"Spicy pepperoni\"\n              },\n              {\n                \"value\": \"olives\",\n                \"description\": \"Green or black olives\"\n              }\n            ]\n          }\n        ]"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"topping\",\n\"delivery\",\n\"pizza_place\",\n\"pizza_size\",\n\"cheese\",\n\"sauce\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"pizza.order\",\n\"pizza.make\",\n\"pizza.eat\",\n\"pizza.reheat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n   {\n      \"name\": \"Toppings\",\n      \"description\": \"Provide a list of toppings that can be added to a pizza\"\n   },\n   {\n      \"name\": \"Ordering\",\n      \"description\": \"Provide a list of places where pizza can be ordered\"\n   },\n   {\n      \"name\": \"Delivery\",\n      \"description\": \"Provide information about pizza delivery options\"\n   },\n   {\n      \"name\": \"Reviews\",\n      \"description\": \"Provide information about customer reviews of pizza places\"\n   }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n  \"order\",\n  \"make\",\n  \"bake\",\n  \"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"order\", \"delivery\", \"pickup\", \"taste\", \"cheese\", \"sauce\", \"crust\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"functions\":[\n{\"name\": \"topping\", \"description\": \"Adding toppings to a pizza such as mushrooms, onions, or pepperoni.\"},\n{\"name\": \"sauce\", \"description\": \"Choosing a sauce for the pizza, such as marinara, alfredo, or BBQ.\"},\n{\"name\": \"crust\", \"description\": \"Selecting the type of crust for the pizza, such as thin, thick, or stuffed.\"},\n{\"name\": \"cheese\", \"description\": \"Choosing the amount and type of cheese for the pizza, such as mozzarella, parmesan, or feta.\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"Topping\",\n        \"description\": \"Add toppings to the pizza\",\n        \"args\": {\n            \"toppings\": [\n                {\n                    \"name\": \"Mushrooms\",\n                    \"description\": \"Sliced mushrooms\"\n                },\n                {\n                    \"name\": \"Onions\",\n                    \"description\": \"Sliced onions\"\n                },\n                {\n                    \"name\": \"Pepperoni\",\n                    \"description\": \"Sliced pepperoni\"\n                }\n            ]\n        }\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pizza\": {\n\"functions\": [\n\"make\",\n\"topping\",\n\"bake\",\n\"eat\",\n\"order\",\n\"delivery\",\n\"takeout\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n{\n\"name\": \"Topping\",\n\"description\": \"Add toppings to pizza\",\n\"input\": \"toppings (comma separated list of toppings)\",\n\"output\": \"toppings (comma separated list of toppings added to pizza)\"\n},\n{\n\"name\": \"Order\",\n\"description\": \"Order pizza\",\n\"input\": \"pizza size, toppings (comma separated list of toppings)\",\n\"output\": \"pizza order (pizza size and toppings)\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    \"order\",\n    \"delivery\",\n    \"pickup\",\n    \"menu\",\n    \"price\",\n    \"toppings\",\n    \"sauces\",\n    \"cheese\",\n    \"crust\",\n    \"payment\",\n    \"location\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    \"topping\",\n    \"sauce\",\n    \"cheese\",\n    \"crust\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"pizza-making\",\n\"pizza-delivery\",\n\"pizza-topping\",\n\"pizza-eating\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"order\",\n\"make\",\n\"deliver\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"Topping\",\n        \"description\": \"Add toppings to pizza\",\n        \"parameters\": {\n            \"toppings\": [\n                {\n                    \"name\": \"Pepperoni\",\n                    \"description\": \"Sliced, spicy sausage\"\n                },\n                {\n                    \"name\": \"Mushrooms\",\n                    \"description\": \"Button or portabella\"\n                },\n                {\n                    \"name\": \"Onions\",\n                    \"description\": \"Sweet or caramelized\"\n                }\n            ]\n        }\n    },\n    {\n        \"name\": \"Delivery\",\n        \"description\": \"Have pizza delivered to your location\",\n        \"parameters\": {\n            \"address\": {\n                \"street\": \"123 Main St\",\n                \"city\": \"Anytown\",\n                \"state\": \"CA\",\n                \"zip\": \"12345\"\n            }\n        }\n    },\n    {\n        \"name\": \"Order\",\n        \"description\": \"Place a pizza order online\",\n        \"parameters\": {\n            \"pizza\": {\n                \"name\": \"Pepperoni and Mushroom\",\n                \"toppings\": [\n                    {\n                    \"name\": \"Pepperoni\",\n                    \"quantity\": 2\n                },\n                {\n                    \"name\": \"Mushrooms\",\n                    \"quantity\": 3\n                }\n            ]\n        }\n    }\n}\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "pizza",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"order\", \"deliver\", \"eat\", \"make\", \"style\", \"taste\"]}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"kitchen\",\n\"dining\",\n\"office\",\n\"living room\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"kitchen\",\n  \"dining room\",\n  \"party\",\n  \"outdoors\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"kitchen\",\n\"dining room\",\n\"party\",\n\"dinner\",\n\"gathering\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"name\": \"kitchen\",\n\"description\": \"The kitchen is a room or area in a house or building where food is prepared and cooked.\"\n},\n{\n\"name\": \"dining\",\n\"description\": \"The dining area is where people sit to eat meals.\"\n},\n{\n\"name\": \"party\",\n\"description\": \"A social gathering of people, often with food and drink.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"dining room\",\n    \"party\",\n    \"outdoors\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"serving\",\n\"holding food\",\n\"drinking\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"kitchen\",\n      \"description\": \"Common context of the bowl in a kitchen, used for holding food or liquids.\"\n    },\n    {\n      \"name\": \"dining\",\n      \"description\": \"Common context of the bowl in a dining setting, used for holding food or drinks.\"\n    },\n    {\n      \"name\": \"crafting\",\n      \"description\": \"Common context of the bowl in a crafting setting, used for holding materials or supplies.\"\n    },\n    {\n      \"name\": \"decoration\",\n      \"description\": \"Common context of the bowl in a decorative setting, used for holding decorative objects or displays.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"kitchen\",\n\"dining room\",\n\"table setting\",\n\"party\",\n\"BBQ\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"kitchen\",\n\"dining room\",\n\"table setting\",\n\"party\",\n\"dinner party\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"cooking\",\n\"serving\",\n\"holding food\",\n\"drinking\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"dining room\",\n    \"table setting\",\n    \"server\",\n    \"host\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"kitchen\",\n    \"dining room\",\n    \"office\",\n    \"car\",\n    \"beach\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"eating\",\n\"cooking\",\n\"serving\",\n\" storing\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n    {\n        \"name\": \"kitchen\",\n        \"description\": \"A room or area equipped for preparing and cooking food\"\n    },\n    {\n        \"name\": \"dining room\",\n        \"description\": \"A room in a house where meals are eaten\"\n    },\n    {\n        \"name\": \"restaurant\",\n        \"description\": \"A business that serves food and drinks to customers\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"dining\"\n    },\n    {\n      \"context\": \"workplace\"\n    },\n    {\n      \"context\": \"travel\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"dining\",\n\"cooking\",\n\"serving\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"dining room\",\n    \"table setting\",\n    \"food and drink\"\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"dining room\",\n    \"office\",\n    \"living room\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"dining room\",\n    \"table\",\n    \"break room\",\n    \"desk\",\n    \"workplace\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"dining\",\n      \"description\": \"A setting for eating a meal\"\n    },\n    {\n      \"name\": \"entertaining\",\n      \"description\": \"A setting for hosting guests or socializing\"\n    },\n    {\n      \"name\": \"serving\",\n      \"description\": \"A setting for providing food or drinks to others\"\n    }\n  ]\n}\n"
+  }
+]

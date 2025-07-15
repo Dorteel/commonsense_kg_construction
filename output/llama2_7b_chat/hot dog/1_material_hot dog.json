@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"meat\",\n    \"condiments\",\n    \"toppings\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"hot dog meat\",\n    \"condiments (ketchup, mustard, relish, etc.)\",\n    \"toppings (cheese, onions, sauerkraut, etc.)\"\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"meat\",\n    \"condiments\",\n    \"toppings\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"hot dog meat\",\n    \"condiments (ketchup, mustard, relish, etc.)\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"hot dog meat\",\n    \"condiments (ketchup, mustard, relish, etc.)\",\n    \"cheese (optional)\",\n    \"onions (optional)\",\n    \"bread (optional)\",\n    \"pickle (optional)\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":[\"bun\", \"hot dog\", \"condiments\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": [\n\"bread\",\n\"meat\",\n\"cheese\",\n\"condiments\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"meat\",\n    \"condiments\",\n    \"toppings\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"hot dog meat\",\n    \"condiments (ketchup, mustard, relish, etc.)\",\n    \"cheese (optional)\",\n    \"onions (optional)\",\n    \"bun toppings (optional)\",\n    \"drink (optional)\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"meat\",\n    \"condiments\",\n    \"toppings\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": [\n\"bread\",\n\"meat\",\n\"condiments\",\n\"toppings\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": [\n\"bun\",\n\"hot dog meat\",\n\"ketchup\",\n\"mustard\",\n\" relish\",\n\"onions\",\n\"pickles\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"hot dog\",\n    \"meat\",\n    \"cheese\",\n    \"condiments\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": [\n\"bun\",\n\"hot dog meat\",\n\"toppings\",\n\"condiments\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"hot dog meat\",\n    \"ketchup\",\n    \"mustard\",\n    \"pickles\",\n    \"onions\",\n    \"relish\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":[\"bread\", \"meat\", \"condiments\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": [\n\"bread\",\n\"meat\",\n\"condiments\",\n\"toppings\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bread\",\n    \"meat\",\n    \"toppings\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"meat\",\n    \"condiments\",\n    \"cheese\",\n    \"onions\",\n    \"ketchup\",\n    \" mustard\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "hot dog",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bun\",\n    \"frankfurter\",\n    \"meat\",\n    \"condiments\"\n  ]\n}"
+  }
+]

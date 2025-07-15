@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": [\n        {\n            \"name\": \"holding\",\n            \"description\": \"The bowl is used for holding food or liquids\"\n        },\n        {\n            \"name\": \"containing\",\n            \"description\": \"The bowl contains food or liquids\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n\"hold food or liquids\",\n\"serve as a container\",\n\"mix or blend contents\",\n\"store or transport\",\n\"protect contents from spills or leaks\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"holding\",\n      \"description\": \"The bowl is used to hold or contain something\",\n      \"example\": \"She filled the bowl with water.\"\n    },\n    {\n      \"name\": \"serving\",\n      \"description\": \"The bowl is used to serve food or drinks\",\n      \"example\": \"He served the soup from the bowl.\"\n    },\n    {\n      \"name\": \"container\",\n      \"description\": \"The bowl is a container for holding or storing something\",\n      \"example\": \"The bowl is used to store food in the kitchen.\"\n    },\n    {\n      \"name\": \"vessel\",\n      \"description\": \"The bowl is a vessel for holding or containing something\",\n      \"example\": \"The bowl is used as a vessel for carrying water.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"serve\",\n    \"contain\",\n    \"hold\",\n    \"store\",\n    \"mix\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold liquid\",\n\"serve food\",\n\"store food\",\n\"transfer liquid\",\n\"mix food\",\n\"chill food\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food or liquids\",\n\"serve food\",\n\"store food or liquids\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": {\n    \"bowl\": [\n      \"hold food/liquids\",\n      \"serve food/drinks\",\n      \"store food/liquids\",\n      \"eat from bowl\"\n    ]\n  }\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"hold\",\n    \"contain\",\n    \"serve\",\n    \"store\",\n    \"protect\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food or liquids\",\n\"serve food or drinks\",\n\"store food or liquids\",\n\"protect contents from spills\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food or liquids\",\n\"serve food or liquids\",\n\"store food or liquids\",\n\"display food or liquids\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": [\"holding\", \"containing\", \"serving\", \" storing\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"hold\",\n      \"description\": \"Hold or contain something\",\n      \"example\": \"I can hold a bowl of soup\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"Make something available for use or consumption\",\n      \"example\": \"I can serve a bowl of soup\"\n    },\n    {\n      \"name\": \"contain\",\n      \"description\": \"Hold or hold within\",\n      \"example\": \"The bowl contains the soup\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"serve\",\n    \"hold\",\n    \" contain\",\n    \"store\",\n    \"display\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food\",\n\"serve food\",\n\"store food\",\n\"eat food\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food or liquid\",\n\"serve food or drink\",\n\"eat from bowl\",\n\" contain food or drink\",\n\" clean bowl\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"bowl\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food or liquids\",\n\"serve food or liquids\",\n\"store food or liquids\",\n\"transport food or liquids\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold food\",\n\"serve food\",\n\"store food\",\n\"keep food fresh\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    \"hold food/liquids\",\n    \"serve food/liquids\",\n    \"store food/liquids\",\n    \"heat food/liquids\",\n    \"cool food/liquids\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bowl",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"container\", \"args\": [\"bowl\"]}\n "
+  }
+]

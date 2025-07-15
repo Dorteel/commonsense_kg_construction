@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"gardening\",\n    \"cooking\",\n    \"nutrition\",\n    \"food\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"carrot\": [\n    \"kitchen\",\n    \"garden\",\n    \"supermarket\",\n    \"vegetable\",\n    \"vegetable stand\",\n    \"farm\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"gardening\",\n\"cooking\",\n\"health\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"gardening\",\n\"cooking\",\n\"diet\",\n\"health\",\n\"farming\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"cooking\",\n      \"description\": \"Preparing food using the carrot as an ingredient\"\n    },\n    {\n      \"name\": \"health\",\n      \"description\": \"Using the carrot for its medicinal or nutritional value\"\n    },\n    {\n      \"name\": \"gardening\",\n      \"description\": \"Growing carrots in a garden or farm\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"name\": \"gardening\",\n\"description\": \"Gardening is the practice of growing plants, including the care and maintenance of the soil, watering, and fertilization. Carrots are commonly grown in gardens for their edible roots.\"\n},\n{\n\"name\": \"cooking\",\n\"description\": \"Cooking is the process of preparing food for consumption. Carrots are commonly used in a variety of dishes, including soups, stews, and salads.\"\n},\n{\n\"name\": \"health\",\n\"description\": \"Health is the state of being free from disease or injury. Carrots are considered a healthy food because of their high content of vitamins, minerals, and antioxidants.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"vegetable\"\n},\n{\n\"context\": \"dish\"\n},\n{\n\"context\": \"meal\"\n},\n{\n\"context\": \"food\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n  {\n    \"name\": \"cooking\",\n    \"description\": \"Preparing food with the carrot as an ingredient\"\n  },\n  {\n    \"name\": \"health\",\n    \"description\": \"Carrots as a source of vitamin A and other nutrients\"\n  },\n  {\n    \"name\": \"gardening\",\n    \"description\": \"Cultivating and maintaining carrot plants\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"kitchen\",\n  \"garden\",\n  \"farm\",\n  \"market\",\n  \"restaurant\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n  {\n    \"context\": \"food\"\n  },\n  {\n    \"context\": \"gardening\"\n  },\n  {\n    \"context\": \"cooking\"\n  }\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"gardening\",\n    \"cooking\",\n    \"food\",\n    \"vegetables\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"kitchen\",\n    \"garden\",\n    \"farm\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"name\": \"cooking\",\n\"description\": \"Preparing meals using the carrot as an ingredient.\"\n},\n{\n\"name\": \"salads\",\n\"description\": \"Carrots are a common ingredient in salads, either raw or cooked.\"\n},\n{\n\"name\": \"soups\",\n\"description\": \"Carrots can be used to add flavor and nutrients to soups.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"garden\",\n    \"kitchen\",\n    \"recipe\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"cooking\",\n      \"description\": \"Preparing food for consumption, often involving the use of a stove or oven.\"\n    },\n    {\n      \"name\": \"gardening\",\n      \"description\": \"Cultivating and maintaining plants, often in a backyard or greenhouse.\"\n    },\n    {\n      \"name\": \"food\",\n      \"description\": \"Anything related to food, including recipes, ingredients, and dining.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"cooking\"\n},\n{\n\"context\": \"gardening\"\n},\n{\n\"context\": \"health\"\n},\n{\n\"context\": \"vegetarian\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"gardening\",\n    \"cooking\",\n    \"nutrition\",\n    \"health\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"cooking\",\n      \"description\": \"Carrots are commonly used in a variety of dishes, including stews, soups, and salads.\"\n    },\n    {\n      \"context\": \"health\",\n      \"description\": \"Carrots are high in vitamin A and beta-carotene, making them a nutritious addition to a healthy diet.\"\n    },\n    {\n      \"context\": \"gardening\",\n      \"description\": \"Carrots are one of the most widely cultivated vegetables, and their growth requires careful attention to soil quality and watering.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"food\",\n      \"subcontexts\": [\n        {\n          \"subcontext\": \"vegetables\",\n          \"items\": [\n            \"carrot\"\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "carrot",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"kitchen\",\n    \"garden\",\n    \"farm\",\n    \"food store\"\n]\n}\n "
+  }
+]

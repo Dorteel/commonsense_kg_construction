@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"sleeps\",\n\"sleep\": \"takes place on the bed\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"lie down\", \"sleep\", \"rest\", \"doze\", \"nap\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sleep\",\n\"rest\",\n\"doze\",\n\"nod\",\n\"snooze\",\n\"kip\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"sleeps\",\n    \"lies\",\n    \"rests\",\n    \"naps\",\n    \"dozes\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sleeps\",\n\"rests\",\n\"naps\",\n\"dreams\",\n\"dozes\",\n\"slumbers\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"dispositions\": [\n    {\n      \"disposition\": \"sleep\",\n      \"description\": \"The user is sleeping on the bed\"\n    },\n    {\n      \"disposition\": \"read\",\n      \"description\": \"The user is reading a book on the bed\"\n    },\n    {\n      \"disposition\": \"watch\",\n      \"description\": \"The user is watching TV on the bed\"\n    },\n    {\n      \"disposition\": \"relax\",\n      \"description\": \"The user is relaxing on the bed\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"lie down\",\n    \"sleep\",\n    \"rest\",\n    \"doze\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"sleep\",\n    \"rest\",\n    \"doze\",\n    \"slumber\",\n    \"nap\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sleep\"\n,\"rest\"\n,\"slumber\"\n,\"repose\"\n,\"doze\"\n,\"nap\"\n,\"snooze\"\n,\"drowse\"\n,\"torpor\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sleep\",\n\"rest\",\n\"nap\",\n\"slumber\",\n\"doze\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"sleeping\", \"lying\", \"resting\", \"dozing\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"lie down\",\n\"sleep\",\n\"doze\",\n\"rest\",\n\"nap\",\n\"slumber\",\n\"snooze\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"sleep\",\n    \"rest\",\n    \"slumber\",\n    \"doze\",\n    \"nap\",\n    \"snooze\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"lie\", \"sleep\", \"rest\", \"doze\", \"nap\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"lie down\",\n\"sleep\",\n\"rest\",\n\"doze\",\n\"nap\",\n\"dream\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sleep\",\n\"rest\",\n\"slumber\",\n\"doze\",\n\"nap\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sleep\",\n\"rest\",\n\"slumber\",\n\"doze\",\n\"nap\",\n\"repose\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"label\": \"Sleep\",\n        \"description\": \"Go to bed and sleep\"\n    },\n    {\n        \"label\": \"Relax\",\n        \"description\": \"Take a rest\"\n    },\n    {\n        \"label\": \"Unwind\",\n        \"description\": \"Calm down and feel relaxed\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"sleep\",\n      \"description\": \"Sleep on the bed\"\n    },\n    {\n      \"name\": \"watch_TV\",\n      \"description\": \"Watch TV on the bed\"\n    },\n    {\n      \"name\": \"read\",\n      \"description\": \"Read a book on the bed\"\n    },\n    {\n      \"name\": \"work\",\n      \"description\": \"Work on the bed\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"sleep\",\n    \"rest\",\n    \"slumber\",\n    \"snooze\",\n    \"nap\"\n  ]\n}\n"
+  }
+]

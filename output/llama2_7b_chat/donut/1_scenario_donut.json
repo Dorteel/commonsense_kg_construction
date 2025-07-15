@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Someone asks for a donut recommendation\",\n      \"response\": \"Sure! I would recommend the chocolate glazed donut. It's a classic and always a crowd pleaser.\"\n    },\n    {\n      \"scenario\": \"Someone wants to know if the donut shop has gluten-free options\",\n      \"response\": \"Yes, we have several gluten-free options available. Let me know if you have any other dietary restrictions and I can recommend the best donut for you.\"\n    },\n    {\n      \"scenario\": \"Someone wants to know the price of a donut\",\n      \"response\": \"The price of our donuts range from $1.50 to $3.50 depending on the size and toppings. Would you like to know more about our donut options?\"\n    },\n    {\n      \"scenario\": \"Someone wants to know if the donut shop delivers\",\n      \"response\": \"Yes, we offer delivery through our partnership with Grubhub. Just place your order through the Grubhub app or website and we'll take care of the rest.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Donut in a meeting\",\n        \"description\": \"A colleague brings a donut to a meeting and offers it to the group, sparking a conversation about the donut's deliciousness.\"\n    },\n    {\n        \"name\": \"Donut craving\",\n        \"description\": \"A person is craving a donut and goes to a bakery to purchase one.\"\n    },\n    {\n        \"name\": \"Donut gift\",\n        \"description\": \"A person gives a donut as a gift to a friend or loved one.\"\n    },\n    {\n        \"name\": \"Donut taste test\",\n        \"description\": \"A group of friends taste test different types of donuts at a bakery.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"You are at a donut shop and want to order a donut\",\n\"subscenarios\": [\n{\n\"scenario\": \"You want a classic glazed donut\",\n\"options\": [\n{\n\"option\": \"glazed\",\n\"description\": \"Glazed donut with a sweet and sticky glaze\"\n},\n{\n\"option\": \"chocolate frosting\",\n\"description\": \"Classic chocolate frosting on top of the donut\"\n}\n]\n},\n{\n\"scenario\": \"You are at a donut shop and want to order a donut for a party\",\n\"subscenarios\": [\n{\n\"scenario\": \"You want to order a variety pack of donuts\",\n\"options\": [\n{\n\"option\": \"classic pack\",\n\"description\": \"A pack of 6 classic donuts\"\n},\n{\n\"option\": \"flavor pack\",\n\"description\": \"A pack of 6 different flavors of donuts\"\n}\n]\n},\n{\n\"scenario\": \"You want to order donuts for a themed party\",\n\"subscenarios\": [\n{\n\"scenario\": \"You want to order donuts for a 1950s diner-themed party\",\n\"options\": [\n{\n\"option\": \"old-fashioned donuts\",\n\"description\": \"Donuts shaped like rings with a classic glaze\"\n},\n{\n\"option\": \"maple bacon donuts\",\n\"description\": \"Donuts topped with crispy bacon and maple glaze\"\n}\n]\n}\n]\n}\n]\n}\n,\n{\n\"scen"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"A person is at a donut shop and wants to know what donuts are available\",\n      \"description\": \"The person looks at the menu and sees a list of donut options, including classic glazed, chocolate frosted, and maple bacon.\"\n    },\n    {\n      \"scenario\": \"A person is at a donut shop and wants to know if they have any gluten-free donuts\",\n      \"description\": \"The person asks the shop owner if they have any gluten-free donuts, and the owner confirms that they have a few options available.\"\n    },\n    {\n      \"scenario\": \"A person is at a donut shop and wants to know if they can customize their donut\",\n      \"description\": \"The person asks if they can customize their donut with different toppings, and the shop owner says yes, they can add sprinkles, nuts, or even bacon.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\":[\n{\"scenario\":\"A customer orders a donut at a coffee shop and asks for a hole on the side.\"},\n{\"scenario\":\"A donut shop employee accidentally spills glaze on a customer's shirt.\"},\n{\"scenario\":\"A customer tries to eat a donut while driving and causes an accident.\"},\n{\"scenario\":\"A group of friends share a box of donuts during a study session.\"},\n{\"scenario\":\"A donut shop owner offers a free donut to a customer who brings in a reusable cup.\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Someone is craving a donut and wants to know where to buy one\"\n    },\n    {\n        \"scenario\": \"A group of friends are planning a donut party and want to know how to make donuts\"\n    },\n    {\n        \"scenario\": \"A person is trying to decide which donut to buy and wants recommendations\"\n    },\n    {\n        \"scenario\": \"A restaurant is looking for a donut supplier and wants to know more about the donut industry\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Donut for breakfast\"\n},\n{\n\"scenario\": \"Donut with coffee\"\n},\n{\n\"scenario\": \"Donut as dessert\"\n},\n{\n\"scenario\": \"Donut with milk\"\n},\n{\n\"scenario\": \"Donut with ice cream\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Donut in breakfast\",\n        \"description\": \"A donut is served as a breakfast food, perhaps with a cup of coffee or tea.\"\n    },\n    {\n        \"scenario\": \"Donut in the workplace\",\n        \"description\": \"A donut is offered at a meeting or in the break room at work, perhaps as a treat for employees.\"\n    },\n    {\n        \"scenario\": \"Donut as a reward\",\n        \"description\": \"A donut is given as a reward or treat for a job well done, perhaps as a motivator for employees.\"\n    },\n    {\n        \"scenario\": \"Donut in a recipe\",\n        \"description\": \"A donut is used as an ingredient in a recipe, such as in a dessert or savory dish.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Someone asks for a donut recommendation\",\n\"response\": \"Sure! Our top-rated donut is the Boston Creme. Would you like to try it?\",\n\"intent\": \"recommendation\"\n},\n{\n\"scenario\": \"Someone wants to order a donut for delivery\",\n\"response\": \"Of course! We offer free delivery on all donuts. Would you like me to add it to your order?\",\n\"intent\": \"order\"\n},\n{\n\"scenario\": \"Someone wants to know the calories in a donut\",\n\"response\": \"Our classic glazed donut has approximately 250 calories. Would you like to know the calorie count of other donuts?\",\n\"intent\": \"information\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Donut Shop\",\n      \"description\": \"A place where donuts are sold.\",\n      \"entities\": [\n        {\n          \"name\": \"Donut\",\n          \"description\": \"A small ring-shaped fried cake, typically sweet and often topped with glaze, sprinkles, or other toppings.\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Breakfast\",\n      \"description\": \"A meal eaten in the morning.\",\n      \"entities\": [\n        {\n          \"name\": \"Donut\",\n          \"description\": \"A small ring-shaped fried cake, typically sweet and often topped with glaze, sprinkles, or other toppings, often eaten as part of breakfast.\"\n        }\n      ]\n    },\n    {\n      \"name\": \"Party\",\n      \"description\": \"An event where people gather to celebrate or socialize.\",\n      \"entities\": [\n        {\n          \"name\": \"Donut\",\n          \"description\": \"A small ring-shaped fried cake, typically sweet and often topped with glaze, sprinkles, or other toppings, often served at parties or gatherings.\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Donut in a box\",\n      \"description\": \"A box of donuts in a bag or container\"\n    },\n    {\n      \"scenario\": \"Donut at a party\",\n      \"description\": \"Donuts served at a party or social gathering\"\n    },\n    {\n      \"scenario\": \"Donut at work\",\n      \"description\": \"Donuts served at a workplace or office\"\n    },\n    {\n      \"scenario\": \"Donut in a shop\",\n      \"description\": \"Donuts sold at a donut shop or bakery\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Donut shop owner offers free donut to customer who returns empty box\",\n        \"description\": \"Customer returns empty box of donuts to the shop, and the owner generously offers them a free donut as a gesture of goodwill.\"\n    },\n    {\n        \"scenario\": \"Child asks parent for donut, parent says no\",\n        \"description\": \"Child asks parent for a donut, but parent says no, citing concerns about sugar content or cholesterol levels.\"\n    },\n    {\n        \"scenario\": \"Friend shares donut with another friend\",\n        \"description\": \"One friend shares a donut with another friend, symbolizing a gesture of friendship and generosity.\"\n    },\n    {\n        \"scenario\": \"Donut shop owner donates excess donuts to local food bank\",\n        \"description\": \"Donut shop owner donates excess donuts to a local food bank, helping to feed those in need.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Someone wants to know if they can eat the donut\",\n\"response\": \"Yes, you can eat the donut.\"\n},\n{\n\"scenario\": \"Someone wants to know how to eat the donut\",\n\"response\": \"You can eat the donut by itself or with your favorite toppings.\"\n},\n{\n\"scenario\": \"Someone wants to know if the donut is healthy\",\n\"response\": \"The donut is not considered a healthy food option.\"\n},\n{\n\"scenario\": \"Someone wants to know where to buy donuts\",\n\"response\": \"You can buy donuts at most bakeries or convenience stores.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Donut is given as a gift to a coworker\",\n        \"description\": \"Person A gives a donut to Person B as a small token of appreciation for their help.\",\n        \"entities\": [\n            {\n                \"entity\": \"donut\",\n                \"role\": \"gift\"\n            },\n            {\n                \"entity\": \"coworker\",\n                \"role\": \"recipient\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Donut is served at a office meeting\",\n        \"description\": \"The office manager serves donuts to the employees during a meeting to boost morale.\",\n        \"entities\": [\n            {\n                \"entity\": \"donut\",\n                \"role\": \"food\"\n            },\n            {\n                \"entity\": \"office\",\n                \"role\": \"workplace\"\n            },\n            {\n                \"entity\": \"employees\",\n                \"role\": \"recipients\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Donut is used as a reward\",\n        \"description\": \"Person A gives a donut to Person B as a reward for completing a task.\",\n        \"entities\": [\n            {\n                \"entity\": \"donut\",\n                \"role\": \"reward\"\n            },\n            {\n                \"entity\": \"person\",\n                \"role\": \"giver\"\n            },\n            {\n                \"entity\": \"person\",\n                \"role\": \"recipient\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Donut at breakfast\"\n},\n{\n\"scenario\": \"Donut at workplace\"\n},\n{\n\"scenario\": \"Donut at event\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a donut shop and want to order a donut\",\n        \"entities\": [\n            {\n                \"entity\": \"donut shop\",\n                \"role\": \"place\"\n            },\n            {\n                \"entity\": \"donut\",\n                \"role\": \"product\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"You are at a party and want to bring donuts as a gift\",\n        \"entities\": [\n            {\n                \"entity\": \"party\",\n                \"role\": \"event\"\n            },\n            {\n                \"entity\": \"donut\",\n                \"role\": \"product\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"You want to make donuts at home\",\n        \"entities\": [\n            {\n                \"entity\": \"kitchen\",\n                \"role\": \"place\"\n            },\n            {\n                \"entity\": \"ingredients\",\n                \"role\": \"product\"\n            },\n            {\n                \"entity\": \"donut\",\n                \"role\": \"product\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Donut for breakfast\",\n        \"description\": \"A donut is served as a breakfast item, perhaps with coffee or tea.\"\n    },\n    {\n        \"name\": \"Donut as a snack\",\n        \"description\": \"A donut is served as a quick snack, perhaps with a beverage or other treats.\"\n    },\n    {\n        \"name\": \"Donut for dessert\",\n        \"description\": \"A donut is served as a sweet treat after a meal.\"\n    },\n    {\n        \"name\": \"Donut as a reward\",\n        \"description\": \"A donut is given as a reward for achieving a goal or completing a task.\"\n    },\n    {\n        \"name\": \"Donut in a meal\",\n        \"description\": \"A donut is incorporated into a meal, such as in a sandwich or as a topping for a dish.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Donut enthusiasts gather at a donut shop to try new flavors\",\n        \"entities\": [\n            {\n                \"entity\": \"Donut shop\",\n                \"role\": \"Business\"\n            },\n            {\n                \"entity\": \"Donut enthusiasts\",\n                \"role\": \"Customer\"\n            },\n            {\n                \"entity\": \"New flavors\",\n                \"role\": \"Product\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"A donut truck is parked at a street festival and sells donuts to festival-goers\",\n        \"entities\": [\n            {\n                \"entity\": \"Donut truck\",\n                \"role\": \"Business\"\n            },\n            {\n                \"entity\": \"Festival-goers\",\n                \"role\": \"Customer\"\n            },\n            {\n                \"entity\": \"Donuts\",\n                \"role\": \"Product\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"A donut shop offers a free donut with the purchase of a coffee\",\n        \"entities\": [\n            {\n                \"entity\": \"Donut shop\",\n                \"role\": \"Business\"\n            },\n            {\n                \"entity\": \"Coffee\",\n                \"role\": \"Product\"\n            },\n            {\n                \"entity\": \"Free donut\",\n                \"role\": \"Product\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Someone offers you a donut\",\n        \"response\": \"Thanks, I'll take a bite\"\n    },\n    {\n        \"scenario\": \"You see a donut on a table\",\n        \"response\": \"I'll have one\"\n    },\n    {\n        \"scenario\": \"You are at a donut shop\",\n        \"response\": \"What do you have?\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Someone is craving a donut and wants to know where to buy one\",\n        \"inputs\": [\n            {\n                \"name\": \"location\",\n                \"type\": \"location\"\n            },\n            {\n                \"name\": \"donutType\",\n                \"type\": \"donutType\"\n            }\n        ],\n        \"output\": [\n            {\n                \"name\": \"donutShop\",\n                \"type\": \"donutShop\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"A donut shop is trying to promote their new flavor\",\n        \"inputs\": [\n            {\n                \"name\": \"donutFlavor\",\n                \"type\": \"donutFlavor\"\n            },\n            {\n                \"name\": \"price\",\n                \"type\": \"price\"\n            }\n        ],\n        \"output\": [\n            {\n                \"name\": \"promotion\",\n                \"type\": \"promotion\"\n            }\n        ]\n    }\n]\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching TV in living room\",\n\"Watching TV in bedroom\",\n\"Watching TV in home theater\",\n\"Watching TV while cooking dinner\",\n\"Watching TV while studying\",\n\"Watching TV with family\",\n\"Watching TV with friends\",\n\"Watching TV alone\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Watching TV show\",\n        \"description\": \"User is sitting on a couch and watching a TV show\",\n        \"entities\": [\n            {\n                \"name\": \"TV\",\n                \"description\": \"Electronic device that receives television signals and displays them on a screen\"\n            },\n            {\n                \"name\": \"Show\",\n                \"description\": \"Program or content being displayed on the TV\"\n            }\n        ]\n    },\n    {\n        \"name\": \"Watching sports\",\n        \"description\": \"User is watching a sports game on TV\",\n        \"entities\": [\n            {\n                \"name\": \"TV\",\n                \"description\": \"Electronic device that receives television signals and displays them on a screen\"\n            },\n            {\n                \"name\": \"Team\",\n                \"description\": \"Sports team playing in the game\"\n            },\n            {\n                \"name\": \"Game\",\n                \"description\": \"Sports game being watched on TV\"\n            }\n        ]\n    },\n    {\n        \"name\": \"Watching news\",\n        \"description\": \"User is watching the news on TV\",\n        \"entities\": [\n            {\n                \"name\": \"TV\",\n                \"description\": \"Electronic device that receives television signals and displays them on a screen\"\n            },\n            {\n                \"name\": \"News\",\n                \"description\": \"Content being displayed on the TV\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Watching TV\",\n      \"description\": \"User is sitting on a couch and watching a TV show or a movie\",\n      \"context\": {\n        \"device\": \"TV\",\n        \"input\": \"remote control\",\n        \"action\": \"turn on\"\n      }\n    },\n    {\n      \"name\": \"Changing channels\",\n      \"description\": \"User is watching a TV show or a movie and wants to change the channel\",\n      \"context\": {\n        \"device\": \"TV\",\n        \"input\": \"remote control\",\n        \"action\": \"change channel\"\n      }\n    },\n    {\n      \"name\": \"Finding a specific show\",\n      \"description\": \"User is looking for a specific TV show or movie to watch\",\n      \"context\": {\n        \"device\": \"TV\",\n        \"input\": \"remote control\",\n        \"action\": \"search\"\n      }\n    },\n    {\n      \"name\": \"Advertisements\",\n      \"description\": \"User is watching TV and sees an advertisement\",\n      \"context\": {\n        \"device\": \"TV\",\n        \"input\": \"remote control\",\n        \"action\": \"mute\"\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV\",\n\"Recording a TV show\",\n\"Streaming a TV show online\",\n\"Searching for a TV show\",\n\"Finding a TV channel\",\n\"Changing the TV channel\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV\",\n\"Watching recorded TV shows\",\n\"Watching movies\",\n\"Watching sports\",\n\"Watching news\",\n\"Watching documentaries\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"Watching live sports event on TV\", \"Browsing through TV channels\", \"Watching recorded show on TV\", \"Using TV as a monitor for a computer\", \"Watching a movie on TV\", \"Watching TV with a group of people\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"description\": \"Watching TV in living room\",\n      \"entities\": [\n        {\n          \"name\": \"TV\",\n          \"type\": \"electronicDevice\"\n        }\n      ]\n    },\n    {\n      \"description\": \"Watching TV in bedroom\",\n      \"entities\": [\n        {\n          \"name\": \"TV\",\n          \"type\": \"electronicDevice\"\n        }\n      ]\n    },\n    {\n      \"description\": \"Watching TV while cooking\",\n      \"entities\": [\n        {\n          \"name\": \"TV\",\n          \"type\": \"electronicDevice\"\n        },\n        {\n          \"name\": \"kitchen\",\n          \"type\": \"room\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching TV in living room\",\n\"Watching TV in bedroom\",\n\"Watching TV in home theater\",\n\"Watching TV in outdoor setting\",\n\"Watching TV with family\",\n\"Watching TV alone\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching a live sports game on TV\",\n\"Binge-watching a favorite TV show on Netflix\",\n\"Checking the weather forecast on TV\",\n\"Playing video games on a TV\",\n\"Watching a movie on TV\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Watching TV at Home\",\n      \"description\": \"Watching TV at home, sitting on a couch or on a chair, with family or alone.\"\n    },\n    {\n      \"name\": \"Watching TV in a Bar\",\n      \"description\": \"Watching TV in a bar or pub, with friends or while out with colleagues.\"\n    },\n    {\n      \"name\": \"Watching TV in a Hotel Room\",\n      \"description\": \"Watching TV in a hotel room, while on vacation or traveling for work.\"\n    },\n    {\n      \"name\": \"Watching TV at a Friend's House\",\n      \"description\": \"Watching TV at a friend's house, while spending time with friends or family.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV\",\n\"Recording TV shows\",\n\"Watching movies on TV\",\n\"Streaming TV content online\",\n\"Using TV as a computer monitor\",\n\"Playing video games on TV\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV news\",\n\"Watching recorded TV show\",\n\"Watching TV while cooking dinner\",\n\"Watching TV with family members\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching a favorite TV show\",\n\"Browsing through TV channels\",\n\"Listening to a news channel\",\n\"Watching a live sports event\",\n\"Enjoying a movie\",\n\"Watching a cooking show\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV\",\n\"Watching recorded TV shows\",\n\"Using TV as a computer monitor\",\n\"Streaming movies and TV shows from online services\",\n\"Playing video games on the TV\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV news\",\n\"Watching recorded TV show\",\n\"Watching TV series\",\n\"Watching sports TV\",\n\"Watching TV show on demand\",\n\"Watching TV with family and friends\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"watching a favorite show\",\n\"watching live sports\",\n\"watching the news\",\n\"watching a movie\",\n\"watching a documentary\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"watching live tv\", \"watching recorded tv\", \"playing video games\", \"using internet\", \"streaming content\", \"watching movies\", \"watching sports\", \"watching news\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching TV in living room\",\n\"Watching TV in bedroom\",\n\"Watching TV in home theater\",\n\"Watching TV while cooking\",\n\"Watching TV while reading\",\n\"Watching TV while playing video games\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Watching TV in living room\",\n      \"description\": \"User is in their living room and wants to watch TV. They turn on the TV and select a channel to watch.\"\n    },\n    {\n      \"name\": \"Watching TV in bedroom\",\n      \"description\": \"User is in their bedroom and wants to watch TV. They turn on the TV and select a channel to watch.\"\n    },\n    {\n      \"name\": \"Watching TV while cooking\",\n      \"description\": \"User is in the kitchen cooking and wants to watch TV. They turn on the TV and select a channel to watch while they cook.\"\n    },\n    {\n      \"name\": \"Watching TV while exercising\",\n      \"description\": \"User is exercising and wants to watch TV. They turn on the TV and select a channel to watch while they exercise.\"\n    },\n    {\n      \"name\": \"Watching TV while studying\",\n      \"description\": \"User is studying and wants to watch TV. They turn on the TV and select a channel to watch while they study.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "TV",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Watching live TV\",\n\"Recording a TV show\",\n\"Watching a movie on a streaming service\",\n\"Using a TV as a computer monitor\",\n\"Accessing TV apps and games\"\n]\n}\n"
+  }
+]

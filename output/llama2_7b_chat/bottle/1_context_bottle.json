@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"drinking\",\n    \"storing\",\n    \"holding\",\n    \"using\",\n    \"carrying\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bar\",\n\"restaurant\",\n\"home\",\n\"work\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"dining\"\n},\n{\n\"context\": \"entertaining\"\n},\n{\n\"context\": \"travel\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"bar\"\n},\n{\n\"context\": \"party\"\n},\n{\n\"context\": \"camping trip\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"name\": \"bar\",\n\"description\": \"A place where people gather to drink alcoholic beverages and socialize.\",\n\"entities\": [\n{\n\"name\": \"bottle\",\n\"description\": \"A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped.\"\n}\n]\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bar\",\n\"restaurant\",\n\"party\",\n\"home\",\n\"event\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"Drinking a bottle of water\"\n},\n{\n\"context\": \"Storing a bottle of soda in the fridge\"\n},\n{\n\"context\": \"Carrying a bottle of juice on a hike\"\n},\n{\n\"context\": \"Using a water bottle as a weapon in a fight\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bar\",\n\"restaurant\",\n\"home\",\n\"cafe\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"bar\",\n      \"description\": \"A place where alcoholic drinks are served\",\n      \"context\": \"bar\"\n    },\n    {\n      \"name\": \"restaurant\",\n      \"description\": \"A place where food and drinks are served\",\n      \"context\": \"restaurant\"\n    },\n    {\n      \"name\": \"party\",\n      \"description\": \"An informal gathering of people for socializing and drinking\",\n      \"context\": \"party\"\n    },\n    {\n      \"name\": \"home\",\n      \"description\": \"A personal residence\",\n      \"context\": \"home\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"bar\",\n    \"restaurant\",\n    \"home\",\n    \"party\",\n    \"beach\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"home\",\n    \"office\",\n    \"restaurant\",\n    \"bar\",\n    \"store\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n\"home\",\n\"restaurant\",\n\"bar\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bottle\",\n\"drink\",\n\"beverage\",\n\"liquid\",\n\"container\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n    {\n        \"name\": \"bar\",\n        \"description\": \"A place where alcoholic drinks are served\"\n    },\n    {\n        \"name\": \"party\",\n        \"description\": \"An event where people gather to socialize and drink alcoholic beverages\"\n    },\n    {\n        \"name\": \"restaurant\",\n        \"description\": \"A place where meals are served\"\n    },\n    {\n        \"name\": \"home\",\n        \"description\": \"A place where people reside and drink alcoholic beverages\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"drinking\"\n},\n{\n\"context\": \"cooking\"\n},\n{\n\"context\": \"serving\"\n},\n{\n\"context\": \"storing\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"drinking\",\n\" storing\",\n\"holding\",\n\"carrying\",\n\"serving\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bar\",\n\"restaurant\",\n\"home\",\n\"party\",\n\"camping\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"store\",\n\"bar\",\n\"restaurant\",\n\"home\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"bar\"\n},\n{\n\"context\": \"restaurant\"\n},\n{\n\"context\": \"party\"\n},\n{\n\"context\": \"event\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"dining\"\n},\n{\n\"context\": \"entertaining\"\n},\n{\n\"context\": \"travel\"\n}\n]\n}\n"
+  }
+]

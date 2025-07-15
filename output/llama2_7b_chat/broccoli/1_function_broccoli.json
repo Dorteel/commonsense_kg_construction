@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"Boil\",\n        \"description\": \"Boil broccoli in water until tender\"\n    },\n    {\n        \"name\": \"Steam\",\n        \"description\": \"Steam broccoli until tender\"\n    },\n    {\n        \"name\": \"Roast\",\n        \"description\": \"Roast broccoli in oven until crispy\"\n    },\n    {\n        \"name\": \"Sauté\",\n        \"description\": \"Sauté broccoli in pan with oil until tender\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"grow\"\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"functions\": [\n    {\n      \"name\": \"Broccoli\",\n      \"definition\": {\n        \"description\": \"A plant with dense clusters of tight green flower buds\",\n        \"synonyms\": [\"broccoli\", \"broccos\", \"brokoli\"],\n        \"related_concepts\": [\n          {\n            \"name\": \"vegetable\",\n            \"definition\": {\n              \"description\": \"A plant part used for food\",\n              \"synonyms\": [\"vegetable\", \"veggie\", \"veggies\"],\n              \"related_concepts\": [\n                {\n                  \"name\": \"cruciferous vegetable\",\n                  \"definition\": {\n                    \"description\": \"A type of vegetable that is a member of the Brassicaceae family and has a cross-like shape\",\n                    \"synonyms\": [\"cruciferous vegetable\", \"crucifer\", \"cross-like vegetable\"],\n                    \"related_concepts\": [\n                    ]\n                },\n                \"broccoli\"\n              :\n            \"broccoli\"\n          }\n        ]\n      }\n    }\n  ]\n}\n}\n  ,\n  \"functions\"\n]\n  ,\n  \"related_concepts\"\n  :\n  {\n    \"cruciferous vegetable\"\n  :\n    {\n      \"description\": \"A type of vegetable that is a member of the Brassicaceae family and has a cross-like shape\",\n      \"synonyms\": [\"cruciferous vegetable\", \"crucifer\", \"cross-like vegetable\"],\n      \"related_concepts\": [\n        {\n          \"name\": \"brocc"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"grow\",\n\"harvest\",\n\"cook\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"grow\",\n\"harvest\",\n\"prepare\",\n\"cook\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"cook\",\n\"store\",\n\"grow\",\n\"sell\",\n\"serve\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"cooking\",\n\"preparing\",\n\"serving\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n    {\n        \"name\": \"Broccoli\",\n        \"description\": \"Broccoli is a plant with dense clusters of tight green flower buds\",\n        \"functions\": [\n            {\n                \"name\": \"grow\",\n                \"description\": \"Grow broccoli plants from seeds or seedlings\",\n                \"input\": {\n                    \"seed\": {\n                    }\n                },\n                \"output\": {\n                    \"broccoli\": {\n                    }\n                }\n            },\n            {\n                \"name\": \"harvest\",\n                \"description\": \"Harvest broccoli plants for their flower buds\",\n                \"input\": {\n                    \"plant\": {\n                    }\n                },\n                \"output\": {\n                    \"broccoli\": {\n                    }\n                }\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"functions\": [\n  {\"name\": \"Steaming\", \"description\": \"Steaming is a cooking method that uses steam to cook vegetables, including broccoli.\"},\n  {\"name\": \"Boiling\", \"description\": \"Boiling is a cooking method that uses water to cook vegetables, including broccoli.\"},\n  {\"name\": \"Sautéing\", \"description\": \"Sautéing is a cooking method that cooks vegetables, including broccoli, quickly in a small amount of oil.\"},\n  {\"name\": \"Roasting\", \"description\": \"Roasting is a cooking method that cooks vegetables, including broccoli, in the oven.\"},\n  {\"name\": \"Grilling\", \"description\": \"Grilling is a cooking method that cooks vegetables, including broccoli, over direct heat.\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"cook\",\n\"grow\",\n\"sell\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"cooking\",\n\"preparation\",\n\"nutrition\",\n\"growing\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"grow\", \"harvest\", \"prepare\", \"cook\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"functions\": [\n    {\n        \"name\": \"Broccoli\",\n        \"description\": \"a plant with dense clusters of tight green flower buds\",\n        \"functions\": [\n            {\n                \"name\": \"grow\",\n                \"description\": \"cultivate or raise (a plant) for food or profit\",\n                \"args\": [\n                    {\n                    \"name\": \"plant\",\n                    \"description\": \"the plant to be grown\"\n                    }\n                ]\n            },\n            {\n                \"name\": \"prepare\",\n                \"description\": \"get ready for a particular activity or event\",\n                \"args\": [\n                    {\n                    \"name\": \"food\",\n                    \"description\": \"the food to be prepared\"\n                    }\n                ]\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n   \"function\": [\n     {\n       \"name\": \"cook\",\n        \"description\": \"Preparing broccoli for consumption by boiling, steaming, or roasting\",\n        \"parameters\": [\n          {\n            \"name\": \"time\",\n            \"description\": \"The amount of time to cook the broccoli\",\n            \"type\": \"integer\"\n          },\n          {\n            \"name\": \"method\",\n            \"description\": \"The cooking method to use (boiling, steaming, or roasting)\",\n            \"type\": \"string\"\n          }\n        ]\n     },\n     {\n       \"name\": \"serve\",\n        \"description\": \"Presenting broccoli as a side dish or incorporating it into a main dish\",\n        \"parameters\": [\n          {\n            \"name\": \"with\",\n            \"description\": \"Any additional ingredients or condiments to serve with the broccoli\",\n            \"type\": \"array\"\n          }\n        ]\n     },\n    {\n      \"name\": \"store\",\n       \"description\": \"Storing broccoli in a cool, dry place for later use\",\n       \"parameters\": [\n          {\n            \"name\": \"location\",\n            \"description\": \"The location to store the broccoli\",\n            \"type\": \"string\"\n          }\n        ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"cook\",\n\"grow\",\n\"sell\",\n\"serve\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"cook\",\n\"grow\",\n\"sell\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"broccoli\": [\n    {\n        \"function\": \"vegetable\",\n        \"description\": \"Broccoli is a vegetable.\"\n    },\n    {\n        \"function\": \"superfood\",\n        \"description\": \"Broccoli is considered a superfood due to its high nutritional value.\"\n    },\n    {\n        \"function\": \"cancer-fighter\",\n        \"description\": \"Broccoli contains compounds that have been shown to have anti-cancer properties.\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"eat\",\n\"cook\",\n\"grow\",\n\"sell\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"eat\", \"cook\", \"grow\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"broccoli\": {\n\"functions\": [\n\"grow\",\n\"harvest\",\n\"cook\",\n\"eat\"\n]\n}\n}\n"
+  }
+]

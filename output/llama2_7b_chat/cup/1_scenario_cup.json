@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a party and want to serve drinks to your guests.\",\n        \"subScenarios\": [\n            {\n                \"subScenario\": \"You have a cup of punch that you want to pour into a glass.\",\n                \"actions\": [\n                    {\n                    \"action\": \"Pick up the cup and hold it under the pouring spout\",\n                    \"intent\": \"Pour\"\n                    },\n                    {\n                    \"action\": \"Pour the punch into a glass.\",\n                    \"intent\": \"Pour\"\n                    }\n                ]\n            },\n            {\n                \"subScenario\": \"You want to add ice to the punch.\",\n                \"actions\": [\n                    {\n                    \"action\": \"Reach for a bag of ice in the freezer.\",\n                    \"intent\": \"Pick up\"\n                    },\n                    {\n                    \"action\": \"Take the bag of ice out of the freezer and add it to the punch.\",\n                    \"intent\": \"Add\"\n                    }\n                ]\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are at a party and you want to serve drinks to your guests\",\n\"You are on a camping trip and you want to have a hot beverage\",\n\"You are at work and you want to have a cup of coffee\",\n\"You are at a sporting event and you want to have a beer\",\n\"You are at a restaurant and you want to have a tea or coffee\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"drinking coffee\",\n\"water bottle\",\n\"tea\",\n\"juice\",\n\"beverage at work\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"filling the cup with water from the sink\"\n},\n{\n\"scenario\": \"drinking from the cup while sitting on a couch\"\n},\n{\n\"scenario\": \"holding the cup while walking\"\n},\n{\n\"scenario\": \"offering the cup to someone\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"drinking tea\", \"coffee\", \"water\", \"juice\", \"soda\", \"beer\", \"wine\", \"liquor\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Using the cup to drink a hot beverage\"\n    },\n    {\n      \"scenario\": \"Using the cup to drink a cold beverage\"\n    },\n    {\n      \"scenario\": \"Using the cup to serve a beverage to a friend\"\n    },\n    {\n      \"scenario\": \"Accidentally knocking over the cup while walking\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"giving a friend a drink\", \"drinking at a party\", \"using as a piggy bank\", \"as a makeshift vase\", \"as a makeshift container for small objects\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"drinking tea\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"Thing\",\n                \"value\": \"cup\"\n            },\n            {\n                \"entity\": \"tea\",\n                \"type\": \"Thing\",\n                \"value\": \"tea\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"serving coffee\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"Thing\",\n                \"value\": \"cup\"\n            },\n            {\n                \"entity\": \"coffee\",\n                \"type\": \"Thing\",\n                \"value\": \"coffee\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"cleaning cup\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"Thing\",\n                \"value\": \"cup\"\n            },\n            {\n                \"entity\": \"dirt\",\n                \"type\": \"Thing\",\n                \"value\": \"dirt\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"drinking water from the cup\"\n},\n{\n\"scenario\": \"using the cup as a makeshift container for small items\"\n},\n{\n\"scenario\": \"holding the cup while walking\"\n}\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\": [\n{\"scenario\": \"drinking tea or coffee from a cup\"},\n{\"scenario\": \"holding a cup during a phone call\"},\n{\"scenario\": \"using a cup as a makeshift container for other small items\"},\n{\"scenario\": \"accidentally knocking over a cup while walking\"},\n{\"scenario\": \"using a cup as a makeshift weapon in a fight\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Drinking a hot beverage from a cup\"\n},\n{\n\"scenario\": \"Using a cup as a makeshift container for small objects\"\n},\n{\n\"scenario\": \"Having a cup of coffee or tea as a pick-me-up\"\n},\n{\n\"scenario\": \"Carrying a cup from one place to another\"\n},\n{\n\"scenario\": \"Accidentally spilling a drink from a cup\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"drinking a hot beverage\"\n    },\n    {\n        \"scenario\": \"holding the cup while walking\"\n    },\n    {\n        \"scenario\": \"using the cup as a makeshift bowl\"\n    },\n    {\n        \"scenario\": \"holding the cup while eating\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"Drinking a hot beverage from the cup\"\n  },\n  {\n    \"scenario\": \"Using the cup to carry a drink\"\n  },\n  {\n    \"scenario\": \"Storing the cup in a cupboard\"\n  },\n  {\n    \"scenario\": \"Accidentally knocking over the cup\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"drinking coffee\"\n},\n{\n\"scenario\": \"holding cup while walking\"\n},\n{\n\"scenario\": \"using cup as a makeshift vase\"\n}\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"drinking tea\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"NORMAL\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"holding cup\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"HOLDING\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"carrying cup\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"CARRYING\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"using cup as a vase\",\n        \"entities\": [\n            {\n                \"entity\": \"cup\",\n                \"type\": \"USE_AS_VASE\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"drinking water from the cup\"\n    },\n    {\n        \"scenario\": \"using the cup as a makeshift holder for a pencil\"\n    },\n    {\n        \"scenario\": \"holding the cup while taking a break\"\n    },\n    {\n        \"scenario\": \"using the cup as a container for soup\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"drinking tea from a cup\"\n  },\n  {\n    \"scenario\": \"holding a cup of coffee\"\n  },\n  {\n    \"scenario\": \"cupping a wine glass\"\n  },\n  {\n    \"scenario\": \"sipping on a mug of beer\"\n  },\n  {\n    \"scenario\": \"raising a champagne flute\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"drinking from the cup\"\n    },\n    {\n        \"scenario\": \"holding the cup\"\n    },\n    {\n        \"scenario\": \"using the cup as a makeshift container\"\n    },\n    {\n        \"scenario\": \"cleaning the cup\"\n    },\n    {\n        \"scenario\": \"storing the cup\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"drinking tea\"\n    },\n    {\n        \"scenario\": \"drinking coffee\"\n    },\n    {\n        \"scenario\": \"holding cup while walking\"\n    },\n    {\n        \"scenario\": \"using cup as a makeshift holder for something else\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cup",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Drinking water from a cup\",\n\"subScenarios\": [\n{\n\"subScenario\": \"Holding the cup with both hands\",\n\"actions\": [\n{\n\"action\": \"Pick up the cup\",\n\"intent\": \"pick_up\"\n},\n{\n\"action\": \"Hold the cup with both hands\",\n\"intent\": \"hold_cup\"\n}\n]\n},\n{\n\"scenario\": \"Drinking tea from a cup\",\n\"subScenarios\": [\n{\n\"subScenario\": \"Holding the cup with both hands\",\n\"actions\": [\n{\n\"action\": \"Pick up the cup\",\n\"intent\": \"pick_up\"\n},\n{\n\"action\": \"Hold the cup with both hands\",\n\"intent\": \"hold_cup\"\n},\n{\n\"action\": \"Pour hot tea into the cup\",\n\"intent\": \"pour_tea\"\n}\n]\n}\n]\n}\n]\n}\n,\n{\n\"scenarios\": [\n{\n\"scenario\": \"Cleaning a cup\",\n\"subScenarios\": [\n{\n\"subScenario\": \"Washing the cup with soap and water\",\n\"actions\": [\n{\n\"action\": \"Pour soap and water into the cup\",\n\"intent\": \"pour_soap_water\"\n},\n{\n\"action\": \"Pick up the cup\",\n\"intent\": \"pick_up\"\n},\n{\n\"action\": \"Rinse the cup with clean water\",\n\"intent\": \"rinse_cup\"\n}\n]\n},\n{\n\"scenario\": \"Storing a cup in a cupboard\",\n\"sub"
+  }
+]

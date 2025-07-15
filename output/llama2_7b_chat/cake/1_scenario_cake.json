@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Birthday cake for a friend\"\n},\n{\n\"scenario\": \"Cake for a office meeting\"\n},\n{\n\"scenario\": \"Cake for a family dinner\"\n},\n{\n\"scenario\": \"Cake for a special occasion\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\"scenario\": \"Birthday party\"},\n    {\"scenario\": \"Celebrating a special occasion\"},\n    {\"scenario\": \"Enjoying a treat with friends or family\"}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"A person is asked to bring a cake for a colleague's birthday\",\n\"A family decides to have a cake as a dessert for dinner\",\n\"A bakery is asked to make a large cake for a wedding\",\n\"A person wants to make a cake for a special occasion\",\n\"A person wants to make a cake as a gift\",\n\"A person wants to make a cake with a specific flavor or ingredient\",\n\"A person wants to make a cake that is low in sugar\",\n\"A person wants to make a cake that is low in calories\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\"name\": \"Birthday Party\", \"description\": \"The cake is the centerpiece of the party, with colorful frosting and decorations.\"},\n    {\"name\": \"Wedding\", \"description\": \"The cake is a multi-tiered masterpiece, with intricate designs and decorations.\"},\n    {\"name\": \"Graduation\", \"description\": \"The cake is a symbol of achievement, with the graduate's name and academic details iced on top.\"},\n    {\"name\": \"Holiday Dinner\", \"description\": \"The cake is a festive addition to the holiday table, with seasonal decorations and flavors.\"}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Birthday party\",\n        \"description\": \"A child's birthday party where cake is served as the primary dessert.\"\n    },\n    {\n        \"name\": \"Wedding\",\n        \"description\": \"A wedding reception where cake is served as the primary dessert.\"\n    },\n    {\n        \"name\": \"Celebrating a milestone\",\n        \"description\": \"A special occasion where cake is served as a celebratory dessert, such as a 50th birthday or anniversary.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": [\n\"You are at a friend's birthday party and they ask you to bring a cake\",\n\"You want to make a cake for a special occasion, such as a wedding or anniversary\",\n\"You are at a store and see a cake that you want to buy\",\n\"You are at a restaurant and they offer cake as a dessert option\",\n\"You want to make a cake for a fundraising event\",\n\"You want to make a cake for a potluck dinner\",\n\"You want to make a cake for a holiday\",\n\"You want to make a cake for a themed party\",\n\"You want to make a cake for a picnic\"\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Birthday party\",\n      \"description\": \"The cake is a centerpiece of the party and is decorated with colorful frosting and sprinkles.\"\n    },\n    {\n      \"scenario\": \"Wedding\",\n      \"description\": \"The cake is a traditional multi-tiered cake served to guests at the wedding reception.\"\n    },\n    {\n      \"scenario\": \"Graduation\",\n      \"description\": \"The cake is a celebratory dessert served to mark the occasion of a person's graduation.\"\n    },\n    {\n      \"scenario\": \"Anniversary\",\n      \"description\": \"The cake is a special dessert served to celebrate a couple's anniversary.\"\n    },\n    {\n      \"scenario\": \"Retirement\",\n      \"description\": \"The cake is a festive dessert served to celebrate a person's retirement from their job.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Birthday cake\",\n        \"description\": \"A cake made for a birthday party\"\n    },\n    {\n        \"name\": \"Wedding cake\",\n        \"description\": \"A cake made for a wedding\"\n    },\n    {\n        \"name\": \"Celebration cake\",\n        \"description\": \"A cake made for a special occasion\"\n    },\n    {\n        \"name\": \"Gift cake\",\n        \"description\": \"A cake made as a gift\"\n    },\n    {\n        \"name\": \"Breakfast cake\",\n        \"description\": \"A cake made for breakfast\"\n    }\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Birthday party\",\n        \"description\": \"A person is turning a year older and wants to celebrate with friends and family\",\n        \"ingredients\": [\n            \"cake\",\n            \"frosting\",\n            \"icing\"\n        ],\n        \"steps\": [\n            \"Mix the ingredients together\",\n            \"Bake the cake in an oven\",\n            \"Decorate the cake with frosting and icing\"\n        ]\n    },\n    {\n        \"name\": \"Wedding\",\n        \"description\": \"A couple is getting married and wants to serve cake at their reception\",\n        \"ingredients\": [\n            \"cake\",\n            \"frosting\",\n            \"icing\"\n        ],\n        \"steps\": [\n            \"Mix the ingredients together\",\n            \"Bake the cake in an oven\",\n            \"Decorate the cake with frosting and icing\"\n        ]\n    },\n    {\n        \"name\": \"Celebrating a special occasion\",\n        \"description\": \"Someone has achieved something special and wants to celebrate with cake\",\n        \"ingredients\": [\n            \"cake\",\n            \"frosting\",\n            \"icing\"\n        ],\n        \"steps\": [\n            \"Mix the ingredients together\",\n            \"Bake the cake in an oven\",\n            \"Decorate the cake with frosting and icing\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Alice is baking a cake for her friend's birthday party.\",\n\"Bob wants to know if he can use a mix to make a cake for his coworkers.\",\n\"Carol wants to make a cake for her daughter's soccer team.\",\n\"David wants to know how to make a cake for his wife's anniversary.\",\n\"Eve wants to know how to make a cake for her son's wedding.\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Baking a cake for a birthday party\"\n},\n{\n\"scenario\": \"Making a cake for a special occasion\"\n},\n{\n\"scenario\": \"Creating a custom cake design\"\n},\n{\n\"scenario\": \"Sharing a cake with friends\"\n},\n{\n\"scenario\": \"Making a cake for a potluck\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Birthday cake for a child's party\",\n\"Cake for a wedding or anniversary celebration\",\n\"Dessert for a dinner party or gathering\",\n\"Breakfast cake or pastry\",\n\"Cake for a special occasion or holiday\",\n\"Cake for a bake sale or fundraiser\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Birthday cake for a friend\",\n\"description\": \"You want to make a delicious cake for your friend's birthday.\"\n},\n{\n\"scenario\": \"Cake for a family gathering\",\n\"description\": \"You want to make a cake for a family gathering, such as a wedding or a holiday.\"\n},\n{\n\"scenario\": \"Cake for a business event\",\n\"description\": \"You want to make a cake for a business event, such as a conference or a networking meeting.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    \"A person wants to bake a cake for their friend's birthday\",\n    \"A couple wants to make a cake for their wedding\",\n    \"A group of colleagues want to make a cake for their office party\",\n    \"A parent wants to make a cake for their child's birthday party\",\n    \"A person wants to make a cake as a gift for a special occasion\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Birthday cake for a friend\",\n      \"description\": \"A friend's birthday is coming up and you want to surprise them with a delicious cake.\"\n    },\n    {\n      \"scenario\": \"Cake for a family dinner\",\n      \"description\": \"You are hosting a family dinner and want to serve a cake that is easy to eat and enjoy.\"\n    },\n    {\n      \"scenario\": \"Cake for a business meeting\",\n      \"description\": \"You are attending a business meeting and want to bring a cake to sweeten the negotiations.\"\n    },\n    {\n      \"scenario\": \"Cake for a celebration\",\n      \"description\": \"You want to celebrate a special occasion, such as a wedding, graduation, or anniversary, with a delicious cake.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"description\": \"Birthday party\",\n        \"ingredients\": [\n            \"flour\",\n            \"sugar\",\n            \"eggs\",\n            \"fat\",\n            \"icing\"\n        ]\n    },\n    {\n        \"description\": \"Coffee break\",\n        \"ingredients\": [\n            \"flour\",\n            \"sugar\",\n            \"eggs\",\n            \"fat\",\n            \"milk\"\n        ]\n    },\n    {\n        \"description\": \"Brunch\",\n        \"ingredients\": [\n            \"flour\",\n            \"sugar\",\n            \"eggs\",\n            \"fat\",\n            \"milk\",\n            \"butter\",\n            \"cheese\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"Someone wants to bake a cake for a birthday party\"\n  },\n  {\n    \"scenario\": \"A cake is needed for a wedding\"\n  },\n  {\n    \"scenario\": \"A customer wants to buy a cake for a special occasion\"\n  },\n  {\n    \"scenario\": \"A baker wants to sell cakes at a farmer's market\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Birthday party\"\n    },\n    {\n        \"scenario\": \"Celebrating a special occasion\"\n    },\n    {\n        \"scenario\": \"Sharing with friends\"\n    },\n    {\n        \"scenario\": \"Sending as a gift\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Birthday party\"\n},\n{\n\"scenario\": \"Wedding\"\n},\n{\n\"scenario\": \"Celebrating an anniversary\"\n},\n{\n\"scenario\": \"Special occasion\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Baking a cake for a birthday party\"\n},\n{\n\"scenario\": \"Making a cake for a wedding\"\n},\n{\n\"scenario\": \"Creating a cake for a charity event\"\n},\n{\n\"scenario\": \"Making a cake for a special occasion\"\n}\n]\n}\n"
+  }
+]

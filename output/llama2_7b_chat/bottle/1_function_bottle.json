@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"serve drinks\",\n\"recycle bottles\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store\",\n\"contain\",\n\"hold\",\n\"contains\",\n\"serve\",\n\"serve with\",\n\"serve from\",\n\"serve in\",\n\"serve on\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store liquid\",\n\"contain liquid\",\n\"hold liquid\",\n\"conTAIN liquid\",\n\"keep liquid\",\n\"preserve liquid\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": [\n        \"store\",\n        \"hold\",\n        \"contain\",\n        \"convey\",\n        \"protect\",\n        \"preserve\"\n    ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store\",\n\"contain\",\n\"hold\",\n\"store liquid\",\n\"contain liquid\",\n\"hold liquid\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"carry drinks\",\n\"serve drinks\",\n\"clean bottle\",\n\"recycle bottle\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store liquid\",\n\"serve liquid\",\n\"hold liquid\",\n\"convey liquid\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"store\",\n\"serve\",\n\"recycle\",\n\"wash\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"store\",\n      \"description\": \"Putting the bottle in a designated storage location\",\n      \"example\": \"I will store the bottle in the fridge\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"Bringing the bottle to a person or group\",\n      \"example\": \"I will serve the bottle of water to the guests\"\n    },\n    {\n      \"name\": \"recycle\",\n      \"description\": \"Recycling the bottle\",\n      \"example\": \"I will recycle the plastic bottle\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"store other liquids\",\n\"carry\",\n\"hold\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": {\n    \"store\": {\n      \"description\": \"Store a liquid in the bottle\",\n      \"parameters\": [\n        {\n          \"name\": \"liquid\",\n          \"description\": \"The liquid to be stored in the bottle\"\n        }\n      ],\n      \"returnValue\": \"The stored liquid\"\n    },\n    \"pour\": {\n      \"description\": \"Pour a liquid from the bottle\",\n      \"parameters\": [\n        {\n          \"name\": \"amount\",\n          \"description\": \"The amount of liquid to be poured\"\n        },\n        {\n          \"name\": \"destination\",\n          \"description\": \"The destination where the liquid is to be poured\"\n        }\n      ],\n      \"returnValue\": \"The amount of liquid poured\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"carry drinks\",\n\"serve drinks\",\n\"clean bottle\",\n\"recycle bottle\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store\",\n\"serve\",\n\"recycle\",\n\"reuse\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"store liquids\",\n\"hold liquid\",\n\"contain liquid\",\n\"store beverages\",\n\"store beverages in a bottle\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"serve drinks\",\n\"hold liquid\",\n\"contain liquid\",\n\"protect liquid\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"hold liquids\",\n\"contain liquid\",\n\"seal bottle\",\n\"cap bottle\",\n\"plug bottle\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drink\",\n\"serve drink\",\n\"hold liquid\",\n\"contain liquid\",\n\"store alcohol\",\n\"serve alcohol\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"store other liquids\",\n\"serve drinks\",\n\"serve other liquids\",\n\"hold liquid\",\n\"contain liquid\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"store\",\n\"serve\",\n\"recycle\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bottle",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"store drinks\",\n\"serve drinks\",\n\"hold liquid\",\n\"contain liquid\",\n\"store beverages\",\n\"serve beverages\"\n]\n}\n"
+  }
+]

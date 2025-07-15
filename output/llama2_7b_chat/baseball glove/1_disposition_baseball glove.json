@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"used_in_baseball\", \"part_of_baseball_kit\", \"held_by_ fielder\", \"helpful_in_fielding\", \"for_catching_fly_balls\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"fielding\",\n\"defense\",\n\"infield\",\n\"outfield\",\n\"catching\",\n\"throwing\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"baseball_glove\",\n        \"description\": \"a handwear used by fielders in playing baseball\",\n        \"synonyms\": [\n            \"mitt\",\n            \"fielding_glove\",\n            \"baseball_mitt\"\n        ]\n    },\n    {\n        \"name\": \"baseball_ball\",\n        \"description\": \"a ball used in playing baseball\",\n        \"synonyms\": [\n            \"baseball\",\n            \"round_ball\",\n            \"sport_ball\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"player_uses_glove_to_catch_ball\",\n\"glove_is_part_of_uniform\",\n\"glove_protects_hand\",\n\"glove_allows_grip_on_ball\",\n\"glove_is_used_to_make_throws\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"used\", \"worn\", \"held\", \"positioned\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"used to catch baseballs\",\n\"holds baseball bat\",\n\"protects hand from impact\",\n\"allows for quick reactions\",\n\"enables precise throws\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"holds baseball\",\n\"catches baseball\",\n\"throws baseball\",\n\"fields ground balls\",\n\"runs to first base\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"defensive\", \"offensive\", \"neutral\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"holds glove in dominant hand\",\n\"uses glove to catch balls\",\n\"wraps glove around ball for throwing\",\n\"protects hand with glove while batting\",\n\"uses glove for fielding ground balls\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"a common way of holding the glove\",\n\"a standard way of positioning the glove\",\n\"a typical way of using the glove\",\n\"a usual way of holding the glove\",\n\"a common position of the glove\",\n\"a standard position of the glove\",\n\"a typical position of the glove\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"holder\",\n\"catcher\",\n\"infielder\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"baseball_glove\",\n\"fielding\",\n\"infield\",\n\"outfield\",\n\"catcher's_mitt\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"catch\",\n\"throw\",\n\"field\",\n\"base\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"baseball_glove\",\n    \"fielding_glove\",\n    \"infielder's_glove\",\n    \"outfielder's_glove\",\n    \"infield_glove\",\n    \"outfield_glove\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"field\", \"infield\", \"outfield\", \"catcher\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"used\", \"worn\", \"held\", \"carried\", \"held onto\", \"worn out\", \"used up\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"use_in_baseball_glove\",\n\"use_in_softball_glove\",\n\"use_in_cricket_glove\",\n\"use_in_rugby_glove\",\n\"use_in_football_glove\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"holds the ball securely\",\n\"catches the ball with the palm of the hand\",\n\"catches the ball with the fingers\",\n\"catches the ball with the webbing of the hand\",\n\"catches the ball with the wrist\",\n\"catches the ball with the forearm\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"holds the glove with the palm facing downwards\",\n\"holds the glove with the palm facing upwards\",\n\"holds the glove with the fingers spread wide\",\n\"holds the glove with the fingers folded\",\n\"places the glove on the ground\",\n\"places the glove on the shoulder\",\n\"throws the glove on the ground\",\n\"throws the glove on the shoulder\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "baseball glove",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"catch\",\n\"field\",\n\"throw\",\n\"claim\",\n\"save\"\n]\n}\n"
+  }
+]

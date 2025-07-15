@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a bathroom\",\n\"in a public restroom\",\n\"in a hotel room\",\n\"in a restaurant\",\n\"at a gas station\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a bathroom\",\n\"in a public restroom\",\n\"in a restroom at a restaurant\",\n\"in a restroom at a hotel\",\n\"in a restroom at an airport\",\n\"in a restroom at a train station\",\n\"in a restroom at a bus station\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bathroom\",\n\"restroom\",\n\"loo\",\n\"potty\",\n\"water closet\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"contexts\": [\n {\"context\": \"in a bathroom\", \"subContexts\": [{\"context\": \"on a toilet\", \"subSubContexts\": [{\"context\": \"during a visit to the restroom\", \"subSubSubContexts\": []}, {\"context\": \"after using the toilet\", \"subSubSubContexts\": []}]}, {\"context\": \"in a public restroom\", \"subContexts\": [{\"context\": \"in a gas station restroom\", \"subContexts\": [{\"context\": \"after using the toilet\", \"subSubContexts\": []}, {\"context\": \"in a restaurant restroom\", \"subSubContexts\": []}]}, {\"context\": \"in a park restroom\", \"subContexts\": [{\"context\": \"after using the toilet\", \"subSubContexts\": []}]}]}, {\"context\": \"at home\", \"subContexts\": [{\"context\": \"in the bathroom\", \"subContexts\": [{\"context\": \"on a toilet\", \"subSubContexts\": []}]}]}]}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"bathroom\",\n      \"context\": \"The toilet is located in the bathroom.\"\n    },\n    {\n      \"name\": \"home\",\n      \"context\": \"The toilet is located in the home.\"\n    },\n    {\n      \"name\": \"hotel\",\n      \"context\": \"The toilet is located in a hotel room.\"\n    },\n    {\n      \"name\": \"restaurant\",\n      \"context\": \"The toilet is located in a restaurant.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\"bathroom\", \"restroom\", \"loo\", \"restroom\", \"WC\", \"toilet room\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"at home\",\n    \"at work\",\n    \"in a public restroom\",\n    \"in a hotel room\",\n    \"in a rest stop\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"home\",\n      \"description\": \"The toilet in your home\"\n    },\n    {\n      \"name\": \"work\",\n      \"description\": \"The toilet in your workplace\"\n    },\n    {\n      \"name\": \"restaurant\",\n      \"description\": \"The toilet in a restaurant\"\n    },\n    {\n      \"name\": \"hotel\",\n      \"description\": \"The toilet in a hotel\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bathroom\",\n\"restroom\",\n\"loo\",\n\"toilet room\",\n\"rest area\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a restroom\",\n\"in a public restroom\",\n\"in a restroom at a restaurant\",\n\"in a restroom at an airport\",\n\"in a restroom at a train station\",\n\"in a restroom at a hospital\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a restroom\",\n\"in a public restroom\",\n\"in a restaurant\",\n\"in a hotel room\",\n\"in a home\",\n\"at a gas station\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"bathroom\",\n\"restroom\",\n\"loo\",\n\"toilet room\",\n\"powder room\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"in a bathroom\",\n    \"at home\",\n    \"at work\",\n    \"in a public restroom\",\n    \"on a trip\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"at home\"\n    },\n    {\n      \"context\": \"at work\"\n    },\n    {\n      \"context\": \"in a public restroom\"\n    },\n    {\n      \"context\": \"in a restaurant\"\n    },\n    {\n      \"context\": \"in a hotel\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"bathroom\",\n\"subContexts\": [\n\"toilet\"\n]\n},\n{\n\"context\": \"kitchen\",\n\"subContexts\": [\n\"toilet\",\n\"sink\",\n\"trashCan\"\n]\n},\n{\n\"context\": \"bedroom\",\n\"subContexts\": [\n\"toilet\",\n\"dresser\",\n\"mirror\"\n]\n}\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a home\",\n\"in a public restroom\",\n\"in a restaurant\",\n\"in a hotel\",\n\"in a campground\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"in a public restroom\",\n    \"in a private residence\",\n    \"in a restaurant\",\n    \"in a hotel\",\n    \"in a public park\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a bathroom\",\n\"in a public restroom\",\n\"at home\",\n\"in a hotel\",\n\"in a restaurant\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"in a home\",\n\"in a public restroom\",\n\"in a restaurant\",\n\"in a hotel room\",\n\"in a campground\",\n\"in a portable toilet\",\n\"in a portable shower\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "toilet",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"bathroom\",\n      \"context\": \"bathroom\"\n    },\n    {\n      \"name\": \"home\",\n      \"context\": \"home\"\n    },\n    {\n      \"name\": \"work\",\n      \"context\": \"work\"\n    }\n  ]\n}\n"
+  }
+]

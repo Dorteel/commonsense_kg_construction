@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"The user is trying to go to sleep in their bed but they are too hot\",\n\"The user is trying to read a book in bed but they are too comfortable\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Going to sleep\",\n\"Waking up\",\n\"Napping\",\n\"Falling asleep\",\n\"Staying up late\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Person is trying to go to sleep and their bed is too small for them.\"\n    },\n    {\n      \"scenario\": \"Person is trying to go to sleep and their bed is too big for them.\"\n    },\n    {\n      \"scenario\": \"Person is trying to go to sleep and their bed is in an uncomfortable position.\"\n    },\n    {\n      \"scenario\": \"Person is trying to go to sleep and their bed is too noisy.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"I want to sleep on my bed\"\n},\n{\n\"scenario\": \"I want to read a book on my bed\"\n},\n{\n\"scenario\": \"I want to take a nap on my bed\"\n},\n{\n\"scenario\": \"I want to watch TV on my bed\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"Trying to sleep on a bed with a broken mattress\"\n},\n{\n\"scenario\": \"Sleeping on a bed in a hotel room\"\n},\n{\n\"scenario\": \"Sleeping on a bed in a tent\"\n},\n{\n\"scenario\": \"Sleeping on a bed in a hospital\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Going to bed\"\n    },\n    {\n        \"scenario\": \"Waking up from bed\"\n    },\n    {\n        \"scenario\": \"Making bed\"\n    },\n    {\n        \"scenario\": \"Sleeping on bed\"\n    },\n    {\n        \"scenario\": \"Checking bed for comfort\"\n    }\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Going to bed\",\n        \"subScenarios\": [\n            {\n                \"subScenario\": \"Getting into bed\",\n                \"steps\": [\n                    {\n                    \"step\": \"Remove shoes\",\n                    \"reason\": \"Not to sleep in shoes\"\n                },\n                {\n                    \"step\": \"Remove clothes\",\n                    \"reason\": \"Not to sleep in clothes\"\n                }\n            ],\n            \"nextStep\": \"Lie down\"\n        }\n    ],\n    \"nextStep\": \"Sleep\"\n}\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are at a hotel and want to know where the bed is.\",\n\"You are moving into a new apartment and want to know where the bed will be placed.\",\n\"You are setting up a guest room and want to know where the bed should be located.\",\n\"You are a bed manufacturer and want to know how to market your product to customers.\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"label\": \"Sleeping\",\n        \"description\": \"Person is lying on bed\",\n        \"entities\": [\n            {\n                \"name\": \"bed\",\n                \"type\": \"furniture\"\n            }\n        ]\n    },\n    {\n        \"label\": \"Sleeping\",\n        \"description\": \"Person is sleeping on bed\",\n        \"entities\": [\n            {\n                \"name\": \"bed\",\n                \"type\": \"furniture\"\n            }\n        ]\n    },\n    {\n        \"label\": \"Lying\",\n        \"description\": \"Person is lying on bed\",\n        \"entities\": [\n            {\n                \"name\": \"bed\",\n                \"type\": \"furniture\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"Sleeping on the bed when feeling tired and sleepy\", \"Sleeping on the bed to relax and unwind\", \"Sleeping on the bed after a long day at work\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenarios\": [\n    {\n      \"scenario\": \"Going to bed\",\n      \"subScenarios\": [\n        {\n          \"action\": \"Get in bed\",\n          \"intent\": \"Sleep\"\n        },\n        {\n          \"action\": \"Cuddle with partner\",\n          \"intent\": \"Intimacy\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"Awake during the night\",\n      \"subScenarios\": [\n        {\n          \"action\": \"Check phone\",\n          \"intent\": \"Productivity\"\n        },\n        {\n          \"action\": \"Check clock\",\n          \"intent\": \"Time\"\n        }\n      ]\n    },\n    {\n      \"scenario\": \"Wake up in the morning\",\n      \"subScenarios\": [\n        {\n          \"action\": \"Wake up\",\n          \"intent\": \"Productivity\"\n        },\n        {\n          \"action\": \"Check phone\",\n          \"intent\": \"Communication\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Going to bed\",\n        \"entities\": [\n            {\n                \"entity\": \"bed\",\n                \"role\": \"object\",\n                \"value\": \"The bed in the bedroom\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Sleeping in bed\",\n        \"entities\": [\n            {\n                \"entity\": \"bed\",\n                \"role\": \"object\",\n                \"value\": \"The bed in the bedroom\"\n            },\n            {\n                \"entity\": \"person\",\n                \"role\": \"object\",\n                \"value\": \"John\"\n            }\n        ]\n    },\n    {\n        \"scenario\": \"Waking up from bed\",\n        \"entities\": [\n            {\n                \"entity\": \"bed\",\n                \"role\": \"object\",\n                \"value\": \"The bed in the bedroom\"\n            },\n            {\n                \"entity\": \"person\",\n                \"role\": \"object\",\n                \"value\": \"John\"\n            },\n            {\n                \"entity\": \"time\",\n                \"role\": \"object\",\n                \"value\": \"9:00 AM\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"Going to bed\",\n    \"description\": \"The user is getting ready to sleep and needs to know where to put their bed.\"\n  },\n  {\n    \"scenario\": \"Moving bed to new room\",\n    \"description\": \"The user needs to move their bed to a new room and wants to know how to do it.\"\n  },\n  {\n    \"scenario\": \"Fixing a creaky bed\",\n    \"description\": \"The user's bed is creaking and they want to know how to fix it.\"\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Going to bed\",\n      \"description\": \"Person is getting ready to sleep by laying down on the bed\"\n    },\n    {\n      \"name\": \"Waking up from bed\",\n      \"description\": \"Person is waking up from sleeping on the bed\"\n    },\n    {\n      \"name\": \"Sleeping in bed\",\n      \"description\": \"Person is sleeping on the bed\"\n    },\n    {\n      \"name\": \"Getting out of bed\",\n      \"description\": \"Person is getting out of the bed after waking up\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"Sleeping on a bed during the night\", \"Sleeping on a bed in a hotel\", \"Sleeping on a bed in a hospital\", \"Sleeping on a bed at home\", \"Sleeping on a bed in a friend's house\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Sleeping on a bed in a hotel room\",\n\"Sleeping on a bed in a home\",\n\"Sleeping on a bed in a hostel\",\n\"Sleeping on a bed in a hospital\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"user wants to sleep on bed\"\n},\n{\n\"scenario\": \"user wants to know how to make the bed\"\n},\n{\n\"scenario\": \"user wants to know if it's safe to sleep on the bed\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\n    \"scenario\": \"Getting ready for bed\",\n    \"tasks\": [\n      {\n        \"name\": \"Make the bed\",\n        \"description\": \"Flatten the bedding and arrange the pillows.\"\n      },\n      {\n        \"name\": \"Turn off the lights\",\n        \"description\": \"Dim or turn off the lights in the bedroom.\"\n      },\n      {\n        \"name\": \"Adjust the thermostat\",\n        \"description\": \"Set the thermostat to a comfortable temperature for sleeping.\"\n      }\n    ]\n  },\n  {\n    \"scenario\": \"Falling asleep\",\n    \"tasks\": [\n      {\n        \"name\": \"Lie down\",\n        \"description\": \"Get into bed and lie down.\"\n      },\n      {\n        \"name\": \"Close your eyes\",\n        \"description\": \"Focus on relaxing and falling asleep.\"\n      },\n      {\n        \"name\": \"Take deep breaths\",\n        \"description\": \"Take slow, deep breaths to help calm your mind and body.\"\n      }\n    ]\n  },\n  {\n    \"scenario\": \"Waking up\",\n    \"tasks\": [\n      {\n        \"name\": \"Wake up\",\n        \"description\": \"Open your eyes and become aware of your surroundings.\"\n      },\n      {\n        \"name\": \"Sit up\",\n        \"description\": \"Sit up in bed and become alert.\"\n      },\n      {\n        \"name\": \"Stretch\",\n        \"description\": \"Stretch your body to help wake yourself up.\"\n      }\n    ]\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Going to bed\",\n        \"description\": \"Person is getting ready to sleep\",\n        \"entities\": [\n            {\n                \"name\": \"bed\",\n                \"description\": \"The piece of furniture where the person will sleep\"\n            }\n        ]\n    },\n    {\n        \"name\": \"Waking up\",\n        \"description\": \"Person is waking up from sleep\",\n        \"entities\": [\n            {\n                \"name\": \"bed\",\n                \"description\": \"The piece of furniture where the person slept\"\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "bed",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"Going to bed after a long day at work\",\n\"Waking up in the middle of the night\",\n\"Getting into bed with a partner\",\n\"Sleeping in a hotel room\",\n\"Falling asleep on a couch\"\n]\n}\n"
+  }
+]

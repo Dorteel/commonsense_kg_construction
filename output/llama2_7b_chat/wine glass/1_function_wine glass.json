@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"drink\",\n\"clean\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"appreciate\",\n\"enjoy\",\n\"savor\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": [\n        {\n            \"name\": \"hold\",\n            \"description\": \"Hold the wine glass in one's hand\",\n            \"input\": {\n                \"type\": \"action\",\n                \"values\": [\n                    {\n                    \"name\": \"grasp\",\n                    \"description\": \"Grasp the stem of the wine glass with the fingers\"\n                    }\n                ]\n            },\n            \"output\": {\n                \"type\": \"action\",\n                \"values\": [\n                    {\n                    \"name\": \"support\",\n                    \"description\": \"Support the wine glass with the hand\"\n                    }\n                ]\n            }\n        },\n        {\n            \"name\": \"serve\",\n            \"description\": \"Serve wine from the glass\",\n            \"input\": {\n                \"type\": \"action\",\n                \"values\": [\n                    {\n                    \"name\": \"pour\",\n                    \"description\": \"Pour wine into the glass from a bottle or decanter\"\n                    }\n                ]\n            },\n            \"output\": {\n                \"type\": \"action\",\n                \"values\": [\n                    {\n                    \"name\": \"present\",\n                    \"description\": \"Present the glass to the person being served\"\n                    }\n                ]\n            }\n        }\n    ]\n}\n   "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve wine\",\n\"enjoy wine\",\n\"drink wine\",\n\"wash wine glass\",\n\"dry wine glass\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"enjoy\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"taste\",\n\"enjoy\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"taste\",\n\"smell\",\n\"enjoy\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"can_hold\",\n\"can_contain\",\n\"can_serve\",\n\"can_store\",\n\"can_transfer\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":[\"hold\", \"serve\", \"drink\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"pour\",\n\"swirl\",\n\"smell\",\n\"taste\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve\",\n\"hold\",\n\"drink\",\n\"clean\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve wine\",\n\"hold wine\",\n\"drink wine\",\n\"wash wine glass\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"store\",\n\"clean\",\n\"inspect\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"Wine Glass\",\n      \"description\": \"A glass used for serving wine, typically having a stem and a bowl for holding the wine.\"\n    },\n    {\n      \"name\": \"Serve Wine\",\n      \"description\": \"Pour wine into a wine glass from a bottle or carafe.\"\n    },\n    {\n      \"name\": \"Hold Wine\",\n      \"description\": \"Keep the wine glass steady and upright while pouring or drinking wine.\"\n    },\n    {\n      \"name\": \"Clean Wine Glass\",\n      \"description\": \"Clean the wine glass with soap and water, or with a dishwasher.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"hold\",\n    \"serve\",\n    \"enjoy\",\n    \"pour\",\n    \"drink\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"drink\",\n\"serve\",\n\"clean\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"serving\",\n    \"stem\",\n    \"wine\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve wine\",\n\"hold wine\",\n\"inspect wine\",\n\"taste wine\",\n\"store wine\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"hold\",\n\"serve\",\n\"drink\",\n\"clean\",\n\"store\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "wine glass",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"serve wine\",\n\"drink wine\",\n\"clean wine glass\",\n\"hold wine glass\",\n\"display wine glass\",\n\"pour wine into wine glass\"\n]\n}\n"
+  }
+]

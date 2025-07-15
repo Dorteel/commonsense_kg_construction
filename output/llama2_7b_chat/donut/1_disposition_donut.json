@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"delicious\",\n\"sweet\",\n\"tasty\",\n\"yummy\",\n\"nomnomnom\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"delicious\", \"sweet\", \"tasty\", \"yummy\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"eat\", \"donut\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"eat\", \"eat-in\", \"take-out\", \"gift\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"donut is a sweet treat\",\n\"donut is a breakfast food\",\n\"donut is a dessert\",\n\"donut is a snack\",\n\"donut is a guilty pleasure\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"Donut\",\n        \"description\": \"A sweet, fried dough pastry often topped with sugar, cinnamon, or other flavors and toppings.\"\n    },\n    {\n        \"name\": \"Breakfast\",\n        \"description\": \"The first meal of the day, typically eaten between 6am and 10am.\"\n    },\n    {\n        \"name\": \"Sweet\",\n        \"description\": \"A type of food that is high in sugar content.\"\n    },\n    {\n        \"name\": \"Fried\",\n        \"description\": \"A cooking method where food is submerged in hot oil.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": [\n        \"eat\",\n        \"consume\",\n        \"ingest\",\n        \"devour\",\n        \"munch\",\n        \"gobble\",\n        \"chew\"\n    ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"save\",\n\"give\",\n\"sell\",\n\"throw\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"break\",\n\"eat\",\n\"share\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"Eat\",\n      \"description\": \"Eat the donut\"\n    },\n    {\n      \"name\": \"Drink\",\n      \"description\": \"Drink coffee or tea with the donut\"\n    },\n    {\n      \"name\": \"Share\",\n      \"description\": \"Share the donut with a friend or family member\"\n    },\n    {\n      \"name\": \"Save\",\n      \"description\": \"Save the donut for later\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"eat_with_friends\",\n\"share_with_coworkers\",\n\"eat_with_family\",\n\"give_to_charity\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"eat\",\n    \"enjoy\",\n    \"consume\",\n    \"chew\",\n    \"savor\",\n    \"taste\"\n  ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"drink\",\n\"share\",\n\"give\",\n\"sell\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"share\",\n\"give away\",\n\"save for later\",\n\"use as a topping\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Eat the donut\"\n    },\n    {\n        \"name\": \"enjoy\",\n        \"description\": \"Enjoy the taste and texture of the donut\"\n    },\n    {\n        \"name\": \"share\",\n        \"description\": \"Share the donut with someone else\"\n    },\n    {\n        \"name\": \"save\",\n        \"description\": \"Save the donut for later\"\n    },\n    {\n        \"name\": \"discard\",\n        \"description\": \"Discard the donut\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"delicious\", \"yum\", \"nomnom\", \"guilty pleasure\"]}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"enjoy\",\n\"like\",\n\"love\",\n\"taste\",\n\"savor\",\n\"consume\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"eat\",\n    \"share\",\n    \"give\",\n    \"sell\",\n    \"throw\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"share\",\n\"give away\",\n\"throw away\",\n\"use for decoration\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "donut",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Eat the donut\"\n    },\n    {\n      \"name\": \"enjoy\",\n      \"description\": \"Enjoy the donut\"\n    },\n    {\n      \"name\": \"like\",\n      \"description\": \"Like the donut\"\n    },\n    {\n      \"name\": \"love\",\n      \"description\": \"Love the donut\"\n    }\n  ]\n}\n "
+  }
+]

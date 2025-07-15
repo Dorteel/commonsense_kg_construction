@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"eat\",\n    \"serve\",\n    \"store\",\n    \"share\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"eat\",\n    \"make\",\n    \"serve\",\n    \"enjoy\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"The act of consuming the sandwich\"\n    },\n    {\n      \"name\": \"store\",\n      \"description\": \"Storing the sandwich for later consumption\"\n    },\n    {\n      \"name\": \"discard\",\n      \"description\": \"Discarding the sandwich\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"eat\",\n    \"serve\",\n    \"store\",\n    \"share\",\n    \"dispose\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n  {\n    \"name\": \"sandwich\",\n    \"description\": \"A sandwich is a food item consisting of two or more slices of bread with a filling between them.\",\n    \"synonyms\": [\n      \"sub\",\n      \"grilled cheese\",\n      \"club sandwich\"\n    ]\n  },\n  {\n    \"name\": \"sub\",\n    \"description\": \"A sub is a type of sandwich consisting of a long, thin slice of bread with a filling inside.\",\n    \"synonyms\": [\n      \"submarine sandwich\",\n      \"hoagie\",\n      \"grinder\"\n    ]\n  },\n  {\n    \"name\": \"grilled cheese\",\n    \"description\": \"A grilled cheese is a type of sandwich consisting of two slices of bread with melted cheese in between, cooked by grilling.\",\n    \"synonyms\": [\n      \"cheesy sandwich\",\n      \"melted sandwich\",\n      \"grilled cheese sandwich\"\n    ]\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    \"eat\",\n    \"store\",\n    \"recycle\",\n    \"throw away\",\n    \"give to friend\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"eat\",\n    \"make\",\n    \"serve\",\n    \"store\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"sandwich is delicious\", \"sandwich is a meal\", \"sandwich can be eaten for breakfast lunch or dinner\", \"sandwich is a filling meal\", \"sandwich is a popular lunch option\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"Consume the sandwich\"\n    },\n    {\n      \"name\": \"save\",\n      \"description\": \"Preserve the sandwich for later\"\n    },\n    {\n      \"name\": \"share\",\n      \"description\": \"Share the sandwich with someone else\"\n    },\n    {\n      \"name\": \"discard\",\n      \"description\": \"Throw away the sandwich\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Consume the sandwich as a meal\",\n        \"category\": \"food\"\n    },\n    {\n        \"name\": \"save\",\n        \"description\": \"Preserve the sandwich for later consumption\",\n        \"category\": \"food\"\n    },\n    {\n        \"name\": \"share\",\n        \"description\": \"Give the sandwich to someone else\",\n        \"category\": \"food\"\n    },\n    {\n        \"name\": \"discard\",\n        \"description\": \"Throw the sandwich away\",\n        \"category\": \"food\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"sandwich-eating\",\n      \"description\": \"Eating a sandwich\"\n    },\n    {\n      \"name\": \"sandwich-making\",\n      \"description\": \"Making a sandwich\"\n    },\n    {\n      \"name\": \"sandwich-disposal\",\n      \"description\": \"Disposing of a sandwich\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"The sandwich is intended to be consumed by the user.\"\n    },\n    {\n        \"name\": \"save\",\n        \"description\": \"The sandwich is intended to be saved for later consumption.\"\n    },\n    {\n        \"name\": \"share\",\n        \"description\": \"The sandwich is intended to be shared with others.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"Consume the sandwich\"\n    },\n    {\n        \"name\": \"share\",\n        \"description\": \"Share the sandwich with someone else\"\n    },\n    {\n        \"name\": \"save\",\n        \"description\": \"Save the sandwich for later\"\n    },\n    {\n        \"name\": \"discard\",\n        \"description\": \"Discard the sandwich\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sandwich-making\",\n\"sandwich-eating\",\n\"sandwich-sharing\",\n\"sandwich-disposal\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"serve\",\n\"store\",\n\"cook\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"eat\",\n      \"description\": \"To consume the sandwich for sustenance or enjoyment\",\n      \"verb\": \"eat\"\n    },\n    {\n      \"name\": \"save\",\n      \"description\": \"To set aside the sandwich for later consumption\",\n      \"verb\": \"save\"\n    },\n    {\n      \"name\": \"discard\",\n      \"description\": \"To get rid of the sandwich\",\n      \"verb\": \"discard\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"eat\",\n        \"description\": \"The user wants to eat the sandwich\",\n        \"action\": \"consume\"\n    },\n    {\n        \"name\": \"save\",\n        \"description\": \"The user wants to save the sandwich for later\",\n        \"action\": \"save\"\n    },\n    {\n        \"name\": \"throw away\",\n        \"description\": \"The user wants to throw away the sandwich\",\n        \"action\": \"dispose\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"eat\",\n\"share\",\n\"give_to_friend\",\n\"use_for_lunch\",\n\"use_for_dinner\",\n\"save_for_lunch\",\n\"save_for_dinner\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"is_eaten\", \"is_unfinished\", \"is_on_plate\", \"is_in_fridge\", \"is_in_freezer\", \"is_in_cupboard\", \"is_in_pantry\", \"is_in_desk\", \"is_in_drawer\", \"is_in_other_room\", \"is_in_other_person\", \"is_in_other_place\", \"is_in_other_world\", \"is_in_out_of_place\", \"is_in_out_of_time\", \"is_in_out_of_reach\", \"is_in_out_of_sight\", \"is_in_out_of_mind\", \"is_in_under_construction\", \"is_in_unfinished\", \"is_in_unusable\"]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "sandwich",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"sandwich is a tasty snack\",\n\"sandwich is a meal that can be eaten at any time of day\",\n\"sandwich is a popular choice for lunch\",\n\"sandwich is a great option for a quick and easy meal\",\n\"sandwich is a versatile food that can be made in many ways\"\n]\n}\n"
+  }
+]

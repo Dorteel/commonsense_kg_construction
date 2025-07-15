@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Birthday Cake\",\n      \"description\": \"A cake made for a birthday celebration\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"fat (butter or oil)\",\n        \"flavorings (such as vanilla or chocolate)\",\n        \"icing (optional)\"\n      ],\n      \"steps\": [\n        \"Preheat oven to 350°F (175°C)\",\n        \"Mix dry ingredients (flour, sugar, etc.)\",\n        \"Add eggs and mix until smooth\",\n        \"Add fat (butter or oil) and mix until combined\",\n        \"Add flavorings (such as vanilla or chocolate)\",\n        \"Pour batter into a greased and floured cake pan\",\n        \"Bake for 30-40 minutes or until a toothpick inserted in center comes out clean\",\n        \"Let cool before frosting and decorating\"\n      ]\n    },\n    {\n      \"name\": \"Chocolate Cake\",\n      \"description\": \"A cake made with chocolate\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"cocoa powder\",\n        \"fat (butter or oil)\",\n        \"flavorings (such as vanilla or chocolate)\",\n        \"icing (optional)\"\n      ],\n      \"steps\": [\n        \"Preheat oven to 350°F (175°C)\",\n        \"Mix dry ingredients"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cake recipe\",\n\"dessert\",\n\"baking\",\n\"baked goods\",\n\"sweet treat\",\n\"dessert cake\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cake recipe\",\n\"baking cake\",\n\"making cake\",\n\"cake decorating\",\n\"cake frosting\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Chocolate cake\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"chocolate\",\n        \"butter\"\n      ]\n    },\n    {\n      \"name\": \"Vanilla cake\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"vanilla extract\",\n        \"butter\"\n      ]\n    },\n    {\n      \"name\": \"Red velvet cake\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"butter\",\n        \"cocoa powder\"\n      ]\n    },\n    {\n      \"name\": \"Carrot cake\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"carrots\",\n        \"spices\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cake\",\n      \"pattern\": \"baked goods made from or based on a mixture of flour, sugar, eggs, and fat\"\n    },\n    {\n      \"name\": \"frosting\",\n      \"pattern\": \"a sweet, viscous substance spread on top of a cake\"\n    },\n    {\n      \"name\": \"icing\",\n      \"pattern\": \"a sweet, sweet substance spread on top of a cake\"\n    },\n    {\n      \"name\": \"filling\",\n      \"pattern\": \"a sweet, creamy substance inside a cake\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n  {\n    \"name\": \"cake\",\n    \"description\": \"A sweet baked dessert made with flour, sugar, eggs, and fat.\",\n    \"subpatterns\": [\n      {\n        \"name\": \"frosting\",\n        \"description\": \"A sweet topping for cakes made with butter, sugar, and cream.\",\n        \"subpatterns\": []\n      },\n      {\n        \"name\": \"icing\",\n        \"description\": \"A sweet topping for cakes made with sugar, corn syrup, and flavorings.\",\n        \"subpatterns\": []\n      }\n    ]\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"cake recipe\",\n\"cake decorating\",\n\"cake baking\",\n\"cake frosting\",\n\"cake topping\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cake\",\n      \"description\": \"a sweet baked dessert made with flour, sugar, eggs, and fat\",\n      \"subpatterns\": [\n        {\n          \"name\": \"frosting\",\n          \"description\": \"a sweet topping made from butter, sugar, and milk or cream\",\n          \"pattern\": \"frosting\"\n        },\n        {\n          \"name\": \"icing\",\n          \"description\": \"a sweet topping made from sugar, corn syrup, and water\",\n          \"pattern\": \"icing\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cake\",\n      \"pattern\": \"baked goods made from or based on a mixture of flour, sugar, eggs, and fat\"\n    },\n    {\n      \"name\": \"frosting\",\n      \"pattern\": \"a sweet, creamy topping for cakes\"\n    },\n    {\n      \"name\": \"icing\",\n      \"pattern\": \"a sweet, smooth topping for cakes\"\n    },\n    {\n      \"name\": \"filling\",\n      \"pattern\": \"a sweet, creamy filling for cakes\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"birthday cake\",\n      \"description\": \"A cake made for special occasions, such as birthdays.\"\n    },\n    {\n      \"name\": \"wedding cake\",\n      \"description\": \"A large, multi-tiered cake served at weddings.\"\n    },\n    {\n      \"name\": \"cake slice\",\n      \"description\": \"A portion of cake, usually served as a snack or dessert.\"\n    },\n    {\n      \"name\": \"cake decoration\",\n      \"description\": \"Decorations placed on top of cake, such as frosting, sprinkles, or candies.\"\n    },\n    {\n      \"name\": \"cake topping\",\n      \"description\": \"A substance placed on top of cake, such as frosting, whipped cream, or fruit.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cake recipe\",\n      \"pattern\": \"recipe for cake\"\n    },\n    {\n      \"name\": \"birthday cake\",\n      \"pattern\": \"cake made for birthday\"\n    },\n    {\n      \"name\": \"wedding cake\",\n      \"pattern\": \"cake made for wedding\"\n    },\n    {\n      \"name\": \"dessert cake\",\n      \"pattern\": \"cake as dessert\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"pattern\": \"cake\",\n        \"description\": \"A sweet baked dessert made from or based on a mixture of flour, sugar, eggs, and fat.\"\n    },\n    {\n        \"pattern\": \"baked goods\",\n        \"description\": \"Baked items made from or based on flour, sugar, eggs, and fat, such as cakes, pies, and cookies.\"\n    },\n    {\n        \"pattern\": \"dessert\",\n        \"description\": \"A sweet food served after dinner.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"pattern\": \"cake recipe\",\n      \"description\": \"A recipe for a specific type of cake, including ingredients and instructions.\"\n    },\n    {\n      \"pattern\": \"cake decorating\",\n      \"description\": \"The art of decorating a cake with various toppings, such as frosting, sprinkles, or candies.\"\n    },\n    {\n      \"pattern\": \"cake flavors\",\n      \"description\": \"Different flavors of cake, such as chocolate, vanilla, or red velvet.\"\n    },\n    {\n      \"pattern\": \"cake types\",\n      \"description\": \"Different types of cakes, such as layer cakes, sheet cakes, or cupcakes.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"cake recipe\",\n      \"pattern\": \"cake recipe (noun): a recipe for making cake\"\n    },\n    {\n      \"name\": \"cake decorating\",\n      \"pattern\": \"cake decorating (noun): the act of decorating a cake\"\n    },\n    {\n      \"name\": \"cake flavor\",\n      \"pattern\": \"cake flavor (noun): a flavor or taste added to cake\"\n    },\n    {\n      \"name\": \"cake frosting\",\n      \"pattern\": \"cake frosting (noun): a sweet topping for cake\"\n    },\n    {\n      \"name\": \"cake topping\",\n      \"pattern\": \"cake topping (noun): a sweet or savory ingredient added to cake\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n  {\n    \"name\": \"cake recipe\",\n    \"description\": \"A recipe for a specific type of cake, such as chocolate cake or vanilla cake\",\n    \"ingredients\": [\n      {\n        \"name\": \"flour\",\n        \"quantity\": 2\n      },\n      {\n        \"name\": \"sugar\",\n        \"quantity\": 3\n      },\n      {\n        \"name\": \"eggs\",\n        \"quantity\": 4\n      },\n      {\n        \"name\": \"fat\",\n        \"quantity\": 5\n      }\n    ]\n  },\n  {\n    \"name\": \"cake decoration\",\n    \"description\": \"Decorations for a cake, such as frosting, sprinkles, or a cake topper\",\n    \"ingredients\": [\n      {\n        \"name\": \"frosting\",\n        \"quantity\": 1\n      },\n      {\n        \"name\": \"sprinkles\",\n        \"quantity\": 2\n      },\n      {\n        \"name\": \"cake topper\",\n        \"quantity\": 3\n      }\n    ]\n  },\n  {\n    \"name\": \"cake serving\",\n    \"description\": \"Ways to serve a cake, such as slicing it or serving it whole\",\n    \"ingredients\": [\n      {\n        \"name\": \"cake slicer\",\n        \"quantity\": 1\n      },\n      {\n        \"name\": \"cake plate\",\n        \"quantity\": 2\n      }\n    ]\n  }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Birthday Cake\",\n      \"description\": \"A cake made for special occasions such as birthdays\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"fat\",\n        \"icing (optional)\"\n      ]\n    },\n    {\n      \"name\": \"Chocolate Cake\",\n      \"description\": \"A rich, moist cake made with melted chocolate\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"melted chocolate\",\n        \"fat\"\n      ]\n    },\n    {\n      \"name\": \"Vanilla Cake\",\n      \"description\": \"A simple, classic cake made with vanilla extract\",\n      \"ingredients\": [\n        \"flour\",\n        \"sugar\",\n        \"eggs\",\n        \"fat\",\n        \"vanilla extract\"\n      ]\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"cake decorating\",\n      \"description\": \"Decorating a cake with frosting, sprinkles, and other toppings\",\n      \"steps\": [\n        {\n          \"name\": \"mix frosting\",\n          \"description\": \"Mixing frosting with a mixer until it is smooth and creamy\",\n          \"steps\": [\n            {\n              \"name\": \"add sugar\",\n              \"description\": \"Adding granulated sugar to the frosting and mixing until it is fully incorporated\",\n              \"steps\": [\n                {\n                  \"name\": \"add eggs\",\n                  \"description\": \"Beating eggs in a separate bowl and adding them to the frosting, mixing until fully incorporated\",\n                  \"steps\": [\n                    {\n                  \"name\": \"add flour\",\n                  \"description\": \"Adding flour to the frosting and mixing until it is fully incorporated\",\n                  \"steps\": [\n                    ]\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"cake recipe\",\n\"baking cake\",\n\"making cake\",\n\"creating cake\",\n\"baked good\",\n\"dessert\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"cake recipe\",\n\"cake decorating\",\n\"cake flavors\",\n\"cake types\",\n\"cake toppings\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "cake",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"chocolate cake\",\n      \"pattern\": \"chocolate cake recipe\"\n    },\n    {\n      \"name\": \"vanilla cake\",\n      \"pattern\": \"vanilla cake recipe\"\n    },\n    {\n      \"name\": \"carrot cake\",\n      \"pattern\": \"carrot cake recipe\"\n    },\n    {\n      \"name\": \"red velvet cake\",\n      \"pattern\": \"red velvet cake recipe\"\n    }\n  ]\n}\n"
+  }
+]

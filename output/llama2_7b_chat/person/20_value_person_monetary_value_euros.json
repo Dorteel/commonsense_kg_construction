@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 35,\n  \"gender\": \"male\",\n  \"education\": [\n    {\n      \"level\": \"Bachelor\",\n      \"field\": \"Computer Science\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"income\": 40000,\n\"gender\": \"male\"\n}\n   "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"gender\": \"male\",\n\"income\": 50000,\n\"expenses\": 20000,\n\"savings\": 30000\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\",\n\"monetary value\": 10000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 35,\n  \"gender\": \"male\",\n  \"income\": 50000,\n  \"education\": [\n    {\n      \"level\": \"master\",\n      \"field\": \"computer science\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"income\": 50000,\n\"interests\": [\n\"playing guitar\",\n\"reading books\",\n\"watching movies\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\"gender\": \"male\",\n\"country\": \"Germany\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 32,\n\"gender\": \"male\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 30,\n  \"income\": 50000,\n  \"networth\": 100000\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 35,\n\"gender\": \"male\",\n\"country\": \"USA\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 35,\n\"gender\": \"male\",\n\"nationality\": \"American\"\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 30000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"income\": 50000,\n\"networth\": 150000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\" occupation\": \"Software Engineer\",\n\"income\": 50000,\n\"networth\": 100000\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 35,\n  \"gender\": \"male\",\n  \"education\": {\n    \"level\": \"Bachelor\",\n    \"field\": \"Computer Science\"\n  },\n  \"income\": {\n    \"source\": \"employer\",\n    \"value\": 50000.0\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 35,\n\"gender\": \"male\",\n\"monetary value\": 50000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 30,\n\" occupation\": \"Software Engineer\",\n\"income\": 50000,\n\"monetary value\": 30000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 35,\n\"gender\": \"male\",\n\"education\": \"Bachelor's degree\",\n\"income\": 50000,\n\"assets\": {\n\"money in bank\": 10000,\n\"stocks\": 30000,\n\"real estate\": 200000\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"John Doe\",\n\"age\": 35,\n\"country\": \"USA\",\n\"income\": 50000,\n\"education\": \"Bachelor's Degree\",\n\"exp\": 5\n}\n"
+  }
+]

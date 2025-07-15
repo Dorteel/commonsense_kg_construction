@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\": [\n  {\"scenario\": \"You are cooking a stir-fry and want to add broccoli for the last minute of cooking.\"},\n  {\"scenario\": \"You are preparing a salad and want to add broccoli as the main ingredient.\"},\n  {\"scenario\": \"You are making a soup and want to add broccoli for added nutrition.\"},\n  {\"scenario\": \"You are grilling steak and want to add broccoli as a side dish.\"},\n  {\"scenario\": \"You are making a pasta dish and want to add broccoli for added flavor.\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n  {\"scenario\": \"You are cooking dinner for your family and want to add some vegetables to the stir-fry\", \"subtopics\": [{\"subtopic\": \"How do I cook broccoli\", \"subtopic_type\": \"cooking_instructions\"}]},\n  {\"scenario\": \"You are at a farmer's market and want to know if the broccoli is fresh\", \"subtopics\": [{\"subtopic\": \"How do I know if broccoli is fresh\", \"subtopic_type\": \"quality_check\"}]},\n  {\"scenario\": \"You are at a grocery store and want to know the nutritional value of broccoli\", \"subtopics\": [{\"subtopic\": \"What are the nutritional benefits of broccoli\", \"subtopic_type\": \"nutrition_facts\"}]},\n  {\"scenario\": \"You are preparing for a healthy eating plan and want to know how much broccoli you should include\", \"subtopics\": [{\"subtopic\": \"How much broccoli should I eat\", \"subtopic_type\": \"dietary_recommendations\"}]}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\":[\n{\"scenario\":\"You are at a grocery store and want to buy broccoli for a recipe\", \"probability\":0.8},\n{\"scenario\":\"You are cooking a stir-fry and want to add broccoli to the dish\", \"probability\":0.7},\n{\"scenario\":\"You are at a restaurant and want to order broccoli as a side dish\", \"probability\":0.6},\n{\"scenario\":\"You are trying to eat healthier and want to include broccoli in your meals\", \"probability\":0.5}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a grocery store and see broccoli for sale\",\n        \"action\": \"Add to cart\"\n    },\n    {\n        \"scenario\": \"You are cooking a stir-fry and need to add broccoli to the pan\",\n        \"action\": \"Add to pan\"\n    },\n    {\n        \"scenario\": \"You are at a restaurant and see broccoli as an option on the menu\",\n        \"action\": \"Order\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are at a grocery store and want to know if they have broccoli in stock.\"\n    },\n    {\n        \"scenario\": \"You are cooking a recipe that calls for broccoli and want to know how to prepare it.\"\n    },\n    {\n        \"scenario\": \"You are trying to convince a friend to eat more broccoli for better health.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"You are cooking a broccoli stir-fry and need to know how to chop it properly\",\n\"response\": \"To chop broccoli properly, hold the florets firmly and cut them into small, bite-sized pieces. You can also use a vegetable peeler to remove the tough green skin, if desired.\"\n},\n{\n\"scenario\": \"You are serving a vegetarian dish at a dinner party and want to know how to cook broccoli that will appeal to your meat-eating guests\",\n\"response\": \"To make broccoli appealing to meat-eating guests, try roasting it in the oven with some olive oil, salt, and pepper until it's tender and slightly caramelized. You can also add some garlic or lemon juice for extra flavor.\"\n},\n{\n\"scenario\": \"You are trying to get your picky eater child to eat more vegetables and want to know how to prepare broccoli that they will like\",\n\"response\": \"To make broccoli more appealing to picky eaters, try steaming it until it's tender and then adding a small amount of butter or cheese to make it more flavorful. You can also mix it with other vegetables or try adding a little bit of heat with red pepper flakes.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":[\"cooking broccoli\", \"storing broccoli\", \"serving broccoli\", \"growing broccoli\", \"using broccoli in recipes\"]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"Broccoli in a salad\",\n        \"description\": \"Broccoli is added to a salad of mixed greens and other vegetables\",\n        \"ingredients\": [\n            \"broccoli florets\",\n            \"mixed greens\",\n            \"other vegetables (e.g. carrots, cucumbers)\"\n        ]\n    },\n    {\n        \"name\": \"Broccoli soup\",\n        \"description\": \"Broccoli is used as the base for a creamy soup\",\n        \"ingredients\": [\n            \"broccoli florets\",\n            \"onions\",\n            \"garlic\",\n            \"chicken or vegetable broth\",\n            \"cream\"\n        ]\n    },\n    {\n        \"name\": \"Broccoli as a snack\",\n        \"description\": \"Broccoli is served as a healthy snack on its own or with a dip\",\n        \"ingredients\": [\n            \"broccoli florets\"\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are at a grocery store and see a display of broccoli\",\n\"You are cooking dinner for a group of friends and want to add broccoli to the menu\",\n\"You are trying to eat healthier and see broccoli as a good option\",\n\"You are at a farmer's market and see a vendor selling fresh broccoli\",\n\"You are at a restaurant and see broccoli as a side dish option\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"Cooking broccoli\",\n      \"description\": \"Broccoli is boiled, steamed, or sautéed for a side dish.\"\n    },\n    {\n      \"name\": \"Adding to a recipe\",\n      \"description\": \"Broccoli is added to a stir-fry, pasta dish, or soup.\"\n    },\n    {\n      \"name\": \"Using in a smoothie\",\n      \"description\": \"Broccoli is blended with other ingredients to make a healthy smoothie.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are cooking a stir-fry and want to add broccoli\",\n\"You are trying to get your kids to eat their vegetables and suggest broccoli\",\n\"You are at a grocery store and want to buy broccoli for a recipe\",\n\"You are at a restaurant and they don't have broccoli on the menu, what do you do?\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n\"You are a chef at a restaurant and you need to create a new dish using broccoli as the main ingredient\",\n\"You are a nutritionist and you are explaining the health benefits of broccoli to a client\",\n\"You are a grocery store employee and you are recommending broccoli to a customer who is looking for a healthy vegetable option\",\n\"You are a gardener and you are describing the best way to grow broccoli in your garden\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"Broccoli in a salad\",\n        \"description\": \"Broccoli is a popular addition to green salads, adding crunch and nutrition.\"\n    },\n    {\n        \"scenario\": \"Broccoli as a side dish\",\n        \"description\": \"Broccoli is often served as a side dish, either steamed or roasted, to complement other dishes.\"\n    },\n    {\n        \"scenario\": \"Broccoli in soups\",\n        \"description\": \"Broccoli adds a boost of nutrition and flavor to soups, such as creamy broccoli soup or broccoli and cheese soup.\"\n    },\n    {\n        \"scenario\": \"Broccoli as a pizza topping\",\n        \"description\": \"Broccoli is a popular pizza topping, adding a burst of green to the pie.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"name\": \"cooking broccoli\",\n      \"description\": \"Steaming, boiling or sauteing broccoli as a side dish or adding it to a stir-fry\"\n    },\n    {\n      \"name\": \"using broccoli in a salad\",\n      \"description\": \"Tossing broccoli with other greens, nuts and a vinaigrette dressing\"\n    },\n    {\n      \"name\": \"making broccoli soup\",\n      \"description\": \"Blending cooked broccoli with chicken or vegetable broth, milk or cream and spices\"\n    },\n    {\n      \"name\": \"grilling broccoli\",\n      \"description\": \"Grilling broccoli florets until crispy and serving as a side dish or adding to a sandwich\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n\"You are preparing a stir-fry dinner and want to know how to select and prepare broccoli for optimal flavor and texture\",\n\"You are attending a dinner party and want to bring a side dish that will complement the main course\",\n\"You are trying to incorporate more vegetables into your diet and want to learn how to cook broccoli in different ways\",\n\"You are a health coach and want to educate your clients on the nutritional benefits of broccoli and how to include it in their diet\",\n\"You are a chef and want to learn how to use broccoli as a key ingredient in a new recipe\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n{\n\"scenario\": \"A person is at a grocery store and wants to buy broccoli\",\n\"outcome\": \"The person buys broccoli and takes it home to cook\"\n},\n{\n\"scenario\": \"A person is cooking a meal and wants to add broccoli\",\n\"outcome\": \"The person adds broccoli to the meal and enjoys it\"\n},\n{\n\"scenario\": \"A person is trying to eat healthy and wants to include broccoli in their diet\",\n\"outcome\": \"The person adds broccoli to their meal plan and sees the benefits of eating it\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenarios\": [\n    {\n        \"scenario\": \"You are making a stir fry and want to add some protein\",\n        \"action\": \"Add broccoli to the stir fry\"\n    },\n    {\n        \"scenario\": \"You are cooking for a family dinner and want to serve a healthy side dish\",\n        \"action\": \"Add broccoli to the menu\"\n    },\n    {\n        \"scenario\": \"You are trying to incorporate more vegetables into your diet\",\n        \"action\": \"Add broccoli to your grocery list\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenarios\": [\n  {\"scenario\": \"Person is trying to cook broccoli for dinner and realizes they don't have any at home.\"},\n  {\"scenario\": \"A person is at a grocery store looking for broccoli and can't find it in the produce section.\"},\n  {\"scenario\": \"A person is eating broccoli for the first time and doesn't like the taste.\"},\n  {\"scenario\": \"A person is trying to convince a friend to eat more broccoli for better health.\"},\n  {\"scenario\": \"A person is at a farmer's market and sees a variety of broccoli they've never seen before.\"}\n]}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"description\": \"Cooking broccoli for a healthy dinner\",\n        \"tasks\": [\n            {\n                \"name\": \"Wash broccoli\",\n                \"parameters\": [\n                    {\n                    \"name\": \"broccoli\",\n                    \"value\": \"1 lb\"\n                }\n            ],\n            \"next\": \"Chop broccoli\"\n        },\n        \"chop broccoli\",\n        \"tasks\\\": [...],"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "broccoli",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": [\n    {\n        \"name\": \"cooking broccoli\",\n        \"description\": \"Preparing broccoli for consumption by steaming, boiling, or sautéing\"\n    },\n    {\n        \"name\": \"using broccoli in recipes\",\n        \"description\": \"Incorporating broccoli into various dishes such as stir-fries, soups, and salads\"\n    },\n    {\n        \"name\": \"medical benefits of broccoli\",\n        \"description\": \"Discussing the health benefits of consuming broccoli, including its high level of vitamins and antioxidants\"\n    }\n]\n}\n "
+  }
+]

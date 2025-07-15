@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"food\",\n\"fruit\",\n\"supermarket\",\n\"grocery\",\n\"shopping\",\n\"orange juice\",\n\"orange peel\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"contexts\": [\n        {\n            \"name\": \"Food\",\n            \"context\": \"food\"\n        },\n        {\n            \"name\": \"Nature\",\n            \"context\": \"nature\"\n        },\n        {\n            \"name\": \"Color\",\n            \"context\": \"color\"\n        }\n    ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n{\n\"context\": \"gardening\",\n\"description\": \"Growing or maintaining orange trees in a garden or orchard.\"\n},\n{\n\"context\": \"cooking\",\n\"description\": \"Preparing or cooking dishes that use oranges as an ingredient.\"\n},\n{\n\"context\": \"beverages\",\n\"description\": \"Making or drinking beverages that use oranges as a primary ingredient.\"\n}\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"food\",\n      \"sub\": [\n        {\n          \"name\": \"fruits\",\n          \"sub\": [\n            {\n              \"name\": \"orange\",\n              \"descriptions\": [\n                {\n                  \"text\": \"Orange is a round, yellow to orange fruit of any of several citrus trees.\"\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"food\",\n    \"fruit\",\n    \"orange\",\n    \"round yellow to orange fruit\",\n    \"any of several citrus trees\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"kitchen\",\n    \"garden\",\n    \"store\",\n    \"food\",\n    \"diet\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"food\",\n\"fruit\",\n\"orange\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"context\": \"food\",\n      \"type\": \"Food\"\n    },\n    {\n      \"context\": \"fruit\",\n      \"type\": \"Fruit\"\n    },\n    {\n      \"context\": \"orange\",\n      \"type\": \"Fruit\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    {\n        \"name\": \"fruit\",\n        \"value\": \"orange\"\n    },\n    {\n        \"name\": \"colors\",\n        \"value\": \"yellow\"\n    },\n    {\n        \"name\": \"food\",\n        \"value\": \"fruit\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"Food\",\n      \"subContexts\": [\n        {\n          \"name\": \"Fruits\",\n          \"items\": [\n            {\n              \"name\": \"Orange\",\n              \"description\": \"The orange is a round yellow to orange fruit of any of several citrus trees.\"\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"contexts\": [\n\"food\",\n\"fruit\",\n\"orange juice\",\n\"orange peel\",\n\"orange trees\",\n\"growing oranges\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"Food\",\n      \"value\": \"orange\"\n    },\n    {\n      \"name\": \"Fruits\",\n      \"value\": \"orange\"\n    },\n    {\n      \"name\": \"Produce\",\n      \"value\": \"orange\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"food\",\n      \"description\": \"All the different types of food, including fruits, vegetables, meats, and more.\"\n    },\n    {\n      \"name\": \"gardening\",\n      \"description\": \"All things related to gardening, including planting, watering, pruning, and more.\"\n    },\n    {\n      \"name\": \"cooking\",\n      \"description\": \"All things related to cooking, including recipes, ingredients, and cooking techniques.\"\n    },\n    {\n      \"name\": \"diet\",\n      \"description\": \"All things related to diet, including healthy eating, nutrition, and weight loss.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"food\",\n\"grocery\",\n\"supermarket\",\n\"kitchen\",\n\"dining room\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"fruit\",\n  \"food\",\n  \"vegetable\",\n  \"kitchen\",\n  \"dining\",\n  \"recipe\",\n  \"cooking\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"food\",\n\"fruit\",\n\"orange juice\",\n\"orange flavor\",\n\"orange peel\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"fruit\",\n\"food\",\n\"veggies\",\n\"diet\",\n\"nutrition\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"food\",\n  \"fruit\",\n  \"color\",\n  \"round\",\n  \"yellow\",\n  \"orange tree\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"contexts\": [\n        {\n            \"context\": \"food\",\n            \"subcontexts\": [\n                {\n                    \"subcontext\": \"fruits\",\n                    \"subsubcontexts\": [\n                    ]\n                },\n                {\n                    \"subcontext\": \"desserts\",\n                    \"subsubcontexts\": [\n                    ]\n                }\n            ]\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "orange",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n\"food\",\n\"fruit\",\n\"orange\",\n\"round\",\n\"yellow\",\n\"color\",\n\"tree\",\n\"plant\",\n\"nature\"\n]\n}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Tennis Racket\",\n        \"description\": \"A racket used to play tennis.\",\n        \"pattern_type\": \"object\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n\"racket\",\n\"tennis racket\",\n\"racquet\",\n\"tennis racquet\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"pattern\": \"racket\",\n      \"description\": \"A racket is a sporting implement used to hit a ball in a game of tennis.\"\n    },\n    {\n      \"pattern\": \"tennis racket\",\n      \"description\": \"A tennis racket is a racket used to play tennis.\"\n    },\n    {\n      \"pattern\": \"racket sport\",\n      \"description\": \"Tennis is a racket sport.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"racket\",\n\"tennis racket\",\n\"racquet\",\n\"racquets\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"^racket$\",\n\"^tennis racket$\",\n\"tennis racket\",\n\"racket game$\",\n\"racket sport$\"\n]\n}\n  "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Racket\",\n\"Tennis Racket\",\n\"Tennis Club\",\n\"Tennis Court\",\n\"Tennis Player\",\n\"Tennis Match\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\"play tennis\", \"hit ball\", \"serve\", \"volley\", \"groundstroke\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"pattern\": [\n    {\n      \"name\": \"Tennis Racket\",\n      \"description\": \"A racket used to play tennis.\",\n      \"type\": \"TennisRacket\"\n    },\n    {\n      \"name\": \"Tennis Ball\",\n      \"description\": \"A ball used in the sport of tennis.\",\n      \"type\": \"TennisBall\"\n    },\n    {\n      \"name\": \"Court\",\n      \"description\": \"A surface used for playing tennis.\",\n      \"type\": \"Court\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"patterns\": [\n        {\n            \"name\": \"tennis racket\",\n            \"description\": \"A racket used to play tennis\"\n        },\n        {\n            \"name\": \"racquet\",\n            \"description\": \"A tool used to hit a ball with a racket\"\n        }\n    ]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Tennis Racket\",\n\"Tennis Raquet\",\n\"Tennis Rackets\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n  {\n    \"pattern\": \"Tennis racket\"\n  },\n  {\n    \"pattern\": \"Racket\"\n  },\n  {\n    \"pattern\": \"Tennis\"\n  }\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"retrieve ball\",\n\"hit ball\",\n\"serve ball\",\n\"volley ball\",\n\"return ball\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"tennis racket\",\n\"racket\",\n\"racket for tennis\",\n\"tennis equipment\",\n\"tennis gear\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Tennis Racket\",\n      \"description\": \"A racket used to play tennis\",\n      \"synonyms\": [\n        \"tennis racket\",\n        \"racket\",\n        \"racquet\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"name\": \"Racket\",\n      \"description\": \"A racket is a sporting implement used to hit a ball in games such as tennis, squash, and badminton. It consists of a handle and a hoop with a net in between.\",\n      \"entities\": [\n        {\n          \"name\": \"Tennis racket\",\n          \"description\": \"A racket used to play tennis.\",\n          \"patterns\": [\n            {\n              \"name\": \"Tennis ball\",\n              \"description\": \"A ball used in tennis games.\",\n              \"entities\": [\n                {\n                  \"name\": \"Tennis court\",\n                  \"description\": \"A court used for playing tennis.\",\n                  \"patterns\": []\n              }\n            ]\n          }\n        ]\n      }\n    ]\n  }\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n    {\n        \"name\": \"Tennis Racket\",\n        \"description\": \"A racket used to play tennis\"\n    },\n    {\n        \"name\": \"Racket\",\n        \"description\": \"A tool used to hit a ball in a game\"\n    },\n    {\n        \"name\": \"Tennis\",\n        \"description\": \"A sport played with a racket and a ball\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n{\n\"name\": \"Racket Sports\",\n\"description\": \"A sport played with a racket and ball.\"\n},\n{\n\"name\": \"Tennis\",\n\"description\": \"A specific sport played with a tennis racket.\"\n},\n{\n\"name\": \"Racket\",\n\"description\": \"A tool used to hit a ball.\"\n}\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"patterns\": [\n    {\n        \"name\": \"Tennis racket\",\n        \"description\": \"A racket used to play tennis\",\n        \"patterns\": [\n            {\n                \"name\": \"Racket\",\n                \"description\": \"A device used to hit a ball in a game\",\n                \"patterns\": []\n            },\n            {\n                \"name\": \"Tennis\",\n                \"description\": \"A sport played with a ball and racket\",\n                \"patterns\": []\n            }\n        ]\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"pattern\": [\n\"Racket\",\n\"Tennis Racket\",\n\"Tennis Club\",\n\"Tennis Player\",\n\"Tennis Game\",\n\"Tennis Tournament\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "tennis racket",
+    "domain": "pattern",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"patterns\": [\n    {\n      \"pattern\": \"tennis racket\",\n      \"description\": \"A racket used to play tennis\"\n    },\n    {\n      \"pattern\": \"racket\",\n      \"description\": \"A tool used to hit a ball\"\n    },\n    {\n      \"pattern\": \"sports equipment\",\n      \"description\": \"Equipment used in sports\"\n    }\n  ]\n}"
+  }
+]

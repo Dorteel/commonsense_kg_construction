@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"rest\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"chair\": {\n\"functions\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"adjust\",\n\" move\",\n\"fold\",\n\"store\",\n\"clean\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"chair\": {\n    \"sit\": {\n      \"function\": \"allow person to sit\",\n      \"description\": \"The person can sit on the chair\"\n    },\n    \"stand\": {\n      \"function\": \"allow person to stand\",\n      \"description\": \"The person can stand on the chair\"\n    },\n    \"move\": {\n      \"function\": \"allow person to move\",\n      \"description\": \"The person can move the chair\"\n    },\n    \"lean\": {\n      \"function\": \"allow person to lean\",\n      \"description\": \"The person can lean on the chair\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"adjust\",\n\"stability\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"sit\",\n      \"description\": \"Put someone in the chair\"\n    },\n    {\n      \"name\": \"stand\",\n      \"description\": \"Take someone out of the chair\"\n    },\n    {\n      \"name\": \"comfort\",\n      \"description\": \"Adjust the chair for comfort\"\n    },\n    {\n      \"name\": \"arrest\",\n      \"description\": \"Use the chair to restrain someone\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"chair\": {\n\"functions\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"rest\"\n]\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"rest\",\n\"adjust\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"lean back\",\n\"lean forward\",\n\"adjust\",\n\"move\",\n\"place\",\n\"put away\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"pivot\",\n\"adjust\",\n\"recline\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"pivot\",\n\"fold\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"sit\",\n    \"stand\",\n    \"lean\",\n    \"lean back\",\n    \"lean forward\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    {\n        \"name\": \"sit\",\n        \"description\": \"Place oneself on the chair for sitting\"\n    },\n    {\n        \"name\": \"stand\",\n        \"description\": \"Leave the chair after sitting\"\n    },\n    {\n        \"name\": \"lean\",\n        \"description\": \"Shift one's weight on the chair, typically to a more relaxed position\"\n    },\n    {\n        \"name\": \"adjust\",\n        \"description\": \"Make an adjustment to the position or height of the chair to a more comfortable level\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    {\n      \"name\": \"sit\",\n      \"description\": \"Place person on chair\"\n    },\n    {\n      \"name\": \"stand\",\n      \"description\": \"Remove person from chair\"\n    },\n    {\n      \"name\": \"lean\",\n      \"description\": \"Adjust chair backrest\"\n    },\n    {\n      \"name\": \"adjust\",\n      \"description\": \"Adjust chair height\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"adjust\",\n\"support\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"chair\": {\n    \"functions\": [\n      \"sit\",\n      \"stand\",\n      \"lean\",\n      \"adjust\"\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"rest\"\n]\n}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"chair\": {\n\"sit\": \"allow a person to sit on the chair\",\n\"stand\": \"cause a person to stand up from the chair\",\n\"lean\": \"cause a person to lean on the chair for support\",\n\"use\": \"allow a person to use the chair for its intended purpose\"\n}\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n\"sit\",\n\"stand\",\n\"lean\",\n\"rest\",\n\"adjust\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"sit\",\n    \"stand\",\n    \"lean\",\n    \"rest\",\n    \"adjust\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "chair",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": [\n    \"sit\",\n    \"stand\",\n    \"lean\",\n    \"rest\",\n    \"support\"\n]\n}\n"
+  }
+]

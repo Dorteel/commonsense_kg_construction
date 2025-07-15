@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\":[\"serve\", \"stir\", \"eat\", \"store\", \"clean\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve\",\n\"stir\",\n\"eat\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"stir\",\n      \"description\": \"The spoon is used to stir a liquid or semi-solid food\"\n    },\n    {\n      \"name\": \"serve\",\n      \"description\": \"The spoon is used to serve food, such as soup or cereal\"\n    },\n    {\n      \"name\": \"take up\",\n      \"description\": \"The spoon is used to take up food from a container or dish\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"stir\",\n        \"description\": \"Use the spoon to stir or mix food in a pot, bowl, or other container.\"\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"Use the spoon to serve food on a plate, platter, or other surface.\"\n    },\n    {\n        \"name\": \"eat\",\n        \"description\": \"Use the spoon to eat food directly from a bowl, plate, or other container.\"\n    },\n    {\n        \"name\": \"clean\",\n        \"description\": \"Use the spoon to clean up spills or messes, or to wash dishes.\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"utensil\",\n\"cutlery\",\n\"eating\",\n\"serving\",\n\"stirring\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"Stirring\",\n      \"description\": \"Using the spoon to stir or mix food or drink\",\n      \"example\": \"She stirred the soup with a spoon.\",\n      \"categories\": [\"Food\"],\n      \"occurrences\": [\n        {\"text\": \"stirred\", \"context\": \"Food\"}\n      ]\n    },\n    {\n      \"name\": \"Serving\",\n      \"description\": \"Using the spoon to serve food or drink to someone\",\n      \"example\": \"She served the soup to her guest with a spoon.\",\n      \"categories\": [\"Food\"],\n      \"occurrences\": [\n        {\"text\": \"served\", \"context\": \"Food\"}\n      ]\n    },\n    {\n      \"name\": \"Taking up\",\n      \"description\": \"Using the spoon to take up or scoop up food or drink\",\n      \"example\": \"He took up the spoon and took a bite.\",\n      \"categories\": [\"Food\"],\n      \"occurrences\": [\n        {\"text\": \"took up\", \"context\": \"Food\"}\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": [\n        {\n            \"name\": \"stir\",\n            \"description\": \"Using the spoon to mix or blend food by rotating it in a circular motion\"\n        },\n        {\n            \"name\": \"serve\",\n            \"description\": \"Using the spoon to transfer food from one container to another\"\n        },\n        {\n            \"name\": \"eat\",\n            \"description\": \"Using the spoon to take food into one's mouth\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"stir\",\n\"serve\",\n\"take up\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n    {\n        \"name\": \"stir\",\n        \"description\": \"Use the spoon to stir or mix food or drinks\"\n    },\n    {\n        \"name\": \"serve\",\n        \"description\": \"Use the spoon to serve food or drinks\"\n    },\n    {\n        \"name\": \"takeup\",\n        \"description\": \"Use the spoon to take up food or drinks\"\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\"utensil\", \"cutlery\", \"spoon\"]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve\",\n\"stir\",\n\"eat\",\n\"hold\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"Stirring\",\n      \"description\": \"The spoon is used to stir food, liquids or other substances\"\n    },\n    {\n      \"name\": \"Serving\",\n      \"description\": \"The spoon is used to serve food, liquids or other substances\"\n    },\n    {\n      \"name\": \"Eating\",\n      \"description\": \"The spoon is used to eat food, liquids or other substances\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"spoon is used for eating\",\n\"spoon is used for serving\",\n\"spoon is used for stirring\",\n\"spoon is used for taking up food\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"utensil for eating\"}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"serve\",\n\"stir\",\n\"eat\",\n\"give\",\n\"take\"\n]\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    {\n      \"name\": \"serve\",\n      \"description\": \"Use the spoon to serve food to others\",\n      \"categories\": [\n        \"food\",\n        \"tableware\"\n      ]\n    },\n    {\n      \"name\": \"stir\",\n      \"description\": \"Use the spoon to mix or stir food or drinks\",\n      \"categories\": [\n        \"food\",\n        \"beverage\"\n      ]\n    },\n    {\n      \"name\": \"eat\",\n      \"description\": \"Use the spoon to eat food\",\n      \"categories\": [\n        \"food\"\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"spoon-as-utensil\",\n\"spoon-as-eating-utensil\",\n\"spoon-as-stirring-utensil\",\n\"spoon-as-serving-utensil\"\n]\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": {\n\"spoon\": [\n\"eat\",\n\"serve\",\n\"stir\",\n\"clean\"\n]\n}\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":[\"utensil\", \"spoon\"]}\n "
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "spoon",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": [\n\"spoon is used for eating\",\n\"spoon is used for serving\",\n\"spoon is used for stirring\",\n\"spoon is used for taking up food\",\n\"spoon is used for mixing\"\n]\n}\n"
+  }
+]
