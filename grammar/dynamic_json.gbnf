@@ -1,0 +1,17 @@
+root ::= object
+
+object ::= "{" ws "\"{{key}}\"" ws ":" ws array ws "}"
+
+array ::= "[" ws string (comma string)* ws "]"
+
+string ::= "\"" chars "\""
+
+chars ::= char*
+
+char ::= [^"\\] | escape
+
+escape ::= "\\" ( "\"" | "\\" | "/" | "b" | "f" | "n" | "r" | "t" )
+
+comma ::= ws "," ws
+
+ws ::= (" " | "\n" | "\t")*
