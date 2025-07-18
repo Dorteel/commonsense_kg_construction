@@ -23,8 +23,8 @@ groq:
 nebula:
   - name: llava_7b_standard
     model_path: llava:7b
-  - name: llama32_11b_vision
-    model_path: llama3.2-vision:11b
+  # - name: llama32_11b_vision
+  #   model_path: llama3.2-vision:11b
   - name: qwen25_7b_standard
     model_path: qwen2.5:7b
   - name: qwen25_1b_standard

@@ -16,6 +16,7 @@ def preprocess_template(template: str, **kwargs) -> str:
     dimension = kwargs.get("dimension")
     domain = kwargs.get("domain")
     range = kwargs.get("range")
+    kwargs["measurement"] = kwargs.get("measurement", "")
     kwargs["description_clause"] = f"(which is {description})" if description else ""
     kwargs["dimension_clause"] = "as in {}" if dimension else ""
     kwargs["range_clause"] = "range for " if range else ""

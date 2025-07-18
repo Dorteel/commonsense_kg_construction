@@ -19,6 +19,7 @@ concept_file= "concepts_mscoco.json"
 property_file = "properties.yaml"
 RUNS = int(os.getenv("RUNS", 20))
 OUTPUT_PARENT_DIR = "output"
+condition = 'ranges'
 
 def get_checkpoint(model_name, concepts):
     """Get the checkpoint for a given model name."""
@@ -27,7 +28,11 @@ def get_checkpoint(model_name, concepts):
     concepts_to_check = {}
     for key in concepts.keys():
         concepts_to_check[concepts[key]["name"]] = key
-    output_path = Path("output") / Path(model_name)
+    output_path = Path("output") / Path(condition) / Path(model_name)
+    if not output_path.exists():
+        logger.info(f"Output path {output_path} does not exist. Creating it.")
+        output_path.mkdir(parents=True, exist_ok=True)
+        return concepts_remaining
     for folder in output_path.iterdir():
         if str(folder.name) in list(concepts_to_check.keys()):
             logger.info(f"Found existing output for concept: {folder.name}")
@@ -55,13 +60,13 @@ def run_experiment(current_client):
         definition = obj_info.get("definition", "")
         
         logger.info(f"Processing concept: {name} ({definition})")
-        output_dir = os.path.join(OUTPUT_PARENT_DIR, current_client.model_name, name)
+        output_dir = os.path.join(OUTPUT_PARENT_DIR, condition ,current_client.model_name, name)
         os.makedirs(output_dir, exist_ok=True)
         
         logger.info(f"Processing measurement domains")
         measurable = properties.get("measurable", {})
         for domain, details in measurable.items():
-            template_name = "measurement"
+            template_name = condition
             for qd in details.get("quality_dimensions", []):
 
                 for unit in details.get("units", []):
@@ -79,27 +84,27 @@ def run_experiment(current_client):
                         measurement=unit,
                         output_path=output_path
                     )
+        if condition != 'ranges':
+            logger.info(f"Processing categorical domains")
+            for domain in properties.get("categorical", []):
+                logger.info(f"Processing {domain} for concept: {name}")
+                
+                template_name = "categorical"
 
-        logger.info(f"Processing categorical domains")
-        for domain in properties.get("categorical", []):
-            logger.info(f"Processing {domain} for concept: {name}")
-            
-            template_name = "categorical"
+                output_path = os.path.join(output_dir, f"{RUNS}_{domain}_{name}.json")
+                logger.info(f"Running {model_name} and saving output to:\n\t\t{output_path}")
 
-            output_path = os.path.join(output_dir, f"{RUNS}_{domain}_{name}.json")
-            logger.info(f"Running {model_name} and saving output to:\n\t\t{output_path}")
-
-            runner.run(
-                concept=name,
-                description=definition,
-                domain=domain,
-                dimension="",
-                template_name=template_name,
-                runs=RUNS,
-                return_range="",
-                measurement="",
-                output_path=output_path
-            )
+                runner.run(
+                    concept=name,
+                    description=definition,
+                    domain=domain,
+                    dimension="",
+                    template_name=template_name,
+                    runs=RUNS,
+                    return_range="",
+                    measurement="",
+                    output_path=output_path
+                )
 
 def run_batch():
     load_dotenv()
@@ -121,13 +126,13 @@ def run_batch():
         logger.info(f"Loaded client: {model_name}")
         run_experiment(current_client)
 
-    for entry in model_config.get("nebula", []):
-        logger.info(f"Loading Nebula model: {entry['model_path']}")
-        model_name = entry["model_path"]
-        current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
-        logger.info(f"Loaded client: {model_name}")
+    # for entry in model_config.get("nebula", []):
+    #     logger.info(f"Loading Nebula model: {entry['model_path']}")
+    #     model_name = entry["model_path"]
+    #     current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
+    #     logger.info(f"Loaded client: {model_name}")
 
-        run_experiment(current_client)
+    #     run_experiment(current_client)
         
 
 
