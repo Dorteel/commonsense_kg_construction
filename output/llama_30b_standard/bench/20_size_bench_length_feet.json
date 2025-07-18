@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":\"4\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"bench\": {\n    \"length\": \"5.2\"\n  },\n  \"key\": \"length\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"bench\": [\n        {\n            \"length\": 6.0,\n            \"width\": 1.5,\n            \"height\": 0.5\n        },\n        {\n            \"length\": 4.0,\n            \"width\": 1.5,\n            \"height\": 0.5\n        },\n        {\n            \"length\": 5.0,\n            \"width\": 1.5,\n            \"height\": 0.5\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":0.50}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 6.5}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 6.5,\n  \"width\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"value\": 10.0,\n    \"unit\": \"feet\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 6.0 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 7.21875\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 7.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"bench\": {\n    \"length\": 2.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"bench\": {\n    \"length\": 4.0,\n    \"width\": 1.5,\n    \"depth\": 0.5,\n    \"weight\": 65.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"bench\": {\n\"length\": 1.1\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.0\n}\n "
+  }
+]

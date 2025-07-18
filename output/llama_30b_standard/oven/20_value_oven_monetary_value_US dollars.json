@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"value\" : \"100.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.39\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"value\": 250.0,\n    \"units\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 100,\n  \"unit\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 4500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 3.5}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.5,\n  \"monetary_unit\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Dave\",\n  \"age\": 42,\n  \"languages\": [\n    \"French\",\n    \"Spanish\",\n    \"Mandarin\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 1500.0,\n  \"unit\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 21.560}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\" : 200.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\" : 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 350.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 150}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"50.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary_value\": 200.00\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.33\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12.2,\n  \"height\": 1.8\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 7.25, \"is_valid\": true }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 24.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"user\" : \"system\",\n\"pass\" : \"user\",\n\"command\" : \"provide the average weightas in {} measured in ounces.\",\n\"key\" : [\"weight\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 2.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 6.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Walter\",\n  \"age\": 32,\n  \"likes\": [\"sports\", \"games\", \"food\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"weight\": 115,\n  \"height\": 5,\n  \"female\": \"true\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 15.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20\n}\n"
+  }
+]

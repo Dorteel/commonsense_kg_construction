@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\"outdoors\", \"indoors\", \"outdoors/outdoor activity\", \"indoors/indoor activity\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"back\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"back\",\n    \"shoulder\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on your back or shoulder\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"back\",\"size\": \"2.5 litres\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"backpack\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"back\", \"location\": \"shoulder\", \"location\": \"front\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"on the back, over the shoulder\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    {\n      \"label\": \"back\",\n      \"score\": 0.94\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"on your back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"school\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"outside\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"back\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"outside\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"back\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\" : 150.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 175\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 100}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"size\": 150,\n  \"filling\": \"peanut butter\",\n  \"bread\": \"wheat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"size\": 254\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100,\n  \"bread\": \"white\",\n  \"cheese\": \"cheddar\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 130,\n  \"bread\": \"white\",\n  \"filling\": \"meat and cheese\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"10\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"user\": \"you\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"text\": \"what is the average size of a sandwhich\",\n  \"lang\": \"en\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"text\": \"What is the size of the sandwich?\",\n  \"intent\": \"assistant.intent.action.TEXT\",\n  \"data\": {\n    \"inputs\": [\n      {\n        \"intent\": \"assistant.intent.action.TEXT\",\n        \"raw_text\": \"What is the size of the sandwich?\",\n        \"input_type\": \"VOICE\"\n      }\n    ],\n    \"arguments\": [\n      {\n        \"name\": \"size\",\n        \"raw_text\": \"size\",\n        \"text_value\": \"size\",\n        \"value\": \"size\",\n        \"type\": 2\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 120}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"value\": 0,\n    \"units\": \"mm\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the sandwich (which is two (or more) slices of bread with a filling between them), provide the average size as in { } measured in millimeters.\",\n  \"context\": {\n    \"sandwich\": {\n      \"length\": 140,\n      \"bread\": {\n        \"length\": 65,\n        \"thickness\": 5\n      },\n      \"filling\": {\n        \"length\": 120,\n        \"thickness\": 5\n      }\n    }\n  },\n  \"expected_answer\": {\n    \"length\": 150\n  }\n}\n"
+  }
+]

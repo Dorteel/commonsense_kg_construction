@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2.5,\n  \"dollars\": 20,\n  \"value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"monetary value\": 8.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"average\": 14.99,\n    \"min\": 12.99,\n    \"max\": 16.99\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 15.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"monetary value\": {\n      \"value\": {\n        \"amount\": 14.39,\n        \"currency\": \"USD\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"pizza\": \"value\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 14.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 7.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"monetary value\": 20\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary\": 10.0}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 12.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.51\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 14.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.9999999999999999\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 4.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\" : 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": [\n    11.99,\n    12.99,\n    13.99,\n    14.99,\n    15.99,\n    16.99\n  ]\n}\n"
+  }
+]

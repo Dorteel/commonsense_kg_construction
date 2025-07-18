@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 2134.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"vehicle\": \"bus\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question_id\": 2,\n  \"question_text\": \"Given the bus (which is a vehicle carrying many passengers; used for public transport), provide the average sizeas in {} measured in centimeters. Return only JSON with key: - height (float)\",\n  \"answers\": [\n    {\n      \"answer_text\": \"160 cm\",\n      \"is_correct\": \"true\"\n    },\n    {\n      \"answer_text\": \"150 cm\",\n      \"is_correct\": \"false\"\n    },\n    {\n      \"answer_text\": \"140 cm\",\n      \"is_correct\": \"false\"\n    },\n    {\n      \"answer_text\": \"130 cm\",\n      \"is_correct\": \"false\"\n    }\n  ],\n  \"is_impossible\": \"false\",\n  \"is_unanswerable\": \"false\",\n  \"is_choice_based\": \"false\",\n  \"correct_answer\": \"160 cm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 45000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bus\": {\n    \"height\": 2000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 25000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2500.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"type\": \"object\",\n\"properties\": {\n\"height\": {\n\"type\": \"integer\",\n\"minimum\": 1,\n\"exclusiveMaximum\": 999999999\n}\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 350\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 222\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"3.4\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"john\",\n  \"age\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"bus\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 576}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 300 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

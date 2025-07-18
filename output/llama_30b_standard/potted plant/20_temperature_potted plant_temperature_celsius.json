@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"answer\": null,\n    \"alternate_answers\": [],\n    \"confidence\": 0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"type\": \"float\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 35.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"keywords\": [\n        \"plant\",\n        \"potted\",\n        \"flowerpot\",\n        \"suitable\",\n        \"growing\",\n        \"indoors\",\n        \"temperature\",\n        \"celsius\",\n        \"average\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"potted-plant\": {\n        \"temperature\": 25.0\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\" : \"25\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.656\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 27.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"key\": \"plant\",\n  \"value\": {\n    \"key\": \"pot\",\n    \"value\": {\n      \"key\": \"potting\",\n      \"value\": \"soil\"\n    }\n  }\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 23.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"value\": 20,\n    \"unit\": \"celsius\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average temperature of the potted plant?\",\n  \"answers\": [\n    {\n      \"question\": \"What is the average temperature of the potted plant?\",\n      \"answers\": [\n        {\n          \"question\": \"What is the average temperature of the potted plant?\",\n          \"answers\": [\n            {\n              \"question\": \"What is the average temperature of the potted plant?\",\n              \"answers\": [\n                {\n                  \"question\": \"What is the average temperature of the potted plant?\",\n                  \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question\": \"What is the average temperature of the potted plant?\",\n                    \"answers\": [\n                    {\n                    \"question"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 24.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"key\": \"temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"age\": 22,\n  \"location\": \"Chicago\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 25.0, \"color\": \"red\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 15.0\n}\n"
+  }
+]

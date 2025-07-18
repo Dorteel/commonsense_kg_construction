@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"scenario\": \"You are on a vacation trip and you need to carry your clothes in your suitcase.\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The suitcase is in the trunk\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"the suitcase is used for traveling\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"carrying clothes\",\n  \"entities\": [\n    {\n      \"type\": \"clothes\",\n      \"entities\": [\n        {\n          \"type\": \"shirt\"\n        },\n        {\n          \"type\": \"pants\"\n        },\n        {\n          \"type\": \"shoes\"\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"carrying clothes\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"The suitcase is placed on the ground\",\n    \"scenario\": \"The suitcase is placed on the table\",\n    \"scenario\": \"The suitcase is placed on the desk\",\n    \"scenario\": \"The suitcase is placed on the floor\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Airport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"the suitcase is put in a car\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"carry clothes\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"you are packing the suitcase for a business trip\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You are at the airport. You are checking in at the counter. You put your suitcase on the conveyor belt.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The suitcase is closed by the user.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"the user has a suitcase in hand\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"scenario\": \"It is a container for my clothes.\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"carrying clothes\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"a person carries a suitcase\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"I'm traveling and I need to take a lot of stuff.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"it is in the airport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"Travelling\",\"reason\":[\"To carry clothes\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"The suitcase is left at the station\"}\n"
+  }
+]

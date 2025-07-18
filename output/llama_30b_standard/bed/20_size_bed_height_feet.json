@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 7 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 3.5 }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bed\": {\n    \"furniture\": \"piece of furniture\",\n    \"provide\": \"provides\",\n    \"place\": \"provides a place to\",\n    \"sleep\": \"a place to sleep\",\n    \"size\": \"average size\",\n    \"as\": \"measured in\",\n    \"feet\": \"feet\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 6.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 5.0,\n\"width\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 5,\n\"name\": \"bed\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.7161986198619861\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\":\n  {\n    \"height\": 0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 7.0,\n    \"width\": 2.0,\n    \"length\": 3.0,\n    \"size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 8.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 6}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"bed\": \"A piece of furniture that provides a place to sleep.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"The bed\",\n  \"type\": \"furniture\",\n  \"size\": {\n    \"width\": 6,\n    \"length\": 8,\n    \"height\": 3\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.5\n}\n"
+  }
+]

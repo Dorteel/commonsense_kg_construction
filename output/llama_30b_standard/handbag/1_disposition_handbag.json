@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"container\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"bag\",\n  \"handbag\": \"bag\",\n  \"container\": \"bag\",\n  \"carryall\": \"bag\",\n  \"purse\": \"bag\",\n  \"pocketbook\": \"bag\",\n  \"clutch\": \"bag\",\n  \"beaded purse\": \"bag\",\n  \"pouch\": \"bag\",\n  \"satchel\": \"bag\",\n  \"portfolio\": \"bag\",\n  \"pouch\": \"bag\",\n  \"wallet\": \"bag\",\n  \"clutch\": \"bag\",\n  \"man-bag\": \"bag\",\n  \"sling\": \"bag\",\n  \"fannypack\": \"bag\",\n  \"bum bag\": \"bag\",\n  \"belt bag\": \"bag\",\n  \"cross-body\": \"bag\",\n  \"hip bag\": \"bag\",\n  \"tote bag\": \"bag\",\n  \"shoulder bag\": \"bag\",\n  \"satchel\": \"bag\",\n  \"briefcase\": \"bag\",\n  \"messenger bag\": \"bag\",\n  \"knapsack\": \"bag\",\n  \"backpack\": \"bag\",\n  \"school bag\": \"bag\",\n  \"duffle bag\": \"bag\",\n  \"gym bag\": \"bag\",\n  \"travel bag\": \"bag\",\n  \"suitcase\": \"bag\",\n  \"trunk\": \"bag\",\n  \"luggage\": \"bag\",\n  \"holdall\": \"bag\",\n  \"satchel\": \"bag\",\n  \"satchel\": \"bag\",\n  \"carpet bag\": \"bag\",\n  \"messenger bag\": \"bag\",\n  \"shopping bag\": \"bag"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\": \"handbag\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"can be used to carry items\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"handbag\",\n    \"bag\",\n    \"satchel\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"accessory\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"bag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"bag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":\"handbag\",\"brand\":\"Prada\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"carrying\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concept\":\"handbag\",\n  \"disposition\":\"purse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"concepts\": [\n{\"concept_id\": \"handbag\",\n\"disposition\": \"possession\",\n\"subsumed_by\": [\"handbag\", \"purses\", \"bags\"]\n}\n]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"to put in a handbag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"handbag\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"a handbag that is a container used for carrying money and small personal items or accessories (especially by women)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"purse\",\n  \"sub_disposition\": \"pouch\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"container\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"containment\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"handbag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"large\"\n}\n"
+  }
+]

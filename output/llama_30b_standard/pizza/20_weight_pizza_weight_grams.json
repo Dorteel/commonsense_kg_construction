@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 340\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.2472472472472473\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 14000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 310.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 567\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"pizza\": {\n    \"weight\": 500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 810.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 370}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": \"90\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": \"pizza\",\n  \"weight\": 12.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.185\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 0.0}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"pizza\": \"Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese\",\n  \"weight\": \"as in {} measured in grams\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1000.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 450\n}\n"
+  }
+]

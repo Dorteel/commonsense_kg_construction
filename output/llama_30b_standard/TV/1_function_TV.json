@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"record\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"watch tv show\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"play\",\n  \"function\": \"pause\",\n  \"function\": \"stop\",\n  \"function\": \"record\",\n  \"function\": \"fastforward\",\n  \"function\": \"rewind\",\n  \"function\": \"mute\",\n  \"function\": \"volume\",\n  \"function\": \"channel\",\n  \"function\": \"close\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to switch on the device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"receive\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\":\"play\",\n  \"function\":\"pause\",\n  \"function\":\"rewind\",\n  \"function\":\"fastForward\",\n  \"function\":\"record\",\n  \"function\":\"stop\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"watch\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"channel_change\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"watch_tv\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\" : \"watch TV\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\":\"turnOn\",\n\"function\":\"turnOff\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"play\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"Watch TV\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"play\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"watching\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"Watch movies\",\n  \"function\": \"Watch shows\",\n  \"function\": \"Watch music videos\",\n  \"function\": \"Watch sports\",\n  \"function\": \"Watch news\",\n  \"function\": \"Watch cartoons\",\n  \"function\": \"Play music\",\n  \"function\": \"Play movies\",\n  \"function\": \"Play video games\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"on\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"play\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"Watch TV\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"display_tv\"\n}\n"
+  }
+]

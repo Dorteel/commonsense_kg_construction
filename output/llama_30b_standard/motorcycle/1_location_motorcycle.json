@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"road\",\n  \"location\": \"highway\",\n  \"location\": \"street\",\n  \"location\": \"parking lot\",\n  \"location\": \"driveway\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"highway\", \"location\": \"street\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"motorcycle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"garage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on a road\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"garage\",\"location\":\"street\",\"location\":\"street\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"road\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"roads\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"road\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : [\n    {\n      \"location\" : \"inside a garage\"\n    },\n    {\n      \"location\" : \"outside a house\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"a place\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bicycle lane\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"parking lot\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"garage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"motorcycle store\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a parking lot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"a garage\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the road\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"at a dealership\"\n}\n"
+  }
+]

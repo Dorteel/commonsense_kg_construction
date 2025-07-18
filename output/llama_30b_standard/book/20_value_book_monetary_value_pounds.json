@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"title\": \"The Alchemist\",\n  \"author\": \"Paulo Coelho\",\n  \"year\": \"1993\",\n  \"genre\": \"Fiction\",\n  \"publisher\": \"HarperOne\",\n  \"monetary value\": 0.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 31.19\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 52.00 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10.23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 20.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\": [\n    {\n      \"title\": \"A Wrinkle in Time\",\n      \"author\": \"Madeleine L'Engle\",\n      \"year\": \"1962\",\n      \"price\": 2.5\n    },\n    {\n      \"title\": \"The Wind in the Willows\",\n      \"author\": \"Kenneth Grahame\",\n      \"year\": \"1908\",\n      \"price\": 2.5\n    },\n    {\n      \"title\": \"Harry Potter and the Sorcerer's Stone\",\n      \"author\": \"J. K. Rowling\",\n      \"year\": \"1997\",\n      \"price\": 4.95\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 19.50}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 12.99\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"book\": [\n    {\n      \"title\": \"Alice's Adventures in Wonderland\",\n      \"isbn\": \"1234567891\",\n      \"publisher\": \"Dover Publications\",\n      \"date\": \"January 1866\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"book\",\n  \"monetary value\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 8.9}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 0.8\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 7.25}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"description\": \"average valueas in {}\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12.48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12.00,\n  \"book\": \"The Adventures of Tom Sawyer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"11.80\"\n}\n"
+  }
+]

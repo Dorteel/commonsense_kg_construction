@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 20.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 4.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"float\": 22.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 25,\n  \"location\": \"New York\",\n  \"occupation\": \"Software Engineer\",\n  \"friends\": [\n    {\n      \"name\": \"Tom\",\n      \"age\": 23\n    },\n    {\n      \"name\": \"Bill\",\n      \"age\": 25\n    }\n  ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 23\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mike\",\n  \"age\": 29,\n  \"occupation\": \"lawyer\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 15.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"44.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"dining_table\": {\n    \"temperature\": 15.6\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 29\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"dining table\": {\n        \"average temperature\": 10\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"23\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"20.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dining table",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21\n}\n"
+  }
+]

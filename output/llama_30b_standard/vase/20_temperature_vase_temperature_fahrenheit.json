@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"99.2\",\n  \"unit\": \"fahrenheit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 45 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"vase\": {\n        \"average\": 72\n    }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"Given the vase (which is an open jar of glass or porcelain used as an ornament or to hold flowers), provide the average temperatureas in {} measured in fahrenheit.\",\n  \"system\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"vase\": {\n    \"temperature\": 41.8\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":29.4}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 84.0,\n  \"units\": \"f\",\n  \"message\": \"the average temperature is 84.0 f\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 78.000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"vase\": {\n    \"temperature\": 76.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\" : 75.0,\n\"unit\" : \"fahrenheit\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n"
+  }
+]

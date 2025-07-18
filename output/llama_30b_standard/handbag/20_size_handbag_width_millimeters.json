@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 100}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"handbag\": {\n\"average size\": {\n\"width\": 300\n}\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"color\": \"black\",\n  \"price\": 1000,\n  \"name\": \"J.Crew\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 250}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 180\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 210.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 220\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 280\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 216\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"type\": \"text\",\n    \"text\": \"What is the average size of a handbag in millimeters\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 270\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"type\": \"text\",\"data\": {\"text\":\"Given the handbag (which is a container used for carrying money and small personal items or accessories (especially by women)), provide the average sizeas in {} measured in millimeters.\",\"context\": {\"turn\": 2,\"reference\": {\"name\": \"user\",\"type\": \"user\"}},\"intent\": \"assistant.intent.action.TEXT\",\"user\": {\"userId\": \"user_1516281275552\",\"name\": \"user\",\"avatar\": {\"imageUrl\": \"https://assistant.google.com/static/images/assistant/mVGA/user_1516281275552_avatar.png\"}},\"device\": {\"locale\": \"en-US\",\"model\": \"Google Nexus 6P\",\"screenX\": 1080,\"screenY\": 1920,\"availableMemory\": 116432127,\"totalMemory\": 20971520,\"battery\": {\"level\": 79.0,\"scale\": 100.0,\"status\": \"charging\"}},\"deviceTimestamp\": 1516281275552,\"conversation\": {\"conversationId\": \"1482194447146\",\"type\": \"ACTIVE\",\"conversationTimestamp\": 1516281275552,\"languageCode\": \"en-US\"},\"inputs\": [{\"intent\": \"assistant.intent.action.TEXT\",\"rawInputs\": [{\"query\": \"Given the handbag (which is a container used for carrying money and small personal items or accessories (especially by women)), provide the average"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\":\"Siri\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 200}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 235.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 420\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 170}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

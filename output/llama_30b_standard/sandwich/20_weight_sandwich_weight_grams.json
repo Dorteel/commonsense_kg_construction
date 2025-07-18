@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"200\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 240\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Sally\",\n  \"age\": 30,\n  \"is_married\": true,\n  \"height\": 155,\n  \"weight\": 70,\n  \"shoe_size\": 9\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 0.009082\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 11000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"160\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane Doe\",\n  \"age\": 30,\n  \"gender\": \"female\",\n  \"height\": 170\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\" : \"sandwich\",\n  \"weight\" : 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Tony Stark\",\n  \"company\": \"Stark Industries\",\n  \"age\": 44\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Grape\",\n  \"fruit\": \"yes\",\n  \"color\": \"purple\",\n  \"taste\": \"sweet\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 196}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 118\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100,\n  \"sandwich\": {\n    \"slices\": 2,\n    \"filling\": \"ham and cheese\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average weight of a sandwich, measured in grams?\",\n  \"intent\": \"average_weight_of_sandwich\",\n  \"entities\": {\n    \"sandwich\": {\n      \"value\": \"sandwich\",\n      \"type\": \"sandwich\"\n    }\n  },\n  \"inputs\": [\n    {\n      \"intent\": \"average_weight_of_sandwich\",\n      \"raw_input\": \"What is the average weight of a sandwich, measured in grams?\",\n      \"input_type\": \"text\"\n    }\n  ],\n  \"language\": \"en\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sandwich",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100.0,\n  \"sandwich\": {\n    \"filling\": {\n      \"eggs\": \"fried\",\n      \"bread\": \"white\"\n    },\n    \"bread\": \"white\"\n  }\n}\n"
+  }
+]

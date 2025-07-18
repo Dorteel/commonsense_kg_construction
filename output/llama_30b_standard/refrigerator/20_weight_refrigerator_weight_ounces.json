@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"refrigerator\": {\n      \"average\": 37\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 14.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 45.5,\n\"color\": \"white\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 24.63}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\":4.4}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5.7\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"value\": {\n      \"numberValue\": 10\n    }\n  }\n}\n"
+  }
+]

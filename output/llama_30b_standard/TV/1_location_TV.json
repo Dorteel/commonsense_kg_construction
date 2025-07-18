@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"living room\",\"living room\":\"living room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"living room\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": {\n    \"name\": \"living room\",\n    \"id\": \"3042\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"living room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"living room\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in a living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\" : \"living room\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"home\",\n  \"location\": \"living room\",\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"livingroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"living room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bedroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": {\n        \"car\": \"It's usually in the car.\",\n        \"household\": \"It's usually in the house.\",\n        \"office\": \"It's usually in the office.\"\n    }\n}\n"
+  }
+]

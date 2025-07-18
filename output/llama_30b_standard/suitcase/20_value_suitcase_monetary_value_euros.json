@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary_value\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 123\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"suitcase\": 150.0,\n  \"monetary value\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 199.99}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"suitcase\": \"portable rectangular container for clothes\",\n\"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"suitcase\": {\n    \"monetary value\": 120.0\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2150.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 123.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"euros\": 300\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetaryValue\": 0.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"suitcase\": {\n        \"average\": 100\n    },\n    \"monetary\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 2000\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 200.0,\n  \"suitcase\": \"portable rectangular container for carrying clothes\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

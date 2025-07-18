@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"to be worn\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"casual\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"accessory\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tied\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"clothing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"neckwear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\": \"tie\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"tight\"}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tied\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\": \"cloth\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"worn\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"to wear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"dressy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"fashion\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"assistant\": {\n        \"disposition\": \"human\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tie_to_a_necktie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"neckwear\",\n  \"type\": \"tie\",\n  \"object\": \"the tie\",\n  \"property\": \"property of the tie\",\n  \"action\": \"to wear the tie\",\n  \"location\": \"the tie\",\n  \"time\": \"time to wear the tie\",\n  \"reason\": \"reason to wear the tie\",\n  \"purpose\": \"purpose to wear the tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"neckwear\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"tied\"\n}\n"
+  }
+]

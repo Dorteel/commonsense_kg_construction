@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bottle\": 37.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 285.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 180.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bottle\": 36.67,\n  \"temperature\": 36.67\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 63.33}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 74\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 55.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.000149412788508934\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bottle\": {\n    \"is_made\": \"glass\",\n    \"contains\": \"water\"\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 60.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 55.987\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 80.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 36.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Google\",\n  \"gender\": \"male\",\n  \"age\": 13,\n  \"job\": \"search engine\",\n  \"skills\": [\"speech recognition\", \"natural language understanding\"]\n}\n "
+  }
+]

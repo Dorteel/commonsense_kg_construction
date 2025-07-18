@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"height\": {\n      \"type\": \"number\",\n      \"minimum\": 0,\n      \"maximum\": 1000,\n      \"exclusiveMaximum\": true\n    }\n  },\n  \"required\": [\n    \"height\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 1.36,\n    \"width\": 15,\n    \"depth\": 5.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"sense\": {\n    \"noun\": \"appliance\",\n    \"adjective\": \"kitchen\",\n    \"verb\": \"toast\"\n  },\n  \"entity\": {\n    \"noun\": \"toaster\",\n    \"adjective\": \"usually\",\n    \"verb\": \"electric\"\n  },\n  \"number\": \"bread\",\n  \"average\": \"sizeas\",\n  \"float\": \"feet\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alexa\",\n  \"siblings\": [\n    {\n      \"name\": \"Amazon Echo\",\n      \"siblings\": [\n        {\n          \"name\": \"Amazon Tap\",\n          \"siblings\": [\n            {\n              \"name\": \"Amazon Fire TV\",\n              \"siblings\": [\n                {\n                  \"name\": \"Amazon Fire TV Stick\",\n                  \"siblings\": []\n                },\n                {\n                  \"name\": \"Amazon Fire TV Cube\",\n                  \"siblings\": []\n                },\n                {\n                  \"name\": \"Amazon Fire TV Recast\",\n                  \"siblings\": []\n                }\n              ]\n            },\n            {\n              \"name\": \"Amazon Echo Look\",\n              \"siblings\": [\n                {\n                  \"name\": \"Amazon Echo Spot\",\n                  \"siblings\": []\n                },\n                {\n                  \"name\": \"Amazon Echo Show\",\n                  \"siblings\": []\n                }\n              ]\n            },\n            {\n              \"name\": \"Amazon Echo Dot\",\n              \"siblings\": [\n                {\n                  \"name\": \"Amazon Echo Plus\",\n                  \"siblings\": []\n                },\n                {\n                  \"name\": \"Amazon Echo Input\",\n                  \"siblings\": []\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"name\": \"Amazon Echo Spot\",\n          \"siblings\": [\n            {\n              \"name\": \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 1.5 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 2.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.3}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"AirPod\",\n  \"price\": 150,\n  \"battery\": {\n    \"capacity\": 100,\n    \"time\": \"1.5h\",\n    \"voltage\": 3.7,\n    \"current\": 500\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"John\",\n    \"age\": 30,\n    \"married\": false,\n    \"children\": 2,\n    \"job\": \"Teacher\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"toaster\": {\n    \"type\": \"kitchen appliance\",\n    \"usually electric\": true,\n    \"for toasting bread\": true\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 8.0}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": [\n    {\n      \"name\": \"HAL\",\n      \"appearance\": {\n        \"eye\": \"green\"\n      }\n    }\n  ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": \"1.5\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"toaster\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": \"5\", \"toaster\": { \"kitchen_appliance\": { \"bread\": { \"electric\": { \"toasting\": [ \"bread\" ] } } } } }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"user\": \"Given the toaster (which is a kitchen appliance (usually electric) for toasting bread), provide the average sizeas in {} measured in feet.\",\n    \"return\": \"Return only JSON with key:\\n\\n  - height (float)\\n\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.0,\n  \"width\": 1.0,\n  \"depth\": 1.5\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": 165\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 154.0, \"width\": 10.0, \"length\": 154.0, \"thickness\": 3.5, \"volume\": 4258.8, \"weight\": 7.1}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Joe\",\n    \"height\": 190\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 170\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 159\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 139.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"10000000000000000000000000000000\",\n  \"user_name\": \"John Doe\",\n  \"user_email\": \"john@doe.com\",\n  \"user_phone\": \"1231231234\",\n  \"user_address\": {\n    \"city\": \"New York\",\n    \"state\": \"NY\",\n    \"zip\": \"10000\"\n  },\n  \"user_interests\": [\n    \"Sports\"\n  ],\n  \"user_gender\": \"male\",\n  \"user_age\": 40,\n  \"user_height\": 1.85,\n  \"user_weight\": 80,\n  \"user_bmi\": 23.2,\n  \"user_location\": {\n    \"longitude\": -74.0059727,\n    \"latitude\": 40.7127752\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Snowboard\",\n  \"type\": \"sport\",\n  \"height\": 10.0,\n  \"width\": 30.0,\n  \"length\": 100.0,\n  \"weight\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"33\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 160\n}\n  \t\t  \t  \t  \t  \t  \t "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 182\n  },\n  \"type\": \"snowboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Matthew\",\n  \"age\": 15\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 164.7,\n  \"length\": 145,\n  \"width\": 35\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 160\n}\n"
+  }
+]

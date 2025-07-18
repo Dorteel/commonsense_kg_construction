@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.78\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\":1.2}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"banana\": {\n        \"monetary value\": 1.00\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 0.65,\n    \"currency\": \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.79\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 0.42}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.999999999999999\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.38\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\" : 0.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"average\": \"1.92\",\n    \"currency\": \"EUR\"\n  }\n}\n"
+  }
+]

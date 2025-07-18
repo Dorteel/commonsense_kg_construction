@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"width\": 1.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"device\",\n  \"name\": \"TV\",\n  \"description\": \"Electronic device that receives television signals and displays them on a screen.\",\n  \"size\": {\n    \"width\": 1.35,\n    \"height\": 0.45,\n    \"depth\": 0.35\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.8488050827878772\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Television\",\n  \"type\": \"electronic\",\n  \"size\": {\"width\": 1.50, \"height\": 1.50, \"depth\": 1.00}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 0.0024}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"tv\": {\n    \"brand\": \"Samsung\",\n    \"size\": {\n      \"width\": 1.5,\n      \"height\": 1.0\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"device\": \"TV\",\n\"size\": \"average\",\n\"unit\": \"meters\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\":\"text\",\n  \"text\":\"Do you know how to cook rice?\",\n  \"intent\":\"action.devices.EXECUTE\",\n  \"contexts\":[\n    {\n      \"name\":\"device_id\",\n      \"lifespan\":1,\n      \"parameters\":{\n        \"id\":\"hue\"\n      }\n    }\n  ],\n  \"metadata\":{\n    \"intentId\":\"1308471373502\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.8\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.2\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1.5}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 10.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0\n}\n"
+  }
+]

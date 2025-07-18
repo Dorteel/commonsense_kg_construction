@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Africa\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [ \"stable\", \"pasture\", \"barn\" ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"mountain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"farm\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Farm\",\n  \"location\": \"Wild\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"North America\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": [\"pasture\", \"stall\"]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"house\",\n  \"location\": \"barn\",\n  \"location\": \"farm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"stable\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"stable\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"horse farm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"paddock\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"field\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"horse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"barn\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"horse-stables\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"pasture\",\"location\":\"stable\",\"location\":\"horse farm\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"barn\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"barn\"}\n  \t\t\t  \t\t\t  \t\t\t\t  \t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"grasslands\"}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 20.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 60\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 60.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 59.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 17.95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 15.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"amount\": 10,\n    \"currency\": \"USD\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"100.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 80.0,\n  \"product type\": \"mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 55.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 50.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 69.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"type\": \"float\",\n    \"minimum\": 0,\n    \"maximum\": 100000,\n    \"average\": 35\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 54.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 100.00\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 10.123456789}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": {\n\"value\": 30000,\n\"unit\": \"gram\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 200 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 10000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10,\n  \"unit\": \"grams\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"question\": \"Given the potted plant (which is a plant suitable for growing in a flowerpot (especially indoors)), provide the average weightas in {} measured in grams.\",\n    \"result\": {\n        \"key\": \"weight\",\n        \"value\": \"4.0\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\" : 12.345\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Vinay\",\n  \"age\": 23,\n  \"salary\": 120000\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"Jane Smith\",\n    \"age\": 32,\n    \"gender\": \"Female\",\n    \"phone\": \"+14158675309\",\n    \"address\": {\n      \"street\": \"1234 Some St.\",\n      \"city\": \"San Francisco\",\n      \"state\": \"CA\",\n      \"zip\": \"94111\"\n    },\n    \"pets\": [\n      {\n        \"name\": \"Fluffy\",\n        \"type\": \"Dog\",\n        \"age\": 1,\n        \"gender\": \"Female\",\n        \"birthday\": \"2016-01-01T00:00:00Z\",\n        \"breed\": \"Pug\",\n        \"picture\": \"https://randomuser.me/api/portraits/women/39.jpg\"\n      }\n    ]\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 2.35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"2000\",\n  \"type\": \"plant\",\n  \"location\": \"garden\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average weight of a potted plant in grams?\",\n  \"context\": null,\n  \"result\": {\n    \"source\": \"agent\",\n    \"resolvedQuery\": \"What is the average weight of a potted plant in grams?\",\n    \"action\": \"get_weight\",\n    \"actionIncomplete\": false,\n    \"parameters\": {\n      \"plant\": \"potted plant\"\n    },\n    \"contexts\": [],\n    \"metadata\": {\n      \"intentId\": \"c6697a6f-5573-4f34-8743-1883c906eefd\",\n      \"webhookUsed\": \"true\",\n      \"webhookForSlotFillingUsed\": \"false\",\n      \"webhookResponseTime\": 15,\n      \"intentName\": \"get_weight\"\n    },\n    \"fulfillment\": {\n      \"messages\": [\n        {\n          \"platform\": \"facebook\",\n          \"payload\": {\n            \"google\": {\n              \"expectUserResponse\": true,\n              \"isSsml\": false,\n              \"noInputPrompts\": [],\n              \"systemIntent\": {\n                \"intent\": \"actions.intent.SIGN_IN\"\n              },\n              \"data\": {\n                \"@type\": \"type.googleapis.com/google.actions.v2.SignInValueSpec\",\n                \"payload\": {\n                  \"@type\": \"type.googleapis.com/google.actions.v2.SignInValueSpec.PayloadType\",\n                  \"signInValue\": {\n                    \"@type\": \"type.googleapis.com/google.actions.v2.Sign"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123\",\n  \"email\": \"email@gmail.com\",\n  \"password\": \"123456\",\n  \"user_type\": \"assistant\",\n  \"is_active\": true\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 5.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"name\": \"potted plant\",\n\"weight\": 255.8,\n\"color\": \"green\",\n\"height\": 17\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  }
+]

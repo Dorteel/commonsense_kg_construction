@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 27.4 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"teddy bear\",\n  \"material\": \"plush\",\n  \"toy\": true,\n  \"average temperature\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"name\": \"Teddy bear\",\n    \"type\": \"toy\",\n    \"description\": \"A teddy bear is a soft toy in the form of a bear\",\n    \"image\": \"http://www.bearpile.com/wp-content/uploads/2014/08/teddy-bear.jpg\",\n    \"tags\": [\n        \"teddy\",\n        \"bear\"\n    ],\n    \"average_temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\" : 13.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\" : \"1234567890\",\n  \"session_id\" : \"1456346321345343245632456324\",\n  \"timestamp\" : \"2016-06-09T12:00:00Z\",\n  \"source\" : \"google\",\n  \"resolved_query\" : \"average temperature of teddy bear\",\n  \"action\" : \"query\",\n  \"action_incomplete\" : false,\n  \"parameters\" : {\n    \"unit\" : \"celsius\"\n  },\n  \"contexts\" : [\n    {\n      \"name\" : \"place_in_home\",\n      \"lifespan\" : 10,\n      \"parameters\" : {\n        \"home\" : {\n          \"id\" : \"be321d21-cf13-467e-b2d2-3b1335ec3a3d\",\n          \"name\" : \"User's Home\",\n          \"entities\" : {\n            \"room\" : {\n              \"id\" : \"be321d21-cf13-467e-b2d2-3b1335ec3a3d\",\n              \"name\" : \"Living Room\",\n              \"is_private\" : false\n            },\n            \"person\" : {\n              \"id\" : \"be321d21-cf13-467e-b2d2-3b1335ec3a3d\",\n              \"name"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":25.0,\"time\":\"2020-04-07 11:57:11\"}\n                  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 123.456\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 15.474\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user@example.com\",\n  \"temp\": 25.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 29.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 23.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.5,\n  \"text\": \"The average temperature in Australia is 20.5 degrees celsius\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 23.000000000000001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant_user_id\":\"123456\",\n  \"locale\":\"en-US\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 29.4}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 30\n}\n "
+  }
+]

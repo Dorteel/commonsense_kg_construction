@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"color\": \"orange\",\n  \"size\": \"large\",\n  \"shape\": \"round\",\n  \"weight\": 550,\n  \"capacity\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Bill\",\n  \"age\": 30,\n  \"phone\": \"555-1212\",\n  \"address\": \"123 Main St.\",\n  \"email\": \"bill@gmail.com\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 5.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"remote\",\n  \"name\": \"Remote1\",\n  \"manufacturer\": \"Sony\",\n  \"model\": \"RM-X5000\",\n  \"productType\": \"TV\",\n  \"size\": \"100\",\n  \"brand\": \"Sony\",\n  \"color\": \"White\",\n  \"technology\": \"DLP\",\n  \"maxResolution\": \"1920x1080\",\n  \"maxInput\": \"4\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 11.9}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 42\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"width\": {\n      \"type\": \"number\",\n      \"minimum\": 0,\n      \"maximum\": 10\n    },\n    \"length\": {\n      \"type\": \"number\",\n      \"minimum\": 0,\n      \"maximum\": 10\n    },\n    \"height\": {\n      \"type\": \"number\",\n      \"minimum\": 0,\n      \"maximum\": 10\n    }\n  },\n  \"required\": [\"width\", \"length\", \"height\"]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"width\": {\n      \"type\": \"number\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alexa\",\n  \"manufacturer\": \"Amazon\",\n  \"model\": \"Echo\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 15.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 123 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"name\": \"TV Remote\",\n    \"model\": \"Amazon Fire TV Remote\",\n    \"description\": \"The remote control for the Amazon Fire TV.\",\n    \"genre\": \"Remote Control\",\n    \"type\": \"Accessory\",\n    \"manufacturer\": \"Amazon\",\n    \"manufacturer_url\": \"https://www.amazon.com/\",\n    \"brand\": \"Amazon\",\n    \"brand_url\": \"https://www.amazon.com/\",\n    \"image_url\": \"https://images-na.ssl-images-amazon.com/images/I/51gjGyPvQGL._SX425_.jpg\",\n    \"color\": \"black\",\n    \"weight\": 40,\n    \"weight_unit\": \"grams\",\n    \"height\": 20,\n    \"height_unit\": \"centimeters\",\n    \"width\": 50,\n    \"width_unit\": \"centimeters\",\n    \"length\": 130,\n    \"length_unit\": \"millimeters\",\n    \"price\": 50,\n    \"price_currency\": \"USD\",\n    \"date_added\": \"2015-10-05T12:00:00Z\",\n    \"date_available\": \"2015-10-05T12:00:00Z\",\n    \"date_code_generated\": \"2017-08-14T22:57:14Z\",\n    \"date_code_generated_source\": \"API\",\n    \"date_last_updated\": \"2017-08-14T"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 22.857142857142856\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"11.6\",\n  \"height\": \"11.6\",\n  \"thickness\": \"2.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"device\": \"remote\",\n  \"size\": 12.5\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 23.9804169921875\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 34.87\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": 30\n}\n"
+  }
+]

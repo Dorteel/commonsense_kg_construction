@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":15.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\" : 25 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"assistant\",\n  \"text\": {\n    \"messages\": [\n      {\n        \"text\": \"hi\",\n        \"participants\": [\n          {\n            \"name\": \"user\"\n          }\n        ]\n      }\n    ]\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"intent\": \"action.devices.SYSTEM\",\n  \"slots\": {\n    \"device_id\": {\n      \"name\": \"device_id\",\n      \"value\": \"123456789012\"\n    }\n  },\n  \"inputs\": [\n    {\n      \"intent\": \"action.devices.SYSTEM\",\n      \"raw_inputs\": [\n        {\n          \"input_type\": \"voice\",\n          \"query\": \"turn on the tv\"\n        }\n      ]\n    }\n  ],\n  \"user\": {\n    \"userId\": \"123456789012\"\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"name\": \"Siri\",\n    \"type\": \"assistant\",\n    \"version\": \"1.0.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"speech_output\": \"Your average temperature is 32.0\",\n  \"data\": {\n    \"google\": {\n      \"expectUserResponse\": true,\n      \"isInSandbox\": true\n    }\n  },\n  \"contextOut\": [\n    {\n      \"name\": \"input\",\n      \"lifespan\": 5\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"user_id\": \"12345\",\n    \"name\": \"Jeff\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"text\": \"What is the temperature of the remote?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"name\":\"assistant\",\n\"input\": {\"text\": \"Hello, how are you?\" },\n\"context\": {\"name\": \"assistant\", \"lifespan\": 5, \"conversation_id\": \"1480975993199\", \"surface\": {\"capabilities\": {\"actions\": [\"action.devices.SYSTEM.REMOTE\"]}}, \"conversation\": {\"type\": \"ACTIVE\", \"conversation_id\": \"1480975993199\", \"state\": \"STARTED\", \"language_code\": \"en-US\", \"conversation_token\": \"{\"}\n},\n\"intent\": \"action.devices.SYSTEM.REMOTE\",\n\"slots\": {\"input_type\": \"VOICE\"},\n\"raw_request\": \"{'text': 'Hello, how are you?', 'input': {'text': 'Hello, how are you?'}, 'context': {'name': 'assistant', 'lifespan': 5, 'conversation_id': '1480975993199', 'surface': {'capabilities': {'actions': ['action.devices.SYSTEM.REMOTE']}}, 'conversation': {'type': 'ACTIVE', 'conversation_id': '1480975993199', 'state': 'STARTED', 'language_code': 'en-US', 'conversation_token': '{\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 41.1,\n  \"humidity\": 43,\n  \"pressure\": 1010,\n  \"light\": 45,\n  \"location\": {\n    \"longitude\": 33,\n    \"latitude\": 80,\n    \"altitude\": 0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"device_id\": \"112233\",\n  \"device_type\": \"remote\",\n  \"state\": \"on\"\n}\n  \t\t\t\t\t\t\t  \t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"contexts\": [\n    {\n      \"name\": \"weather\",\n      \"parameters\": {}\n    }\n  ],\n  \"intents\": [\n    {\n      \"name\": \"get_weather\",\n      \"parameters\": {\n        \"city\": \"Palo Alto\"\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"name\": \"Assistant\", \"gender\": \"Female\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\" : 21.75 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"device_name\": \"Air Conditioner\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"U-123456789\",\n  \"device_id\": \"R-123456789\",\n  \"action\": \"set_temperature\",\n  \"data\": {\n    \"target_temp\": 22\n  }\n}\n"
+  }
+]

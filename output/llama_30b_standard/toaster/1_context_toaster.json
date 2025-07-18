@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"kitchen appliance\",\n    \"entity\": \"toaster\",\n    \"examples\": [\n        {\n            \"example\": \"The toaster is in the kitchen.\"\n        },\n        {\n            \"example\": \"The toaster is in the kitchen. It is a kitchen appliance.\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a place where you prepare food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bread\",\n  \"result\": \"toast\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen appliance (usually electric) for toasting bread\",\n  \"concepts\": [\n    {\n      \"concept\": \"appliance\",\n      \"context\": \"a machine or device for a specific purpose (especially a machine in the home for food preparation and cooking)\"\n    },\n    {\n      \"concept\": \"kitchen appliance\",\n      \"context\": \"a machine or device for a specific purpose (especially a machine in the home for food preparation and cooking)\"\n    },\n    {\n      \"concept\": \"electrical appliance\",\n      \"context\": \"a machine or device for a specific purpose (especially a machine in the home for food preparation and cooking)\"\n    },\n    {\n      \"concept\": \"toaster\",\n      \"context\": \"a kitchen appliance (usually electric) for toasting bread\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"in the kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a kitchen appliance (usually electric) for toasting bread\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\" : \"a toaster\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen appliance\",\n  \"text\": \"a kitchen appliance (usually electric) for toasting bread\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"A toaster is a small electric appliance designed to brown sliced bread by exposing it to heat for a timed period.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"toast\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a kitchen appliance (usually electric) for toasting bread\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Kitchen Appliance\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"kitchen appliance (usually electric) for toasting bread\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen\"\n}\n"
+  }
+]

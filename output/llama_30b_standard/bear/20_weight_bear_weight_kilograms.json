@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"question\": \"Given the bear (which is massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws), provide the average weightas in {} measured in kilograms. Return only JSON with key:  - weight (float)\",\n    \"input\": \"bear\",\n    \"output\": \"298.255\"\n  },\n  \"correct\": true,\n  \"user\": \"user\",\n  \"assistant\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 33,\n  \"is_married\": true,\n  \"has_kids\": false\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 350 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"float\": {\n      \"minimum\": 0.0,\n      \"maximum\": 1000000000000.0\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 350\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mr. Bear\",\n  \"weight\": \"1000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"name\" : \"Bear\",\n\"weight\" : 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"bear\":\n  {\n    \"weight\":\n    {\n      \"kg\": 415\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_id\": 5787275,\n  \"first_name\": \"Jane\",\n  \"last_name\": \"Doe\",\n  \"email\": \"jane.doe@example.com\",\n  \"phone_number\": \"1234567890\",\n  \"address\": {\n    \"address_1\": \"1234 Main St\",\n    \"address_2\": \"Apartment 102\",\n    \"city\": \"Dallas\",\n    \"state\": \"TX\",\n    \"postal_code\": \"75202\"\n  },\n  \"company\": \"Acme Inc.\",\n  \"company_phone_number\": \"987654321\",\n  \"company_address\": {\n    \"address_1\": \"111 Main St.\",\n    \"address_2\": \"Suite 101\",\n    \"city\": \"Dallas\",\n    \"state\": \"TX\",\n    \"postal_code\": \"75202\"\n  },\n  \"company_email\": \"acme@example.com\",\n  \"company_website\": \"http://www.acme.com\",\n  \"company_logo\": {\n    \"url\": \"http://www.example.com/image.png\",\n    \"width\": 100,\n    \"height\": 100\n  },\n  \"company_phone_number_verified\": true,\n  \"company_address_verified\": true,\n  \"company_email_verified\": true,\n  \"company_logo_verified\": true,\n  \"status\": \"active\",\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 50,\n  \"furry\": \"yes\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"text\": \"what is the average weight of a bear?\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"intents\": [\n      \"assistant.intent.action.TEXT\"\n    ],\n    \"inputs\": [\n      {\n        \"intent\": \"assistant.intent.action.TEXT\",\n        \"rawInputs\": [\n          {\n            \"query\": \"hi\"\n          }\n        ],\n        \"arguments\": [\n          {\n            \"name\": \"text\",\n            \"rawText\": \"hi\",\n            \"textValue\": \"hi\"\n          }\n        ]\n      }\n    ],\n    \"user\": {\n      \"locale\": \"en-US\"\n    },\n    \"device\": {\n      \"locale\": \"en-US\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : {\n    \"range\" : [300, 600]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 125.80\n}\n"
+  }
+]

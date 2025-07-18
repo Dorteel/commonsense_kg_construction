@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Boris\",\n  \"age\": 41,\n  \"sex\": \"male\",\n  \"height\": 1.82,\n  \"weight\": 87,\n  \"eyecolor\": \"blue\",\n  \"haircolor\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 140}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 180.0\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"British English\",\n  \"code\": \"en-gb\",\n  \"englishName\": \"British English\",\n  \"nativeName\": \"British English\",\n  \"language\": \"en\",\n  \"numberOfSpeakers\": 59368000,\n  \"date\": \"1989\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": \"What is the height of a toaster?\",\n  \"intents\": [\n    {\n      \"intent\": \"find_height\",\n      \"slots\": {\n        \"type\": \"kitchen_appliance\"\n      }\n    }\n  ],\n  \"entities\": [\n    {\n      \"entity\": \"type\",\n      \"type\": \"builtin_entity\",\n      \"value\": \"kitchen_appliance\"\n    }\n  ],\n  \"inputs\": [\n    {\n      \"input\": \"type\"\n    }\n  ]\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 149.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 240, \"width\": 100, \"depth\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 119.35, \"name\": \"Sunbeam 2-Slice Toaster\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"001\",\n  \"conversation_id\": \"1587283870\",\n  \"text\": \"What is the average size of a toaster?\",\n  \"attachments\": [],\n  \"entities\": [],\n  \"input_text\": \"What is the average size of a toaster?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 150 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"id\": \"12345\",\n  \"name\": \"Toaster\",\n  \"manufacturer\": \"Panasonic\",\n  \"model\": \"TX-6400\",\n  \"description\": \"Toaster for toasting bread\",\n  \"features\": [\n    {\n      \"name\": \"Toasting\",\n      \"description\": \"Toaster for toasting bread\",\n      \"value\": true,\n      \"type\": \"boolean\"\n    }\n  ],\n  \"price\": 200,\n  \"currency\": \"USD\",\n  \"average_rating\": 3.5,\n  \"reviews\": 25,\n  \"created_at\": \"2018-02-19T07:19:41Z\",\n  \"updated_at\": \"2018-02-19T07:19:41Z\",\n  \"is_active\": true,\n  \"is_deleted\": false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":175}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 197.0,\n    \"width\": 222.0,\n    \"length\": 380.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 152.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"version\": \"1.0.0\",\n  \"description\": \"This is a test assistant\",\n  \"type\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 320.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 125.33\n}\n"
+  }
+]

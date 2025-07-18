@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 1.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary_value\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": \"9.99\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 12.00,\n  \"currency\": \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetaryValue\": 14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 0.25, \"unit\": \"euros\"}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": {\n\"value\": 50.32,\n\"unit\": \"€\"\n},\n\"monetary value\": {\n\"value\": 5.032,\n\"unit\": \"€\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"value\" : 0.00,\n  \"monetary\" : 0.00,\n  \"euros\" : 0.00,\n  \"currency\" : \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"key\": \"monetary value\",\n  \"value\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"bottle\": \"glass\",\n  \"cap\": \"plastic\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"bottle\": \"bottle\",\n  \"monetary_value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"bottle\": 0.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bottle",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 0\n}\n"
+  }
+]

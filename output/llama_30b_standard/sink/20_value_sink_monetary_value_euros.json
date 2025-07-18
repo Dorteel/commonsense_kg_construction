@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12.98\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\" : 500.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"sink\": {\n    \"monetary value\": 15.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 123.456\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 15.39\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 7.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"euros\": {\n      \"average\": 15.0\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 249.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 0.36}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"sink\": \"bathroom sink\",\n  \"price\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary_value\": 200}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1.0\n}\n"
+  }
+]

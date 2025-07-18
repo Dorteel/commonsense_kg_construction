@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":1.25}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 100000 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 79.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.0,\n  \"width\": 2.0,\n  \"height\": 1.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 500,\n  \"width\": 500,\n  \"height\": 500\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Potted Plant\",\n  \"common_name\": \"Potted Plant\",\n  \"scientific_name\": \"Potted Plant\",\n  \"kingdom\": \"Plantae\",\n  \"phylum\": \"Tracheophyta\",\n  \"class\": \"Magnoliopsida\",\n  \"order\": \"Fabales\",\n  \"family\": \"Fabaceae\",\n  \"genus\": \"Lathyrus\",\n  \"species\": \"L. odoratus\",\n  \"author\": \"L.\",\n  \"is_potted\": true\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":42.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"language\": \"en-US\",\n    \"availableSurfaces\": [\n      {\n        \"capabilities\": [\n          \"dialogflow_capability_screen_input\",\n          \"dialogflow_capability_web_browser\"\n        ],\n        \"displayName\": \"Smart Display\",\n        \"name\": \"72d98066-3f31-41d2-8955-306254584886-web-browser\",\n        \"defaultSurface\": true\n      },\n      {\n        \"capabilities\": [\n          \"dialogflow_capability_screen_input\",\n          \"dialogflow_capability_audio_output\"\n        ],\n        \"displayName\": \"Speaker\",\n        \"name\": \"72d98066-3f31-41d2-8955-306254584886-speaker\",\n        \"defaultSurface\": false\n      },\n      {\n        \"capabilities\": [\n          \"dialogflow_capability_audio_input\",\n          \"dialogflow_capability_audio_output\"\n        ],\n        \"displayName\": \"Headphones\",\n        \"name\": \"72d98066-3f31-41d2-8955-306254584886-headphones\",\n        \"defaultSurface\": false\n      }\n    ]\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 200,\n  \"width\": 200,\n  \"height\": 200\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"name\":\"assistant\",\"assistants\":[{\"name\":\"assistant1\"},{\"name\":\"assistant2\"}],\"assistants_name\":[],\"assistants_name_1\":[\"assistant1\"],\"assistants_name_2\":[],\"assistants_name_3\":[],\"assistants_name_4\":[],\"assistants_name_5\":[]}\n"
+  }
+]

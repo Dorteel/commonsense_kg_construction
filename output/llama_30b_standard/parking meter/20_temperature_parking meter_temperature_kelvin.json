@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 5.356e6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"parking meter\":\n  {\n    \"coin\": \"nickel\",\n    \"time\": \"10 minutes\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"parking_meter\": {\n    \"coin\": [\n      {\n        \"type\": \"nickel\"\n      },\n      {\n        \"type\": \"quarter\"\n      },\n      {\n        \"type\": \"dime\"\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 305.67\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": \"50.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 293.15,\n    \"user_location\": \"Canada\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 0.0,\n    \"error\": \"invalid temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\": 300 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"45\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n \"user\" : {\n  \"name\" : \"Joe Smith\",\n  \"age\" : 21,\n  \"address\" : {\n   \"street\" : \"123 Main St.\",\n   \"city\" : \"New York City\",\n   \"state\" : \"New York\",\n   \"zip\" : 10001\n  }\n }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"time\": 1508232082209\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 19.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 283.15,\n  \"temperature_kelvin\": 283.15\n}\n"
+  }
+]

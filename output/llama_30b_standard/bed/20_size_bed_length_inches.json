@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 36,\n  \"width\": 79,\n  \"height\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 235.5,\n  \"width\": 315,\n  \"height\": 34\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 80 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 60 }\n     \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 76.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"39\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": \"172\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"bed\": [\n    {\n      \"length\": 5,\n      \"width\": 5,\n      \"height\": 5\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 77\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"float\": 150\n  },\n  \"width\": {\n    \"float\": 75\n  },\n  \"height\": {\n    \"float\": 75\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"116\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 277.4\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 27\n}\n"
+  }
+]

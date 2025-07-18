@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 11.4}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Joe\",\n  \"gender\": \"male\",\n  \"age\": 40,\n  \"married\": true,\n  \"employed\": true,\n  \"has_car\": true,\n  \"has_cell_phone\": true,\n  \"likes\": [\n    \"sports\",\n    \"movies\",\n    \"food\",\n    \"tv\"\n  ],\n  \"dislikes\": [\n    \"gambling\",\n    \"drinking\",\n    \"smoking\"\n  ],\n  \"languages_spoken\": [\n    \"english\",\n    \"spanish\",\n    \"french\"\n  ],\n  \"pets\": [\n    \"cat\",\n    \"dog\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 29.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 12.2\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.61\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 29.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"telephony\": \"wireless\",\n    \"temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 28.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"telephony\": \"telephony that uses transmission by radio rather than by wire\",\n  \"celsius\": \"celsius\",\n  \"temperature\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.000000,\n  \"timezone\": \"Europe/Amsterdam\",\n  \"currency\": \"Euro\",\n  \"language\": \"Dutch\",\n  \"region\": \"Netherlands\"\n}\n"
+  }
+]

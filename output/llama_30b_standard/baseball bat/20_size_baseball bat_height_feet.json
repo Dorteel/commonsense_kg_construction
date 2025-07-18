@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.0\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\" : \"3.25\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 0.366\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\" : 2.6 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.234\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"baseball\": {\n    \"bat\": {\n      \"height\": {\n        \"average\": \"34\"\n      }\n    }\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : {\n    \"baseball\" : 2.4,\n    \"softball\" : 2.4,\n    \"basketball\" : 2.4,\n    \"tennis\" : 2.4,\n    \"pingpong\" : 2.4,\n    \"badminton\" : 2.4,\n    \"volleyball\" : 2.4,\n    \"lacrosse\" : 2.4,\n    \"golf\" : 2.4,\n    \"bowling\" : 2.4,\n    \"hockey\" : 2.4,\n    \"field hockey\" : 2.4,\n    \"cricket\" : 2.4,\n    \"billiards\" : 2.4,\n    \"soccer\" : 2.4,\n    \"bocce\" : 2.4,\n    \"curling\" : 2.4,\n    \"baseball\" : 2.4,\n    \"softball\" : 2.4,\n    \"basketball\" : 2.4,\n    \"tennis\" : 2.4,\n    \"pingpong\" : 2.4,\n    \"badminton\" : 2.4,\n    \"volleyball\" : 2.4,\n    \"lacrosse\" : 2.4,\n    \"golf\" : 2.4,\n    \"bowling\" : 2.4,\n    \"hockey\" : 2.4,\n    \"field hockey\" : 2.4,\n    \"cricket\" : 2.4,\n    \"billiards\" : 2.4,\n    \"soccer\" : 2.4,\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": \"2.5\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.03\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"value\": 36,\n    \"unit\": \"IN\"\n  },\n  \"batter\": {\n    \"value\": \"player\",\n    \"unit\": \"PERSON\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 36.0000}\n"
+  }
+]

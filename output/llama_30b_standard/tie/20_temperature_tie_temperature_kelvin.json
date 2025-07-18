@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"tie\": \"neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front\",\n  \"temperature\": 293\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"weather\": {\n    \"currently\": {\n      \"time\": \"2017-07-02T05:26:00Z\",\n      \"summary\": \"Scattered Showers\",\n      \"icon\": \"cloudy\"\n    },\n    \"daily\": {\n      \"summary\": \"Daily Forecast for 2017-07-03\",\n      \"icon\": \"cloudy\",\n      \"data\": [\n        {\n          \"time\": \"2017-07-03T00:00:00Z\",\n          \"summary\": \"Light Rain\",\n          \"icon\": \"rain-mix\"\n        },\n        {\n          \"time\": \"2017-07-03T03:00:00Z\",\n          \"summary\": \"Light Rain\",\n          \"icon\": \"rain-mix\"\n        },\n        {\n          \"time\": \"2017-07-03T06:00:00Z\",\n          \"summary\": \"Light Rain\",\n          \"icon\": \"rain-mix\"\n        },\n        {\n          \"time\": \"2017-07-03T09:00:00Z\",\n          \"summary\": \"Light Rain\",\n          \"icon\": \"rain-mix\"\n        },\n        {\n          \"time\": \"2017-07-03T12:00:00Z\",\n          \"summary\": \"Light Rain\",\n          \"icon\": \"rain-mix\"\n        },\n        {\n          \"time\": \"2017"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"tie\": {\n        \"type\": \"neckwear\",\n        \"material\": \"silk\",\n        \"colour\": \"blue\",\n        \"length\": \"1.25 metres (4.1 ft)\"\n    },\n    \"average temperature\": 14.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"10\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"tie\": {\n        \"temperature\": 287.99999999999996\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"tie\": {\n        \"type\": \"neckwear\",\n        \"material\": \"cotton\",\n        \"color\": \"black\"\n    },\n    \"weather\": {\n        \"forecast\": [\n            {\n                \"date\": \"2018-12-24\",\n                \"temperature\": 5,\n                \"humidity\": 45,\n                \"pressure\": 1013\n            }\n        ]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"assistant_id\": \"7243457463866318446\",\n    \"assistant_name\": \"Tammy\",\n    \"assistant_avatar\": \"https://assistant.google.com/images/assistant_avatar_logo_2x.png\",\n    \"assistant_product_name\": \"Google Assistant\",\n    \"assistant_product_description\": \"Google Assistant\",\n    \"assistant_product_url\": \"https://assistant.google.com\",\n    \"assistant_product_image\": \"https://assistant.google.com/images/assistant_avatar_logo_2x.png\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15,\n  \"neckwear\": \"tie\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 293.15,\n\"tie\": \"neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front\"\n}\n"
+  }
+]

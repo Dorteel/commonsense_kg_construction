@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"cooking\",\n  \"value\": \"oven\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"oven in kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"kitchen\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a kitchen appliance used for baking or roasting.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"the oven is in the kitchen\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"a microwave oven\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"oven\",\"key\":\"context\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"kitchen\",\"id\":\"34567890\",\"text\":\"oven\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a home appliance used for baking or roasting\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"kitchen utensil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"baking\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"baking\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The oven is a kitchen appliance used for baking or roasting. \"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"food preparation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"baking\",\"concept\":\"oven\",\"relation\":\"part_of\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"Kitchen\",\"subcontext\":\"appliances\",\"supercontext\":\"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"an oven is a kitchen appliance used for baking, roasting, and broiling.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"cooking\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Baking\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"used in a recipe\"\n}\n   "
+  }
+]

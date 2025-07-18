@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"aircraft\": {\n    \"monetary value\": 15000000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Airplane\",\n  \"monetary_value\": 196000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary\": {\n    \"value\": 400000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"value\": 219000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1999999999999999\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\" : 135000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 1000000}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 250.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 7100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 67200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"aircraft\": [\n    {\n      \"aircraft_type\": \"airplane\",\n      \"monetary_value\": 232.32\n    },\n    {\n      \"aircraft_type\": \"airplane\",\n      \"monetary_value\": 24.56\n    },\n    {\n      \"aircraft_type\": \"airplane\",\n      \"monetary_value\": 75.03\n    },\n    {\n      \"aircraft_type\": \"airplane\",\n      \"monetary_value\": 12.45\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"key\": \"monetary value\",\n  \"value\": 1000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetaryValue\": 110000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary\": \"1000\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0000000000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary_value\": 60000,\n    \"airplane\": {\n        \"type\": \"airliner\",\n        \"manufacturer\": \"Boeing\",\n        \"model\": \"737\",\n        \"passengers\": 149\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\" : \"10000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"monetary value\": 336000.0\n}\n"
+  }
+]

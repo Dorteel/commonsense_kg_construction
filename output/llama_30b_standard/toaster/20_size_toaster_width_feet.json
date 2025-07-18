@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"width\": {\n      \"average\": 0.377,\n      \"maximum\": 1.114,\n      \"minimum\": 0.256\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"name\": \"Mr. Smith\", \"occupation\": \"doctor\", \"gender\": \"male\", \"age\": 32}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"toaster\",\n  \"size\": {\n    \"width\": 1.5,\n    \"height\": 1.5,\n    \"depth\": 1.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1.5, \"length\": 3, \"height\": 1.5, \"volume\": 10, \"color\": \"white\", \"material\": \"plastic\", \"year\": 2015}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\" : 1.38 }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 2}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": \"6.5\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"toaster\": {\n    \"kitchen\": {\n      \"appliance\": {\n        \"electric\": {\n          \"bread\": {\n            \"toasting\": {\n              \"size\": {\n                \"average\": {\n                  \"feet\": {}\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : \"9.6\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Echo\",\n  \"version\": \"1.0\",\n  \"port\": 52000,\n  \"nickname\": \"echo123\",\n  \"address\": \"192.168.1.3\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.0,\n  \"height\": 1.5,\n  \"depth\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.1\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 16\n}\n"
+  }
+]

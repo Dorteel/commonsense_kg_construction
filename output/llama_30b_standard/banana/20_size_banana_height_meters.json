@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 3}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": {\n    \"value\": \"0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Phoenix\",\n    \"age\": 20,\n    \"gender\": \"female\",\n    \"city\": \"New York\",\n    \"height\": 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"2.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 1.2}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": {\n    \"average\": 0.535\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 29,\n\"address\": \"1234 Main St\",\n\"phone\": \"202-555-1212\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"0.25\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane Doe\",\n  \"email\": \"jane.doe@example.com\",\n  \"phone\": \"+9813456789\",\n  \"home_address\": \"28000 W 14 Mile Rd, Farmington Hills, MI 48334\",\n  \"office_address\": \"123 Main St, Framington Hills, MI 48334\",\n  \"department\": \"Sales\",\n  \"manager\": \"John Doe\",\n  \"reports\": [\n    {\n      \"name\": \"Jane Smith\",\n      \"title\": \"Sales Rep\",\n      \"phone\": \"+1123456789\",\n      \"home_address\": \"28000 W 14 Mile Rd, Farmington Hills, MI 48334\",\n      \"office_address\": \"123 Main St, Framington Hills, MI 48334\",\n      \"department\": \"Sales\",\n      \"manager\": \"Jane Doe\",\n      \"reports\": [\n        {\n          \"name\": \"Joe Smith\",\n          \"title\": \"Sales Rep\",\n          \"phone\": \"+1123456789\",\n          \"home_address\": \"28000 W 14 Mile Rd, Farmington Hills, MI 48334\",\n          \"office_address\": \"123 Main St, Framington Hills, MI 48334\",\n          \"department\": \"S"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": \"3\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"banana\",\n  \"height\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Is the banana a berry?\",\n  \"answers\": [\n    \"The banana is a berry\",\n    \"The banana is not a berry\"\n  ],\n  \"correct\": \"The banana is not a berry\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.7\n}\n"
+  }
+]

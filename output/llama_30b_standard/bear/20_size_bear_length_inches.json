@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alice\",\n  \"age\": 31,\n  \"height\": 5.5,\n  \"weight\": 123\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4,\n  \"weight\": 50,\n  \"height\": 2,\n  \"age\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 66.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": \"235\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 65\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 173\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": {\n        \"type\": \"float\",\n        \"value\": 66\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 10\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 10 }\n  \t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":16}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"size\": 72\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 3.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 60.00\n}\n"
+  }
+]

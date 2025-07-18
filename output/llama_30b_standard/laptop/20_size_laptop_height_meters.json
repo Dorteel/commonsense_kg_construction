@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"0.05\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\" : 0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.377\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.04444444444444444\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"question\": \"How do you feel about the weather in Washington, DC today?\",\n    \"intent\": \"weather\",\n    \"entities\": [\n      {\n        \"entity\": \"Washington, DC\",\n        \"type\": \"geo\"\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.52}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.085\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.001\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":1.2}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.54}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 0.5 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"laptop\": {\n      \"height\": 0.1\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : {\n    \"description\" : \"The height of the laptop.\",\n    \"type\" : \"float\"\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mary\",\n  \"children\": [\n    {\n      \"name\": \"Jane\",\n      \"age\": 21\n    },\n    {\n      \"name\": \"John\",\n      \"age\": 15\n    }\n  ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.02236\n}\n"
+  }
+]

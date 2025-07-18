@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sports\",\n  \"description\": \"used to carry money and small personal items or accessories (especially by women)\",\n  \"domain\": \"en\",\n  \"name\": \"handbag\",\n  \"type\": \"Concept\",\n  \"url\": \"https://api.apiai.io/api/v2/concepts/4943762364486535\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"container\",\n    \"entities\": [],\n    \"intents\": [\n        {\n            \"confidence\": 0.9988799999999998,\n            \"intent\": \"assistant.intent.action.TEXT\"\n        },\n        {\n            \"confidence\": 0.0011200000000000001,\n            \"intent\": \"assistant.intent.action.TEXT\"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bag\",\n  \"examples\": [\n    \"a woman's handbag\",\n    \"a man's handbag\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"women's handbag\",\n  \"score\": 0.95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": [\n        \"women's handbags\",\n        \"handbags\",\n        \"handbags for women\",\n        \"handbags for women\",\n        \"ladies handbags\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"personal_belongings\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"purchase\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a place\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\":\"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Women's handbags\",\n  \"score\": 0.86\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a handbag is often used by a woman to carry items\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a bag used for carrying money and small personal items or accessories (especially by women)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a container used for carrying money and small personal items or accessories (especially by women)\",\n  \"context_type\": \"context\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"the container used for carrying money and small personal items or accessories (especially by women)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"carried in\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"a bag used for carrying money and small personal items or accessories (especially by women)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"handbags\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"accessory\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"clothing\"}\n"
+  }
+]

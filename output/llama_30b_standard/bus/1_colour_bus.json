@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"colour\":\"red\",\n\"colour\":\"blue\",\n\"colour\":\"green\",\n\"colour\":\"yellow\",\n\"colour\":\"black\",\n\"colour\":\"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\" : \"red\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\",\n  \"colour\": \"yellow\",\n  \"colour\": \"blue\",\n  \"colour\": \"green\",\n  \"colour\": \"black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"red\"}\n                   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"blue\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"colour\": \"yellow\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\" : \"Red\",\n  \"colour\" : \"Yellow\",\n  \"colour\" : \"Green\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"colour\": \"red\",\n\"colour\": \"blue\",\n\"colour\": \"yellow\",\n\"colour\": \"white\",\n\"colour\": \"black\",\n\"colour\": \"orange\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\":\"black\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\",\n  \"colour\": \"blue\",\n  \"colour\": \"green\",\n  \"colour\": \"yellow\",\n  \"colour\": \"white\",\n  \"colour\": \"black\",\n  \"colour\": \"orange\",\n  \"colour\": \"purple\",\n  \"colour\": \"pink\",\n  \"colour\": \"gray\",\n  \"colour\": \"silver\",\n  \"colour\": \"brown\",\n  \"colour\": \"teal\",\n  \"colour\": \"turquoise\",\n  \"colour\": \"beige\",\n  \"colour\": \"gold\",\n  \"colour\": \"platinum\",\n  \"colour\": \"silver\",\n  \"colour\": \"gray\",\n  \"colour\": \"white\",\n  \"colour\": \"black\",\n  \"colour\": \"gray\",\n  \"colour\": \"silver\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    \"white\",\n    \"yellow\",\n    \"blue\",\n    \"grey\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bus",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    \"Red\",\n    \"Yellow\",\n    \"Green\",\n    \"White\",\n    \"Black\",\n    \"Orange\",\n    \"Blue\",\n    \"Grey\",\n    \"Purple\",\n    \"Silver\",\n    \"Gold\",\n    \"Brown\",\n    \"Pink\",\n    \"Turquoise\",\n    \"Purple\",\n    \"Turquoise\",\n    \"Burgundy\",\n    \"Violet\",\n    \"Plum\",\n    \"Taupe\",\n    \"Teal\",\n    \"Coral\",\n    \"Aqua\",\n    \"Cyan\",\n    \"Emerald\",\n    \"Fuchsia\",\n    \"Indigo\",\n    \"Lavender\",\n    \"Magenta\",\n    \"Mauve\",\n    \"Navy\",\n    \"Periwinkle\",\n    \"Powder blue\",\n    \"Puce\",\n    \"Sand\",\n    \"Slate\",\n    \"Tan\",\n    \"Taupe\",\n    \"Terra cotta\"\n  ],\n  \"valid\": true\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"bowl\":{\"width\":5,\"height\":5,\"depth\":5}}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"4.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 10.0}\n \t\t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"bowl\",\n  \"question\": \"Given the bowl, provide the average size as in {} measured in inches.\\nReturn only JSON with key:\\n- width (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"text\",\n  \"text\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average sizeas in {} measured in inches. Return only JSON with key: \\n- width (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n  \t\t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"width\": 8\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"vessel\",\n    \"width\": 10\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"Bob\",\n  \"text\": \"Find the average size of a bowl\",\n  \"intents\": [\n    {\n      \"intent\": \"assistant.intent.action.TEXT\",\n      \"raw_inputs\": [\n        {\n          \"input_type\": 2,\n          \"query\": \"Find the average size of a bowl\"\n        }\n      ]\n    }\n  ],\n  \"entities\": [\n    {\n      \"name\": \"user\",\n      \"value\": \"Bob\",\n      \"type\": 2\n    }\n  ],\n  \"device\": {\n    \"locale\": \"en-US\"\n  },\n  \"contexts\": [\n    {\n      \"name\": \"assistant_started\",\n      \"lifespan\": 10\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"bowl\": {\n        \"name\": \"bowl\",\n        \"description\": \"which is a round vessel that is open at the top; used chiefly for holding food or liquids\",\n        \"averageSize\": {\n            \"width\": 6\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"id\": \"13\",\n  \"title\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n  \"text\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n  \"answer\": [\n    \"13\"\n  ],\n  \"context\": [\n    {\n      \"id\": \"1\",\n      \"title\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n      \"text\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n      \"answer\": [\n        \"1\"\n      ],\n      \"context\": [\n        {\n          \"id\": \"0\",\n          \"title\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n          \"text\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n          \"answer\": [\n            \"0\"\n          ],\n          \"context\": [\n            {\n              \"id\": \"0\",\n              \"title\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n              \"text\": \"The bowl is a round vessel that is open at the top; used chiefly for holding food or liquids.\",\n              \"answer\": [\n                \"0\"\n              ],\n              \"context\": [\n                {\n                  \"id\": \"0\",\n                  \"title\": \"The bowl is a round vessel that is open at the top"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"assistant\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average sizeas in {} measured in inches. Return only JSON with key: - width (float)\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"width\": 10\n  }\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"https://en.wikipedia.org/wiki/Bowl\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"bowl\":{\"width\":20}}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.5\n}\n"
+  }
+]

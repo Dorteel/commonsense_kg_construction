@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"vessel\",\n    \"open\": \"at the top\",\n    \"contents\": \"food or liquids\"\n  },\n  \"average temperature\": 17.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"37.0\",\n  \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"bowl\": {\n\"temperature\": 50.0\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"bowl\": [\n    {\n        \"material\": \"ceramic\",\n        \"temperature\": 30.0\n    },\n    {\n        \"material\": \"steel\",\n        \"temperature\": 30.0\n    },\n    {\n        \"material\": \"wood\",\n        \"temperature\": 30.0\n    },\n    {\n        \"material\": \"plastic\",\n        \"temperature\": 30.0\n    }\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"name\": \"bowl\",\n    \"type\": \"vessel\",\n    \"size\": \"round\",\n    \"capacity\": 100,\n    \"material\": \"metal\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.2,\n  \"bowl\": {\n    \"volume\": 300\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 29.4}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"kitchenware\",\n    \"material\": \"porcelain\",\n    \"capacity\": \"1200 ml\",\n    \"color\": \"white\",\n    \"brand\": \"kitchenaid\",\n    \"weight\": 250\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"temperature\": 37.0,\n    \"container\": \"round\",\n    \"open\": \"true\",\n    \"used\": \"to hold food and liquids\"\n  },\n  \"temperature\": 37.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"12345\",\n  \"bowl\": {\n    \"temperature\": 35.0\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"user_id\": \"12345\",\n\"query\": \"Given the bowl (which is a round vessel that is open at the top; used chiefly for holding food or liquids), provide the average temperature as in {} measured in celsius.\",\n\"context\": {\n  \"temperature\": \"58.6\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"bowl\": {\n        \"round\": true,\n        \"vessel\": true,\n        \"open\": true,\n        \"top\": true,\n        \"used\": true,\n        \"chiefly\": true,\n        \"holding\": true,\n        \"food\": true,\n        \"liquids\": true\n    },\n    \"temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"size\": \"small\",\n    \"temperature\": 5.5\n  },\n  \"measuring_cup\": {\n    \"size\": \"large\",\n    \"temperature\": 3.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"bowl\",\n    \"size\": 10,\n    \"color\": \"white\",\n    \"material\": \"ceramic\",\n    \"user\": \"me\"\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"bowl\": {\n        \"round\": true,\n        \"used\": \"chiefly for holding food or liquids\"\n    },\n    \"celsius\": {\n        \"average\": 20\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Bowl\",\n  \"temperature\": 50,\n  \"material\": \"Silver\",\n  \"height\": 10,\n  \"width\": 10,\n  \"volume\": 200,\n  \"color\": \"Silver\",\n  \"size\": \"Large\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 28}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You are sitting in a restaurant. You are having a drink. You are drinking wine in a wine glass.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Glass breaks if thrown against a wall.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"You are at a restaurant and the waiter brings you a glass of wine.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"You drink the wine.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The wine glass is empty\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"I am holding a glass of wine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\" : \"a wine glass with a red liquid\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    \"drinking wine\",\n    \"serving wine\",\n    \"tasting wine\",\n    \"buying wine\",\n    \"selling wine\",\n    \"storing wine\",\n    \"washing wine glass\",\n    \"looking at wine glass\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": [\n    {\n      \"scenario\": \"fills the glass with a particular type of wine\",\n      \"description\": \"The glass is filled with a particular type of wine by a person.\",\n      \"object\": [\n        {\n          \"type\": \"person\",\n          \"description\": \"A person.\",\n          \"attributes\": [\n            {\n              \"type\": \"attribute\",\n              \"attribute\": \"gender\",\n              \"value\": \"male\"\n            }\n          ]\n        }\n      ],\n      \"action\": [\n        {\n          \"type\": \"action\",\n          \"action\": \"fills\",\n          \"description\": \"The glass is filled with a particular type of wine.\",\n          \"object\": [\n            {\n              \"type\": \"wine glass\",\n              \"description\": \"The glass is filled with a particular type of wine.\",\n              \"attributes\": [\n                {\n                  \"type\": \"attribute\",\n                  \"attribute\": \"type\",\n                  \"value\": \"wine glass\"\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    },\n    {\n      \"scenario\": \"pours the wine into the glass\",\n      \"description\": \"The wine is poured into the glass by a person.\",\n      \"object\": [\n        {\n          \"type\": \"person\",\n          \"description\": \"A person.\",\n          \"attributes\": [\n            {\n              \"type\": \"attribute\",\n              \"attribute\": \"gender\",\n              \"value\": \"male\"\n            }\n          ]\n        }\n      ],\n      \"action\": [\n        {\n          \"type\": \"action\",\n          \"action\": \"pours\",\n          \"description\": \"The wine is poured into the"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"wine glass is used to pour wine into the wine glass.\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Drinking wine from a wine glass.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"drinking wine from the glass\",\n    \"reason\": \"I drink wine from the glass.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"Drinking wine\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The glass is empty.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"drinking wine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The wine glass is half empty.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"The wine glass is filled with water.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A waiter pours a glass of wine into a wine glass.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\":\"drinking wine\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The wine glass has a long stem.\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.34\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 19.3}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"microwave\": {\n    \"height\": \"60\",\n    \"width\": \"55\",\n    \"depth\": \"50\"\n  },\n  \"stove\": {\n    \"height\": \"45\",\n    \"width\": \"90\",\n    \"depth\": \"60\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"61\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"text\": \"what is the average size of a microwave measured in centimeters?\"\n  },\n  \"context\": {\n    \"location\": {\n      \"zip\": \"12345\",\n      \"latitude\": 37.77509,\n      \"longitude\": -122.41492\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"type\": \"person\",\n  \"location\": {\n    \"city\": \"San Jose\",\n    \"country\": \"USA\"\n  },\n  \"gender\": \"female\",\n  \"birthday\": \"1984-10-18\",\n  \"education\": {\n    \"school\": \"University of California\",\n    \"degree\": \"PhD\"\n  },\n  \"occupation\": \"Computer scientist\",\n  \"maritalStatus\": \"single\",\n  \"children\": [],\n  \"pets\": [\n    {\n      \"name\": \"Spot\",\n      \"type\": \"dog\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.381}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"assistant\",\n  \"user\": \"system\",\n  \"task\": \"Given the microwave (which is kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food), provide the average size as in {} measured in centimeters. Return only JSON with key:  - height (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 0.07\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 35}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 51.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"result\": {\n    \"parameters\": {\n      \"name\": \"microwave\",\n      \"result_type\": \"object\"\n    },\n    \"response_type\": \"text\",\n    \"source\": \"system\",\n    \"query\": \"Given the microwave (which is kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food), \\nprovide the average sizeas in {}\\nmeasured in centimeters.\\nReturn only JSON with key: \\n  - height (float)\",\n    \"context_snippet\": \"This is a snippet of the context\",\n    \"lifespan_hours\": 1000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 12}\n   "
+  }
+]

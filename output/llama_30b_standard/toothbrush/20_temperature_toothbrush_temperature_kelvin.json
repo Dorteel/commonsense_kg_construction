@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"toothbrush\": {\n\t\"bristles\": [\n\t\t\"small\",\n\t\t\"long\",\n\t\t\"clean\"\n\t],\n\t\"handle\": \"used\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"toothbrush\": {\n    \"has long handle\": false,\n    \"used to clean teeth\": true,\n    \"is small brush\": true\n  },\n  \"temperature\": 250.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"0.26\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 298.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n  \"temperature\": 0.0,\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 310.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"toothbrush\": {\n    \"has long handle\": true,\n    \"used to clean teeth\": true,\n    \"small brush\": true\n  }\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"temperature\" : 300.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.000000000000003\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  }
+]

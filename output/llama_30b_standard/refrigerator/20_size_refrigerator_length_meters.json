@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"0.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2.24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.1\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 0.75}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 1 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"value\": 1.6,\n    \"unit\": \"m\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 1.975\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 2.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.97\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.75,\n  \"width\": 1.0,\n  \"height\": 1.5\n}\n   "
+  }
+]

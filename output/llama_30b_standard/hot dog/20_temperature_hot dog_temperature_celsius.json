@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 37.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"hotdog\": {\n    \"temperature\": 30.4\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\" : 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"firstName\": \"Mary\",\n    \"lastName\": \"Smith\",\n    \"age\": 25,\n    \"gender\": \"female\",\n    \"company\": \"Acme\",\n    \"salary\": 100000,\n    \"cars\": [ \"Honda\", \"Ford\" ],\n    \"houseType\": \"detached\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"I would like a hot dog please\",\n  \"options\": {\n    \"franks\": \"Frankfurters\",\n    \"buns\": \"Buns\",\n    \"dressing\": \"Dressing\",\n    \"drinks\": \"Drinks\",\n    \"icecream\": \"Icecream\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\" : \"111.111\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"20\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"a570c61c-580b-49b9-90d8-b8f532d3506a\",\n  \"session_id\": \"3b77d628-f310-40f6-a331-f7df2715c378\",\n  \"original_request\": \"Tell me about the current temperature.\",\n  \"response\": \"The current temperature is 73 degrees Fahrenheit.\",\n  \"followup_intent_name\": \"weather_sunny\",\n  \"intent\": \"weather_sunny\",\n  \"slot_filling_result\": {\n    \"weather_sunny_intent\": {\n      \"intent\": \"weather_sunny\",\n      \"slots\": {\n        \"temperature\": {\n          \"name\": \"temperature\",\n          \"value\": \"73\",\n          \"resolution\": {\n            \"resolution_type\": \"FULL\",\n            \"entity_id\": \"temperature\",\n            \"score\": 1\n          },\n          \"original_value\": \"73\",\n          \"metadata\": {}\n        }\n      },\n      \"confirmation_status\": \"NONE\",\n      \"dialog_state\": \"COMPLETED\"\n    }\n  },\n  \"intent_detection_result\": {\n    \"language_code\": \"en-US\",\n    \"nlu_messages\": [\n      {\n        \"message_type\": \"UNRECOGNIZED\",\n        \"message_text\": \"I couldn't understand that.\"\n      }\n    ],\n    \"intents\": [\n      {\n        \"intent"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"user_id\":\"123456\",\n\"device_id\":\"123456\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 19.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 37.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"value\": \"20\",\n    \"unit\": \"celsius\"\n  }\n}\n"
+  }
+]

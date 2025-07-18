@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.7182818284590452\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": \"4.5\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":1.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 0.014034336}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 1.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the length of a tie in feet?\",\n  \"options\": [\n    {\n      \"answer\": \"2 feet\",\n      \"correct\": true\n    },\n    {\n      \"answer\": \"5 feet\",\n      \"correct\": false\n    },\n    {\n      \"answer\": \"7 feet\",\n      \"correct\": false\n    }\n  ],\n  \"correctAnswer\": \"2 feet\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"HAL 9000\",\n  \"mood\": \"I'm sorry, Dave. I'm afraid I can't do that.\",\n  \"personality\": \"cold\",\n  \"quote\": \"I'm sorry, Dave. I'm afraid I can't do that.\",\n  \"saying\": \"I'm sorry, Dave. I'm afraid I can't do that.\",\n  \"story\": \"I'm sorry, Dave. I'm afraid I can't do that.\",\n  \"text\": \"I'm sorry, Dave. I'm afraid I can't do that.\",\n  \"text_content\": \"I'm sorry, Dave. I'm afraid I can't do that.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n \"length\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4.22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"user\": \"user\",\n    \"question\": \"Given the tie (which is neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front), provide the average sizeas in {} measured in feet. Return only JSON with key:  - length (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.0\n}\n"
+  }
+]

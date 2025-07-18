@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"Peter\",\n\"age\": 32,\n\"gender\": \"male\",\n\"likes\": [\"pizza\", \"pasta\", \"beer\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"name\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 1.7}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 29,\n  \"job\": \"programmer\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user\": \"a user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"first_name\": \"John\",\n  \"last_name\": \"Smith\",\n  \"age\": 32,\n  \"gender\": \"male\",\n  \"job\": \"accountant\",\n  \"marital_status\": \"single\",\n  \"address\": \"2000 Main St\",\n  \"city\": \"New York\",\n  \"zip_code\": \"10000\",\n  \"country\": \"USA\",\n  \"email\": \"john.smith@company.com\",\n  \"phone\": \"1234567890\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"gender\": \"Male\",\n    \"weight\": 60,\n    \"age\": 30\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Tony\",\n  \"age\": 21,\n  \"height\": 170,\n  \"weight\": 63,\n  \"gender\": \"male\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":0.71}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Betty\",\n  \"gender\": \"female\",\n  \"age\": 25,\n  \"height\": 1.6\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Joe\",\n  \"age\": 10,\n  \"gender\": \"male\",\n  \"address\": {\n    \"zipcode\": \"12345\",\n    \"city\": \"New York\",\n    \"state\": \"NY\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"data\": [\n    {\n      \"id\": \"1\",\n      \"name\": \"Bill Gates\",\n      \"location\": \"Redmond, WA\",\n      \"company\": \"Microsoft\"\n    },\n    {\n      \"id\": \"2\",\n      \"name\": \"Steve Jobs\",\n      \"location\": \"Palo Alto, CA\",\n      \"company\": \"Apple\"\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Nina\",\n  \"age\": 40,\n  \"children\": [\n    {\n      \"name\": \"Lisa\",\n      \"age\": 10\n    },\n    {\n      \"name\": \"Sally\",\n      \"age\": 7\n    }\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"1.75\",\n  \"gender\": \"male\",\n  \"height\": \"1.75\",\n  \"weight\": \"76.2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 1.75}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

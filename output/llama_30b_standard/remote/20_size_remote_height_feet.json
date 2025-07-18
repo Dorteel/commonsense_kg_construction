@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 144}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"command\": \"turn on the tv\",\n  \"response\": \"ok, turning on the tv\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"remote\",\n    \"description\": \"A remote is an electronic device used for the remote control of a machine.\",\n    \"image_url\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/RC_2001.jpg/1200px-RC_2001.jpg\",\n    \"average_size\": 12.0,\n    \"average_weight\": 4.8,\n    \"category\": \"home_appliance\",\n    \"created_at\": \"2017-06-10T19:39:31Z\",\n    \"updated_at\": \"2017-06-10T19:39:31Z\",\n    \"category_id\": 1,\n    \"images\": [\n        {\n            \"url\": \"https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/RC_2001.jpg/1200px-RC_2001.jpg\",\n            \"id\": 1,\n            \"created_at\": \"2017-06-10T19:39:31Z\",\n            \"updated_at\": \"2017-06-10T19:39:31Z\",\n            \"image_id\": 1\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": \"11.2\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Remote\",\n  \"description\": \"Remote control for television\",\n  \"brand\": \"Samsung\",\n  \"size\": {\n    \"length\": 5,\n    \"width\": 2\n  },\n  \"weight\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 3.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": \"Bob\",\n  \"remote\": {\n    \"id\": \"REMOTE12345\",\n    \"name\": \"Remote control\"\n  },\n  \"action\": {\n    \"command\": \"height\",\n    \"parameters\": {\n      \"id\": \"REMOTE12345\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"color\": \"red\",\n  \"weight\": 4.2,\n  \"tags\": [\"shirt\", \"t-shirt\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": \"15\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 10 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.0,\n  \"width\": 1.0,\n  \"depth\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Amazon Echo\",\n  \"description\": \"Amazon Echo is a hands-free speaker you control with your voice.\",\n  \"image_url\": \"https://s3.amazonaws.com/echo.imagery.amazon.com/images/en_US/latest/button_standard_default.png\",\n  \"features\": [\n    {\n      \"name\": \"far-field voice recognition\",\n      \"description\": \"Hear music, news, weather, and more from across the room with 7 far-field microphones.\",\n      \"image_url\": \"https://s3.amazonaws.com/echo.imagery.amazon.com/images/en_US/latest/button_standard_default.png\"\n    },\n    {\n      \"name\": \"voice control\",\n      \"description\": \"Just ask for a song, artist, or genre from Amazon Music, Spotify, Pandora, and more.\",\n      \"image_url\": \"https://s3.amazonaws.com/echo.imagery.amazon.com/images/en_US/latest/button_standard_default.png\"\n    },\n    {\n      \"name\": \"hands-free calling\",\n      \"description\": \"Call or message almost anyone hands-free using your Echo device.\",\n      \"image_url\": \"https://s3.amazonaws.com/echo.imagery.amazon.com/images/en_US/latest/button_standard_default.png\"\n    },\n    {\n      \"name\": \"alarm\",\n      \"description\": \"Use your Echo device as a smart alarm clock. Set up multiple alarms and use Spotify, Pandora, and more as your alarm"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Joe\",\n    \"email\": \"joe@example.com\",\n    \"age\": 12,\n    \"height\": 5.3,\n    \"weight\": 170,\n    \"married\": false,\n    \"gender\": \"male\",\n    \"blood_type\": \"A+\",\n    \"eye_color\": \"brown\",\n    \"hair_color\": \"black\",\n    \"hair_length\": 4.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"How much does the remote weigh?\",\n  \"answers\": [\n    {\n      \"text\": \"5 pounds\",\n      \"confidence\": 0.75\n    },\n    {\n      \"text\": \"1 pound\",\n      \"confidence\": 0.25\n    }\n  ],\n  \"context\": {\n    \"remote\": {\n      \"text\": \"The remote\",\n      \"context\": {\n        \"remote\": {\n          \"text\": \"The remote\",\n          \"context\": {\n            \"remote\": {\n              \"text\": \"The remote\",\n              \"context\": {\n                \"remote\": {\n                  \"text\": \"The remote\",\n                  \"context\": {\n                    \"remote\": {\n                    }\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n \"height\": \"10.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"color\": \"blue\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"device\": \"remote\", \"measure\": \"average size\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

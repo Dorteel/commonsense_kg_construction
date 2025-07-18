@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 0.0 }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"value\": 16\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 15.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 63.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 32000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"question\": \"What does a stop sign look like?\",\n  \"key\": \"stop_sign\",\n  \"intents\": [\n    {\n      \"intent\": \"stop_sign\",\n      \"confidence\": 0.9993903567877679\n    },\n    {\n      \"intent\": \"stop sign\",\n      \"confidence\": 0.000609643212232215\n    }\n  ],\n  \"entities\": [\n    {\n      \"entity\": \"stop sign\",\n      \"type\": \"stop_sign\",\n      \"start\": 0,\n      \"end\": 11\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 8.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 15.50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 0.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 10.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"float\": 10\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 132,\n\"color\": \"red\",\n\"stop\": \"true\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"stop sign\": {\n    \"weight\": 5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 16\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 25 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

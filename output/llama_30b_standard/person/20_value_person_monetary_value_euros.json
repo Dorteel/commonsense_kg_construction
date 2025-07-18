@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"person\": {\n        \"name\": \"John Doe\",\n        \"age\": 29\n    },\n    \"average\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"Alice\",\n\"family\": [\"John\", \"Mary\", \"Rick\"],\n\"children\": [\"Tom\", \"Jerry\"]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"gender\": \"female\",\n\"age\": 40,\n\"height\": 170,\n\"weight\": 65\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"age\": \"30\",\n\"weight\": \"70\",\n\"height\": \"175\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"age\": 15,\n  \"gender\": \"female\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"text\",\n  \"title\": \"Average value as in {} measured in euros.\",\n  \"question\": \"Given the person (which is a human being), provide the average valueas in {} measured in euros. Return only JSON with key: \\n  - monetary value (float)\",\n  \"answers\": [\n    {\n      \"type\": \"text\",\n      \"title\": \"1.0\",\n      \"text\": \"1.0\",\n      \"answer\": \"1.0\"\n    },\n    {\n      \"type\": \"text\",\n      \"title\": \"1.01\",\n      \"text\": \"1.01\",\n      \"answer\": \"1.01\"\n    },\n    {\n      \"type\": \"text\",\n      \"title\": \"1.02\",\n      \"text\": \"1.02\",\n      \"answer\": \"1.02\"\n    },\n    {\n      \"type\": \"text\",\n      \"title\": \"1.03\",\n      \"text\": \"1.03\",\n      \"answer\": \"1.03\"\n    },\n    {\n      \"type\": \"text\",\n      \"title\": \"1.04\",\n      \"text\": \"1.04\",\n      \"answer\": \"1.04\"\n    },\n    {\n      \"type\": \"text\",\n      \"title\": \"1.05\",\n      \"text\": \"1.05\",\n      \"answer\": \"1.05\"\n    },\n    {\n      \"type\": \"text\",\n      \"title\": \"1.06\",\n      \"text\": \"1.06\",\n      \"answer\": \"1.06\"\n    },\n    {\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": \"user\",\n  \"monetary value\": 4000\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jimmy\",\n  \"age\": 20,\n  \"job\": \"student\",\n  \"marital status\": \"married\",\n  \"hobby\": \"fishing\",\n  \"interests\": [\"photography\", \"music\"],\n  \"location\": \"Berlin\",\n  \"income\": 2000\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": \"Bart Simpson\",\n  \"monetary_value\": 2.66666\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"john\",\n    \"age\": 30\n  },\n  \"monetary value\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Peter\",\n  \"age\": 21,\n  \"sex\": \"male\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"person\" : \"user\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Mr. Foo\",\n    \"gender\": \"male\"\n  },\n  \"monetary_value\": 15000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"monetary value\": 160.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"key\": \"monetary value\",\n  \"value\": 1500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"profession\": \"Doctor\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"human\",\n  \"name\": \"Alice\",\n  \"job\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"input_text\": \"give me an example of a human being\",\n  \"text_inputs\": [\n    {\n      \"text_input_id\": 0,\n      \"text\": \"give me an example of a human being\"\n    }\n  ],\n  \"input_event_id\": 0,\n  \"query\": \"give me an example of a human being\",\n  \"query_text\": \"give me an example of a human being\",\n  \"query_inputs\": [\n    {\n      \"input_id\": 0,\n      \"text\": \"give me an example of a human being\"\n    }\n  ],\n  \"query_input_event_id\": 0,\n  \"webhook_payload\": {\n    \"id\": \"d5161e3a-375f-4430-881f-6851e5f0288d\",\n    \"user_id\": \"751a7c23-02b2-4687-807a-619c9d7b7013\",\n    \"conversation_id\": \"cb14d879-a886-42f4-9898-6f8cb152f22b\",\n    \"timestamp\": \"2018-10-24T10:02:54+00:00\",\n    \"lang\": \"en\",\n    \"bot\": {\n      \"name\": \"my-bot\",\n      \"id\": \"d17a5773-f79f-4c7a-9b1a-b2b27c78885a"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"name\":\"assistant\",\"start_date\":\"2016-09-13T14:45:01Z\",\"end_date\":\"2016-09-13T14:45:01Z\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Hans\",\n    \"height\": 1.90\n  },\n  \"monetary value\": 120000\n}\n"
+  }
+]

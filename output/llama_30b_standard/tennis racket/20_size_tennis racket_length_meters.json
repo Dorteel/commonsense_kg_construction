@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 0.11}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"1.09\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.74\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 65.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.61\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 3.0,\n\"width\": 1.0,\n\"height\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 0.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 0.683}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 0.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"type\": \"float\",\n    \"min\": 0.3,\n    \"max\": 0.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.61\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 0.689\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 68.6 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.07441\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\" : 0.6 }\n   "
+  }
+]

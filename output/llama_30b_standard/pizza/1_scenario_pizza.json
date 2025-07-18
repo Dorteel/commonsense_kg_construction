@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"the pizza has pepperoni and cheese\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"the pizza is delicious\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Eat pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"The pizza is a round bread with a lot of toppings on it.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"You can have it delivered to your home.\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Pizza delivery\",\n  \"description\": \"a person delivers a pizza\",\n  \"predicates\": [\n    {\n      \"verb\": \"deliver\"\n    },\n    {\n      \"object\": \"pizza\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"a person is eating pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\",\n  \"scenario\": \"pizza is eaten with salad and drinks\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"A pizza is a type of food.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"I am hungry and want to eat pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\":\"You are having a pizza in a restaurant.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Ordering Pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Eating a pizza at the restaurant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Pizza is a traditional Italian dish consisting of an oven-baked, flat, round bread typically topped with tomato sauce and cheese and various toppings\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"scenario\": \"I order a pizza\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"Eating pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"scenario\": \"eating\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"scenario\": \"the user wants to eat the pizza\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is delivering the pizza to a customer.\",\n    \"scenario\": \"A pizza delivery boy is deliver"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "pizza",
+    "domain": "scenario",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"scenario\": \"You are eating a pizza and you want to share with your friends.\"\n}\n "
+  }
+]

@@ -112,6 +112,34 @@ def run_groq_experiment():
                 output_path=output_path
             )
 
+# Generate prompt
+        
+# for entry in model_config.get("groq", []):
+#     model_name = entry["model_path"]
+#     concepts = get_checkpoint(model_name, concepts)
+#     logger.info(f"Loading Groq model: {entry['model_path']}")
+#     model_name = entry["model_path"]
+#     current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
+#     logger.info(f"Loaded client: {model_name}")
+#     for _, obj_info in concepts.items():
+#         name = obj_info.get("name", "")
+#         definition = obj_info.get("definition", "")
+#         output_dir = os.path.join(OUTPUT_PARENT_DIR, "context", current_client.model_name, name)
+#         output_path = os.path.join(output_dir, f"{name}.json")
+#         logger.info(f"Processing concept: {name} - ({definition})")
+#         runner = Runner(clients=[current_client], serializer=JsonConstructor())
+#         runner.run(
+#             concept=name,
+#             description=definition,
+#             domain=dimensions,
+#             dimension="",
+#             template_name="context",
+#             runs=RUNS,
+#             return_range="",
+#             measurement="",
+#             output_path=output_path
+#         )
+
 
 if __name__ == "__main__":
     logger.info("Batch run completed.")

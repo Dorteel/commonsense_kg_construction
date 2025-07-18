@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.02\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"knife\": {\n    \"width\": 10\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 8.75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5,\n  \"length\": 13.5,\n  \"weight\": 6\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"name\": \"Fred\",\n\"age\": 23,\n\"sex\": \"male\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 0.014\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.05,\n\"length\": 0.05,\n\"weight\": 0.3\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 27\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"size\" : {\n        \"width\" : 0.05\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30.000000000000004\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.055\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.00392156862745098\n}\n"
+  }
+]

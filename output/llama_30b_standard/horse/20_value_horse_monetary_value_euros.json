@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 1500.00}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 2500000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"horse\": {\n    \"monetary value\": 5000.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\": 0.1 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1999.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jessica\",\n  \"skills\": [\n    \"English\",\n    \"Spanish\",\n    \"German\",\n    \"French\"\n  ],\n  \"hobbies\": [\n    \"dancing\",\n    \"singing\",\n    \"traveling\"\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 2.50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 42.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"horse\": 70000,\n  \"cats\": 40000,\n  \"dogs\": 25000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 20000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"key\": \"monetary value\",\n\"value\": \"9000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"horse\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary\": 1000}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"cake\": [\n        \"baked goods made from or based on a mixture of flour, sugar, eggs, and fat\"\n    ]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 293.15,\n    \"cake\": {\n        \"baked\": \"yes\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"350\"\n}\n  \t  \t  \t  \t  \t  \t  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"273.15\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"c\": \"cake\",\n  \"t\": 23\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 293.15}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"25\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"bob\",\n  \"pass\": \"my_password\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"300.0\",\n  \"cakes\": [\n    {\n      \"baked\": true,\n      \"batter\": [\n        {\n          \"chocolate\": true,\n          \"flour\": \"1\"\n        },\n        {\n          \"baking_soda\": true\n        }\n      ]\n    },\n    {\n      \"batter\": [\n        {\n          \"chocolate\": false,\n          \"flour\": \"2\"\n        },\n        {\n          \"baking_soda\": false\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 24.7\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.00000000000001\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cake\": {\n    \"ingredients\": [\"flour\", \"sugar\", \"eggs\", \"fat\"],\n    \"baked\": true\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293\n}\n"
+  }
+]

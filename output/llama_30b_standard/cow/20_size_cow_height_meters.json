@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"cow\": {\n    \"height\": 1.4\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"cow\" : {\n    \"height\" : 1.2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"5.5\",\n  \"width\": \"2.1\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 1.5,\n\"species\": \"Bos primigenius\",\n\"name\": \"Friesian\",\n\"weight\": 600,\n\"length\": 1.5,\n\"hair_color\": \"black\",\n\"has_horns\": true,\n\"has_udder\": true,\n\"has_hooves\": true,\n\"color\": \"black\",\n\"average_height\": 1.5,\n\"average_weight\": 600,\n\"average_length\": 1.5,\n\"average_hair_color\": \"black\",\n\"average_has_horns\": true,\n\"average_has_udder\": true,\n\"average_has_hooves\": true,\n\"average_color\": \"black\",\n\"average_average_height\": 1.5,\n\"average_average_weight\": 600,\n\"average_average_length\": 1.5,\n\"average_average_hair_color\": \"black\",\n\"average_average_has_horns\": true,\n\"average_average_has_udder\": true,\n\"average_average_has_hooves\": true,\n\"average_average_color\": \"black\",\n\"average_average_average_height\": 1.5,\n\"average_average_average_weight\": 600,\n\"average_average_average_length\": 1.5,\n\"average_average_average_hair_color\": \"black\",\n\"average_average_average_has_horns\": true,\n\"average_average_average_"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"cow\" : {\n    \"height\" : 1.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": \"2.5\",\n\"gender\": \"male\",\n\"age\": \"5\",\n\"weight\": \"450\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"Kim\"\n  },\n  \"system\": {\n    \"name\": \"Peggy\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 1.4}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"cow\" : {\n    \"height\" : {\n      \"average\" : 0.9\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.5\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 1.45,\n\"name\": \"cow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.4\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"Nick\",\n\"age\": 35\n}\n \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

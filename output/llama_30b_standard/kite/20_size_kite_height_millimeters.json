@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 160000,\n  \"width\": 70000,\n  \"depth\": 20000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"michael\",\n  \"age\": 29,\n  \"height\": 175.5,\n  \"weight\": 68.5\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 250}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": \"10\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"size\": {\n        \"height\": 1000\n    },\n    \"brand\": {\n        \"name\": \"Windward\",\n        \"type\": \"Windward\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": \"150\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1000.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"question\": \"Given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string),\\nprovide the average size as in {} measured in millimeters.\",\n    \"id\": \"9695d653-0311-400f-8c1a-889c486098d7\",\n    \"answer\": \"738\"\n  },\n  \"context\": {},\n  \"input\": {\n    \"text\": \"Given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string),\\nprovide the average sizeas in {} measured in millimeters.\",\n    \"intent\": \"assistant.intent.action.TEXT\",\n    \"raw_text\": \"Given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string),\\nprovide the average sizeas in {} measured in millimeters.\",\n    \"input_context\": {\n      \"assistant.intent.action.TEXT\": {\n        \"inputs\": [\n          \"Given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string),\\nprovide the average sizeas in {} measured in millimeters.\"\n        ]\n      }\n    }\n  },\n  \"output\": {\n    \"text\": \"738\"\n  },\n  \"context_out\": {}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":200}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 110}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20000000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"what is the average size of a kite?\",\n  \"answers\": [\n    {\n      \"question\": \"how long is the string of a kite?\",\n      \"answer\": \"50 meters\"\n    },\n    {\n      \"question\": \"how much does a kite weigh?\",\n      \"answer\": \"3 kilograms\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"kite\",\n  \"height\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  }
+]

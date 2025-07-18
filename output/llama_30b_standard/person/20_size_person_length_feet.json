@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average size of a person in feet?\",\n  \"answer\": \"5\",\n  \"context\": \"The average size of a person in feet is 5.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alexa\",\n  \"gender\": \"female\",\n  \"age\": 26,\n  \"location\": \"London\"\n}\n \t  \t  \t  \t  \t  \t  \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": \"a human being\",\n  \"length\": {\n    \"feet\": \"10\",\n    \"inches\": \"1\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"name\": \"Mike\",\n\"age\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Jim\",\n    \"age\": 33,\n    \"gender\": \"Male\",\n    \"height\": 5.7\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"2.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"name\":\"John\", \"gender\":\"male\"}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alex\",\n  \"age\": 20\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"name\": \"Nicole\", \"age\": 33, \"height\": 6.2}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": \"What is the average size of a person in feet?\",\n  \"parameters\": [{\n    \"name\": \"person\",\n    \"type\": \"object\",\n    \"properties\": [{\n      \"name\": \"humanBeing\",\n      \"type\": \"boolean\"\n    }]\n  }]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"name\": \"Peter\",\n    \"gender\": \"male\",\n    \"age\": 24,\n    \"height\": 5.5\n  },\n  \"length\": 1.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"person\": \"Mr. James Smith\",\n  \"gender\": \"male\",\n  \"height\": 2.0,\n  \"age\": 25\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Joe\",\n  \"age\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.9,\n  \"weight\": 162.0,\n  \"height\": 5.9,\n  \"age\": 35,\n  \"gender\": \"female\",\n  \"name\": \"Tracy\",\n  \"is_alive\": true,\n  \"children\": [\n    {\n      \"name\": \"Maya\",\n      \"age\": 12,\n      \"is_alive\": true\n    },\n    {\n      \"name\": \"Arianna\",\n      \"age\": 5,\n      \"is_alive\": true\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Bruce Wayne\",\n  \"location\": \"Gotham City\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 5.24}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jane\",\n  \"gender\": \"female\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 80.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"value\": 50,\n    \"unit\": \"fahrenheit\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 60.000000}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 14.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 45.0,\n  \"date\": \"2016-01-02\",\n  \"time\": \"18:00:00\",\n  \"dayOfWeek\": \"Friday\",\n  \"weather\": \"sunny\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":13}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 55.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 60.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 25.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 71.6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 70.1,\n\"wind_speed\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 28.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 50.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":32}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 78\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"parking-meter\": {\n    \"average-temperature\": 75\n  }\n}\n"
+  }
+]

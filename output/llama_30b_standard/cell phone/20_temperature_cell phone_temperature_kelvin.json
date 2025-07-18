@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"float\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 10.0,\n  \"humidity\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 283.15,\n  \"cell phone\": \"telephony\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"cell phone\": {\n    \"is\": {\n      \"type\": \"telephony\",\n      \"is\": \"radio\",\n      \"not\": \"wire\"\n    },\n    \"average temperature\": {\n      \"is\": {\n        \"type\": \"temperature\"\n      },\n      \"as\": {\n        \"is\": \"kelvin\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"phone\": \"cell\",\n  \"temperature\": 5\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 299.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 280.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"telephony\": \"which is telephony that uses transmission by radio rather than by wire\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15,\n  \"temperature_unit\": \"kelvin\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"cell phone\": \"telephony that uses transmission by radio rather than by wire\"\n}\n       "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"kelvin\": 298.15\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"telephony\": \"telephony that uses transmission by radio rather than by wire\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 300.15\n}\n"
+  }
+]

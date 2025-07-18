@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 130.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"description\": \"Commonsense Knowledge Engineer\",\n  \"system\": {\n    \"name\": \"commonsense_knowledge_engineer\",\n    \"description\": \"Commonsense Knowledge Engineer\",\n    \"version\": \"1.0\",\n    \"language\": \"JavaScript\",\n    \"icon\": \"https://www.google.com/images/srpr/logo11w.png\"\n  },\n  \"user\": {\n    \"name\": \"user\",\n    \"description\": \"Commonsense Knowledge Engineer\",\n    \"version\": \"1.0\",\n    \"language\": \"JavaScript\",\n    \"icon\": \"https://www.google.com/images/srpr/logo11w.png\"\n  },\n  \"capabilities\": [\n    {\n      \"name\": \"weight\",\n      \"description\": \"Given the sheep (which is woolly usually horned ruminant mammal related to the goat), provide the average weightas in {} measured in ounces.\",\n      \"version\": \"1.0\",\n      \"language\": \"JavaScript\",\n      \"icon\": \"https://www.google.com/images/srpr/logo11w.png\",\n      \"parameters\": {\n        \"sheep\": {\n          \"type\": \"object\",\n          \"description\": \"The sheep\",\n          \"required\": true,\n          \"schema\": {\n            \"properties\": {\n              \"weight\": {\n                \"type\": \"number\",\n                \"minimum\": 0,\n                \"maximum\": 10000000000,\n                \"exclusiveMaximum\": true,\n                \"description\": \"The weight"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"sheep\": {\n    \"weight\": 160\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Lisa\",\n  \"age\": 25,\n  \"eyeColor\": \"blue\",\n  \"hairColor\": \"black\",\n  \"weight\": 118.0,\n  \"height\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 120}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 197.13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 210\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Karen\",\n  \"gender\": \"female\",\n  \"age\": 56\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 145\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 115\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 220\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\":\"John\",\n  \"age\":41\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60,\n  \"height\": 100,\n  \"depth\": 20,\n  \"volume\": 12000,\n  \"weight\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 113\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 178.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 63.5\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\" : 254.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 160\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 135\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 47 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "parking meter",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 200\n}\n"
+  }
+]

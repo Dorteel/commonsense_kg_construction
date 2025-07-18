@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"Tony Stark\",\n    \"age\": 45,\n    \"city\": \"New York\",\n    \"state\": \"NY\",\n    \"country\": \"USA\"\n  },\n  \"user_name\": \"ironman\",\n  \"user_age\": 45,\n  \"user_city\": \"New York\",\n  \"user_state\": \"NY\",\n  \"user_country\": \"USA\",\n  \"user_nickname\": \"ironman\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 12 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Jessica\",\n    \"age\": 37,\n    \"sex\": \"Female\",\n    \"height\": 62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"type\": \"bot\",\n  \"bot_type\": \"assistant\",\n  \"user_id\": \"586854437262760232\",\n  \"bot_id\": \"586854437262760232\",\n  \"bot_access_token\": \"EAAfOqF47H252zBkB4r33ZC7p1ZCUv2w55Qqh57QlK5QZC748HKX4qz1Q3K6K38ZBZBGqRJkDq0hJDxR0l4G4034wQqCX1wRqR42r4lO77tXWZA8ZBwC9418yRQV601542r3z3eR1r2ZCQDXrLZBZB85539ZAZBZC00936ZBZC880544ZCZC843500ZCZBZC15645ZBZC19643ZAZBZC78399ZBZC44655ZBZC94175ZCZC38453ZBZC21356ZCZC62233ZBZC56703ZBZC39573ZBZC91629ZCZC03292ZBZC96065"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 28.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"type\": \"float\",\n  \"value\": \"15\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"question\": \"What is the average height of a potted plant in inches?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"12\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 14.91304765625\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"1234\",\n  \"intent\": \"user\",\n  \"result\": {\n    \"speech\": \"Given the potted plant (which is a plant suitable for growing in a flowerpot (especially indoors)), provide the average sizeas in {} measured in inches.\",\n    \"data\": {\n      \"pottedPlant\": {\n        \"height\": \"20\"\n      }\n    },\n    \"contexts\": [\n      {\n        \"name\": \"pottedPlant\",\n        \"lifespan\": 5\n      }\n    ],\n    \"metadata\": {\n      \"intentId\": \"947b956f-e0ac-4293-81c6-48409ba58b7d\",\n      \"webhookUsed\": \"true\",\n      \"intentName\": \"user\"\n    },\n    \"intent\": \"user\",\n    \"fulfillment\": {\n      \"speech\": \"I cannot answer that now, but give me a moment.\",\n      \"messages\": [\n        {\n          \"type\": 0,\n          \"speech\": \"I cannot answer that now, but give me a moment.\"\n        }\n      ]\n    },\n    \"score\": 1\n  },\n  \"status\": {\n    \"code\": 200,\n    \"errorType\": \"success\"\n  },\n  \"sessionId\": \"e769d2a7-47be-487f-b574-17d078ffc1c7\",\n  \"originalRequest\": {\n    \"version\": \"2.0\",\n    \"data\": {\n      \"agent_user_"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"potted plant\": \"The plant is a potted plant.\",\n  \"pot size\": 10\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 12.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

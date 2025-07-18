@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 1500.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 3500.00,\n  \"refrigerator_is_a_fridge\": \"true\",\n  \"fridge_is_a_refrigerator\": \"true\",\n  \"fridge_is_white_goods\": \"true\",\n  \"white_goods_is_fridge\": \"true\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 700\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"color\": \"white\",\n  \"temperature\": \"low\",\n  \"capacity\": 1300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 0.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": {\n    \"USD\": 1800\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 12.345678\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 0.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 2000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000.0,\n  \"name\": \"Refrigerator\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": 344.98\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary value\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"monetary value\" : 123.45 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"monetary value\": 600}\n  \t  \t  \t  \t  \t  \t  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"monetary_value\": {\n    \"average\": 1000,\n    \"currency\": \"USD\"\n  }\n}\n"
+  }
+]

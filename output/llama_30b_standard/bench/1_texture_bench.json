@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"leather\",\n  \"texture\": \"wood\",\n  \"texture\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"texture\": \"wood\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    {\n      \"texture\": \"wood\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"wood\",\n    \"metal\",\n    \"plastic\",\n    \"plaster\",\n    \"concrete\",\n    \"brick\",\n    \"stone\",\n    \"leather\",\n    \"fur\",\n    \"glass\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"texture\": \"wood\",\n\"texture\": \"metal\",\n\"texture\": \"leather\",\n\"texture\": \"marble\",\n\"texture\": \"stone\",\n\"texture\": \"plastic\",\n\"texture\": \"glass\",\n\"texture\": \"brick\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"metal\",\n    \"wood\",\n    \"plastic\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"smooth\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\" : \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"bench\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"leather\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wood\",\n  \"texture\": \"steel\",\n  \"texture\": \"metal\",\n  \"texture\": \"plastic\",\n  \"texture\": \"ceramic\",\n  \"texture\": \"rock\",\n  \"texture\": \"brick\",\n  \"texture\": \"marble\",\n  \"texture\": \"granite\",\n  \"texture\": \"glass\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"wooden\",\n    \"plastic\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\" : \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"texture\": \"wooden\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bench",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"wood\",\n    \"marble\",\n    \"stone\",\n    \"steel\",\n    \"metal\",\n    \"brass\",\n    \"ceramic\",\n    \"leather\",\n    \"plastic\",\n    \"glass\",\n    \"leatherette\",\n    \"leather-like\",\n    \"fabric\",\n    \"fabric-like\",\n    \"synthetic\",\n    \"fake\",\n    \"artificial\",\n    \"synthetic\",\n    \"synthetic\",\n    \"synthetic\",\n    \"synthetic\"\n  ]\n}\n"
+  }
+]

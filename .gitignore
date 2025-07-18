@@ -5,5 +5,6 @@ outputs_debug/
 output/
 data/
 .venv/
-__pyc*
 *.pyc
+instructor_env/
+commonsense_kg.egg-info/

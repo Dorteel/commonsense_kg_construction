@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Coffee Maker\",\n    \"description\": \"A coffee maker is a kitchen appliance used to brew coffee without having to boil water in a separate container.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 21\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"a9e078a1\",\n  \"conversation_id\": \"1497501681001\",\n  \"type\": 2,\n  \"text\": \"I have a question.\",\n  \"lang\": \"en\",\n  \"created\": \"2017-05-07T16:18:01.000Z\",\n  \"entities\": {\n    \"intent\": \"assistant.intent.action.TEXT\",\n    \"text\": {\n      \"data\": \"I have a question.\",\n      \"intent\": \"assistant.intent.action.TEXT\"\n    }\n  }\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 34.921875\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"toaster\",\n  \"type\": \"kitchenAppliance\",\n  \"usuallyElectric\": true,\n  \"averageSize\": {\n    \"height\": 20.34\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"size\": {\n\"height\": 15.0,\n\"width\": 30.0,\n\"depth\": 20.0\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 22.857142857142856}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"iPhone 11 Pro\",\n\"slogan\": \"The most powerful tools on a smartphone. For you.\",\n\"features\": [\n    \"Fastest performance ever on a smartphone.\",\n    \"Brightest, most advanced LCD in a smartphone.\",\n    \"5.8-inch Super Retina XDR display.\",\n    \"6.5-inch Super Retina XDR display.\",\n    \"12MP wide, 12MP ultra-wide, 12MP telephoto camera.\",\n    \"4000 mAh battery, wireless charging 18W.\",\n    \"Wireless charging and reverse charging.\",\n    \"Water and dust resistant.\",\n    \"64GB, 256GB, or 512GB\",\n    \"Space Gray, Silver, Gold.\",\n    \"From $999\"\n]\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"50\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"Pizza\",\n\"price\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 0.0244\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":25.400000000000004}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 190\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 22.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 31\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"system\": {\n        \"start\": 1463243118239,\n        \"end\": 1463243118311\n    },\n    \"user\": {\n        \"start\": 1463243118311,\n        \"end\": 1463243118332\n    },\n    \"assistant\": {\n        \"start\": 1463243118332,\n        \"end\": 1463243118333\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 21.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"type\":\"kitchen appliance\",\n\"toasting bread\":true\n}\n"
+  }
+]

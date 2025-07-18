@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"banana\" : {\n    \"size\" : {\n      \"width\" : 1\n    }\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.05\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\" : 0.56419965925}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"text\": \"Would you like me to find a movie?\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"banana\": {\n    \"width\": 0.38\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 1.3333333333333333\n  }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 0.8131 }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"banana\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"1.7\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"type\": {\n      \"type\": \"string\",\n      \"enum\": [\n        \"banana\"\n      ]\n    },\n    \"width\": {\n      \"type\": \"integer\",\n      \"minimum\": 0\n    }\n  },\n  \"required\": [\n    \"type\",\n    \"width\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0137\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.358024785\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"banana\": \"1.5\",\n  \"avocado\": \"1.5\",\n  \"cherry\": \"1\",\n  \"apple\": \"1\",\n  \"peach\": \"1\",\n  \"orange\": \"1\",\n  \"watermelon\": \"1.5\",\n  \"grape\": \"1\",\n  \"plum\": \"1\",\n  \"pear\": \"1\",\n  \"lemon\": \"1\",\n  \"tomato\": \"1\",\n  \"raspberry\": \"1\",\n  \"cantaloupe\": \"1.5\",\n  \"pepper\": \"1\",\n  \"cucumber\": \"1.5\",\n  \"radish\": \"1\",\n  \"lettuce\": \"1\",\n  \"carrot\": \"1\",\n  \"cabbage\": \"1.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"banana\",\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 0.3\n}\n"
+  }
+]

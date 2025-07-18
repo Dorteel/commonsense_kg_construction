@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"bowl\": {\"temperature\": 70.0}}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 72.5}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": [\n    {\n      \"temperature\": 75\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 45}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"bowl\",\n  \"temperature\": \"50\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"round\",\n    \"material\": \"metal\",\n    \"open\": \"true\",\n    \"used\": \"for holding food or liquids\"\n  },\n  \"temperature\": 32.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"name\": \"bowl\",\n    \"shape\": \"round\",\n    \"material\": \"ceramic\",\n    \"size\": \"large\",\n    \"color\": \"white\"\n  },\n  \"water\": {\n    \"name\": \"water\",\n    \"liquid\": \"true\",\n    \"state\": \"liquid\",\n    \"temperature\": 212,\n    \"units\": \"farenheit\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"round\",\n    \"open\": \"top\",\n    \"purpose\": [\"food\", \"liquid\"]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"shape\": \"round\",\n    \"size\": \"small\",\n    \"material\": \"metal\",\n    \"color\": \"silver\",\n    \"capacity\": 1\n  },\n  \"contents\": \"soup\",\n  \"contents_temperature\": 100,\n  \"contents_heat_source\": \"electric stove\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"average_temperature\": \"50\"\n  }\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"bowl\": {\n        \"type\": \"round vessel that is open at the top; used chiefly for holding food or liquids\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"is_a\": [\n      \"vessel\",\n      \"dish\",\n      \"container\",\n      \"receptacle\"\n    ],\n    \"has_attribute\": [\n      \"material\",\n      \"capacity\",\n      \"volume\"\n    ],\n    \"has_part\": [\n      {\n        \"is_a\": \"handle\",\n        \"has_attribute\": [\n          \"size\",\n          \"color\",\n          \"material\"\n        ]\n      }\n    ],\n    \"has_property\": [\n      {\n        \"is_a\": \"round\",\n        \"has_attribute\": [\n          \"radius\"\n        ]\n      },\n      {\n        \"is_a\": \"open\",\n        \"has_attribute\": [\n          \"opening\"\n        ]\n      },\n      {\n        \"is_a\": \"used_for\",\n        \"has_attribute\": [\n          \"food\",\n          \"liquids\"\n        ]\n      }\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"bowl\": {\n        \"type\": \"round vessel that is open at the top; used chiefly for holding food or liquids\",\n        \"temperature\": 32\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"container\",\n    \"open\": true,\n    \"capacity\": 8.0,\n    \"material\": \"metal\",\n    \"color\": \"silver\"\n  },\n  \"oven\": {\n    \"type\": \"device\",\n    \"capacity\": 3.0,\n    \"material\": \"metal\",\n    \"color\": \"silver\",\n    \"temperature\": 350.0,\n    \"state\": \"on\"\n  },\n  \"oven_state\": \"on\",\n  \"oven_temperature\": 350.0,\n  \"bowl_temperature\": 0.0,\n  \"bowl_material\": \"metal\",\n  \"bowl_color\": \"silver\",\n  \"bowl_type\": \"container\",\n  \"bowl_capacity\": 8.0,\n  \"bowl_state\": \"empty\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 54.6}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"name\": \"bowl\",\n    \"type\": \"Kitchenware\",\n    \"material\": \"ceramic\",\n    \"color\": \"white\",\n    \"capacity\": \"250 ml\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": \"a round vessel that is open at the top; used chiefly for holding food or liquids\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 20.00}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"bowl\": {\n    \"type\": \"vessel\",\n    \"material\": \"porcelain\",\n    \"color\": \"white\",\n    \"capacity\": \"12 oz\",\n    \"shape\": \"round\",\n    \"size\": \"small\",\n    \"opening\": \"top\",\n    \"used\": \"for serving snacks or cereal\",\n    \"used\": \"for holding water to be used to cook pasta\",\n    \"used\": \"for holding hot water for tea\"\n  },\n  \"bowl of soup\": {\n    \"type\": \"bowl\",\n    \"material\": \"porcelain\",\n    \"color\": \"white\",\n    \"capacity\": \"12 oz\",\n    \"shape\": \"round\",\n    \"size\": \"small\",\n    \"opening\": \"top\",\n    \"used\": \"for serving soup\",\n    \"used\": \"for serving chili\"\n  },\n  \"bowl of salad\": {\n    \"type\": \"bowl\",\n    \"material\": \"porcelain\",\n    \"color\": \"white\",\n    \"capacity\": \"12 oz\",\n    \"shape\": \"round\",\n    \"size\": \"small\",\n    \"opening\": \"top\",\n    \"used\": \"for serving salad\",\n    \"used\": \"for serving fruit salad\"\n  }\n}\n"
+  }
+]

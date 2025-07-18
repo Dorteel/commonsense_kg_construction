@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 4.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"address\": {\n    \"street\": \"12345 Main St\",\n    \"city\": \"New York\",\n    \"state\": \"NY\",\n    \"postalCode\": \"12345\"\n  },\n  \"email\": \"john@example.com\",\n  \"phone\": {\n    \"home\": \"650-555-1212\",\n    \"cell\": \"650-555-1213\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": \"small\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 12.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.15625\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 13}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 6.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"user\": \"Given the broccoli (which is plant with dense clusters of tight green flower buds), provide the average sizeas in {} measured in centimeters. Return only JSON with key: \\n  - height (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": 10051,\n  \"email\": \"test@test.com\",\n  \"first_name\": \"Test\",\n  \"last_name\": \"User\",\n  \"avatar\": \"https://slack.com/img/avatar.png\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 25.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.8\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 10}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5.6,\n  \"weight\": 0.12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "broccoli",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.0\n}\n"
+  }
+]

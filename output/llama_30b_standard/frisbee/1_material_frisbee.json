@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\",\n  \"description\": \"Light, plastic disk about 10 inches in diameter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\": \"plastic\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"material\": \"plastic\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": \"plastic\",\n\"material\": \"rubber\",\n\"material\": \"aluminum\",\n\"material\": \"glass\",\n\"material\": \"cardboard\",\n\"material\": \"wood\",\n\"material\": \"paper\",\n\"material\": \"steel\",\n\"material\": \"cloth\",\n\"material\": \"leather\",\n\"material\": \"iron\",\n\"material\": \"metal\",\n\"material\": \"cotton\",\n\"material\": \"silk\",\n\"material\": \"nylon\",\n\"material\": \"fiberglass\",\n\"material\": \"brass\",\n\"material\": \"bronze\",\n\"material\": \"lead\",\n\"material\": \"copper\",\n\"material\": \"stone\",\n\"material\": \"rock\",\n\"material\": \"marble\",\n\"material\": \"concrete\",\n\"material\": \"glass\",\n\"material\": \"plastic\",\n\"material\": \"porcelain\",\n\"material\": \"stone\",\n\"material\": \"porcelain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    {\n      \"id\": \"http://www.wikidata.org/entity/Q329374\",\n      \"name\": \"Plastic\",\n      \"description\": \"A synthetic material made from a wide variety of organic polymers such as polyethylene, polypropylene, polyvinyl chloride, polystyrene, and PVC.\",\n      \"subtypeOf\": [\n        \"http://www.wikidata.org/entity/Q4855703\"\n      ],\n      \"supertypeOf\": [\n        \"http://www.wikidata.org/entity/Q329374\"\n      ],\n      \"alias\": [\n        \"plastic\"\n      ],\n      \"subclassOf\": [\n        \"http://www.wikidata.org/entity/Q329374\"\n      ],\n      \"instanceOf\": [\n        \"http://www.wikidata.org/entity/Q329374\"\n      ],\n      \"inLanguage\": [\n        \"en\",\n        \"es\",\n        \"fr\",\n        \"de\",\n        \"it\",\n        \"ru\",\n        \"pt\",\n        \"zh\",\n        \"ja\",\n        \"ko\",\n        \"ar\",\n        \"fa\",\n        \"el\",\n        \"he\",\n        \"vi\",\n        \"zh-yue\",\n        \"cs\",\n        \"nl\",\n        \"fi\",\n        \"sv\",\n        \"et\",\n        \"no\",\n        \"da\",\n        \"sl\",\n        \"hu\",\n        \"ro\","
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"Plastic\"\n}\n"
+  }
+]

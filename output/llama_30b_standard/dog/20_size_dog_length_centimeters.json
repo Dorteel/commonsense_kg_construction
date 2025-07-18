@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60,\n  \"length\": 75,\n  \"length\": 100,\n  \"length\": 90,\n  \"length\": 85,\n  \"length\": 70,\n  \"length\": 120,\n  \"length\": 105,\n  \"length\": 115,\n  \"length\": 130,\n  \"length\": 145,\n  \"length\": 150,\n  \"length\": 160,\n  \"length\": 165,\n  \"length\": 170\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 45\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20.27\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 36.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"dog\": {\n  \"length\": \"50cm\"\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 50\n}\n"
+  }
+]

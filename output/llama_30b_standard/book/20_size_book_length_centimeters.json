@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 19.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 19.05,\n  \"pages\": 178\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"title\": \"The Book of Awesome\",\n  \"author\": \"Nicholas Boothman\",\n  \"genre\": \"Non-fiction\",\n  \"publisher\": \"Penguin\",\n  \"year\": 2006,\n  \"isbn\": \"0143037035\",\n  \"price\": 24.99,\n  \"description\": \"This book is a celebration of those special moments that make us human. It's about the simple things in life that make us smile: things like your favourite meal, or the smell of freshly washed clothes. It's about the people in your life who make you smile, and those moments you wish you could hold onto forever.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"book\": {\n    \"length\": 18\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"title\":\"The Hitchhiker's Guide to the Galaxy\",\"length\":\"5.5\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"min\": 1.5,\n    \"max\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 5.1,\n  \"weight\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 23.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"userid\": \"79060\",\n\"title\": \"Book\",\n\"description\": \"A book is a set of written, printed, illustrated, or blank sheets, made of ink, paper, parchment, or other materials, usually fastened together to hinge at one side. A single sheet within a book is called a leaf, and each side of a leaf is called a page. A book produced in electronic format is known as an e-book. Books may also refer to a literature work, or a main division of such a work.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 22.86\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 20}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"book\": {\n    \"length\": 21.6\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"length\": 22.86 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"id\": 1,\n    \"name\": \"Assistant 1\",\n    \"color\": \"blue\"\n  },\n  \"length\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"id\": \"1234567890\",\n    \"name\": \"Assistant\",\n    \"started\": \"2016-10-10T19:20:04.500Z\",\n    \"updated\": \"2016-10-10T19:20:04.500Z\",\n    \"status\": \"active\"\n  },\n  \"user\": {\n    \"id\": \"1234567890\",\n    \"name\": \"Test User\",\n    \"email\": \"test@test.com\",\n    \"created\": \"2016-10-10T19:20:04.500Z\",\n    \"updated\": \"2016-10-10T19:20:04.500Z\",\n    \"status\": \"active\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"title\": \"The Old Man and the Sea\",\n  \"author\": \"Ernest Hemingway\",\n  \"genre\": \"adventure\",\n  \"length\": 174\n}\n "
+  }
+]

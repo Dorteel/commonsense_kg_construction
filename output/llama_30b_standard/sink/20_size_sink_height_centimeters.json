@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"key\": \"height\",\n  \"value\": 0.55\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":\"50\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"device\": \"H-E188\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 11.61}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"3432\",\n  \"user_name\": \"john\"\n  ,\n  \"user_email\": \"john@gmail.com\"\n  ,\n  \"user_phone\": \"123456789\"\n  ,\n  \"user_country\": \"US\"\n  ,\n  \"user_city\": \"new york\"\n  ,\n  \"user_zipcode\": \"10001\"\n  ,\n  \"user_address\": \"100 west 10th street\"\n  ,\n  \"user_birth_date\": \"1990-01-01\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user-answer\": \"3\",\n  \"question\": \"What is the average height of a sink (plumbing fixture) in centimeters?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"question\": \"What is the average size of a sink?\",\n    \"answers\": [\n        {\n            \"answer\": \"20 centimeters\",\n            \"confidence\": 1.0\n        },\n        {\n            \"answer\": \"20 centimeters\",\n            \"confidence\": 0.7\n        },\n        {\n            \"answer\": \"15 centimeters\",\n            \"confidence\": 0.8\n        },\n        {\n            \"answer\": \"10 centimeters\",\n            \"confidence\": 0.6\n        },\n        {\n            \"answer\": \"15 centimeters\",\n            \"confidence\": 0.2\n        }\n    ],\n    \"context\": {},\n    \"metadata\": {\n        \"intent\": \"assistant\"\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\": 2.5 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 33.000000,\n  \"width\": 45.000000,\n  \"length\": 55.000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"version\": 1,\n    \"assistantId\": \"56352151-82b1-47d8-9219-f64023e95421\",\n    \"locale\": \"en-US\",\n    \"conversationToken\": \"{\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":\"10\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 15.0,\n  \"width\": 15.0,\n  \"depth\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 52.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\": \"Sink\",\n    \"description\": \"A plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe.\",\n    \"properties\": {\n        \"height\": {\n            \"type\": \"float\",\n            \"description\": \"The height of the sink, as in {} measured in centimeters.\",\n            \"value\": 0.0\n        }\n    },\n    \"example\": {\n        \"properties\": {\n            \"height\": 0.0\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"sink\":\n  {\n    \"height\": 175\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"sink\": \"kitchen\",\n\"height\": 40,\n\"width\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the sink (which is plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe)\",\n  \"answer\": [\n    {\n      \"key\": \"size\",\n      \"value\": \"height\",\n      \"type\": \"float\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 160, \"width\": 160, \"depth\": 160}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sink",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 10.0\n}\n"
+  }
+]

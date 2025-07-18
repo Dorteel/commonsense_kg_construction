@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"type\": \"command\",\n  \"text\": \"Hello. I am your new assistant.\",\n  \"context\": {\n    \"system\": {\n      \"user_id\": \"U23456789\",\n      \"account_id\": \"A12345678\",\n      \"locale\": \"en-US\"\n    },\n    \"conversation\": {\n      \"conversation_id\": \"abcd\",\n      \"type\": \"active\",\n      \"conversation_token\": \"123\",\n      \"state\": \"active\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\":\"rectangle\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\" : \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": {\n    \"gender\": \"female\",\n    \"age\": 48,\n    \"education\": \"college\",\n    \"marital_status\": \"married\",\n    \"occupation\": \"nurse\",\n    \"zip_code\": \"90210\",\n    \"children\": \"0\",\n    \"pets\": \"0\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"Rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": \"1.25\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": {\n    \"value\": 1,\n    \"unit\": \"meters\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 2.6\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"John Doe\",\n  \"message\": \"what is the average size of a banana?\",\n  \"intent\": \"answer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.899\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"size\": {\"width\": 1.0}}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 0.70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : \"0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.63492188\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"banana\": {\n    \"width\": 0.01\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"banana\": {\n    \"width\": 2\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 1.2}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":0.5}\n "
+  }
+]

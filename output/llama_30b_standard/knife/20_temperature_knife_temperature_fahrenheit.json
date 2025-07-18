@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 45.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 74.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"type\": \"im_start\",\n\"im_start\": \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 35,\n  \"temperature_unit\": \"F\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 77\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 98\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"userid\": \"123\",\n  \"user_name\": \"Jane\",\n  \"user_city\": \"London\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"R2-D2\",\n\"job\": \"Droid\",\n\"skills\": [\"droid\", \"mechanic\", \"star wars\"]\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"name\": \"Mary\",\n\"age\": 54,\n\"pets\": [\n    {\n        \"name\": \"Spot\",\n        \"age\": 7,\n        \"gender\": \"male\",\n        \"type\": \"dog\"\n    },\n    {\n        \"name\": \"Fluffy\",\n        \"age\": 5,\n        \"gender\": \"female\",\n        \"type\": \"cat\"\n    }\n]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Ruth\",\n  \"title\": \"Senior Software Engineer\",\n  \"dept\": \"Engineering\",\n  \"start\": \"2016-03-16\",\n  \"age\": 27,\n  \"office\": \"204\",\n  \"extn\": 204,\n  \"email\": \"ruth@example.com\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 1.23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Linda\"\n  }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 58.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 86\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"name\": \"Mario\",\n    \"surname\": \"Peluso\",\n    \"job\": \"Software Engineer\"\n  },\n  \"temperature\": 77.8\n}\n"
+  }
+]

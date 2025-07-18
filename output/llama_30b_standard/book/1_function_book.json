@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"get_info\",\"info\":\"The book has a title, author, publisher, and a number of pages.\"}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\n    \"write\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"function\": \"read\" }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\": \"read\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"read\",\"function\":\"learn\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"function\": \"read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"to read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"read\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"read\",\"description\":\"reads a book\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"function\": \"read\",\n    \"function\": \"write\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"to read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": \"read\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"function\": [\"reading\", \"research\", \"writing\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\":\"to be read\",\"id\":\"book\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "function",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"function\" : \"to read\"}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\":\"round\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"bowl\" : {\n    \"shape\" : \"round\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\" : \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"shape\": \"round\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user_input\": \"bowl\",\n  \"concept_id\": \"urn:uuid:f07d134b-a372-4135-8446-9349a13733c4\",\n  \"time\": 1234567890\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\": \"round\",\n\"bowl\": \"round\",\n\"cup\": \"round\",\n\"glass\": \"round\",\n\"plate\": \"round\",\n\"tableware\": \"round\",\n\"vessel\": \"round\",\n\"dish\": \"round\",\n\"dinnerware\": \"round\",\n\"dinner plate\": \"round\",\n\"salad bowl\": \"round\",\n\"soup bowl\": \"round\",\n\"bowl\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"spherical\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"query\": {\n    \"type\": \"image\",\n    \"image_url\": \"https://upload.wikimedia.org/wikipedia/commons/d/d4/Pottery_bowl%2C_1450-1500_CE.jpg\"\n  },\n  \"context_url\": \"https://api.wit.ai/contexts/81d47f80-8504-45b0-9c04-8f0f2958665f\",\n  \"lifespan\": 300,\n  \"intent\": {\n    \"name\": \"Assistant_query\",\n    \"confidence\": 0.528\n  },\n  \"entities\": {\n    \"bowl\": {\n      \"type\": \"Entity\",\n      \"start\": 0,\n      \"end\": 5,\n      \"value\": \"bowl\",\n      \"confidence\": 0.999996\n    },\n    \"round\": {\n      \"type\": \"Entity\",\n      \"start\": 6,\n      \"end\": 14,\n      \"value\": \"round\",\n      \"confidence\": 0.999996\n    },\n    \"vessel\": {\n      \"type\": \"Entity\",\n      \"start\": 15,\n      \"end\": 21,\n      \"value\": \"vessel\",\n      \"confidence\": 0.999996\n    },\n    \"that\": {\n      \"type\": \"Entity\",\n      \"start\": 21,\n      \"end\": 25,\n      \"value\": \"that\",\n      \"confidence"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"spherical\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"spherical\",\n  \"shape\": \"cylindrical\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bowl",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\":\"round\"}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"width\": 6.35\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"8.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.1333333333333333\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 8\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 8\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"apple\": {\n    \"average_width\": 100.1\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 7.0}\n                  \t "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": \"large\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"question\",\n  \"question\": \"Given the apple (which is fruit with red or yellow or green skin and sweet to tart crisp whitish flesh), provide the average sizeas in {} measured in centimeters.\\nReturn only JSON with key:\\n  - width (float)\",\n  \"options\": {\n    \"system\": {\n      \"data\": {\n        \"type\": \"plain_text\",\n        \"text\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"\n      }\n    },\n    \"user\": {\n      \"data\": {\n        \"type\": \"plain_text\",\n        \"text\": \"Given the apple (which is fruit with red or yellow or green skin and sweet to tart crisp whitish flesh),\\nprovide the average sizeas in {} measured in centimeters.\\nReturn only JSON with key:\\n  - width (float)\"\n      }\n    },\n    \"assistant\": {\n      \"data\": {\n        \"type\": \"plain_text\",\n        \"text\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 3.3}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": \"3.8\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 7.62\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 7.62\n}\n"
+  }
+]

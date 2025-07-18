@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"15\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"boat\": \"a small vessel for travel on water\",\n    \"average_size\": \"as in {} measured in meters\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"height\" : 1.20 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"boat\": {\n    \"height\": 0.314\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Karen\",\n  \"age\": 33,\n  \"is_adult\": true,\n  \"is_alive\": true,\n  \"is_employee\": false,\n  \"is_student\": true,\n  \"is_married\": false,\n  \"has_children\": false,\n  \"has_pets\": false,\n  \"has_car\": false,\n  \"has_phone\": true,\n  \"has_email\": true,\n  \"has_home_address\": true,\n  \"has_work_address\": true,\n  \"has_credit_card\": true,\n  \"has_debit_card\": true,\n  \"has_passport\": true,\n  \"has_drivers_license\": true,\n  \"has_social_security_number\": true,\n  \"is_authorized_to_vote\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": \"5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.7}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0,\n  \"length\": 4.8,\n  \"weight\": 5.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 1.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 2.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"height\": 1.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.05}\n   "
+  }
+]

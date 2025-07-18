@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"size\": \"medium\",\n  \"name\": \"Super moist chocolate cake\",\n  \"ingredients\": [\"1 cup butter\", \"2 cups sugar\", \"4 eggs\", \"2 teaspoons vanilla extract\", \"3 cups all-purpose flour\", \"1 teaspoon salt\", \"1 teaspoon baking soda\", \"1 cup semisweet chocolate chips\"]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 26\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30.48\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 7, \"height\": 8}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 28}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\": 30 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 6.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"text\": \"Given the cake (which is baked goods made from or based on a mixture of flour, sugar, eggs, and fat), provide the average sizeas in {} measured in centimeters. Return only JSON with key: - width (float)\"\n  },\n  \"context\": {\n    \"c\": \"cake\"\n  },\n  \"intents\": [\n    {\n      \"intent\": {\n        \"name\": \"order_baked_goods\"\n      },\n      \"confidence\": 0.0001\n    }\n  ],\n  \"entities\": [\n    {\n      \"entity\": {\n        \"type\": \"baked_goods\"\n      },\n      \"start_pos\": 0,\n      \"end_pos\": 10\n    }\n  ],\n  \"context_entities\": [\n    {\n      \"entity\": {\n        \"type\": \"baked_goods\"\n      },\n      \"start_pos\": 0,\n      \"end_pos\": 10\n    }\n  ],\n  \"response_metadata\": {\n    \"intent_name\": \"order_baked_goods\"\n  },\n  \"status\": {\n    \"code\": 200,\n    \"error_type\": \"success\"\n  },\n  \"session_state\": {\n    \"session_id\": \"29738235-328b-4881-986c-30c7b080f320\",\n    \"attributes\": {\n      \"c\": {\n        \"name\": \"c\",\n        \"value\": \"cake\","
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"user\": {\n        \"name\": \"joe\",\n        \"age\": 24\n    },\n    \"cake\": {\n        \"type\": \"chocolate\",\n        \"size\": {\n            \"width\": 10\n        }\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Pizza\",\n  \"toppings\": [\n    {\n      \"name\": \"Cheese\",\n      \"color\": \"white\"\n    },\n    {\n      \"name\": \"Pepperoni\",\n      \"color\": \"red\"\n    },\n    {\n      \"name\": \"Sausage\",\n      \"color\": \"brown\"\n    },\n    {\n      \"name\": \"Ham\",\n      \"color\": \"pink\"\n    },\n    {\n      \"name\": \"Bacon\",\n      \"color\": \"gray\"\n    },\n    {\n      \"name\": \"Mushrooms\",\n      \"color\": \"brown\"\n    },\n    {\n      \"name\": \"Onion\",\n      \"color\": \"white\"\n    },\n    {\n      \"name\": \"Green Pepper\",\n      \"color\": \"green\"\n    },\n    {\n      \"name\": \"Olives\",\n      \"color\": \"black\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 28.0}\n \t  \t  \t  \t  \t  \t  \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 10}\n     \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20\n}\n"
+  }
+]

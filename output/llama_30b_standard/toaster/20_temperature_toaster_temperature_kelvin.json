@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"toaster\": [\n    {\n        \"name\": \"Sunbeam\",\n        \"type\": \"Bread Toaster\",\n        \"model\": \"2 slice\",\n        \"color\": \"Silver\",\n        \"temperature\": 200,\n        \"power\": \"120 V\"\n    },\n    {\n        \"name\": \"Sunbeam\",\n        \"type\": \"Bread Toaster\",\n        \"model\": \"2 slice\",\n        \"color\": \"Silver\",\n        \"temperature\": 200,\n        \"power\": \"240 V\"\n    }\n]\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"query\" : \"Given the toaster (which is a kitchen appliance (usually electric) for toasting bread), provide the average temperatureas in {} measured in kelvin.\",\n  \"parameters\" : [\n    \"the toaster\"\n  ],\n  \"result\" : {\n    \"temperature\" : 156.25\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"toaster\": {\n    \"kitchen_appliance\": {\n      \"usually_electric\": {\n        \"bread\": {\n          \"toast\": \"toaster\",\n          \"temperature\": \"temperature\"\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"user_id\": 3095843, \"time\": \"2017-04-25T15:00:00.000Z\", \"type\": \"assistant\", \"text\": \"hey whats up\", \"entities\": {\"user_mentions\": [], \"links\": [], \"hashtags\": [], \"symbols\": [], \"media\": []}, \"locale\": \"en\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"name\": \"Siri\"\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"toaster\": {\n    \"name\": \"Toaster\",\n    \"type\": \"kitchen appliance (usually electric) for toasting bread\",\n    \"temperature\": 200.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 145.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"f081f9d3-33c2-4075-b0e9-70825c4b9320\",\n  \"conversation_id\": \"00000000-0000-0000-0000-000000000000\",\n  \"type\": \"message\",\n  \"timestamp\": \"2017-10-27T00:14:13.33Z\",\n  \"source\": \"assistant\",\n  \"locale\": \"en-US\",\n  \"user\": {\n    \"userId\": \"f081f9d3-33c2-4075-b0e9-70825c4b9320\",\n    \"locale\": \"en-US\",\n    \"lastSeen\": \"2017-10-27T00:14:13.333Z\",\n    \"userStorage\": {}\n  },\n  \"device\": {\n    \"locale\": \"en-US\",\n    \"model\": \"Google Home\",\n    \"id\": \"AC129C55A40011D78811CD2BB16C53FB7AEC31C8\",\n    \"deviceStorage\": {}\n  },\n  \"inputs\": [\n    {\n      \"intent\": \"assistant.intent.action.TEXT\",\n      \"rawInputs\": [\n        {\n          \"query\": \"a toaster\",\n          \"inputType\": \"VOICE\",\n          \"end\": true\n        }\n      ],\n     "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 235.98\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 100}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"U1234\",\n  \"text\": \"turn on the toaster\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"toaster\": {\n    \"is\": \"kitchen appliance (usually electric) for toasting bread\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 100\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"device_id\": \"d53c8a64-893c-4f48-a6cd-0683d1987050\",\n  \"user_id\": \"b8915e2f-1f1c-447b-9290-445ac71a4223\",\n  \"user_name\": \"John Doe\",\n  \"user_email\": \"john.doe@gmail.com\",\n  \"device_type\": \"Samsung Galaxy S9\",\n  \"device_model\": \"SM-G960U1\",\n  \"device_os\": \"Android\",\n  \"device_os_version\": \"9\",\n  \"app_version\": \"1.0\",\n  \"device_location\": {\n    \"latitude\": 37.420307,\n    \"longitude\": -122.071769,\n    \"timezone\": \"America/Los_Angeles\"\n  },\n  \"intent\": {\n    \"name\": \"GetTemperature\"\n  },\n  \"intent_data\": {\n    \"toaster_name\": \"Toaster\"\n  },\n  \"slots\": {\n    \"toaster_name\": {\n      \"name\": \"toaster_name\",\n      \"value\": \"Toaster\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 373.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": \"400.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"toaster\": {\n        \"kitchen_appliance\": [\n            \"usually_electric\",\n            \"bread_toasting\"\n        ]\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456789\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

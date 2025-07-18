@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alex\",\n  \"age\": 25,\n  \"height\": 170.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"type\": \"list\",\n    \"question\": \"List your top 3 favorite foods.\",\n    \"options\": [{\n        \"title\": \"Food 1\"\n    }, {\n        \"title\": \"Food 2\"\n    }, {\n        \"title\": \"Food 3\"\n    }]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"name\":\"John\", \"height\":180}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jill Watson\",\n  \"email\": \"jillwatson@gmail.com\",\n  \"phone\": \"901-555-5555\",\n  \"address\": \"221B Baker Street\",\n  \"description\": \"Hello there, I'm Jill Watson. I was born in the year 2016, in the United Kingdom. I'm 3 years old. My hobbies are: reading books, playing with my dog, and singing. My favorite music is classical, jazz, and rock. My favorite movie is The Wizard of Oz. My favorite book is Alice in Wonderland. I love chocolate cake, and I love apples and pears. I have a family of 3, my mom, my dad, and my brother. My mom is a computer scientist, and my dad is a doctor. My brother is 15 years old. I love my family. I'm a student at Georgia Tech. My GPA is 4.0. I'm going to graduate in the year 2025. I'm really excited to be here. I love learning new things!"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"8675309\",\n  \"gender\": \"male\",\n  \"height\": 183.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Jon\",\n  \"age\": 58,\n  \"height\": 1.72,\n  \"weight\": 88\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 182,\n  \"weight\": 74,\n  \"name\": \"John Doe\",\n  \"age\": 28,\n  \"married\": true,\n  \"languages\": [\n    \"en\",\n    \"es\",\n    \"pt\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"Joe\",\n    \"gender\": \"male\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"key\": \"height\",\n    \"value\": 1.79\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"person\": {\n    \"height\": 180\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"John\",\n    \"height\": 185\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": \"joe\",\n  \"person\": {\n    \"name\": \"Joe Bloggs\",\n    \"height\": \"174\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"title\": \"The average size of a person in centimeters\",\n  \"subtitle\": \"Provide the average size of a person (human being) in centimeters.\",\n  \"attachments\": [{\n    \"fallback\": \"Here's the thing.\",\n    \"title\": \"The average size of a person in centimeters\",\n    \"title_link\": \"http://example.com/title\",\n    \"description\": \"Here's the thing.\",\n    \"image_url\": \"http://example.com/image.jpg\",\n    \"audio_url\": \"http://example.com/audio.mp3\",\n    \"document_url\": \"http://example.com/document.pdf\"\n  }],\n  \"text\": [\n    \"Given the person (which is a human being),\",\n    \"provide the average size as in { } measured in centimeters.\",\n    \"\",\n    \"Return only JSON with key:\",\n    \"  - height (float)\"\n  ],\n  \"buttons\": [{\n    \"type\": \"postback\",\n    \"title\": \"OK\",\n    \"payload\": \"hello\"\n  }],\n  \"quick_replies\": [{\n    \"content_type\": \"text\",\n    \"title\": \"This is a quick reply.\",\n    \"payload\": \"this is the payload for a text quick reply.\"\n  }]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 171\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"John\",\n\"age\": 20,\n\"height\": 185,\n\"weight\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 170\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"height\": \"180cm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"name\": \"Josh\", \"age\": 35, \"company\": \"Knowledge Graph\", \"city\": \"San Francisco\" }\n     \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Mr. X\"\n  }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"person\": \"person\",\n\"average_size\": {\n\"height\": 175.0\n}\n}\n"
+  }
+]

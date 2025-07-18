@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"hot dog vendor\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Burger King\",\n  \"location\": \"Wal-Mart\",\n  \"location\": \"Costco\",\n  \"location\": \"7-11\",\n  \"location\": \"BP gas station\",\n  \"location\": \"convenience store\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"restaurant\" }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a baseball game\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"diner\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"food truck\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in a restaurant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"restaurant\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"in a bun\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"fair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"restaurant\",\n    \"fast food restaurant\",\n    \"hot dog stand\",\n    \"hot dog vendor\",\n    \"hot dog cart\",\n    \"hot dog trailer\",\n    \"hot dog truck\",\n    \"hot dog shack\",\n    \"hot dog drive-in\",\n    \"hot dog car\",\n    \"hot dog boat\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\":\"Burger King\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"food truck\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"A hot dog stand.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"Burger King\",\n  \"location\": \"Restaurant\",\n  \"location\": \"Hot dog stand\",\n  \"location\": \"Deli\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"basketball court\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"a hot dog cart\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"lunch counter\",\"location\":\"school cafeteria\",\"location\":\"street vendor\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"A convenience store\",\"location\":\"A fast food restaurant\",\"location\":\"A grocery store\",\"location\":\"A hot dog stand\",\"location\":\"A pizza parlor\",\"location\":\"A roadside stand\",\"location\":\"A restaurant\",\"location\":\"A stadium\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"ballpark\"}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"ceramic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"pot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"plastic\",\n    \"glass\",\n    \"ceramic\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    \"bark\",\n    \"clay\",\n    \"grass\",\n    \"peat moss\",\n    \"sawdust\",\n    \"soil\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"clay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"materials\":[\n{\"name\":\"wood\"},\n{\"name\":\"plastic\"}\n]}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"material\": \"clay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"material\": \"Potting Soil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"earth\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"clay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"potting soil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"earth\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"material\":\"Plastic\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"potting soil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": [\n    {\n      \"id\": \"plant\",\n      \"name\": \"Plant\"\n    },\n    {\n      \"id\": \"soil\",\n      \"name\": \"Soil\"\n    },\n    {\n      \"id\": \"pot\",\n      \"name\": \"Pot\"\n    },\n    {\n      \"id\": \"water\",\n      \"name\": \"Water\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\": \"soil\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "potted plant",
+    "domain": "material",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"material\" : \"dirt\"\n}\n"
+  }
+]

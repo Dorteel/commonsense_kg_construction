@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 30000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 25000,\n  \"truck\": \"automotive vehicle suitable for hauling\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 392000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 4500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 11000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3000000\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 50000\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 80000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\" : 5000000 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 200000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"truck\": {\n    \"weight\": 5000\n} }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 2000,\n  \"vehicle\": \"truck\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 12000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 500000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 5200.0\n}\n"
+  }
+]

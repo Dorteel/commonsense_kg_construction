@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": {\n    \"value\": \"Traffic Light\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"at an intersection\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersection\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"intersections\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersection\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"intersection\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersection of roadways\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersections\",\n  \"subtype\": \"signals\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"on the top of a post or arm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"highway\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersections\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersection\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"outside\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"the center of the road\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"intersections\",\n    \"traffic intersections\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"intersection\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"intersection\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"outside of the city\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": [\n\"traffic intersection\",\n\"traffic junction\",\n\"traffic light\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "traffic light",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"intersection\"}\n"
+  }
+]

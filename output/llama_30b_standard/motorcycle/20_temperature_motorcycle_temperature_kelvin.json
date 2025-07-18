@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": \"37.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": {\n\"type\": \"float\",\n\"min\": 300.0,\n\"max\": 350.0,\n\"unit\": \"kelvin\",\n\"resolution\": 0.1\n},\n\"value\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 45.367,\n  \"motorcycle\": \"Honda CBR 125R\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 288.15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 273.15\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": 1234,\n  \"query\": \"Given the motorcycle (which is a motor vehicle with two wheels and a strong frame), provide the average temperatureas in {} measured in kelvin.\",\n  \"inputs\": [\n    {\n      \"intent\": \"assistant.intent.action.TEXT\",\n      \"raw_text\": \"Given the motorcycle (which is a motor vehicle with two wheels and a strong frame), provide the average temperatureas in {} measured in kelvin.\"\n    }\n  ],\n  \"contexts\": [\n    {\n      \"name\": \"motorcycle_context\",\n      \"lifespan\": 10,\n      \"parameters\": {\n        \"motorcycle\": {\n          \"name\": \"motorcycle\",\n          \"parameter_id\": \"motorcycle\",\n          \"resolved_value\": \"motorcycle\"\n        }\n      }\n    }\n  ],\n  \"metadata\": {\n    \"intent_id\": \"de98136a-3c53-4303-bc5a-233e9e033871\",\n    \"webhook_used\": \"true\",\n    \"webhook_for_slot_filling_used\": \"false\",\n    \"nlu_message_edited\": \"true\",\n    \"intent_name\": \"assistant.intent.action.TEXT\",\n    \"query_text\": \"Given the motorcycle (which is a motor vehicle with two wheels and a strong frame), provide the average temperatureas in {} measured in kelvin.\"\n  },\n  \"fulfillment\": {\n    \"speech\": \"Given the motorcycle (which is a motor vehicle with two"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"motorcycle\": {\n    \"is_motor\": true,\n    \"has_two_wheels\": true,\n    \"has_strong_frame\": true\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 298.15\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\":15.0}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"motorcycle\": {\n    \"class\": \"Motor vehicle\",\n    \"parts\": [\n      \"strong frame\"\n    ]\n  }\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 295.315\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "motorcycle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 300}\n"
+  }
+]

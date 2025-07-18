@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The mouse is an input device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"input device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"computer accessory\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"computer\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"mouse\",\n\"intent\": \"mouse\",\n\"entities\": {\n    \"mouse\": {\n        \"value\": \"mouse\",\n        \"type\": \"entity\"\n    }\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"electronic device\",\n  \"context\": \"computer peripheral\",\n  \"context\": \"control device\",\n  \"context\": \"input device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"mouse in the house\",\n    \"mouse on the keyboard\",\n    \"mouse in my hand\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"A mouse is a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"electronic device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"an electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"animal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n  \"mouse\",\n  \"device\",\n  \"computer\",\n  \"electronic device\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"Mouse is a small object you hold in your hand and move across a desk to tell the computer what to do.\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"mouse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"electronic device\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"common sense knowledge\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "mouse",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"mouse (computing)\"\n}\n"
+  }
+]

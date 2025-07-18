@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 78}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": \"13.49\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 240\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"name\": \"Freddy\",\n    \"age\": 5\n}\n \t \t \t \t \t \t \t \t \t \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 79}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 108\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 74\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\":144}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 77.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 192.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\" : 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"userID\": \"d697d77a-7439-495d-a6d9-2038039539a3\",\n  \"requestID\": \"18682a64-37f0-4570-876f-916730c00843\",\n  \"payload\": {\n    \"text\": \"Given the truck (which is an automotive vehicle suitable for hauling), provide the average sizeas in {} measured in inches. Return only JSON with key:  - length (float)\"\n  },\n  \"lang\": \"en\"\n}\n"
+  }
+]

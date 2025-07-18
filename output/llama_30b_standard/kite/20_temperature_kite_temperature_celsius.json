@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string), provide the average temperature as in {} measured in celsius. Return only JSON with key: - temperature (float)\",\n  \"answer\": 50,\n  \"time\": 1626995592000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21.0,\n  \"kite\": {\n    \"type\": \"plaything\",\n    \"material\": \"paper\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 7.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"query\": \"what is 3+4?\",\n  \"context\": {\n    \"assistant\": {\n      \"intent\": \"assistant.intent.action.TEXT\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"text\": \"Where can I get a kite?\",\n    \"attachments\": [\n    {\n      \"title\": \"Kite\",\n      \"title_link\": \"https://en.wikipedia.org/wiki/Kite\",\n      \"image_url\": \"https://upload.wikimedia.org/wikipedia/commons/c/c8/Kite_on_a_string.jpg\",\n      \"text\": \"A kite is a tethered heavier-than-air craft with wing surfaces that react against the air to create lift and drag.\",\n      \"fields\": [\n      {\n        \"title\": \"History\",\n        \"value\": \"Kites were originally invented in ancient China, where materials ideal for kite building were readily available: silk cloth for sail material; fine, high-tensile-strength silk for flying line; and resilient bamboo for a strong, lightweight framework. The kite was said to be the invention of the famous Chinese philosophers Mozi and Lu Ban.\\n\\nBy at least 549 AD paper kites were being flown, as it was recorded in that year a paper kite was used as a message for a rescue mission. Ancient and medieval Chinese sources list other uses of kites for measuring distances, testing the wind, lifting men, signaling, and communication for military operations. The earliest known Chinese kites were flat (not bowed) and often rectangular. Later, tailless kites incorporated a stabilizing bowline. Kites were decorated with mythological figures and legendary animals, some with dragon heads and intertwined tails. By the 17th-century large kites with many tails were being featured in folk festivals.\"\n     "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"user\": {\n        \"name\": \"Assistant\",\n        \"gender\": \"female\",\n        \"age\": 27,\n        \"birthday\": \"02/24/1990\"\n    }\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"given the kite (which is plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string), provide the average temperature as in {} measured in celsius. return only json with key: - temperature (float)\",\n  \"intents\": [\n    {\n      \"intent\": \"find_temp\",\n      \"data\": {\n        \"kite\": \"plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\"\n      }\n    }\n  ],\n  \"contexts\": [\n    {\n      \"name\": \"weather\",\n      \"lifespan\": 5\n    }\n  ],\n  \"entities\": {\n    \"kite\": {\n      \"type\": \"object\",\n      \"children\": [\n        {\n          \"name\": \"kite\",\n          \"type\": \"object\",\n          \"children\": [\n            {\n              \"name\": \"plaything\",\n              \"type\": \"object\",\n              \"children\": [\n                {\n                  \"name\": \"plaything\",\n                  \"type\": \"object\",\n                  \"children\": [\n                    {\n                    \"name\": \"plaything\",\n                    \"type\": \"object\",\n                    \"children\": [\n                    {\n                    \"name\": \"plaything\",\n                    \"type\": \"object\",\n                    \"children\": [\n                    {\n                    \"name\": \"plaything\",\n                    \"type\": \"object\",\n                    \"children\": [\n                    {\n                    \"name\": \"plaything\",\n                    \"type\": \"object\",\n                    \"children\": ["
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"kite\": 27.41\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 28.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"kite\": \"plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string\",\n  \"temperature\": 26.66\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 28.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 19.7}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 38.9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 26.0}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"plaything\": \"kite\",\n  \"temperature\": 15\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 14.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"title\" : \"The Book\",\n  \"author\" : \"The Author\",\n  \"year\" : 2018\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"size\": {\n    \"height\": 203.2\n  },\n  \"book_type\": \"fiction\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 5.75}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"name\": \"Gardening Book\",\n\"genre\": \"Gardening\",\n\"average_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\":\"Penny\",\n  \"height\":152.4,\n  \"weight\":60,\n  \"eyeColor\":\"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"book\": {\n    \"height\": 152.4,\n    \"width\": 228.6\n  },\n  \"height\": 152.4,\n  \"width\": 228.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 147.0}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 133\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 125.000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 210\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"height\": 14\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 240\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"u1\",\n  \"name\": \"John\",\n  \"language\": \"en\",\n  \"text\": \"The book is very big. What is the size of the book?\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 20.32\n}\n"
+  }
+]

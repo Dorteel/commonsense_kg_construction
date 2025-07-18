@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"40\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 70.00000000000001}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 50.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"tennis_racket\": {\n    \"average_temperature\": 68.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 50.5\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"name\": \"Alexa\",\n    \"skills\": [\n      \"Amazon.NaturalLanguageUnderstanding\"\n    ]\n  },\n  \"request\": {\n    \"type\": \"IntentRequest\",\n    \"requestId\": \"amzn1.echo-api.request.8a2bbc13-41d4-4498-91ba-2207e9e73072\",\n    \"timestamp\": \"2017-03-16T04:41:20Z\",\n    \"locale\": \"en-US\",\n    \"intent\": {\n      \"name\": \"AMAZON.NaturalLanguageUnderstanding\",\n      \"slots\": {\n        \"temperature\": {\n          \"name\": \"temperature\",\n          \"value\": \"50\",\n          \"resolution\": \"fine\"\n        }\n      }\n    }\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": {\n    \"value\": \"68\",\n    \"unit\": \"fahrenheit\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 85\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 86.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 85.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"U814069970\",\n  \"query\": \"Given the tennis racket (which is a racket used to play tennis), provide the average temperatureas in {} measured in fahrenheit. Return only JSON with key: temperature (float)\",\n  \"lang\": \"en-US\",\n  \"timezone\": \"America/Los_Angeles\",\n  \"datetime\": \"2022-01-13T03:58:40-08:00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tennis racket",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75.0\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"wine glass\",\n  \"description\": \"a glass that has a stem and in which wine is served\",\n  \"size\": {\n    \"width\": 80\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\" : 42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 53.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 90\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 66.66666666666666\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 86.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 320\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 75}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 30\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"20.32\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 50.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"wine glass\": {\n    \"width\": 60,\n    \"height\": 200\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"user2\",\n  \"assistant_id\": \"assistant2\",\n  \"time\": \"03:45:00\",\n  \"text\": \"I want to see the size of the wine glass.\",\n  \"intent\": \"wine_size\",\n  \"entities\": [\n    {\n      \"name\": \"wine glass\",\n      \"type\": \"object\",\n      \"offset\": 24,\n      \"length\": 13,\n      \"value\": \"wine glass\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 10.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"width\": 65\n}\n"
+  }
+]

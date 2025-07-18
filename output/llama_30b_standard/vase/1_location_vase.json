@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"in a store\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\" : \"table\",\n  \"location\" : \"window\",\n  \"location\" : \"desk\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on a table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"table\",\n  \"location\": \"counter\",\n  \"location\": \"shelf\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"kitchen\", \"office\" : \"living room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"on a table\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"mantle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on a table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"table\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": {\n    \"type\": \"string\",\n    \"value\": \"kitchen\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"house\"}\n                  \t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"on the table\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"table\",\"location\":\"shelf\",\"location\":\"window sill\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"kitchen\",\n    \"location\": \"dining room\",\n    \"location\": \"bathroom\",\n    \"location\": \"bedroom\",\n    \"location\": \"outside\",\n    \"location\": \"garage\",\n    \"location\": \"living room\",\n    \"location\": \"office\",\n    \"location\": \"garden\",\n    \"location\": \"attic\",\n    \"location\": \"basement\",\n    \"location\": \"bathroom\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  }
+]

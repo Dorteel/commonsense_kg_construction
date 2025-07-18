@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"is_an\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"is_a\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"appliances_blowers\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"electrical equipment\",\n  \"disposition\": \"hair care\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"blowing air\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hand-held\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"blow drying hair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"used for styling hair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"drying\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"can be used as a hair dryer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"blows warm air onto the hair\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hair dryer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"data\": {\n\t\"hair drier\": [\n\t\t\"is_a\",\n\t\t\"part_of\"\n\t]\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": {\n    \"hair drier\": {\n      \"disposition\": \"disposable\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hairdressing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"warm air\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hand-held\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"can be put in a handbag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"dry hair\",\n    \"warm hair\",\n    \"drying hair\",\n    \"style hair\",\n    \"blow dry hair\",\n    \"blow hair dry\",\n    \"styling hair\"\n  ]\n}\n"
+  }
+]

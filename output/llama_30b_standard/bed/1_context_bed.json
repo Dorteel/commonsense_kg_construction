@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"context\": \"The bed was very comfortable\",\n    \"context\": \"The bed was very expensive\",\n    \"context\": \"The bed was made of wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"The bed is a place to sleep\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"room\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a place where a person sleeps\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a place\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\",\n  \"type\": \"furniture\",\n  \"purpose\": \"provide a place to sleep\",\n  \"properties\": {\n    \"size\": \"full\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"home\",\"id\":\"bed\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": \"place to sleep\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sitting\",\n  \"contexts\": [\n    {\n      \"context\": \"seated\",\n      \"contexts\": [\n        {\n          \"context\": \"sitting\",\n          \"contexts\": [\n            {\n              \"context\": \"seated\",\n              \"contexts\": [\n                {\n                  \"context\": \"sitting\",\n                  \"contexts\": [\n                    {\n                    \".context\": \"seated\"\n                    }\n                  ]\n                }\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"household\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a place to sleep\",\n  \"context\": \"where you might have a nightmare\"\n  }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"furniture\",\n  \"type\": \"furniture\",\n  \"name\": \"bed\",\n  \"url\": \"http://example.com/bed\",\n  \"image\": \"http://example.com/bed.jpg\",\n  \"screenshot\": \"http://example.com/bed.png\",\n  \"description\": \"A piece of furniture that provides a place to sleep\",\n  \"properties\": [\n    {\n      \"name\": \"height\",\n      \"type\": \"float\",\n      \"value\": 1.0,\n      \"unit\": \"m\"\n    }\n  ],\n  \"actions\": [\n    {\n      \"name\": \"Sleep\",\n      \"type\": \"action.sleep\",\n      \"parameters\": []\n    },\n    {\n      \"name\": \"Flip\",\n      \"type\": \"action.flip\",\n      \"parameters\": []\n    }\n  ],\n  \"entities\": [\n    {\n      \"name\": \"pillow\",\n      \"type\": \"furniture\",\n      \"description\": \"A soft object to sleep on\",\n      \"url\": \"http://example.com/pillow\",\n      \"image\": \"http://example.com/pillow.jpg\",\n      \"screenshot\": \"http://example.com/pillow.png\"\n    },\n    {\n      \"name\": \"blanket\",\n      \"type\": \"furniture\",\n      \"description\": \"A piece of cloth used for covering oneself\",\n      \"url\": \"http://example.com/blanket\",\n      \"image\": \"http://example.com/blanket.jpg\",\n      \"screenshot\": \"http://example.com/blanket.png\""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"something to rest on\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bed",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"In a child's room.\"\n}\n"
+  }
+]

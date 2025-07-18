@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"username\": \"assistant\",\n  \"password\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 72.0,\n  \"unit\": \"F\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Alexa\",\n  \"device\": \"Alexa\",\n  \"temperature\": 68.00,\n  \"humidity\": 45.00,\n  \"pressure\": 29.87,\n  \"rain\": 0.00,\n  \"windspeed\": 0.00,\n  \"winddegree\": 0,\n  \"sunrise\": \"2019-12-20T17:03:34-07:00\",\n  \"sunset\": \"2019-12-20T17:03:34-07:00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 72.0}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 21.0,\n  \"unit\": \"F\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"context\": {\n    \"device\": {\n      \"name\": \"remote\",\n      \"type\": \"remote control\"\n    }\n  },\n  \"intent\": \"get_temp\",\n  \"entities\": {\n    \"temperature\": {\n      \"value\": \"72\",\n      \"type\": \"float\"\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"temperature\": 76\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"query\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average temperature as in {} measured in fahrenheit.\",\n  \"parameters\": {\n    \"remote\": \"Remote\"\n  },\n  \"contexts\": [\n    {\n      \"name\": \"Home\",\n      \"lifespan\": 5,\n      \"parameters\": {\n        \"remote\": \"Remote\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"intentId\": \"1b8a0d1b-c505-4139-9967-10c236850f68\",\n    \"webhookUsed\": \"true\",\n    \"webhookForSlotFillingUsed\": \"false\",\n    \"intentName\": \"Remote\"\n  },\n  \"fulfillment\": {\n    \"speech\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average temperature as in {} measured in fahrenheit.\",\n    \"messages\": [\n      {\n        \"type\": 0,\n        \"speech\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average temperature as in {} measured in fahrenheit.\"\n      }\n    ]\n  },\n  \"score\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\": 66\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"query\": \"what's the temperature?\",\n  \"device\": {\n    \"name\": \"Remote Control\",\n    \"type\": \"remote\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 75.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456\",\n  \"name\": \"Jane\",\n  \"user_type\": \"admin\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\" : \"Assistant\",\n  \"type\" : \"assistant\",\n  \"attributes\" : {\n    \"type\" : \"assistant\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 32.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"description\": \"Assistant\",\n  \"version\": \"1.0.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temp\": \"32.0 F\",\n  \"humidity\": \"50%\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 68.0}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 77\n}\n"
+  }
+]

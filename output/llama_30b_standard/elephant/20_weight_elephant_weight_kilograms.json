@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5000.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 5000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 4000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"response\": {\n    \"weight\": 15000.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 5500 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 4000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"kilograms\",\n  \"toes\": \"5\",\n  \"species\": \"pachyderm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"first_name\": \"John\",\n    \"last_name\": \"Smith\",\n    \"gender\": \"male\",\n    \"email\": \"john.smith@example.com\"\n  },\n  \"password\": \"123456\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 5.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"weight\": 5000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\" : \"user\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"elephant\": {\n    \"weight\": \"3000\",\n    \"toes\": \"5\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : 5000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"gender\": \"female\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 5515.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": {\n    \"type\": \"float\",\n    \"minimum\": 0,\n    \"maximum\": 1000000000000,\n    \"multiplier\": 1000,\n    \"unit\": \"kg\"\n  },\n  \"elephant\": {\n    \"type\": \"string\",\n    \"minimum\": 5,\n    \"maximum\": 5,\n    \"unit\": \"toes\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 3500\n}\n"
+  }
+]

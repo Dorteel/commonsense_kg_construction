@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\" : \"metal\"}\n       \t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"texture\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\" : \"Smooth\",\n  \"texture\" : \"Rough\",\n  \"texture\" : \"Shiny\",\n  \"texture\" : \"Plain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"smooth\",\n  \"texture\": \"rough\",\n  \"texture\": \"polished\",\n  \"texture\": \"rough\",\n  \"texture\": \"smooth\",\n  \"texture\": \"rough\",\n  \"texture\": \"smooth\",\n  \"texture\": \"smooth\",\n  \"texture\": \"rough\",\n  \"texture\": \"rough\",\n  \"texture\": \"polished\",\n  \"texture\": \"smooth\",\n  \"texture\": \"smooth\",\n  \"texture\": \"rough\",\n  \"texture\": \"rough\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"shiny\",\n  \"texture\": \"rough\",\n  \"texture\": \"smooth\",\n  \"texture\": \"glossy\",\n  \"texture\": \"dull\",\n  \"texture\": \"shimmering\",\n  \"texture\": \"satin\",\n  \"texture\": \"matte\",\n  \"texture\": \"leather\",\n  \"texture\": \"satin\",\n  \"texture\": \"silk\",\n  \"texture\": \"velvet\",\n  \"texture\": \"metal\",\n  \"texture\": \"plastic\",\n  \"texture\": \"wood\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"metal\",\n    \"plastic\",\n    \"glass\",\n    \"ceramic\",\n    \"silk\",\n    \"cotton\",\n    \"bamboo\",\n    \"paper\",\n    \"wood\",\n    \"leather\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\n    \"porcelain\",\n    \"metal\",\n    \"glass\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"wooden\",\n  \"texture\": \"metal\",\n  \"texture\": \"plastic\",\n  \"texture\": \"ceramic\",\n  \"texture\": \"stone\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"texture\": \"silver\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"texture\": [\n  \"smooth\",\n  \"rough\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"metal\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"texture\": \"porcelain\", \"plastic\" :\"porcelain\", \"wooden\": \"porcelain\" }\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"Plastic\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": [\"shiny\", \"dull\", \"glossy\", \"matted\", \"polished\", \"rough\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"stainless steel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"texture\": \"porcelain\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cup",
+    "domain": "texture",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"texture\": \"porcelain\"\n}\n"
+  }
+]

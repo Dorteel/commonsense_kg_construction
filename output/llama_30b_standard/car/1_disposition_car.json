@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"car\" : { \"disposition\" : \"makes noise\" } }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"good\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"drive\",\n  \"drive\": {\n    \"disposition\": \"park\"\n  },\n  \"park\": {\n    \"disposition\": \"drive\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"user\": \"You are a commonsense knowledge engineer. Return **ONLY** valid JSON.\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"transportation\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"wheeled vehicle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sold\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"drive\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"car\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"noun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"cars are dangerous\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"sports car\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"drive\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"transportation\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"concept_id\": 4094,\n\"name\": \"car\",\n\"subsumes_from\": [\n{\n\"concept_id\": 4093,\n\"name\": \"vehicle\"\n}\n],\n\"subsumes\": [\n{\n\"concept_id\": 1657,\n\"name\": \"auto\"\n},\n{\n\"concept_id\": 1658,\n\"name\": \"motor vehicle\"\n},\n{\n\"concept_id\": 1659,\n\"name\": \"motorcar\"\n},\n{\n\"concept_id\": 1660,\n\"name\": \"automotive vehicle\"\n},\n{\n\"concept_id\": 1661,\n\"name\": \"automobile\"\n},\n{\n\"concept_id\": 1662,\n\"name\": \"car\"\n},\n{\n\"concept_id\": 1663,\n\"name\": \"road vehicle\"\n},\n{\n\"concept_id\": 1664,\n\"name\": \"machine\"\n}\n],\n\"type_hierarchy\": [\n{\n\"concept_id\": 4093,\n\"name\": \"vehicle\",\n\"type\": \"parent_of\"\n},\n{\n\"concept_id\": 1657,\n\"name\": \"auto\",\n\"type\": \"sub_of\"\n},\n{\n\"concept_id\": 1658,\n\"name\": \"motor vehicle\",\n\"type\": \"sub_of\"\n},\n{\n\"concept_id\": 1659,\n\"name"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"in the garage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"cause of death\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"parked\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "car",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"car\": [\n    \"a car\",\n    \"a motor vehicle with four wheels; usually propelled by an internal combustion engine\",\n    \"a motor vehicle with four wheels; usually propelled by an internal combustion engine (automobile)\",\n    \"a motor vehicle with four wheels; usually propelled by an internal combustion engine (automobile) (car)\",\n    \"a motor vehicle with four wheels; usually propelled by an internal combustion engine (automobile) (car) (vehicle)\"\n  ]\n}\n"
+  }
+]

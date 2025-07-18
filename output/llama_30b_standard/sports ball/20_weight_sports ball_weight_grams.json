@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"sport\": \"tennis\",\n    \"surface\": \"grass\",\n    \"weight\": 56.7\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\" : {\n    \"description\" : \"The average weight of the ball in grams.\",\n    \"type\" : \"float\",\n    \"example\" : {\n      \"weight\" : 100.0\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 470\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"sport\": \"baseball\",\n    \"weight\": 145\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 567.234\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 361.37\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 145\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"weight\": 123.456 }\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 460,\n\"sports_ball\": \"tennis_ball\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1470\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": \"300\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"weight\": 1.8}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.199\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 360\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 161.54\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 220.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 455.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"weight\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"weight\": 1.4\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

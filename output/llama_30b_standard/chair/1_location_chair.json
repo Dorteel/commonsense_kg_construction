@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"in the house\",\n    \"in the office\",\n    \"in the meeting room\",\n    \"in the kitchen\",\n    \"in the dining room\",\n    \"in the bedroom\",\n    \"in the living room\",\n    \"in the hallway\",\n    \"in the garden\",\n    \"in the garage\",\n    \"in the attic\",\n    \"in the basement\",\n    \"in the cellar\",\n    \"in the car\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"location\": \"in the dining room\" }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"home\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"at work\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": [\n    \"in the room\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"kitchen\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"location\": \"in the house\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": [\n        \"in the room\",\n        \"in the house\",\n        \"in the apartment\",\n        \"in the bedroom\",\n        \"in the living room\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"home\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"living room\",\n    \"location\": \"bed room\",\n    \"location\": \"study room\",\n    \"location\": \"kitchen\",\n    \"location\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"office\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"in a room\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"location\": \"kitchen\",\n    \"location\": \"living room\",\n    \"location\": \"dining room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"location\": \"living room\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"classroom\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\": \"house\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "location",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"location\":\"in the house\",\"location\":\"in the office\"}\n"
+  }
+]

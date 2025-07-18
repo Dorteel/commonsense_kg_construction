@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"donut\": [\n    \"circle\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\": \"ring\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\":\"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"donut\",\n  \"name\": \"donut\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"small round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"circle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"Ring\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\": \"circle\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": {\n    \"gender\": \"female\",\n    \"age\": 26,\n    \"name\": \"Taylor Swift\",\n    \"favorite_food\": \"pizza\",\n    \"favorite_sports\": \"basketball\",\n    \"favorite_animal\": \"cat\",\n    \"favorite_color\": \"blue\",\n    \"favorite_books\": \"Harry Potter\",\n    \"favorite_movies\": \"Star Wars\",\n    \"favorite_places\": \"Paris\",\n    \"hobbies\": \"singing, dancing, traveling\"\n  },\n  \"system\": {\n    \"weather\": {\n      \"current_temperature\": 54,\n      \"weather_type\": \"sunny\"\n    },\n    \"location\": {\n      \"city\": \"Santa Monica\",\n      \"state\": \"CA\",\n      \"country\": \"USA\",\n      \"lat\": 34.0206,\n      \"long\": -118.473\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\": \"circle\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "donut",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\": \"round\"}\n"
+  }
+]

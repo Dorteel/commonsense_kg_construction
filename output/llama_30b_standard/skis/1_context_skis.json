@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"winter\",\n  \"concepts\": [\n    \"snow\",\n    \"jacket\",\n    \"gloves\",\n    \"hat\",\n    \"socks\",\n    \"boots\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"Skiing\",\n    \"Snowboarding\",\n    \"Cross-country skiing\",\n    \"Winter sports\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"snowboarding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    {\n      \"name\": \"skiing\",\n      \"type\": \"activity\",\n      \"description\": \"The activity of travelling over snow on skis\"\n    },\n    {\n      \"name\": \"snowboarding\",\n      \"type\": \"activity\",\n      \"description\": \"The activity of travelling over snow on a snowboard\"\n    },\n    {\n      \"name\": \"ski\",\n      \"type\": \"noun\",\n      \"description\": \"A narrow piece of wood or metal or plastic with a curved front edge, worn under the boot of a skier.\"\n    },\n    {\n      \"name\": \"skiing\",\n      \"type\": \"noun\",\n      \"description\": \"The sport of sliding down snowy hills on skis.\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Skiing\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"the skis is used on snow.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"outdoors\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"sport\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"skiing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"skis:narrow wood or metal or plastic runners used in pairs for gliding over snow.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sport\",\n  \"examples\": [\n    \"skiing\",\n    \"snowboarding\"\n  ],\n  \"synonyms\": [\n    \"skiing\",\n    \"snowboarding\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"sports\", \"context\":\"snowboarding\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"A ski resort is a resort that caters primarily to skiing, snowboarding, and other winter sports.  Ski resorts typically have one or more hotels, restaurants, and a ski lift system, and often include other activities, such as golf, mountain biking, and other forms of recreation.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"context\" : \"Snow Sport\", \"definition\" : \"A pair of narrow wooden or metal or plastic runners used in pairs for gliding over snow.\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a set of skis\",\n  \"context\": \"a set of skis for downhill skiing\",\n  \"context\": \"a set of skis for cross-country skiing\",\n  \"context\": \"a pair of skis\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Skiing is a recreational activity and competitive sport in which the participant(s) glide on skis on snow.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sport\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"Skiing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"context\": [\n    \"Winter sports\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"sport\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"inactive\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"too long\", \"is_a\": \"surfboard\", \"is_a_of\": \"board\", \"is_a_of_a\": \"buoyant\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfing\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surf\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concept_id\": \"concept:sports_equipment:surfboard\",\n  \"concept_type\": \"Concept\",\n  \"concept_subtype\": \"Sports Equipment\",\n  \"concept_sub_subtype\": \"surfboard\",\n  \"concept_sub_sub_subtype\": \"\",\n  \"concept_type_id\": \"Concept\",\n  \"concept_type_subtype_id\": \"Concept:Sports Equipment\",\n  \"concept_type_sub_subtype_id\": \"Concept:Sports Equipment:surfboard\",\n  \"concept_sub_sub_subtype_id\": \"\",\n  \"concept_id_scheme\": \"concept:\",\n  \"concept_type_id_scheme\": \"concept:\",\n  \"concept_type_subtype_id_scheme\": \"concept:\",\n  \"concept_type_sub_subtype_id_scheme\": \"concept:\",\n  \"concept_sub_sub_subtype_id_scheme\": \"\",\n  \"concept_id_scheme_version\": \"2\",\n  \"concept_type_id_scheme_version\": \"2\",\n  \"concept_type_subtype_id_scheme_version\": \"2\",\n  \"concept_type_sub_subtype_id_scheme_version\": \"2\",\n  \"concept_sub_sub_subtype_id_scheme_version\": \"\",\n  \"concept_id_scheme_uri\": \"http://ncit.nci.nih.gov/ncitbrowser/Concept/\",\n  \"concept_type_id"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"concept\": \"surfboard\",\n    \"dispositions\": [\"narrow\", \"buoyant\", \"board\", \"riding\", \"surf\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"sport\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"purchased\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":\"surf\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"narrow\",\n  \"disposition\": \"buoyant\",\n  \"disposition\": \"board\",\n  \"disposition\": \"ride\",\n  \"disposition\": \"surf\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"The board is in the ocean\",\n  \"disposition\": \"The board is on the beach\",\n  \"disposition\": \"The board is being carried by a surfer\",\n  \"disposition\": \"The board is being carried by a lifeguard\",\n  \"disposition\": \"The board is being carried by a beachgoer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"surfing\",\n    \"surfing lesson\",\n    \"surfing with a surfboard\",\n    \"surfing with a surfboard in the ocean\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": {\n    \"disposition\": \"noun\"\n  },\n  \"system\": {\n    \"disposition\": \"noun\"\n  }\n}\n"
+  }
+]

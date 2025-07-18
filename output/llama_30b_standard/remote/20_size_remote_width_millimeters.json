@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"key\": \"width\",\n\"value\": 35.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"device\": \"remote\",\n  \"average_size\": 2.5,\n  \"width\": 20.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"a7991410-e5c9-4030-9991-68bab96ff5d7\",\n  \"app_id\": \"f45f555b-64e0-4018-964f-f5579296d4f4\",\n  \"text\": \"Given the remote (which is a device that can be used to control a machine or apparatus from a distance), provide the average sizeas in {} measured in millimeters. Return only JSON with key:  - width (float)\",\n  \"time\": \"2020-01-23T20:13:06.000Z\",\n  \"intent\": \"assistant.intent.action.TEXT\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": \"10.45\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"What is the average size of the remote in millimeters?\",\n  \"context\": {\n    \"remote\": {\n      \"width\": 100\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"remote\": {\n    \"type\": \"universal\",\n    \"size\": 120\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"deviceName\": \"Google Nexus 6P\",\n  \"deviceType\": \"phone\",\n  \"osVersion\": \"Android 7.1.1\",\n  \"isRooted\": false,\n  \"rootMethod\": \"n/a\",\n  \"is64Bit\": true,\n  \"isEmulator\": false,\n  \"avdName\": \"Nexus 6P\",\n  \"cpuName\": \"ARMv8\",\n  \"manufacturer\": \"Google\",\n  \"model\": \"Nexus 6P\",\n  \"board\": \"bullhead\",\n  \"product\": \"shamu\",\n  \"serial\": \"781307812902540\",\n  \"givenName\": \"Nexus 6P\",\n  \"display\": {\n    \"width\": 1080,\n    \"height\": 1920,\n    \"density\": 420,\n    \"size\": 6.29,\n    \"xdpi\": 560,\n    \"ydpi\": 560\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"type\": \"Feature\",\n  \"geometry\": {\n    \"type\": \"Point\",\n    \"coordinates\": [\n      -69.116784,\n      32.657211\n    ]\n  },\n  \"properties\": {\n    \"name\": \"Liberty Island\",\n    \"image_url\": \"https://s3.amazonaws.com/gdv-assistant-assets/images/monuments/liberty-island-nyc.jpg\",\n    \"lat\": 40.689618,\n    \"lon\": -74.044496\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": \"3.4\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 135.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"width\" : 25 }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"id\": \"10000000000000000000000000000000\",\n\"name\": \"Room temperature\",\n\"query\": \"room temperature\",\n\"timestamp\": \"2017-03-30T15:09:19.000Z\",\n\"action\": \"command\",\n\"actionIncomplete\": false,\n\"parameters\": {\n    \"thermostatTemperatureSetpoint\": {\n        \"name\": \"thermostatTemperatureSetpoint\",\n        \"value\": {\n            \"scale\": \"fahrenheit\",\n            \"offset\": -40,\n            \"minimum\": 46,\n            \"maximum\": 86,\n            \"step\": 0.1,\n            \"unit\": \"temperature\",\n            \"defaultValue\": \"72\",\n            \"type\": \"float\",\n            \"range\": {\n                \"temperature\": {\n                    \"minimum\": 0,\n                    \"maximum\": 150\n                },\n                \"scale\": {\n                    \"minimum\": 0,\n                    \"maximum\": 2\n                },\n                \"offset\": {\n                    \"minimum\": -40,\n                    \"maximum\": 100\n                }\n            }\n        }\n    }\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 20,\n  \"height\": 20\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"title\" : \"Shopping List\",\n  \"items\" : [\n    {\n      \"name\": \"Milk\",\n      \"quantity\": \"2\"\n    },\n    {\n      \"name\": \"Eggs\",\n      \"quantity\": \"5\"\n    },\n    {\n      \"name\": \"Bananas\",\n      \"quantity\": \"12\"\n    }\n  ]\n}\n"
+  }
+]

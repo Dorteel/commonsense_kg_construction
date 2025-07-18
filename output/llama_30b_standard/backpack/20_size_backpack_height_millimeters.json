@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 450.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 400}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 430\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"height\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 400.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 100\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 508\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 600,\n  \"width\": 400,\n  \"depth\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"user_id\": 123, \"height\": 100, \"weight\": 80, \"backpack\": { \"size\": { \"height\": 320 } } }\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 510\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 220,\n  \"width\": 150,\n  \"depth\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\" : 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\":100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"height\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"height\": 0.03333333333333333}\n"
+  }
+]

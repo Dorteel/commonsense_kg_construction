@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"title\": \"The Hobbit\",\n  \"author\": \"J.R.R. Tolkien\",\n  \"genre\": \"Fantasy\",\n  \"price\": 3.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\": 210}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 160\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"title\": \"The Book\",\n    \"authors\": [\"A. Author\"],\n    \"publisher\": \"A Publisher\",\n    \"date\": \"July 1999\",\n    \"pages\": 100,\n    \"price\": 30.95,\n    \"binding\": \"hardback\",\n    \"language\": \"English\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 176.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 216\n}\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 149\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 1.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 160.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"title\": \"The Lord of the Rings\",\n  \"authors\": [\"J. R. R. Tolkien\"],\n  \"genre\": \"fantasy\",\n  \"published\": 1954,\n  \"pages\": 1216,\n  \"weight\": \"3.5lb\",\n  \"average_size\": 65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 215\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"width\" : 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"assistant\": {\n    \"assistant_id\": \"XXXXXXXXXXXXXXXXXXXXXX\"\n  },\n  \"contexts\": [\n    {\n      \"name\": \"actions_capability_web_app\",\n      \"lifespan\": 5\n    },\n    {\n      \"name\": \"actions_capability_media_response\",\n      \"lifespan\": 10\n    }\n  ],\n  \"surface\": {\n    \"capabilities\": [\n      {\n        \"name\": \"actions.capability.MEDIA_RESPONSE\",\n        \"inputs\": [\n          {\n            \"rawInputs\": [\n              {\n                \"query\": \"book\",\n                \"lang\": \"en\",\n                \"inputType\": \"VOICE\"\n              }\n            ],\n            \"intent\": \"actions.intent.MEDIA_RESPONSE\",\n            \"input\": \"book\"\n          }\n        ]\n      }\n    ]\n  },\n  \"user\": {\n    \"userId\": \"XXXXXXXXXXXXXXXXXXXXXX\"\n  },\n  \"device\": {\n    \"locale\": \"en-US\"\n  },\n  \"conversation\": {\n    \"conversationId\": \"1494608262174\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"book\": {\n\t\"title\": \"Harry Potter and the Goblet of Fire\",\n\t\"author\": \"J.K. Rowling\",\n\t\"price\": 10.99,\n\t\"publisher\": \"Scholastic\",\n\t\"pages\": 734,\n\t\"release-date\": \"2000\"\n},\n\"height\": 227\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 210.0,\n  \"height\": 297.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"width\": 250.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"width\":0.0}\n "
+  }
+]

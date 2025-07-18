@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 16\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": {\n        \"type\": \"number\",\n        \"value\": 5.25\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 1\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"length\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": {\n    \"value\": 0.000000,\n    \"unit\": \"feet\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": {\n        \"measurement_unit\": \"feet\",\n        \"value\": 3\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 0.156,\n  \"shape\": \"round\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"length\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"sports-ball\" : \"football\",\n  \"size\" : 10,\n  \"length\" : 1,\n  \"unit\" : \"foot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 1}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": \"0.75\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"length\": 3, \"width\": 1.5, \"height\": 1}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"length\": 4\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\": \"rectangular\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\":\"sphere\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\",\n  \"shape\": \"oval\",\n  \"shape\": \"round\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"square\",\n  \"shape\": \"circle\",\n  \"shape\": \"rectangle\",\n  \"shape\": \"triangle\",\n  \"shape\": \"polygon\",\n  \"shape\": \"oval\",\n  \"shape\": \"hexagon\",\n  \"shape\": \"dodecagon\",\n  \"shape\": \"octagon\",\n  \"shape\": \"pentagon\",\n  \"shape\": \"decagon\",\n  \"shape\": \"heptagon\",\n  \"shape\": \"hexadecagon\",\n  \"shape\": \"hexagon\",\n  \"shape\": \"hexagon\",\n  \"shape\": \"hexagon\",\n  \"shape\": \"hexagon\",\n  \"shape\": \"hexagon\",\n  \"shape\": \"hexagon\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\": \"rectangular\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\" : \"rectangular\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"shape\": \"rectangle\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\":\"rectangle\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shapes\": [\n    \"rectangular\",\n    \"circular\",\n    \"oval\",\n    \"square\",\n    \"rectangle\",\n    \"square\",\n    \"triangular\",\n    \"triangle\",\n    \"hexagonal\",\n    \"diamond\",\n    \"octagonal\",\n    \"trapezoid\",\n    \"trapezium\",\n    \"rectangular prism\",\n    \"square prism\",\n    \"hexagonal prism\",\n    \"cube\",\n    \"cuboid\",\n    \"cubic\",\n    \"hexahedron\",\n    \"dodecahedron\",\n    \"icosahedron\",\n    \"icosohedron\",\n    \"rhombus\",\n    \"rhomb\",\n    \"diamond\",\n    \"parallelogram\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\",\n    \"hexagon\","
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": [\n    \"rectangle\",\n    \"circle\",\n    \"square\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"shape\":\"rectangle\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "backpack",
+    "domain": "shape",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"shape\": \"rectangle\"\n}\n"
+  }
+]

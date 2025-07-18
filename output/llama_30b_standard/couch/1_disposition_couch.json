@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"comfortable\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\" : \"couch potato\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"a piece of furniture with a back and cushions for sitting on\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"seating\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"comfort\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"comfortable\",\n    \"relaxed\",\n    \"contented\",\n    \"easy\",\n    \"cozy\",\n    \"happy\",\n    \"peaceful\",\n    \"settled\",\n    \"snug\",\n    \"soothed\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sofa\",\n  \"name\": \"couch\",\n  \"noun_1\": \"furniture\",\n  \"noun_2\": \"seat\",\n  \"verb\": \"to couch\",\n  \"adjective\": \"couched\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"concept_id\":1,\"disposition\":\"seating\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"seat\",\n  \"color\": \"red\",\n  \"manufacturer\": \"IKEA\",\n  \"numberOfSeats\": \"4\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"comfy\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"furniture\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": \"Alice\",\n  \"couch\": \"sofa\",\n  \"disposition\": \"comfortable\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"recliner\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"upholstered\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"upholstered\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"broken\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"a disposition that is not common\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"upholstered\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"seat\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": {\n    \"concept\": \"couch\",\n    \"disposition\": \"furniture\",\n    \"count\": 0\n  }\n}\n"
+  }
+]

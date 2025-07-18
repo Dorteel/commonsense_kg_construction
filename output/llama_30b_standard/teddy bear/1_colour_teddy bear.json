@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"colour\" : \"brown\" }\n       \t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"colour\": \"red\" }\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\":\"white\"}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\"brown\", \"black\", \"white\"]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"color\": \"brown\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"red\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"red\", \"colour\": \"blue\", \"colour\": \"white\", \"colour\": \"black\", \"colour\": \"yellow\", \"colour\": \"green\", \"colour\": \"grey\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"colour\": \"blue\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"colour\": \"white\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"brown\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\":\"brown\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    \"red\",\n    \"blue\",\n    \"green\",\n    \"black\",\n    \"white\",\n    \"yellow\",\n    \"gray\",\n    \"brown\",\n    \"pink\",\n    \"purple\",\n    \"orange\",\n    \"silver\",\n    \"gold\",\n    \"maroon\",\n    \"teal\",\n    \"navy\",\n    \"turquoise\",\n    \"darkred\",\n    \"darkgreen\",\n    \"darkblue\",\n    \"darkmagenta\",\n    \"saddlebrown\",\n    \"darkcyan\",\n    \"khaki\",\n    \"aliceblue\",\n    \"lime\",\n    \"lightgrey\",\n    \"lightgreen\",\n    \"lightblue\",\n    \"lightcyan\",\n    \"lightmagenta\",\n    \"yellowgreen\",\n    \"paleturquoise\",\n    \"lightsalmon\",\n    \"darksalmon\",\n    \"coral\",\n    \"darkorange\",\n    \"darkslateblue\",\n    \"mediumpurple\",\n    \"darkviolet\",\n    \"mediumorchid\",\n    \"palegoldenrod\",\n    \"mediumseagreen\",\n    \"mediumaquamarine\",\n    \"palegreen\",\n    \"mediumblue\",\n    \"slateblue\",\n    \"mediumorchid\",\n    \"darkkhaki\",\n    \"beige\",\n    \"dimgrey\",\n    \"darkslategray\",\n    \"darkred\",\n    \"dodgerblue\",\n    \"deeppink\",\n    \"mediumvioletred\",\n    \"indianred\",\n    \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "teddy bear",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  }
+]

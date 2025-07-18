@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\",\n  \"colour\": \"brown\",\n  \"colour\": \"white\",\n  \"colour\": \"grey\",\n  \"colour\": \"yellow\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"horse\" : [\n    {\n      \"colour\" : \"brown\"\n    },\n    {\n      \"colour\" : \"black\"\n    },\n    {\n      \"colour\" : \"white\"\n    },\n    {\n      \"colour\" : \"grey\"\n    },\n    {\n      \"colour\" : \"dun\"\n    },\n    {\n      \"colour\" : \"palomino\"\n    },\n    {\n      \"colour\" : \"buckskin\"\n    },\n    {\n      \"colour\" : \"chestnut\"\n    },\n    {\n      \"colour\" : \"dapple\"\n    },\n    {\n      \"colour\" : \"skewbald\"\n    },\n    {\n      \"colour\" : \"piebald\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"brown\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"black\",\n  \"colour\": \"brown\",\n  \"colour\": \"chestnut\",\n  \"colour\": \"white\",\n  \"colour\": \"gray\",\n  \"colour\": \"dapple\",\n  \"colour\": \"pinto\",\n  \"colour\": \"skewbald\",\n  \"colour\": \"piebald\",\n  \"colour\": \"roan\",\n  \"colour\": \"palomino\",\n  \"colour\": \"dun\",\n  \"colour\": \"buckskin\",\n  \"colour\": \"cremello\",\n  \"colour\": \"perlin\",\n  \"colour\": \"perlino\",\n  \"colour\": \"isabella\",\n  \"colour\": \"palomino\",\n  \"colour\": \"pinto\",\n  \"colour\": \"painted\",\n  \"colour\": \"sorrel\",\n  \"colour\": \"grullo\",\n  \"colour\": \"dun\",\n  \"colour\": \"dapple\",\n  \"colour\": \"buckskin\",\n  \"colour\": \"cremello\",\n  \"colour\": \"perlin\",\n  \"colour\": \"perlino\",\n  \"colour\": \"isabella\",\n  \"colour\": \"palomino\",\n  \"colour\": \"pinto\",\n  \"colour\": \"painted\",\n  \"colour\": \"sorrel\",\n  \"colour\": \"grullo\",\n  \"colour\": \"dun\",\n  \"colour\": \"dapple\",\n  \"colour\": \"buckskin\",\n  \"colour\": \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    \"brown\",\n    \"black\",\n    \"white\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\": \"black\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"gray\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"grey\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"colour\":\"brown\",\"colour\":\"black\",\"colour\":\"grey\",\"colour\":\"white\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\" : \"Black\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"white\",\n  \"colour\": \"grey\",\n  \"colour\": \"bay\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": [\n    \"brown\",\n    \"black\",\n    \"white\",\n    \"grey\",\n    \"bay\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"concept\": \"horse\",\n  \"label\": \"Horse\",\n  \"properties\": [\n    \"colour\"\n  ],\n  \"values\": [\n    \"brown\",\n    \"black\",\n    \"grey\",\n    \"white\"\n  ],\n  \"type\": \"concept\",\n  \"uri\": \"https://w3id.org/opencog/concept/Horse\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"colour\": [\n        \"brown\",\n        \"black\",\n        \"white\",\n        \"dun\",\n        \"grey\"\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"concept\": \"horse\",\n    \"senses\": [\n        {\n            \"sense\": \"colour\",\n            \"sense_key\": \"colour\",\n            \"definition\": \"any of the colours of the visible spectrum; \"\n        }\n    ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"query\": \"horse\",\n  \"type\": \"commonsense\",\n  \"mode\": \"assistant\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "horse",
+    "domain": "colour",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"colour\": \"red\"\n}\n"
+  }
+]

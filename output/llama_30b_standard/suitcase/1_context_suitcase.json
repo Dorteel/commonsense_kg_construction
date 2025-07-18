@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"travel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"a piece of baggage,\"\n  }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"luggage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"travel\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"travel\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"travel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": [\n    \"a small portable case for carrying clothes or personal items.\",\n    \"a small case for carrying clothing, personal items, and other necessities.\",\n    \"a case for carrying clothes, toiletries and other necessities.\",\n    \"a small case for carrying clothing and other personal items.\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"suitcase is a container for clothing\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"luggage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"luggage\"\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"clothing\",\n  \"id\": \"e11a1084-d800-46a7-a21f-54695b9e5605\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"luggage\",\n  \"reasoning\": \"It's a bag for holding clothing, toiletries, and other personal items while traveling.\",\n  \"score\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"bag\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"luggage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"a piece of luggage\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\": \"travel\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"context\" : \"portable\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"luggage\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\":\"home\",\"description\":\"The home is a domestic building or shelter that functions as a home for one or more individuals or families ranging from houseboats to palaces. It is usually a place to prepare and eat food, sleep and engage in leisurely activities.\",\"image\":\"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbFfkBj89jn11N5XFt-RXNMZX1ZVN0g3z_4j-J6f-q8JZW_Y10Y1Zp04V\",\"key\":\"context\",\"link\":\"http://en.wikipedia.org/wiki/Home\",\"name\":\"home\",\"value\":\"home\"}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "suitcase",
+    "domain": "context",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"context\": \"travel\"}\n"
+  }
+]

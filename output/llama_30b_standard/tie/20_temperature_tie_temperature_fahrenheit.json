@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 67\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 77\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 76.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the tie (which is neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front), provide the average temperature as in {} measured in fahrenheit.\",\n  \"options\": [\n    \"tie\",\n    \"neckwear\",\n    \"neck\",\n    \"wear\",\n    \"material\",\n    \"piece\",\n    \"long\",\n    \"narrow\",\n    \"measure\",\n    \"mostly\",\n    \"men\",\n    \"front\",\n    \"under\",\n    \"collar\",\n    \"knot\",\n    \"tied\",\n    \"provide\",\n    \"average\",\n    \"temperature\",\n    \"as\",\n    \"in\",\n    \"measured\",\n    \"fahrenheit\"\n  ],\n  \"answer\": \"temperature\",\n  \"correct_answer\": \"temperature\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 61.66666666666666}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\" : 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"temperature\": 38.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": \"32\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"input\": [\n  \"tie\"\n],\n\"output\": {\n  \"temperature\": 32.00\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 65.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_name\": \"commonsense_assistant\",\n  \"password\": \"commonsense_assistant\",\n  \"email\": \"assistant@commonsense_assistant.com\",\n  \"first_name\": \"Commonsense\",\n  \"last_name\": \"Assistant\",\n  \"gender\": \"female\",\n  \"locale\": \"en-us\",\n  \"timezone\": \"America/New_York\",\n  \"address\": {\n    \"street_address\": \"111 Commonsense Drive\",\n    \"city\": \"Watertown\",\n    \"state\": \"MA\",\n    \"postal_code\": \"02472\",\n    \"country\": \"USA\",\n    \"phone_number\": \"617-555-1212\"\n  },\n  \"payment_method\": \"paypal\",\n  \"payment_token\": \"PAY-4536234095\",\n  \"payment_phone\": \"617-555-1212\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"tie\" : [\n    \"https://www.google.com/images/search/tie\",\n    \"https://images.pexels.com/photos/78319/pexels-photo-78319.jpeg?auto=compress&cs=tinysrgb&h=350&w=500\",\n    \"https://cdn.pixabay.com/photo/2015/03/12/17/54/necktie-1199989_960_720.jpg\",\n    \"https://www.google.com/images/search/tie\",\n    \"https://images.pexels.com/photos/78319/pexels-photo-78319.jpeg?auto=compress&cs=tinysrgb&h=350&w=500\",\n    \"https://cdn.pixabay.com/photo/2015/03/12/17/54/necktie-1199989_960_720.jpg\",\n    \"https://www.google.com/images/search/tie\",\n    \"https://images.pexels.com/photos/78319/pexels-photo-78319.jpeg?auto=compress&cs=tinysrgb&h=350&w=500\",\n    \"https://cdn.pixabay.com/photo/2015/03/12/17"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"tie\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\" : 32.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 60}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 13.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 68.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"temperature\": 84.22}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"temperature\": 70.0\n}\n"
+  }
+]

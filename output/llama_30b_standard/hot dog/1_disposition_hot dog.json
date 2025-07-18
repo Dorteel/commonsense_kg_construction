@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n\"disposition\": \"delicious\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"user\": \"system\",\n    \"text\": \"Given the hot dog(which is a frankfurter served hot on a bun), provide a list of common dispositions for this concept.  Return only JSON with key:  - disposition (string)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"consumable\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"eaten\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"hot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"hot\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\":\"eaten\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"sold\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\": \"fast food\" }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n    \"disposition\": \"food item\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": [\n    \"sausage\",\n    \"tube steak\",\n    \"wiener\",\n    \"red hot\",\n    \"hot dog\",\n    \"frankfurter\",\n    \"franks\",\n    \"furter\",\n    \"hotdog\",\n    \"hog dog\",\n    \"coney\",\n    \"coney dog\",\n    \"coney island hot dog\",\n    \"red hot\",\n    \"tube steak\",\n    \"sausage\",\n    \"frank\",\n    \"wiener\",\n    \"wienie\",\n    \"dog\",\n    \"weenie\",\n    \"wienerwurst\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"savory\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"condiment\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\"disposition\": \"eaten\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"user\": \"I am a hot dog\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"a food item\",\n  \"cause\": \"being eaten\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{\n  \"disposition\": \"on a bun\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hot dog",
+    "domain": "disposition",
+    "measurement": "",
+    "dimension": "",
+    "format": "avg",
+    "response": "{ \"disposition\": \"hot dog\" }\n"
+  }
+]
