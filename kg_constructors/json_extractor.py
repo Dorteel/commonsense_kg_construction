@@ -45,9 +45,8 @@ def regex_extraction(json_string):
         if match:
             return json.loads(match)
         else:
-            logger.warning(f"\t\tFailed to decode JSON using regex extraction. No match found in string: {json_string}")
+            logger.debug(f"\t\tFailed to decode JSON using regex extraction. No match found in string: {json_string}")
             return None
     except json.JSONDecodeError as e:
-        logger.error(f"\t\tFailed to decode JSON using simple extraction after regex: {e}")
-        # logger.error(f"\t\t\t\tString was:\n{json_string}")
+        logger.debug(f"\t\tFailed to decode JSON using simple extraction after regex: {e}")
         return None

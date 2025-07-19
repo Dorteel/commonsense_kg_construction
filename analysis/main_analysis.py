@@ -5,24 +5,30 @@ from pathlib import Path
 import logging
 import pandas as pd
 from kg_constructors.json_extractor import extract_json_from_string
+import json
 
-mode = ["context", "avg", "range"]
+#mode = ["context", "avg", "ranges"]
+mode = ["avg"]
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger()
 
 RUNS = int(os.getenv("RUNS", 20))
-condition_runs = {"context": RUNS, "avg": RUNS, "range": RUNS}
-condition_files = {"context": 1, "avg": 35, "range": 11}
+condition_runs = {"context": RUNS, "avg": RUNS, "ranges": RUNS}
+condition_files = {"context": 1, "avg": 35, "ranges": 11}
 # Define the paths
 BASE_DIR = Path(__file__).resolve().parent.parent
 OUTPUT_PARENT_DIR = BASE_DIR / "data"
+OUTPUT_ANALYSIS_DIR = BASE_DIR / "analysis" / "results"
 
 def completeness_analysis():
     """
     Check if all runs are complete for each model and concept.
+    Saves the result into completeness_analysis_result.csv.
     """
+    results = []
+
     for experiment_type in mode:
         output_dir = OUTPUT_PARENT_DIR / experiment_type
         if not output_dir.exists():
@@ -33,22 +39,54 @@ def completeness_analysis():
             logger.info(f"Checking completeness for model: {model_dir.name}")
             for concept in model_dir.iterdir():
                 if concept.is_dir():
-                    
-                    num_files =  len(list(concept.glob("*.json")))
+                    num_files = len(list(concept.glob("*.json")))
                     if num_files != condition_files[experiment_type]:
-                        logger.warning(f"{experiment_type}>{model_dir.name}: Incomplete files for {concept.name}: expected {condition_files[experiment_type]}, found {num_files}")
+                        warning_msg = (f"Incomplete files for {concept.name}: "
+                                       f"expected {condition_files[experiment_type]}, found {num_files}")
+                        logger.warning(f"{experiment_type}>{model_dir.name}: {warning_msg}")
+                        results.append({
+                            "model": model_dir.name,
+                            "concept": concept.name,
+                            "condition": experiment_type,
+                            "warning": warning_msg
+                        })
+
                     for file in concept.iterdir():
-                        data = pd.read_json(file)
-                        runs = len(data)
-                        if runs != condition_runs[experiment_type]:
-                            logger.warning(f"{experiment_type}>{model_dir.name}: Incomplete runs for {concept.name}: expected {condition_runs[experiment_type]}, found {runs}")
+                        if file.suffix == ".json":
+                            try:
+                                data = pd.read_json(file)
+                                runs = len(data)
+                                if runs != condition_runs[experiment_type]:
+                                    warning_msg = (f"Incomplete runs in {file.name}: "
+                                                   f"expected {condition_runs[experiment_type]}, found {runs}")
+                                    logger.warning(f"{experiment_type}>{model_dir.name}: {warning_msg}")
+                                    results.append({
+                                        "model": model_dir.name,
+                                        "concept": concept.name,
+                                        "condition": experiment_type,
+                                        "warning": warning_msg
+                                    })
+                            except ValueError as e:
+                                warning_msg = f"JSON parse error in {file.name}: {str(e)}"
+                                logger.warning(f"{experiment_type}>{model_dir.name}: {warning_msg}")
+                                results.append({
+                                    "model": model_dir.name,
+                                    "concept": concept.name,
+                                    "condition": experiment_type,
+                                    "warning": warning_msg
+                                })
+    if results:
+        df = pd.DataFrame(results)
+        df.to_csv(OUTPUT_ANALYSIS_DIR / "completeness_analysis_result.csv", index=False)
+        logger.info("Saved completeness analysis results to completeness_analysis_result.csv")
+    else:
+        logger.info("No completeness issues found. No CSV generated.")
 
-
-def syntax_error_analysis():
+def syntax_error_analysis_summary():
     """
     Analyze the JSON extraction process.
     For each JSON file, count how many rows failed to extract valid JSON.
-    Save a summary CSV per model, per experiment_type.
+    Save a single summary CSV across all models and experiment types.
     """
     summary = []
 
@@ -59,8 +97,60 @@ def syntax_error_analysis():
             continue
 
         for model_dir in output_dir.iterdir():
-            model_summary = []
+            logger.info(f"Analyzing JSON extraction for model: {model_dir.name}")
+            for concept in model_dir.iterdir():
+                if concept.is_dir():
+                    for file in concept.glob("*.json"):
+                        try:
+                            data = pd.read_json(file)
+                            if 'response' not in data.columns:
+                                logger.warning(f"'response' column not found in {file}. Skipping.")
+                                continue
+                            total_count = len(data)
+                            failed_count = 0
 
+                            for response in data['response']:
+                                extracted_data = extract_json_from_string(response)
+                                if extracted_data is None:
+                                    failed_count += 1
+
+                            result = {
+                                "experiment_type": experiment_type,
+                                "model": model_dir.name,
+                                "concept": concept.name,
+                                "file": file.name,
+                                "total_rows": total_count,
+                                "failed_rows": failed_count,
+                                "failure_rate": failed_count / total_count if total_count else 0
+                            }
+                            summary.append(result)
+
+                        except ValueError as e:
+                            logger.error(f"Error reading JSON from {file}: {e}")
+
+    # Save single summary CSV
+    if summary:
+        summary_df = pd.DataFrame(summary)
+        summary_df.to_csv(OUTPUT_ANALYSIS_DIR / "syntax_analysis_results.csv", index=False)
+        logger.info("Saved syntax analysis results to syntax_analysis_results.csv")
+    else:
+        logger.info("No syntax errors found or no data to analyze.")
+
+def semantic_error_analysis_summary():
+    """
+    Analyze semantic correctness of JSON extraction.
+    For each JSON file, verify key correctness and value format.
+    Save a single summary CSV with error messages and file paths.
+    """
+    summary = []
+
+    for experiment_type in mode:
+        output_dir = OUTPUT_PARENT_DIR / experiment_type
+        if not output_dir.exists():
+            logger.error(f"Output directory {output_dir} does not exist.")
+            continue
+
+        for model_dir in output_dir.iterdir():
             logger.info(f"Analyzing JSON extraction for model: {model_dir.name}")
             for concept in model_dir.iterdir():
                 if concept.is_dir():
@@ -73,14 +163,27 @@ def syntax_error_analysis():
                             total_count = len(data)
                             failed_count = 0
                             
-                            try:
-                                for response in data['response']:
-                                    extracted_data = extract_json_from_string(response)
-                                    if extracted_data is None:
-                                        failed_count += 1
-                            except KeyError:
-                                logger.error(f"Key 'response' not found in {file}. Skipping this file.")
-                                continue
+                            domain = data['domain']
+                            dimension = data['dimension']
+
+                            for response in data['response']:
+                                extracted_data = extract_json_from_string(response)
+                                if extracted_data is None:
+                                    pass
+                                else:
+                                    if experiment_type == 'context':
+                                        # print(f"{'*'*200}\n\nKEYS::{str(extracted_data.keys())}\n\n{'*'*200}\n\n")
+                                        pass
+                                    if experiment_type == 'avg':
+                                        keys = list(extracted_data.keys())
+                                        if len(keys) != 1:
+                                            print(f"{'*'*200}\n\nKEYS::{list(extracted_data.keys())}\n\n{'*'*200}\n\n")
+                                            failed_count += 1
+                                        elif keys[0] not in [domain, dimension]:
+                                            print(f"{'*'*200}\n\nKEYS::{list(extracted_data.keys())}\n\n{'*'*200}\n\n")
+                                            failed_count += 1                                            
+                                        # print(f"{'*'*200}\n\nKEYS::{list(extracted_data.keys())}\n\n{'*'*200}\n\n")
+                                        pass                                    
                             result = {
                                 "experiment_type": experiment_type,
                                 "model": model_dir.name,
@@ -90,61 +193,22 @@ def syntax_error_analysis():
                                 "failed_rows": failed_count,
                                 "failure_rate": failed_count / total_count if total_count else 0
                             }
-                            model_summary.append(result)
                             summary.append(result)
 
                         except ValueError as e:
                             logger.error(f"Error reading JSON from {file}: {e}")
 
-            # Save model summary as CSV
-            model_summary_df = pd.DataFrame(model_summary)
-            output_csv = model_dir / f"{experiment_type}_{model_dir.name}_summary.csv"
-            model_summary_df.to_csv(output_csv, index=False)
-            logger.info(f"Saved summary for model {model_dir.name} to {output_csv}")
-
-    # Final summary printout
-    summary_df = pd.DataFrame(summary)
-    print(summary_df)
-
-def semantic_error_analysis():
-    """
-    Analyze the semantic correctness of the JSON outputs.
-    This is a placeholder for future implementation.
-    """
-    logger.info("Semantic error analysis is not yet implemented.")
+    # Save single summary CSV
+    if summary:
+        summary_df = pd.DataFrame(summary)
+        summary_df.to_csv(OUTPUT_ANALYSIS_DIR / "syntax_analysis_results.csv", index=False)
+        logger.info("Saved syntax analysis results to syntax_analysis_results.csv")
+    else:
+        logger.info("No syntax errors found or no data to analyze.")
 
     # Future implementation could involve checking the structure and content of the JSON files
     # against expected schemas or using validation libraries.
-# def json_extraction_analysis():
-#     """
-#     Analyze the JSON extraction process.
-#     For each JSON file, count how many rows failed to extract valid JSON.
-#     """
-#     modes = ["avg"]
-#     for experiment_type in modes:
-#         output_dir = OUTPUT_PARENT_DIR / experiment_type
-#         if not output_dir.exists():
-#             logger.error(f"Output directory {output_dir} does not exist.")
-#             continue
 
-#         for model_dir in output_dir.iterdir():
-#             logger.info(f"Analyzing JSON extraction for model: {model_dir.name}")
-#             for concept in model_dir.iterdir():
-#                 if concept.is_dir():
-#                     for file in concept.glob("*.json"):
-#                         try:
-#                             data = pd.read_json(file)
-#                             failed_count = 0
-#                             total_count = len(data)
-                            
-#                             for response in data['response']:
-#                                 extracted_data = extract_json_from_string(response)
-#                                 if extracted_data is None:
-#                                     failed_count += 1
-
-#                             logger.info(f"{file.name}: {failed_count}/{total_count} rows failed JSON extraction.")
-#                         except ValueError as e:
-#                             logger.error(f"Error reading JSON from {file}: {e}")
 
 def summarize_experiment_data(experiment_type):
     """
@@ -173,13 +237,77 @@ def summarize_experiment_data(experiment_type):
                         logger.error(f"Error loading {file}: {e}")
 
 
+def syntactic_check(response):
+    return extract_json_from_string(response)
+
+def semantic_check(response, domains, experiment_type):
+    domains_plurals = domains + [domain+'s' for domain in domains]
+    if experiment_type == 'avg':
+        keys = list(response.keys())
+        values = list(response.values())
+        try:
+            if len(keys) != 1:
+                # print(f"{'*'*200}\n\nKEYS::{list(response.keys())}\n\n{'*'*200}\n\n")
+                return None
+            elif keys[0] not in domains_plurals:
+                # print(f"{'*'*200}\n\nKEYS::{list(response.keys())}\n\n{'*'*200}\n\n")
+                return None
+        except ValueError:
+            # print(domains)
+            return None
+        # print(f"{'*'*200}\n\nKEYS::{list(extracted_data.keys())}\n\n{'*'*200}\n\n")
+        return response
+    elif experiment_type == 'context':
+        return True
+    elif experiment_type == 'ranges':
+        return True
+
+def add_to_kg(reponse):
+    CLEAN_DATA = BASE_DIR / "analysis" / "clean_data"
+    json.dumps(reponse)
+
 if __name__ == "__main__":
     # summarize_experiment_data("context")
     # summarize_experiment_data("avg")
     # summarize_experiment_data("range")
 
     # logger.info("Analysis complete.")
-    completeness_analysis()
-    syntax_error_analysis()
-    semantic_error_analysis()
+    # completeness_analysis()
+    # syntax_error_analysis()
+    
+    # Loop through the files
+    summary = []
+    for experiment_type in mode:
+        output_dir = OUTPUT_PARENT_DIR / experiment_type
+        if not output_dir.exists():
+            logger.error(f"Output directory {output_dir} does not exist.")
+            continue
+
+        for model_dir in output_dir.iterdir():
+            logger.info(f"Analyzing JSON extraction for model: {model_dir.name}")
+            for concept in model_dir.iterdir():
+                if concept.is_dir():
+                    for file in concept.glob("*.json"):
+                        data = pd.read_json(file)
+                        if 'response' not in data.columns:
+                            logger.warning(f"'response' column not found in {file}. Skipping.")
+                            continue
+
+                        domains = [data['domain'][0], data['dimension'][0]]     
+                        for response in data['response']:
+                            # =============================
+                            # Main analysis
+                            # -----------------------------
+                            
+                            syntactically_correct_data = syntactic_check(response)              
+                            if syntactically_correct_data is None:
+                                logger.warning(f"[{experiment_type}][{data['domain'][1]}]: Syntactic error in {model_dir.name} in {concept.name}")
+                                continue
+                            
+                            semantically_correct_data = semantic_check(syntactically_correct_data, domains, experiment_type)
+                            if semantically_correct_data is None:
+                                logger.warning(f"[{experiment_type}][{data['domain'][1]}]: Semantic error in {model_dir.name} in {concept.name}")
+                                continue
+                            add_to_kg(semantically_correct_data)
+
     logger.info("Completeness analysis complete.")

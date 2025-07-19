@@ -142,4 +142,5 @@ def run_groq_experiment():
 
 
 if __name__ == "__main__":
+    run_groq_experiment()
     logger.info("Batch run completed.")
