@@ -119,20 +119,20 @@ def run_batch():
     #     logger.info(f"Loaded client: {model_name}")
     #     run_experiment(current_client)
 
-    for entry in model_config.get("local", []):
-        logger.info(f"Loading local model: {entry['model_path']}")
-        model_name = entry['name']
-        current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
-        logger.info(f"Loaded client: {model_name}")
-        run_experiment(current_client)
-
-    # for entry in model_config.get("nebula", []):
-    #     logger.info(f"Loading Nebula model: {entry['model_path']}")
-    #     model_name = entry["model_path"]
-    #     current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
+    # for entry in model_config.get("local", []):
+    #     logger.info(f"Loading local model: {entry['model_path']}")
+    #     model_name = entry['name']
+    #     current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
     #     logger.info(f"Loaded client: {model_name}")
-
     #     run_experiment(current_client)
+
+    for entry in model_config.get("nebula", []):
+        logger.info(f"Loading Nebula model: {entry['model_path']}")
+        model_name = entry["model_path"]
+        current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
+        logger.info(f"Loaded client: {model_name}")
+
+        run_experiment(current_client)
         
 
 

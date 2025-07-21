@@ -240,27 +240,38 @@ def summarize_experiment_data(experiment_type):
 def syntactic_check(response):
     return extract_json_from_string(response)
 
-def semantic_check(response, domains, experiment_type):
-    domains_plurals = domains + [domain+'s' for domain in domains]
+def semantic_check(response, row, experiment_type):
+    domains = [row.get("domain"), row.get("dimension")]
+    domains_variants = domains + [domain+'s' for domain in domains] + [domain.replace('_', ' ') for domain in domains]
     if experiment_type == 'avg':
         keys = list(response.keys())
         values = list(response.values())
         try:
             if len(keys) != 1:
-                # print(f"{'*'*200}\n\nKEYS::{list(response.keys())}\n\n{'*'*200}\n\n")
-                return None
-            elif keys[0] not in domains_plurals:
-                # print(f"{'*'*200}\n\nKEYS::{list(response.keys())}\n\n{'*'*200}\n\n")
-                return None
-        except ValueError:
-            # print(domains)
-            return None
+                return None, 'Many keys'
+            elif keys[0] not in domains_variants:
+                return None, 'Incorrect key name'
+            elif all(values) is False:
+                return response, 'Response is None'
+                # return None, 'Response is None'
+            
+            elif row.get('measurement', None):
+                if len(values) > 1:
+                    return None, 'Too many values'
+                try:
+                    float(values[0])
+                except (ValueError, TypeError):
+                    print(values)
+                    return None, 'Incorrect data type'
+        except ValueError as e:
+            print(e, row.get('measurement', None))
+            return None, 'Value error'
         # print(f"{'*'*200}\n\nKEYS::{list(extracted_data.keys())}\n\n{'*'*200}\n\n")
-        return response
+        return response, None
     elif experiment_type == 'context':
-        return True
+        return True, None
     elif experiment_type == 'ranges':
-        return True
+        return True, None
 
 def add_to_kg(reponse):
     CLEAN_DATA = BASE_DIR / "analysis" / "clean_data"
@@ -276,7 +287,8 @@ if __name__ == "__main__":
     # syntax_error_analysis()
     
     # Loop through the files
-    summary = []
+    summary = pd.DataFrame(columns=['experiment type', 'model', 'concept', 'domain', 'dimension', 'measurement',
+                                    'syntax error', 'semantic error', 'error indeces', 'file location'])
     for experiment_type in mode:
         output_dir = OUTPUT_PARENT_DIR / experiment_type
         if not output_dir.exists():
@@ -289,25 +301,38 @@ if __name__ == "__main__":
                 if concept.is_dir():
                     for file in concept.glob("*.json"):
                         data = pd.read_json(file)
+                        
+                        syntax_errors = 0
+                        semantic_errors = 0
+                        
                         if 'response' not in data.columns:
                             logger.warning(f"'response' column not found in {file}. Skipping.")
                             continue
-
-                        domains = [data['domain'][0], data['dimension'][0]]     
-                        for response in data['response']:
+    
+                        for idx, row in data.iterrows():
+                            response = row.get("response")
+                            domain = row.get("domain")
+                            dimension = row.get("dimension")
+                            domains = [domain, dimension]
+                            error_type = None
                             # =============================
                             # Main analysis
                             # -----------------------------
-                            
                             syntactically_correct_data = syntactic_check(response)              
                             if syntactically_correct_data is None:
+                                syntax_errors += 1
                                 logger.warning(f"[{experiment_type}][{data['domain'][1]}]: Syntactic error in {model_dir.name} in {concept.name}")
+                                logger.warning(f"Syntax error in response: {file} (response {idx})")
                                 continue
                             
-                            semantically_correct_data = semantic_check(syntactically_correct_data, domains, experiment_type)
+                            semantically_correct_data, error_type = semantic_check(syntactically_correct_data, row, experiment_type)
                             if semantically_correct_data is None:
+                                semantic_errors += 1
                                 logger.warning(f"[{experiment_type}][{data['domain'][1]}]: Semantic error in {model_dir.name} in {concept.name}")
+                                logger.warning(f"Semantic error \'{error_type}\' in {file} (response {idx})")
                                 continue
                             add_to_kg(semantically_correct_data)
+                        print(f"[{experiment_type}][{data['domain'][1]}]: Concept {concept.name} had {syntax_errors} syntax errors")
+                        print(f"[{experiment_type}][{data['domain'][1]}]: Concept {concept.name} had {semantic_errors} semantic errors")
 
     logger.info("Completeness analysis complete.")
