@@ -2,6 +2,7 @@ import json
 import re
 import logging
 from utils.logger import setup_logger
+
 logger = setup_logger(level=logging.INFO)
 
 def extract_json_from_string(string_input):
@@ -15,21 +16,6 @@ def extract_json_from_string(string_input):
         dict: The extracted JSON data as a dictionary.
     """
     return simple_extraction(string_input)
-
-def extract_balanced_json(text: str) -> str:
-    start = text.find("{")
-    if start == -1:
-        return None
-
-    stack = []
-    for i in range(start, len(text)):
-        if text[i] == "{":
-            stack.append(i)
-        elif text[i] == "}":
-            stack.pop()
-            if not stack:
-                return text[start:i + 1]
-    return None
 
 def simple_extraction(json_string):
     try:
@@ -50,3 +36,18 @@ def regex_extraction(json_string):
     except json.JSONDecodeError as e:
         logger.debug(f"\t\tFailed to decode JSON using simple extraction after regex: {e}")
         return None
+    
+def extract_balanced_json(text: str) -> str:
+    start = text.find("{")
+    if start == -1:
+        return None
+
+    stack = []
+    for i in range(start, len(text)):
+        if text[i] == "{":
+            stack.append(i)
+        elif text[i] == "}":
+            stack.pop()
+            if not stack:
+                return text[start:i + 1]
+    return None

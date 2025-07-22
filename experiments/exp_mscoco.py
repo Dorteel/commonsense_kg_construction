@@ -19,7 +19,7 @@ concept_file= "concepts_mscoco.json"
 property_file = "properties.yaml"
 RUNS = int(os.getenv("RUNS", 20))
 OUTPUT_PARENT_DIR = "output"
-condition = 'ranges'
+condition = 'avg'
 
 def get_checkpoint(model_name, concepts):
     """Get the checkpoint for a given model name."""
@@ -51,6 +51,8 @@ def run_experiment(current_client):
     with open(input_path_concept, "r") as f:
         concepts = json.load(f)
     concepts = get_checkpoint(model_name, concepts)
+    if concepts == None:
+        return None
     input_path_property = os.path.join(INPUT_DIR, property_file)
     with open(input_path_property, "r") as f:
         properties = yaml.safe_load(f)
@@ -66,7 +68,7 @@ def run_experiment(current_client):
         logger.info(f"Processing measurement domains")
         measurable = properties.get("measurable", {})
         for domain, details in measurable.items():
-            template_name = condition
+            template_name = condition if condition != 'avg' else 'measurement'
             for qd in details.get("quality_dimensions", []):
 
                 for unit in details.get("units", []):
@@ -112,12 +114,12 @@ def run_batch():
 
     model_config = load_model_config()
 
-    # for entry in model_config.get("groq", []):
-    #     logger.info(f"Loading Groq model: {entry['model_path']}")
-    #     model_name = entry["model_path"]
-    #     current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
-    #     logger.info(f"Loaded client: {model_name}")
-    #     run_experiment(current_client)
+    for entry in model_config.get("groq", []):
+        logger.info(f"Loading Groq model: {entry['model_path']}")
+        model_name = entry["model_path"]
+        current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
+        logger.info(f"Loaded client: {model_name}")
+        run_experiment(current_client)
 
     # for entry in model_config.get("local", []):
     #     logger.info(f"Loading local model: {entry['model_path']}")
@@ -126,13 +128,12 @@ def run_batch():
     #     logger.info(f"Loaded client: {model_name}")
     #     run_experiment(current_client)
 
-    for entry in model_config.get("nebula", []):
-        logger.info(f"Loading Nebula model: {entry['model_path']}")
-        model_name = entry["model_path"]
-        current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
-        logger.info(f"Loaded client: {model_name}")
-
-        run_experiment(current_client)
+    # for entry in model_config.get("nebula", []):
+    #     logger.info(f"Loading Nebula model: {entry['model_path']}")
+    #     model_name = entry["model_path"]
+    #     current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
+    #     logger.info(f"Loaded client: {model_name}")
+    #     run_experiment(current_client)
         
 
 
