@@ -4,6 +4,7 @@ from kg_constructors.json_constructor import JsonConstructor
 from llm_clients.base_client import LLMClient
 from groq import InternalServerError, RateLimitError
 import time
+import requests
 
 class Runner:
     def __init__(self, clients: List[LLMClient], serializer: JsonConstructor):
@@ -47,6 +48,20 @@ class Runner:
                             user_prompt=user_prompt
                         )
                         break  # Success
+                    except requests.exceptions.ConnectTimeout as e:
+                            print(f"[Attempt {attempt}] ConnectTimeout for client {client.model_name}: {e}")
+                            if attempt == self.max_retries:
+                                print("Skipping due to timeout.")
+                            else:
+                                sleep_time = self.initial_delay * (2 ** (attempt - 1))
+                                time.sleep(sleep_time)
+                    except requests.exceptions.RequestException as e:
+                        print(f"[Attempt {attempt}] General request error for {client.model_name}: {e}")
+                        if attempt == self.max_retries:
+                            print("Skipping due to persistent request failure.")
+                        else:
+                            sleep_time = self.initial_delay * (2 ** (attempt - 1))
+                            time.sleep(sleep_time)
                     except InternalServerError as e:
                         print(f"[Attempt {attempt}] Error with client {client.model_name}: {e}")
                         if attempt == self.max_retries:
