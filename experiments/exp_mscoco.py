@@ -44,7 +44,7 @@ def get_checkpoint(model_name, concepts):
         logger.info(f"Remaining concepts for model {model_name}: {len(list(concepts_remaining.keys()))}")
         return concepts_remaining
 
-def run_experiment(current_client):
+def run_experiment(current_client, condition):
     runner = Runner(clients=[current_client], serializer=JsonConstructor())
     model_name = current_client.model_name
     input_path_concept = os.path.join(INPUT_DIR, concept_file)
@@ -114,26 +114,29 @@ def run_batch():
 
     model_config = load_model_config()
 
-    for entry in model_config.get("groq", []):
-        logger.info(f"Loading Groq model: {entry['model_path']}")
-        model_name = entry["model_path"]
-        current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
-        logger.info(f"Loaded client: {model_name}")
-        run_experiment(current_client)
+    for condition in ['avg', 'context', 'ranges']:
+    # for entry in model_config.get("groq", []):
+    #     logger.info(f"Loading Groq model: {entry['model_path']}")
+    #     model_name = entry["model_path"]
+    #     current_client = GroqClient(api_key=os.getenv("GROQ_API_KEY"), model_name=model_name)
+    #     logger.info(f"Loaded client: {model_name}")
+    #     run_experiment(current_client, condition)
 
     # for entry in model_config.get("local", []):
     #     logger.info(f"Loading local model: {entry['model_path']}")
     #     model_name = entry['name']
     #     current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
     #     logger.info(f"Loaded client: {model_name}")
-    #     run_experiment(current_client)
+    #     run_experiment(current_client, condition)
 
-    # for entry in model_config.get("nebula", []):
-    #     logger.info(f"Loading Nebula model: {entry['model_path']}")
-    #     model_name = entry["model_path"]
-    #     current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name)
-    #     logger.info(f"Loaded client: {model_name}")
-    #     run_experiment(current_client)
+
+        for entry in model_config.get("nebula", []):
+            model_path = entry["model_path"]
+            model_name = entry["name"]
+            logger.info(f"Loading Nebula model: {model_name}")
+            current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name, model_path=model_path)
+            logger.info(f"Loaded client: {model_name}")
+            run_experiment(current_client, condition)
         
 
 

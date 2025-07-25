@@ -35,3 +35,7 @@ nebula:
     model_path: qwen2.5:1.5b
   - name: llama31_8b_standard
     model_path: llama3.1:8b 
+  - name: deepseekr1_8b_standard
+    model_path: deepseek-r1:8b
+  - name: deepseekr1_1b_standard
+    model_path: deepseek-r1:1.5b

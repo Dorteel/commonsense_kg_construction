@@ -2,9 +2,10 @@ import requests
 from .base_client import LLMClient
 
 class NebulaClient(LLMClient):
-    def __init__(self, api_key: str, model_name: str):
+    def __init__(self, api_key: str, model_name: str, model_path : str):
         self.api_key = api_key
         self.model_name = model_name
+        self.model_path = model_path
         self.api_url = 'https://nebula.cs.vu.nl/api/chat/completions'
 
     def generate(self, system_prompt: str, user_prompt: str) -> str:
@@ -13,7 +14,7 @@ class NebulaClient(LLMClient):
             'Content-Type': 'application/json'
         }
         data = {
-            "model": self.model_name,
+            "model": self.model_path,
             "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}

@@ -61,7 +61,7 @@ condition_runs = {"context": RUNS, "avg": RUNS, "ranges": RUNS}
 condition_files = {"context": 1, "avg": 35, "ranges": 11}
 # Define the paths
 BASE_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_PARENT_DIR = BASE_DIR / "output"
+OUTPUT_PARENT_DIR = BASE_DIR / "data"
 OUTPUT  = BASE_DIR / "analysis" / "results"
 OUTPUT_ANALYSIS_DIR = BASE_DIR / "analysis" / "results"
 
@@ -618,6 +618,7 @@ def analyse(exp):
                     data_aggregation(response)
 
 def summarize_error_stats(error_file: str | Path,
+                          condition: str,
                           total_files: int | None = None,
                           total_rows:  int | None = None):
     """
@@ -668,15 +669,15 @@ def summarize_error_stats(error_file: str | Path,
                  if total_rows  else f"{err_rows} (total ?)"
     
     # --- Print ----------------------------------------------------------------
-    print(f"\n=== Error summary ===")
+    print(f"\n=== Error summary: {condition} ===")
     print(f"Files with errors : {file_ratio}")
     print(f"Rows  with errors : {row_ratio}")
 
-    print("\n--- Error category counts ---")
+    print(f"\n--- Error category counts: {condition}---")
     for cat, n in category_counts.items():
         print(f"{cat:<10} : {n}")
 
-    print("\n--- Error sub-type counts ---")
+    print(f"\n--- Error sub-type counts {condition}---")
     for _, row in sub_type_counts.iterrows():
         print(f"{row.error_category:<10} > {row.error_subtype:<25} : {row['count']}")
 
@@ -695,7 +696,22 @@ def dump_errors(err_list: list[ErrorRecord]):
 if __name__ == "__main__":
     conditions = ['ranges', 'avg', 'context']
     for exp in conditions:
+        # ---- reset mutable collectors ------------------------------------
+        errors.clear()
+        # _agg_rows.clear()
+        # _agg_by_key.clear()
+        files_checked = 0
+        rows_checked  = 0
+        # ------------------------------------------------------------------
+
         analyse(exp)
+
         dump_errors(errors)
-        summarize_error_stats(OUTPUT / "error_summary.csv", total_files=files_checked, total_rows=rows_checked)
-        dump_aggregated(OUTPUT / exp)
+        summarize_error_stats(
+            OUTPUT / "error_summary.csv",
+            condition=exp,
+            total_files = files_checked,
+            total_rows  = rows_checked
+        )
+        # dump_aggregated(OUTPUT / exp)
+    dump_aggregated(OUTPUT)
