@@ -2,7 +2,6 @@
 
 import os
 from pathlib import Path
-import logging
 import pandas as pd
 from kg_constructors.json_extractor import extract_json_from_string
 from collections import defaultdict
@@ -10,6 +9,16 @@ import json
 from dataclasses import dataclass, asdict
 import numbers
 from typing import Any
+from utils.logger import setup_logger
+from difflib import get_close_matches
+import inflect
+import re
+from collections import Counter
+import yaml
+
+p = inflect.engine()
+# Global unmatched tracker
+unmatched_tokens_all = Counter()
 
 @dataclass
 class ErrorRecord:
@@ -51,8 +60,8 @@ files_checked = 0          # total *.json files opened successfully
 rows_checked  = 0          # total rows iterated over
 
 # Set up logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger()
+
+logger = setup_logger()
 
 errors: list[ErrorRecord] = []
 
@@ -147,128 +156,6 @@ def clean_up():
         logger.warning(f"Removing empty directory:{folder}")
         folder.rmdir()
 
-def syntax_error_analysis_summary():
-    """
-    Analyze the JSON extraction process.
-    For each JSON file, count how many rows failed to extract valid JSON.
-    Save a single summary CSV across all models and experiment types.
-    """
-    summary = []
-
-    for experiment_type in mode:
-        output_dir = OUTPUT_PARENT_DIR / experiment_type
-        if not output_dir.exists():
-            logger.error(f"Output directory {output_dir} does not exist.")
-            continue
-
-        for model_dir in output_dir.iterdir():
-            logger.info(f"Analyzing JSON extraction for model: {model_dir.name}")
-            for concept in model_dir.iterdir():
-                if concept.is_dir():
-                    for file in concept.glob("*.json"):
-                        try:
-                            data = pd.read_json(file)
-                            if 'response' not in data.columns:
-                                logger.warning(f"'response' column not found in {file}. Skipping.")
-                                continue
-                            total_count = len(data)
-                            failed_count = 0
-
-                            for response in data['response']:
-                                extracted_data = extract_json_from_string(response)
-                                if extracted_data is None:
-                                    failed_count += 1
-
-                            result = {
-                                "experiment_type": experiment_type,
-                                "model": model_dir.name,
-                                "concept": concept.name,
-                                "file": file.name,
-                                "total_rows": total_count,
-                                "failed_rows": failed_count,
-                                "failure_rate": failed_count / total_count if total_count else 0
-                            }
-                            summary.append(result)
-
-                        except ValueError as e:
-                            logger.error(f"Error reading JSON from {file}: {e}")
-
-    # Save single summary CSV
-    if summary:
-        summary_df = pd.DataFrame(summary)
-        summary_df.to_csv(OUTPUT_ANALYSIS_DIR / "syntax_analysis_results.csv", index=False)
-        logger.info("Saved syntax analysis results to syntax_analysis_results.csv")
-    else:
-        logger.info("No syntax errors found or no data to analyze.")
-
-def semantic_error_analysis_summary():
-    """
-    Analyze semantic correctness of JSON extraction.
-    For each JSON file, verify key correctness and value format.
-    Save a single summary CSV with error messages and file paths.
-    """
-    summary = []
-
-    for experiment_type in mode:
-        output_dir = OUTPUT_PARENT_DIR / experiment_type
-        if not output_dir.exists():
-            logger.error(f"Output directory {output_dir} does not exist.")
-            continue
-
-        for model_dir in output_dir.iterdir():
-            logger.info(f"Analyzing JSON extraction for model: {model_dir.name}")
-            for concept in model_dir.iterdir():
-                if concept.is_dir():
-                    for file in concept.glob("*.json"):
-                        try:
-                            data = pd.read_json(file)
-                            if 'response' not in data.columns:
-                                logger.warning(f"'response' column not found in {file}. Skipping.")
-                                continue
-                            total_count = len(data)
-                            failed_count = 0
-                            
-                            domain = data['domain']
-                            dimension = data['dimension']
-
-                            for response in data['response']:
-                                extracted_data = extract_json_from_string(response)
-                                if extracted_data is None:
-                                    pass
-                                else:
-                                    if experiment_type == 'context':
-                                        pass
-                                    if experiment_type == 'avg':
-                                        keys = list(extracted_data.keys())
-                                        if len(keys) != 1:
-                                            failed_count += 1
-                                        elif keys[0] not in [domain, dimension]:
-                                            failed_count += 1
-                                        pass                                    
-                            result = {
-                                "experiment_type": experiment_type,
-                                "model": model_dir.name,
-                                "concept": concept.name,
-                                "file": file.name,
-                                "total_rows": total_count,
-                                "failed_rows": failed_count,
-                                "failure_rate": failed_count / total_count if total_count else 0
-                            }
-                            summary.append(result)
-
-                        except ValueError as e:
-                            logger.error(f"Error reading JSON from {file}: {e}")
-
-    # Save single summary CSV
-    if summary:
-        summary_df = pd.DataFrame(summary)
-        summary_df.to_csv(OUTPUT_ANALYSIS_DIR / "syntax_analysis_results.csv", index=False)
-        logger.info("Saved syntax analysis results to syntax_analysis_results.csv")
-    else:
-        logger.info("No syntax errors found or no data to analyze.")
-
-    # Future implementation could involve checking the structure and content of the JSON files
-    # against expected schemas or using validation libraries.
 
 def summarize_experiment_data(experiment_type):
     """
@@ -414,6 +301,78 @@ def assemble_dictionary(concepts: list):
 def syntactic_check(response):
     return extract_json_from_string(response)
 
+
+def load_yaml_dict(property_name):
+    plural = property_name + "s"
+    path = Path(__file__).resolve().parent.parent / "orka-properties" / f"{plural}.yaml"
+    with open(path, "r", encoding="utf-8") as f:
+        mapping = yaml.safe_load(f)
+    return {k.lower(): v.lower() for k, v in mapping.items()}
+
+
+def clean_with_yaml_row(response, domain):
+
+    global unmatched_tokens_all
+    p = inflect.engine()
+    base = domain.strip().lower()
+    mapping = load_yaml_dict(base)
+    unmatched_counter = Counter()
+
+    # 🧠 Extract and normalize the actual text
+    try:
+        # The thing is a dict like {'texture': ['smooth plastic', 'rubbery']}
+        values = response.get(domain, [])
+        if not isinstance(values, list):
+            values = [values]
+        text = ", ".join(values)
+    except Exception as e:
+        logger.error(f"[{base}] Invalid input format: {response}")
+        return []
+
+    # Actual cleaning logic
+    text = text.lower()
+    text = re.sub(r"[.;_/]", ",", text)
+    text = re.sub(r"\s+", " ", text)
+
+    raw_tokens = re.split(r"[,\n]", text)
+    raw_tokens = [t.strip() for t in raw_tokens if t.strip()]
+
+    cleaned = set()
+    for phrase in raw_tokens:
+        if phrase in mapping:
+            cleaned.add(mapping[phrase])
+            continue
+
+        singular_phrase = " ".join([p.singular_noun(w) if p.singular_noun(w) else w for w in phrase.split()])
+        if singular_phrase in mapping:
+            cleaned.add(mapping[singular_phrase])
+            continue
+
+        words = phrase.split()
+        matched = False
+        for word in words:
+            singular = p.singular_noun(word) if p.singular_noun(word) else word
+            if singular in mapping:
+                cleaned.add(mapping[singular])
+                matched = True
+        if not matched:
+            for word in words:
+                unmatched_counter[word] += 1
+                unmatched_tokens_all[word + domain] += 1
+
+    # Logging stats
+    total_unmatched = sum(unmatched_counter.values())
+    unique_unmatched = len(unmatched_counter)
+    # if total_unmatched:
+    #     logger.info(f"[{base}] Total unmatched entries: {total_unmatched}")
+    #     logger.info(f"[{base}] Unique unmatched entries: {unique_unmatched}")
+    #     top_unmatched = unmatched_counter.most_common(10)
+    #     logger.info(f"[{base}] Top unmatched tokens: {top_unmatched}")
+
+    return sorted(cleaned)
+
+
+
 def semantic_check(response, row, experiment_type, file_path):
     """
     Validate `response`.  On success return (DataOutput, None);
@@ -436,6 +395,7 @@ def semantic_check(response, row, experiment_type, file_path):
     # 1 · AVG
     # --------------------------------------------------------------
     if experiment_type == "avg":
+        domain = row.get("domain")
         try:
             keys   = list(response.keys())
             values = list(response.values())
@@ -445,7 +405,19 @@ def semantic_check(response, row, experiment_type, file_path):
         # ---- pick the key ---------------------------------------------------
         if not values or all(v is None for v in values):
             return None, "Response is None"
+        
+        # ---- Processing categorical values ----------------------------
+        if not row.get("measurement"):
+            if domain in {'function', 'scenario', 'context'}:
+                return None, 'Skipped domain'
+            elif domain in {'location', 'colour', 'disposition', 'shape', 'material', 'pattern', 'texture'}:
+                clean_response = clean_with_yaml_row(response, domain)
+            else:
+                return None, "Unrecognized domain"
 
+            data_out = DataOutput(**meta, values=clean_response)
+            return data_out, None   
+        # ---- Processing measurements ----------------------------
         if len(keys) != 1:                        # more than one key – search
             domains_variants = assemble_dictionary(
                 [row.get("domain"), row.get("dimension"),
@@ -463,6 +435,7 @@ def semantic_check(response, row, experiment_type, file_path):
         val = unwrap_value(response[target_key])
         try:
             float(val)
+            
         except (ValueError, TypeError):
             return None, "Incorrect data type"
 
@@ -557,10 +530,6 @@ def semantic_check(response, row, experiment_type, file_path):
     # ------------------------------------------------------------------
     else:
         return None, "Unknown experiment_type"
-
-def add_to_kg(reponse):
-    CLEAN_DATA = BASE_DIR / "analysis" / "clean_data"
-    json.dumps(reponse)
 
 def factual_check(response):
     pass
@@ -683,35 +652,34 @@ def summarize_error_stats(error_file: str | Path,
 
     return category_counts, sub_type_counts
 
-def dump_errors(err_list: list[ErrorRecord]):
+def dump_errors(err_list: list[ErrorRecord], exp):
     if not err_list:
         logger.info("✅ No errors found.")
         return
 
     df = pd.DataFrame([asdict(e) for e in err_list])
-    df.to_csv(OUTPUT / "error_summary.csv", index=False)
-    df.to_json(OUTPUT / "error_summary.json", orient="records", lines=True)
+    df.to_csv(OUTPUT / "error_summary_{exp}.csv", index=False)
+    df.to_json(OUTPUT / "error_summary_{exp}.json", orient="records", lines=True)
     logger.info("Wrote %d error rows to error_summary.*", len(df))
 
 if __name__ == "__main__":
     conditions = ['ranges', 'avg', 'context']
     for exp in conditions:
-        # ---- reset mutable collectors ------------------------------------
         errors.clear()
-        # _agg_rows.clear()
-        # _agg_by_key.clear()
         files_checked = 0
         rows_checked  = 0
-        # ------------------------------------------------------------------
 
         analyse(exp)
 
-        dump_errors(errors)
+        dump_errors(errors, exp)
         summarize_error_stats(
-            OUTPUT / "error_summary.csv",
+            OUTPUT / "error_summary_{exp}.csv",
             condition=exp,
             total_files = files_checked,
             total_rows  = rows_checked
         )
-        # dump_aggregated(OUTPUT / exp)
     dump_aggregated(OUTPUT)
+    logger.info(f"🔎 GLOBAL unmatched stats across all domains:")
+    logger.info(f"    Total unmatched: {sum(unmatched_tokens_all.values())}")
+    logger.info(f"    Unique unmatched: {len(unmatched_tokens_all)}")
+    logger.info(f"    Top offenders: {unmatched_tokens_all.most_common(20)}")
