@@ -346,8 +346,9 @@ def save_responses(responses):
 # Main script
 # --------------------
 if __name__ == "__main__":
-    done = ["llama_30b_standard", "llava_7b_standard", "llama31_8b_standard"]
-    models =["phi3mini_4k_instruct_q4", "qwen25_1b_standard", "qwen25_7b_standard"]  # Set your model name here
+    done = ["llama_30b_standard", "llava_7b_standard", "llama31_8b_standard",
+            "phi3mini_4k_instruct_q4", "qwen25_1b_standard", "qwen25_7b_standard",]
+    models =[]  # Set your model name here
     for model_name in models:
         logger.info(f"[START] Combining responses for model: {model_name}")
         responses = combine_responses(model_name)
