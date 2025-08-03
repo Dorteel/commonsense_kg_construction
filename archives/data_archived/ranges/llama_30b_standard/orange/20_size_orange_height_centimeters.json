@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 8.0, \"max_size\": 15.0, \"unit_of_measurement\": \"cm\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 7.0,\n  \"max_size\" : 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3,\n  \"max_size\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 100,\n    \"max_size\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 110.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 5.5\n    , \"max_size\": 10.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 20000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 8.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 114344.0,\n  \"max_size\": 127000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 7, \"max_size\": 21}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"min_size\": 8.0, \"max_size\": 22.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "orange",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\" : \"1.5\",\n  \"max_size\" : \"10.0\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15000,\n  \"max_size\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.4,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 40.0, \"max_size\": 70.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 120.0, \"max_size\": 230.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 19,\n  \"max_size\": 65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 85.0,\n    \"max_size\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_query\": \"Given the concept of TV (which is an electronic device that receives television signals and displays them on a screen), provide the typical range size as in {} measured in centimeters.\",\n  \"query_id\": \"d09b7234-943e-4821-b699-3e61a2b4f993\",\n  \"query_text\": \"Given the concept of TV (which is an electronic device that receives television signals and displays them on a screen), provide the typical range size as in {} measured in centimeters.\",\n  \"query_inputs\": [\n    {\n      \"name\": \"concept\",\n      \"value\": \"TV\",\n      \"type\": \"text\"\n    }\n  ],\n  \"query_outputs\": [\n    {\n      \"name\": \"min_size\",\n      \"value\": {\n        \"type\": \"float\",\n        \"value\": null\n      },\n      \"type\": \"float\"\n    },\n    {\n      \"name\": \"max_size\",\n      \"value\": {\n        \"type\": \"float\",\n        \"value\": null\n      },\n      \"type\": \"float\"\n    }\n  ],\n  \"user_id\": \"123456789\",\n  \"query_metadata\": {\n    \"language\": \"en\"\n  },\n  \"context_id\": \"123456789\",\n  \"context_name\": \"mobile\",\n  \"context_metadata\": {\n    \"device\": \"mobile\"\n  },\n  \"context_query_id\": \"23564356"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 32.0,\n  \"max_size\": 47.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 100,\n    \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": \"user_name\",\n  \"intent\": \"start\",\n  \"slots\": {\n    \"name\": \"TV\",\n    \"domain\": \"TV\",\n    \"start_time\": \"2015-06-27T11:29:38.448Z\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 60,\n    \"max_size\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50.0,\n  \"max_size\": 60.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\": \"TV\",\n  \"properties\": [\n    {\n      \"key\": \"min_size\",\n      \"value\": 26\n    },\n    {\n      \"key\": \"max_size\",\n      \"value\": 65\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 120,\n  \"max_size\": 220\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\": \"TV\",\n  \"domain\": \"electronics\",\n  \"subdomain\": \"electronic_devices\",\n  \"subdomain_type\": \"category\",\n  \"subdomain_id\": \"electronic_devices\",\n  \"relation_type\": \"has_range\",\n  \"relation_id\": \"size\",\n  \"range_minimum\": 150,\n  \"range_maximum\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 500\n}\n"
+  }
+]

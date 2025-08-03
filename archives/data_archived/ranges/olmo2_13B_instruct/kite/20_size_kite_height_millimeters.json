@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 150.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 1200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200, \"max_size\": 1200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 25.0, \"max_size\": 1200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 120.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150.0,\"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300,\"max_size\": 1500}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150, \"max_size\": 1200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 1200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 60.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200, \"max_size\": 1500}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 500.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150, \"max_size\": 600}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 1000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1500,\n    \"max_size\": 900000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 2500,\n    \"max_size\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 750000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0,\n   \"max_size\": 1500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 300,\n  \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.5,\n    \"max_size\": 3000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 3500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.5,\n  \"max_size\": 730\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 450000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 150,\n  \"max_size\": 600\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 150,\n    \"max_size\": 700\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 600\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.5,\n    \"max_size\": 3000\n}\n```\nNote that the size range provided here is a rough estimate and may vary depending on the specific species of bear. Additionally, this JSON does not include information about other aspects of bears, such as their diet or habitat preferences. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10000,\n    \"max_size\": 75000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1500000\n}\n```\nNote that the range size for bears is quite large, as it encompasses all bear species, which can vary greatly in size. The smallest species, such as the Kodansha bear, can have a body length of around 1.4 meters (about 56 inches), while the largest species, such as the Grizzly or Siberian bear, can reach up to 3 meters (about 10 feet) in length. "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.1,\n  \"max_weight\": 10000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 200,\n  \"max_weight\": 700\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100,\n  \"max_weight\": 500,\n  \"range_unit\": \"pounds\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 400.0,\n  \"max_weight\": 550.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 50,\n  \"max_weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 150,\n  \"max_weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": \"test\",\n  \"query\": \"what is the range of weight of a typical couch\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 150, \"max_weight\": 500}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":0.0,\"max_weight\":500.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"concept\": \"couch\",\n  \"range_weight\": {\n    \"min_weight\": 30.0,\n    \"max_weight\": 1000000.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 30.0, \"max_weight\": 300.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 110, \"max_weight\": 1000}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 125.0,\n  \"max_weight\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 30.0,\n  \"max_weight\": 350.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 100,\n\"max_weight\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 10,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\" : 20,\n  \"max_weight\" : 400\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 30.5,\n  \"max_weight\": 101\n}\n"
+  }
+]

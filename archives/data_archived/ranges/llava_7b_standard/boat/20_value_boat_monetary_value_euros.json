@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 10000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 100000000\n}\n```\nNote that the values are based on the assumption that a boat can range from a small personal watercraft to a large commercial vessel. The actual values may vary depending on the specific type and size of the boat. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 2000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n  \"min\\_value\": 0,\n  \"max\\_value\": 250000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n```\nNote that the values provided are arbitrary and should be adjusted according to the specific context in which this knowledge will be used. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 10000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000\n}\n```\nNote: The range value for boats can vary greatly depending on the size, type, and materials used. This is just a rough estimate and should not be taken as an accurate representation of all boats. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  }
+]

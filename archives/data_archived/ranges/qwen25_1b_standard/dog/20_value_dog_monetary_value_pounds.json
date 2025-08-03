@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 25,\n  \"max_value\": 100\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10.0,\n  \"max_value\": 85.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.5,\n  \"max_value\": 130\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 80\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 25.0,\n  \"max_value\": 100.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20.0,\n  \"max_value\": 150.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20,\n  \"max_value\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 5,\n  \"max_value\": 120\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 75\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20,\n  \"max_value\": 100\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 25,\n  \"max_value\": 100\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 0.2,\n    \"max_value\": 85\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20.0,\n  \"max_value\": 100.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 25,\n  \"max_value\": 100\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20,\n  \"max_value\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20.0,\n  \"max_value\": 150.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 30,\n  \"max_value\": 120\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 30.5,\n  \"max_value\": 120.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20.0,\n  \"max_value\": 150.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 25,\n  \"max_value\": 100\n}\n```"
+  }
+]

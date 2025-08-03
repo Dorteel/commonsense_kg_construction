@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 30.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"0.3\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 32.64}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 33.02}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 32.48}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 33.02}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.02\", \"max_size\": \"0.1\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 32.64}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"N/A\", \"max_size\": \"N/A\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 33.02}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 30.48}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"N/A\", \"max_size\": \"N/A\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 30.48}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 32.48}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 30.48}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"20.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 14.5}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "hot dog",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"N/A\", \"max_size\": \"N/A\"}"
+  }
+]

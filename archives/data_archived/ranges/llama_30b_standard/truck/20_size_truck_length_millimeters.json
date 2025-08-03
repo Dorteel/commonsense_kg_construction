@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 999999.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2000,\n  \"max_size\": 2200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 2618.4, \"max_size\": 4428.2}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000000,\n  \"max_size\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 0.0, \"max_size\": 40000.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 1700.0,\n  \"max_size\" : 2100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 3000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100000,\n  \"max_size\": 200000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1900,\n    \"max_size\": 3300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 244,\n  \"max_size\": 260\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000000000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2000,\n  \"max_size\": 4000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\":0.0, \"max_size\":10.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"abc123\",\n  \"input_type\": \"text\",\n  \"query\": \"what's the typical range of a truck\",\n  \"parameters\": {},\n  \"contexts\": [\n    {\n      \"name\": \"context1\",\n      \"parameters\": {},\n      \"lifespan\": 0\n    },\n    {\n      \"name\": \"context2\",\n      \"parameters\": {},\n      \"lifespan\": 0\n    },\n    {\n      \"name\": \"context3\",\n      \"parameters\": {},\n      \"lifespan\": 0\n    }\n  ],\n  \"metadata\": {\n    \"intent_id\": \"2b58939a-4f8c-4651-a740-a6a8f4556997\",\n    \"webhook_used\": \"true\",\n    \"webhook_for_slot_filling_used\": \"true\",\n    \"intent_name\": \"ask_a_question_with_slots\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 30000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n"
+  }
+]

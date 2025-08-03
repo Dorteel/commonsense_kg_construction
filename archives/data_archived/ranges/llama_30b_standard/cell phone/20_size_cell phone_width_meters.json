@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 5000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10000,\n  \"max_size\": 40000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 10000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.0,\n    \"max_size\": 10000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0,\n    \"max_size\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 100000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"type\": \"assistant\",\n  \"dialog_type\": \"closed-domain\",\n  \"dialog_domain\": \"cabinet\",\n  \"dialog_state\": \"start\",\n  \"dialog_data\": {\n    \"cabinet_name\": \"cabinet\"\n  },\n  \"language\": \"en\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.1,\n  \"max_size\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.1,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.5,\n  \"max_size\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\": \"cell phone\",\n  \"relation\": \"range_size\",\n  \"key\": \"min_size\",\n  \"value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 25000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 15\n}\n"
+  }
+]

@@ -123,12 +123,12 @@ def run_batch():
         #     logger.info(f"Loaded client: {model_name}")
         #     run_experiment(current_client, condition)
 
-        for entry in model_config.get("local", []):
-            logger.info(f"Loading local model: {entry['model_path']}")
-            model_name = entry['name']
-            current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
-            logger.info(f"Loaded client: {model_name}")
-            run_experiment(current_client, condition)
+        # for entry in model_config.get("local", []):
+        #     logger.info(f"Loading local model: {entry['model_path']}")
+        #     model_name = entry['name']
+        #     current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
+        #     logger.info(f"Loaded client: {model_name}")
+        #     run_experiment(current_client, condition)
 
 
         for entry in model_config.get("nebula", []):

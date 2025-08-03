@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"min_temperature\": 0, \"max_temperature\": 40 }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": -10,\n  \"max_temperature\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"min_temperature\": 0, \"max_temperature\": 20 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"handbag\",\n  \"range_temperature\": {\n    \"min_temperature\": 15,\n    \"max_temperature\": 20\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"handbag\",\n  \"temperature\": {\n    \"min_temperature\": 10.0,\n    \"max_temperature\": 35.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 10.0,\n\"max_temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\":50.0,\"max_temperature\":60.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0.0, \"max_temperature\": 31.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the concept of handbag (which is a container used for carrying money and small personal items or accessories (especially by women)), provide the typical range temperatureas in {} measured in celsius. Return only JSON with keys:  - min_temperature (float)  - max_temperature (float)\",\n  \"response_type\": \"JSON\",\n  \"source\": \"Assistant\",\n  \"userId\": \"6320353723111215299\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 1.0,\n  \"max_temperature\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Ms. Smith\",\n  \"age\": 27,\n  \"number_of_children\": 2,\n  \"children_age\": [3, 2],\n  \"children_gender\": [\"female\", \"male\"],\n  \"children_birthday\": [\"11/02/2016\", \"07/03/2015\"],\n  \"children_birthday_format\": [\"dd/MM/yyyy\", \"dd/MM/yyyy\"],\n  \"children_height\": [105.5, 87.5],\n  \"children_height_format\": [\"cm\", \"cm\"],\n  \"children_weight\": [22, 26],\n  \"children_weight_format\": [\"kg\", \"kg\"],\n  \"children_clothes_size\": [\"S\", \"S\"],\n  \"children_clothes_size_format\": [\"US\", \"US\"],\n  \"children_shoe_size\": [\"1\", \"2\"],\n  \"children_shoe_size_format\": [\"UK\", \"UK\"],\n  \"children_favorite_color\": [\"orange\", \"brown\"],\n  \"children_favorite_color_format\": [\"color\", \"color\"],\n  \"children_favorite_food\": [\"ice cream\", \"pizza\"],\n  \"children_favorite_food_format\": [\"food\", \"food\"],\n  \"children_favorite_movie\": [\"frozen\", \"toy story\"],\n  \"children_favorite_movie_format\": [\"movie\", \"movie\"],\n  \"children"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "handbag",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 30,\n  \"description\": \"Typical temperature range in Celsius\"\n}\n"
+  }
+]

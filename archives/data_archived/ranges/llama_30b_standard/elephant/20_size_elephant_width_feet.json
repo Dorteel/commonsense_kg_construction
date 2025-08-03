@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 10,\n  \"max_size\" : 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 2.0, \"max_size\": 2.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2,\n  \"max_size\": 7,\n  \"typical_size\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 4.0, \"max_size\": 5.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Tony\",\n  \"age\": 46,\n  \"job\": \"lawyer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 6.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 4, \"max_size\": 6}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3,\n  \"max_size\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3,\n  \"max_size\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.5,\n  \"max_size\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\": \"elephant\",\n  \"properties\": {\n    \"range_size\": {\n      \"min_size\": 6.0,\n      \"max_size\": 15.0,\n    \"unit\": \"feet\"\n  }\n}\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.0,\n  \"max_size\": 5.0\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 3.57 // average weight of a smartphone\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.01,\n  \"max_weight\": 2.7\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 2.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.25,\n  \"max_weight\": 4.5\n}\n```\nNote that the typical weight range for cell phones can vary widely depending on the specific model and features, but a general estimate is around 0.25 to 4.5 pounds. This includes the weight of the phone itself as well as any accessories such as cases or chargers. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.1,\n    \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0,\n   \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 0.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 2.2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 3,\n  \"max_weight\": 6\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0,\n   \"max_weight\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 3,\n   \"max_weight\": 0.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 2.2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 3.5,\n  \"max_weight\": 2.2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 2.27\n}\n```\nNote that the maximum weight is based on a common reference point for cell phones, which is the Apple iPhone 12 Pro Max, which weighs approximately 2.27 pounds (0.94 kg). Keep in mind that this may not include all possible variations of cell phones, but it should be representative of the majority of modern smartphones. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 15.4  // average maximum weight for a cell phone\n}\n``` "
+  }
+]

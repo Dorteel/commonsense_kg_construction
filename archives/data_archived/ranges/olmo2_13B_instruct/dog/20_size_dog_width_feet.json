@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 40.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 34.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"200000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 40.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 30.0, \"max_size\": 40.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 2.0, \"max_size\": 40.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"40000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 40.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"30\", \"max_size\": \"40\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 40.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 34.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 6.0, \"max_size\": 34.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 200.0}"
+  }
+]

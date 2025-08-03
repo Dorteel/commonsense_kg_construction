@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 150.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"room temperature\", \"max_temperature\": \"approximately 260 kelvin\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"200\", \"max_temperature\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 150.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"300 K\", \"max_temperature\": \"500 K\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 150.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"300\", \"max_temperature\": \"400\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0,\"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 220.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 500.0, \"max_temperature\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100, \"max_temperature\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100, \"max_temperature\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "toaster",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"20\", \"max_temperature\": \"250\"}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.75,\n  \"max_size\": 23\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 16.5,\n  \"max_size\": 22.2\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 10.0,\n    \"max_size\": 24.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 15.75,\n    \"max_size\": 26\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.78,\n  \"max_size\": 21.69\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.78,\n  \"max_size\": 23.39\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 14,\n  \"max_size\": 24\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12,\n  \"max_size\": 36\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 18.5,\n  \"max_size\": 25.6\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 19\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 9.5,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.78,\n  \"max_size\": 24.71\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.0,\n  \"max_size\": 30.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 14.0,\n    \"max_size\": 20.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 14.0,\n  \"max_size\": 20.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.78,\n  \"max_size\": 19.69\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 17.0,\n  \"max_size\": 21.7\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 17.5,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.75,\n  \"max_size\": 27.0\n}"
+  }
+]

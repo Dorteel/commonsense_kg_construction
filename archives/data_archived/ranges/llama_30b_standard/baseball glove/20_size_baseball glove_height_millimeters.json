@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 60,\n  \"max_size\": 95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 300,\n  \"is_valid\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 90,\n  \"max_size\": 108\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 130,\n  \"max_size\": 160\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 84,\n  \"max_size\": 86,\n  \"avg_size\": 85\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\" : 110, \"max_size\" : 160}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 242.55,\n    \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 170,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 250,\n    \"max_size\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 220.0,\n  \"max_size\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"xxxxxxxx\",\n  \"text\": \"What is the size range of baseball gloves\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 300.0}\n \t\t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.11,\n  \"max_size\": 0.11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"min_size\": 120,\n\"max_size\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"min_size\": 149,\n\"max_size\": 178,\n\"color\": \"dark\",\n\"manufacturer\": \"Rawlings\",\n\"description\": \"Genuine Leather Baseball Glove\",\n\"image\": \"https://www.rawlings.com/wp-content/uploads/2017/05/Gold-Glove-Genuine-Leather-Glove-34-Inch-Brown-Soft-Ball-2018.jpg\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200.0,\n  \"max_size\": 400.0\n}\n"
+  }
+]

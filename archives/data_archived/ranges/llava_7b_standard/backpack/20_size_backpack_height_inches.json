@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 15,\n  \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 22\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 16,\n  \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 19\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 18,\n  \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 12,\n\"max\\_size\": 20\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 12.0,\n\"max\\_size\": 22.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 18,\n  \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 18\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 12,\n\"max\\_size\": 20\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12.0,\n  \"max_size\": 25.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 12,\n   \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 16,\n\"max\\_size\": 22\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0,\n   \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "backpack",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 20\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 10000000000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":1000,\"max_size\":10000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 1000,\n  \"type\": \"range\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 100000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 2000000000.0,\n  \"unit\": \"mm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 200}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 25,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 10000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":0,\"max_size\":10000,\"mode\":\"abs_value\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "vase",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 10, \"max_size\": 15}\n"
+  }
+]

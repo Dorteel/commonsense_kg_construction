@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 15.24,\n    \"max_size\": 75\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.48,\n  \"max_size\": 39000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1000,\n    \"max_size\": 30000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.97,\n  \"max_size\": 84\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 300\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.19,\n  \"max_size\": 73.15\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10000,\n  \"max_size\": 280000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 11.58,\n    \"max_size\": 75\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.24,\n  \"max_size\": 80\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.5,\n  \"max_size\": 40\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.2,\n  \"max_size\": 76.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 80.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.24,\n  \"max_size\": 76.2\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 13.41,\n    \"max_size\": 80\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 15.24,\n    \"max_size\": 76.2\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 17.68,\n  \"max_size\": 84\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.192,\n  \"max_size\": 76.2\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.97,\n  \"max_size\": 422.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.192,\n  \"max_size\": 80\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.24,\n  \"max_size\": 80\n}"
+  }
+]

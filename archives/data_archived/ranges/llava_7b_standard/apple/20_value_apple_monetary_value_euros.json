@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.1,\n  \"max_value\": 2.5\n}\n```\nNote that the value ranges provided are approximate and may vary depending on the specific type of apple and location. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0.5,\n\"max\\_value\": 1.5\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0.5,\n   \"max_value\": 2.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.5,\n    \"max_value\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.5,\n    \"max_value\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0.5,\n\"max\\_value\": 2.5\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.15,\n    \"max_value\": 2.50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.5,\n    \"max_value\": 2.0\n}\n```\nNote that the values provided are approximate and may vary depending on the specific variety of apple and its price in different regions. Additionally, the values provided are for a general idea of the typical range of prices for apples in euros. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 3.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.5\n}\n``` "
+  }
+]

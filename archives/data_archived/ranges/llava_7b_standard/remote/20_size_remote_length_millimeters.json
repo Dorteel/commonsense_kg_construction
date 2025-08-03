@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0.1,\n   \"max_size\": 100000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0,\n   \"max_size\": 10000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10,\n\"max\\_size\": 5000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 50000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.0,\n  \"max_size\": 1000.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 10,\n   \"max_size\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1000000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0,\n   \"max_size\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 100,\n   \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 1000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 0,\n  \"max\\_size\": 5000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.5,\n  \"max_size\": 2000\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 24,\n  \"max_size\": 36\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 120.0,\n  \"max_size\": 150.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 63,\n  \"max_size\": 75\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 40\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 25,\n  \"max_size\": 40\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 25,\n  \"max_size\": 40\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 40\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 60,\n  \"max_size\": 85\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.0,\n  \"max_size\": 45.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.5,\n    \"max_size\": 1.2\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 43,\n  \"max_size\": 52\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 120.0,\n  \"max_size\": 185.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 120.0,\n  \"max_size\": 250.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 145.0,\n  \"max_size\": 230.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50.0,\n  \"max_size\": 80.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 0,\n  \"max_size\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.1,\n  \"max_size\": 3\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.5,\n  \"max_size\": 38.5\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "toilet",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.5,\n  \"max_size\": 20.4\n}"
+  }
+]

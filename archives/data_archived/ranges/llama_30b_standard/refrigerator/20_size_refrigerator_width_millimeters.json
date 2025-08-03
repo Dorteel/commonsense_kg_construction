@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":0, \"max_size\":40}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600.0,\n  \"max_size\": 800.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 600, \"max_size\": 900}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 600,\n    \"max_size\": 900\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 900\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 279.4,\n    \"max_size\": 317.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 650,\n  \"description\": \"A free standing refrigerator\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"min_size\": 600,\n\"max_size\": 800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"max_size\": 700, \"min_size\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 1600\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"77777\",\n  \"concept\": \"refrigerator\",\n  \"input_text\": \"fridge\",\n  \"action\": \"query\",\n  \"context\": {\n    \"app_id\": \"12345\",\n    \"device_type\": \"mobile\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 600, \"max_size\": 800}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"user_id\": \"1\",\n\"user_name\": \"Joe\",\n\"user_gender\": \"Male\",\n\"user_age\": 40,\n\"user_city\": \"Los Angeles\",\n\"user_country\": \"US\",\n\"user_zipcode\": 12345,\n\"user_preferred_language\": \"en_US\",\n\"user_preferred_currency\": \"USD\",\n\"user_preferred_timezone\": \"America/Los_Angeles\",\n\"user_preferred_date_format\": \"yyyy-MM-dd\",\n\"user_preferred_datetime_format\": \"yyyy-MM-dd HH:mm:ss\",\n\"user_preferred_time_format\": \"HH:mm:ss\",\n\"user_preferred_datetime_separator\": \" \",\n\"user_preferred_date_separator\": \"/\",\n\"user_preferred_time_separator\": \":\",\n\"user_preferred_datetime_delimiter\": \"-\",\n\"user_preferred_number_delimiter\": \",\",\n\"user_preferred_decimal_delimiter\": \".\",\n\"user_preferred_currency_delimiter\": \"$\",\n\"user_preferred_unit\": \"inch\",\n\"user_preferred_temperature_unit\": \"F\",\n\"user_preferred_weight_unit\": \"lb\",\n\"user_preferred_volume_unit\": \"gallon\",\n\"user_preferred_area_unit\": \"sqft\",\n\"user_preferred_speed_unit\": \"mph\",\n\"user_preferred_pressure_unit\": \"psi\",\n\"user_preferred"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 600\n}\n"
+  }
+]

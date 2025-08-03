@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0,\n  \"max_weight\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\" : 500,\n  \"max_weight\" : 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 300,\n  \"max_weight\": 750\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 25,\n\"max_weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0,\n  \"max_weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"name\": \"Jeff\",\n    \"age\": 50\n  },\n  \"home\": {\n    \"address\": {\n      \"country\": \"US\",\n      \"state\": \"NY\"\n    },\n    \"zip_code\": 11101\n  },\n  \"employer\": {\n    \"company\": \"ACME\",\n    \"phone_number\": \"(555) 555-5555\"\n  },\n  \"car\": {\n    \"model\": \"Honda\",\n    \"year\": 2007\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100.0,\n  \"max_weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1000,\n  \"max_weight\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"min_weight\": 10.0, \"max_weight\": 1000.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 250,\n  \"max_weight\": 2500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 80,\n  \"max_weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 12345,\n  \"max_weight\": 12345\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.0\n  ,\n  \"max_weight\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 25.0, \"max_weight\": 50.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.2,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 80,\n  \"max_weight\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 31.75,\n    \"max_weight\": 49.85\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 43,\n  \"max_weight\": 102,\n  \"min_height\": 20,\n  \"max_height\": 33,\n  \"min_diameter\": 6,\n  \"max_diameter\": 16\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 19.99,\n\"max_value\": 199.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.0,\n  \"max_value\": 1000000.0,\n  \"mean_value\": 1000.0,\n  \"median_value\": 500.0,\n  \"mode_value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"0.1\",\n  \"max_value\": \"2.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concept\": \"knife\",\n  \"range\": {\n    \"min_value\": 10,\n    \"max_value\": 500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.0,\n  \"max_value\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10.00,\n  \"max_value\": 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5000,\n  \"max_value\": 6000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 5.0,\n\"max_value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 4.99,\n  \"max_value\": 19.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.0,\n  \"max_value\": 3.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 48,\n  \"company\": \"Fortune 500\",\n  \"title\": \"Director of Software\",\n  \"salary\": 100000,\n  \"location\": \"Redmond\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 15,\n  \"max_value\": 65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"15.0\",\n  \"max_value\": \"25.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 10,\n    \"max_value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 1000000\n}\n"
+  }
+]

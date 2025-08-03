@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 212\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 160\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 180\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 95\n}\n```\nNote that the temperature range for a bowl is quite broad and can vary depending on the specific use of the bowl. This JSON provides a general range of temperatures that are commonly encountered with bowls. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 160\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -10,\n\"max\\_temperature\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 180\n}\n```\nNote: The temperature range for a bowl is quite broad and can vary depending on the type of food or liquid it's used to hold. This JSON provides a general estimate based on typical usage scenarios. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 140\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": -40,\n    \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 0,\n   \"max_temperature\": 212\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bowl",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": -40,\n    \"max_temperature\": 212\n}\n``` "
+  }
+]

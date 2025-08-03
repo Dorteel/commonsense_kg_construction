@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 5000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1000000\n}\n```\nNote that the range provided is very broad and should not be considered as accurate or definitive values for airplanes. The actual range of an airplane depends on various factors such as the size, type, and purpose of the aircraft. In general, small personal planes can cost anywhere from a few thousand to tens of thousands of euros, while large commercial jets can cost millions or even billions of euros. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 15000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 10000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 300000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1000000\n}\n```\nNote: The typical range for an airplane is not explicitly provided with a unit of measurement. However, the value ranges from 0 to potentially several million euros, depending on the size and type of aircraft. This JSON provides a reasonable estimate based on available information. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 10000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1000000\n}\n```\nNote that the range of typical costs for airplanes can vary widely depending on factors such as size, model, age, and location. The minimum value of 0 represents an airplane with no cost, which is not typically how we think about airplanes. The maximum value of 1,000,000 represents a very high cost, but again, it's important to note that there are private jets and other specialized aircraft that can cost much more than this. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 10000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n```\nNote that the typical range value for an airplane is a very broad range and can vary greatly depending on the specific model and size of the aircraft. The min\\_value of 0 represents an airplane with no cost, such as a simple glider, while the max\\_value of 500 represents a large private jet that could potentially cost over €500 million. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000000\n}\n``` "
+  }
+]

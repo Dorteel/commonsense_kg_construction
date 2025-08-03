@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 100000.0, \"max_weight\": 2000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 30000.0, \"max_weight\": 250000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 32000, \"max_weight\": 320000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"200000\", \"max_weight\": \"2000000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"380000\", \"max_weight\": \"2200000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 100000.0, \"max_weight\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 100000000, \"max_weight\": 200000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 160000.0, \"max_weight\": 250000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1000000, \"max_weight\": 25000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1000000, \"max_weight\": 20000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 80.0, \"max_weight\": 250000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 100000.0, \"max_weight\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0, \"max_weight\": 300000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 20000.0, \"max_weight\": 500000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 20000, \"max_weight\": 2000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"380000\", \"max_weight\": \"2200000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 50000, \"max_weight\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 1200000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 100000, \"max_weight\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3800000\", \"max_weight\": \"22000000\"}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 20\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 5,\n    \"max_value\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 1.5,\n\"max\\_value\": 40\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 25\n}\n```\nPlease note that the price range for scissors can vary greatly depending on the quality, brand, and type of scissors. This JSON is providing a rough estimate based on common scissors available in the market. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 15\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.5,\n    \"max_value\": 15.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 20\n}\n``` "
+  }
+]

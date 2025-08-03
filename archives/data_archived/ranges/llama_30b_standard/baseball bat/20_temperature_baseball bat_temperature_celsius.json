@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 100.0,\n\"max_temperature\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 25,\n  \"max_temperature\" : 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0.0,\n    \"max_temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 50.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 10,\n\"max_temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 12.8,\n  \"max_temperature\": 37.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 45,\n  \"max_temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\":\"Baseball\",\n  \"type\":\"Sport\",\n  \"description\": \"Baseball is a bat-and-ball game played between two teams of nine players each who take turns batting and fielding.\",\n  \"rules\": {\n    \"bat\": \"Bat is an implement used in baseball by the batter.\",\n    \"ball\": \"Ball is a hard, spherical object used as a projectile, in sports and other forms of recreation.\"\n  },\n  \"players\": {\n    \"batter\": \"Batter is a player whose turn is to bat. The term is also used for the act of batting, and the term batter or batsman is used for the batter or the act of batting in the sport of cricket.\",\n    \"catcher\": \"Catcher is a position for a baseball or softball player. When a batter takes a swing at a pitch, the catcher is the player who will attempt to catch the ball if the batter misses and it goes forward, if it goes to the side, or if it bounces in the dirt and goes backwards.\",\n    \"pitcher\": \"Pitcher is one of the nine positions in baseball. Pitchers are members of the pitching staff, and are the ones who throw the baseball from the pitcher's mound towards home plate, the goal being to retire a batter, who attempts to either make contact with the pitched ball or draw a walk by refusing to swing at bad pitches. In the numbering system used to record defensive plays, the pitcher is assigned the number 1.\",\n    \"baseball_bat\": \"Baseball bat is an implement used in baseball by the batter to hit the ball.\",\n    \"catchers_mitt\": \"Catch"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 30,\n  \"temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"concept\": \"baseball bat\",\n    \"range\": \"temperature\",\n    \"measurement_unit\": \"celsius\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 25.5,\n  \"max_temperature\": 29.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": \"21.656\",\n  \"max_temperature\": \"37.7856\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 20,\n    \"max_temperature\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\"\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1.0,\n    \"max_size\": 6.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 18,\n  \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 18,\n\"max\\_size\": 24\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 18,\n    \"max_size\": 36\n}\n```\nNote: These sizes are approximate and can vary depending on the breed of cat. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 18,\n    \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 6\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 6.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 18,\n    \"max_size\": 36\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 18,\n    \"max_size\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.0,\n\"max\\_size\": 3.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 48\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 18,\n    \"max_size\": 36\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 72\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 40\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 18\n}\n```\nNote: The range size of a cat can vary greatly depending on the specific breed and individual characteristics. This JSON provides a general estimate based on the typical size range for cats. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 6.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.6,\n\"max\\_size\": 3.5\n} "
+  }
+]

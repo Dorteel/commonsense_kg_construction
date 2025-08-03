@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 2000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 2000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 150,\n    \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 1800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 2000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 340,\n  \"max_size\": 2000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 500,\n    \"max_size\": 2000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 400,\n    \"max_size\": 1900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 350,\n  \"max_size\": 1950\n}"
+  }
+]

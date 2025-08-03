@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1200,\n    \"max_size\": 3400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 1800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": {\n    \"height\": 700,\n    \"length\": 1200\n  },\n  \"max_size\": {\n    \"height\": 1800,\n    \"length\": 3000\n  }\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 3600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": {\n    \"length\": 1200,\n    \"width\": 800\n  },\n  \"max_size\": {\n    \"length\": 3000,\n    \"width\": 2000\n  }\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 2300\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 3500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 2000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 3600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bear",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200,\n  \"max_size\": 3600\n}"
+  }
+]

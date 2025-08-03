@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n```\nNote that this is a rough estimate and the ideal storage temperature for books can vary depending on factors such as the materials used in their production and the desired lifespan of the book. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 20,\n   \"max_temperature\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 35\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "book",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 10,\n    \"max_temperature\": 25\n}\n``` "
+  }
+]

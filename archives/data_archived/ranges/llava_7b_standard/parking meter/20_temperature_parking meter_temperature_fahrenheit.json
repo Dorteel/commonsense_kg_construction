@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 32,\n  \"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -10,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -20,\n  \"max_temperature\": 120\n}\n```\nThe temperature range of a parking meter is typically between -20°F and 120°F. However, it's important to note that this is just an average range and the actual temperature range may vary depending on the location and manufacturer of the parking meter. Additionally, parking meters are typically not used in extreme temperatures or harsh weather conditions, so they may not be functional in such conditions. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -10,\n  \"max_temperature\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 85\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -20,\n\"max\\_temperature\": 95\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 80\n} "
+  }
+]

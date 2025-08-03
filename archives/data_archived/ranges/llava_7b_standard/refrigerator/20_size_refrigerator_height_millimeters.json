@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 100,\n\"max\\_size\": 800\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 20000,\n    \"max_size\": 70000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 100,\n\"max\\_size\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 150,\n    \"max_size\": 450\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 400,\n    \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 150,\n  \"max_size\": 400\n}\n```\nNote: The above range is approximate and can vary depending on the specific model and features of a refrigerator. It's also worth noting that some modern refrigerators have sizes much larger than this range. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 150,\n  \"max_size\": 450\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 150,\n  \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 150,\n   \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 45000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 100,\n    \"max_size\": 280\n}\n```\nExplanation: The typical size range for a refrigerator is between 100 and 280 millimeters in height. Refrigerators come in various sizes to accommodate different needs and preferences of consumers. However, the specific dimensions of a refrigerator will depend on its model, capacity, and features. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 200,\n\"max\\_size\": 800\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 100,\n    \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 1000,\n  \"max\\_size\": 3000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 300,\n    \"max_size\": 600\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 2000,\n    \"max_size\": 3000\n}\n``` "
+  }
+]

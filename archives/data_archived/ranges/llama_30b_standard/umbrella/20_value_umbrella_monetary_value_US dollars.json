@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5.0, \"max_value\": 10.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":5,\"max_value\":15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\" : 5.00,\n  \"max_value\" : 150.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"value\": 20\n  },\n  \"max_value\": {\n    \"value\": 150\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\" : 0.0,\n  \"max_value\" : 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"My Assistant\",\n  \"email\": \"myassistant@gmail.com\",\n  \"password\": \"password\",\n  \"phone_number\": \"1234567890\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\" : 4.99,\n  \"max_value\" : 14.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":10.0, \"max_value\":20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5.0,\n  \"max_value\": 500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5.0,\n  \"max_value\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10.0,\n  \"max_value\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5.0, \"max_value\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 29.99,\n  \"max_value\": 100000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"2.99\", \"max_value\": \"21.99\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 12.95,\n\"max_value\": 29.95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10.00,\n  \"max_value\": 30.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concepts\" : [\n    {\n      \"text\" : \"umbrella\",\n      \"range\" : {\n        \"min_value\" : 10.0,\n        \"max_value\" : 100.0\n      }\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5.00,\n  \"max_value\": 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10, \"max_value\": 50}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 50.0}\n"
+  }
+]

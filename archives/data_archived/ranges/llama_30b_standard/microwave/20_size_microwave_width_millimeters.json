@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 190,\n  \"max_size\": 260\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 25,\n  \"max_size\": 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 230, \"max_size\": 280, \"type\": \"inches\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"microwave\": {\n    \"min_size\": 200,\n    \"max_size\": 500\n  },\n  \"refrigerator\": {\n    \"min_size\": 300,\n    \"max_size\": 700\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 280.0,\n  \"max_size\": 280.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 26,\n  \"max_size\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":0.0,\n \"max_size\":900.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.0,\n    \"max_size\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 250.0, \"max_size\": 250.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250.0,\n  \"max_size\": 300.0\n}\n"
+  }
+]

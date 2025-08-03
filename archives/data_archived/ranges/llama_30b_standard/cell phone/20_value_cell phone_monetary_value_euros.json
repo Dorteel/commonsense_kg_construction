@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 40,\n  \"max_value\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 100.00,\n  \"text\": \"The range of the typical cost of a cell phone (which is telephony that uses transmission by radio rather than by wire).\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"cellphone\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"cell phone\",\n  \"min_value\": 99.0,\n  \"max_value\": 100000.0,\n  \"unit\": \"euros\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456789\",\n  \"concept_id\": 23456789,\n  \"properties\": {\n    \"manufacturer\": \"Apple\",\n    \"model\": \"iPhone 5S\",\n    \"color\": \"White\"\n  }\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 60.0,\n  \"description\": \"The minimum and maximum prices for a cell phone plan in euros per month.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10.0,\n  \"max_value\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0, \"max_value\": 40000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.00,\n  \"max_value\": 0.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0, \"max_value\": 1000000000000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"minimum\": {\n      \"type\": \"integer\",\n      \"value\": 100\n    },\n    \"maximum\": {\n      \"type\": \"integer\",\n      \"value\": 200\n    }\n  },\n  \"max_value\": {\n    \"minimum\": {\n      \"type\": \"integer\",\n      \"value\": 200\n    },\n    \"maximum\": {\n      \"type\": \"integer\",\n      \"value\": 300\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 0.000,\n    \"max_value\": 1000.000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 30,\n\"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.5,\n  \"max_value\": 8,\n  \"average_value\": 3.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concepts\": [\n    \"cell_phone\"\n  ],\n  \"input_text\": \"min_value\",\n  \"question\": \"min_value\",\n  \"request_id\": \"37674f35-8e35-48f0-9922-821864b49f6c\",\n  \"version\": \"20171026\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"user_id\": \"11111\",\n\"user_name\": \"Joe\",\n\"user_gender\": \"male\",\n\"user_age\": \"27\",\n\"user_zip_code\": \"92037\",\n\"user_email\": \"joe@yahoo.com\",\n\"user_phone\": \"1234567890\",\n\"user_purchase_history\": [\n    \"1234567890\",\n    \"1234567891\",\n    \"1234567892\"\n],\n\"user_purchase_history_1\": \"1234567890\",\n\"user_purchase_history_2\": \"1234567890\",\n\"user_purchase_history_3\": \"1234567891\",\n\"user_purchase_history_4\": \"1234567892\",\n\"user_purchase_history_5\": \"1234567892\",\n\"user_purchase_history_6\": \"1234567892\",\n\"user_purchase_history_7\": \"1234567892\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 400,\n  \"max_value\": 1000\n}\n"
+  }
+]

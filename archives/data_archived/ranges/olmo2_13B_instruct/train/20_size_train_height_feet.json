@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 4000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"500\", \"max_size\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"600\", \"max_size\": \"5000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"generally over 100 feet\", \"max_size\": \"can exceed 500 feet\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 6.0, \"max_size\": 4000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"200\", \"max_size\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"300\", \"max_size\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"500\",\"max_size\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"100\",\"max_size\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"500\", \"max_size\": \"5000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"500\", \"max_size\": \"200000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"generally a few hundred feet\", \"max_size\": \"can exceed a mile\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 4.0, \"max_size\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"500\", \"max_size\": \"50000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"5000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"about 60\", \"max_size\": \"over 500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"500\", \"max_size\": \"200000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"300\", \"max_size\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 4.0, \"max_size\": 12.0}"
+  }
+]

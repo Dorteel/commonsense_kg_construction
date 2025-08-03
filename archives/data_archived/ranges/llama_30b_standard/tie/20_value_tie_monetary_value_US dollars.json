@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.00, \"max_value\": 100.00}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"type\": \"object\",\n  \"properties\": {\n    \"min_value\": {\n      \"type\": \"number\"\n    },\n    \"max_value\": {\n      \"type\": \"number\"\n    }\n  },\n  \"required\": [\n    \"min_value\",\n    \"max_value\"\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"Watson\",\n  \"description\": \"I am an intelligent assistant.\",\n  \"url\": \"https://ibm.biz/watson-assistant-overview\",\n  \"version\": \"2.0.0\",\n  \"language\": {\n    \"name\": \"English\",\n    \"description\": \"The language of the dialog.\",\n    \"code\": \"en\",\n    \"locale\": \"en-us\"\n  },\n  \"dialog_node\": {\n    \"dialog_node_input\": \"{\\\"conversation_id\\\":\\\"6c62e0a6-9556-4980-858a-22882156f0f6\\\",\\\"message_timestamp\\\":\\\"2018-01-19T00:00:01Z\\\",\\\"message_text\\\":\\\"Say something.\\\"}\",\n    \"dialog_node_output\": \"{\\\"intent\\\":\\\"assistant.intent.action.TEXT\\\",\\\"entities\\\":[],\\\"input_transcript\\\":\\\"Say something.\\\",\\\"resolved_input_transcript\\\":\\\"Say something.\\\",\\\"contexts\\\":[],\\\"context_parameters\\\":{},\\\"metadata\\\":{}}\",\n    \"dialog_node_context\": {},\n    \"dialog_node_context_parameters\": {},\n    \"dialog_node_metadata\": {}\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"amount\": 30.00,\n    \"currency\": \"USD\"\n  },\n  \"max_value\": {\n    \"amount\": 200.00,\n    \"currency\": \"USD\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 30,\n  \"max_value\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":1,\"max_value\":5}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.0,\n  \"max_value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 25,\n  \"max_value\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 120.0,\n  \"max_value\": 2500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10.00,\n  \"max_value\": 500.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 0.0,\n    \"max_value\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 35.00,\n  \"max_value\": 35.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concept\" : \"tie\",\n  \"range_value\" : [\n    {\n      \"min_value\" : 10,\n      \"max_value\" : 100\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 0.00,\n\"max_value\": 150.00\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\",\n  \"age\": 30,\n  \"job\": \"Software Engineer\",\n  \"marital_status\": \"Married\",\n  \"children\": 0,\n  \"income\": 70000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 20, \"max_value\": 40}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"dollar\": 10,\n    \"eur\": 10\n  },\n  \"max_value\": {\n    \"dollar\": 500,\n    \"eur\": 500\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 3.0,\n  \"max_value\": 10.0\n}\n"
+  }
+]

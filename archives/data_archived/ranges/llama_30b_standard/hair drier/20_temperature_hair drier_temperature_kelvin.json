@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": {\n    \"max_temperature\": {\n      \"min_temperature\": {\n        \"max_temperature\": {\n          \"min_temperature\": {\n            \"max_temperature\": {\n              \"min_temperature\": {\n                \"max_temperature\": {\n                  \"min_temperature\": {\n                    \"max_temperature\": 38.0\n                  }\n                }\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 120.0,\n\"max_temperature\": 180.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 1000,\n    \"max_temperature\": 1400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 45.0, \"max_temperature\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 273.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 293.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 300.0,\n  \"max_temperature\": 500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 300.0, \"max_temperature\": 300.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 293.15,\n  \"max_temperature\": 373.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 15,\n  \"max_temperature\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 250.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 4,\n  \"max_temperature\": 7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 320.0,\n  \"max_temperature\": 350.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 100,\n  \"max_temperature\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 100.0,\n  \"max_temperature\": 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 294,\n  \"max_temperature\": 297\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 1.2,\n  \"max_temperature\": 1.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 200,\n  \"max_temperature\": 275\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "hair drier",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 100,\n  \"max_temperature\": 100\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10.00,\n  \"max_value\": 1000000.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 10\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "I can't provide you with a valid price range for birds. Is there anything else I can help you with?"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": null,\n  \"max_value\": null\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 0.0,\n    \"max_value\": 10000.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 50000.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": null,\n  \"max_value\": null\n}\n\nNote: The concept of bird is a classification of animals, and it doesn't have a monetary value associated with it. Therefore, the range values in euros are not applicable."
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0.5,\"max_value\":100}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.1,\n  \"max_value\": 10\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.1,\n  \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": null, \"max_value\": null}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 1000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.1,\n  \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 1000.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 0.01,\n    \"max_value\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.01,\n  \"max_value\": 100000\n}"
+  }
+]

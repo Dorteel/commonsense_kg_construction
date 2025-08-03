@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.25,\n  \"max_size\": 0.30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.15,\n\"max\\_size\": 0.30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.25,\n  \"max_size\": 0.30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 280,\n  \"max_size\": 305\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.25,\n    \"max_size\": 1.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.275,\n\"max\\_size\": 0.361\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.27,\n\"max\\_size\": 0.31\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 0.3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.27,\n\"max\\_size\": 0.31\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.25,\n\"max\\_size\": 0.30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.25,\n  \"max_size\": 0.30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.25,\n    \"max_size\": 1.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.27,\n  \"max_size\": 0.32\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0.25,\n   \"max_size\": 0.33\n}\n```\nNote that this is a rough estimate and the actual size of a frisbee may vary depending on the specific brand or model. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.25,\n\"max\\_size\": 0.30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.25,\n    \"max_size\": 1.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 100 // estimated diameter of 10 inches in meters\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.2,\n\"max\\_size\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "frisbee",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.25,\n  \"max_size\": 1.0\n}\n``` "
+  }
+]

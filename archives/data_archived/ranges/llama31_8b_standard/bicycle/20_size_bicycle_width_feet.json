@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.9,\n  \"max_size\": 22\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 20\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 5.25,\n    \"max_size\": 22\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.2,\n  \"max_size\": 21.6\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 5.0,\n    \"max_size\": 15.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.75,\n  \"max_size\": 22.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.25,\n  \"max_size\": 23.3\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 18.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 22\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.75,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 20.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.5,\n  \"max_size\": 10\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.2,\n  \"max_size\": 22.4\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.9,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 22\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.5,\n  \"max_size\": 21\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 5.0,\n    \"max_size\": 22.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13,\n  \"max_size\": 22\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 14\n}"
+  }
+]

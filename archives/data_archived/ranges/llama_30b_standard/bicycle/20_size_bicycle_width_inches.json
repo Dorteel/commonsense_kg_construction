@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":36,\"max_size\":42}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 16,\n  \"max_size\": 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept_id\": \"1234\",\n  \"user_id\": \"12345\",\n  \"time_stamp\": \"2020-04-22T16:22:28.120Z\",\n  \"question\": \"Given the concept of bicycle (which is a wheeled vehicle that has two wheels and is moved by foot pedals), provide the typical range sizeas in {} measured in inches.\",\n  \"answers\": [\n    {\n      \"concept_id\": \"1234\",\n      \"user_id\": \"12345\",\n      \"time_stamp\": \"2020-04-22T16:22:28.120Z\",\n      \"question\": \"Given the concept of bicycle (which is a wheeled vehicle that has two wheels and is moved by foot pedals), provide the typical range sizeas in {} measured in inches.\",\n      \"answers\": [\n        {\n          \"concept_id\": \"1234\",\n          \"user_id\": \"12345\",\n          \"time_stamp\": \"2020-04-22T16:22:28.120Z\",\n          \"question\": \"Given the concept of bicycle (which is a wheeled vehicle that has two wheels and is moved by foot pedals), provide the typical range sizeas in {} measured in inches.\",\n          \"answers\": [\n            {\n              \"concept_id\": \"1234\",\n              \"user_id\": \"123"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 20,\n    \"max_size\": 28\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 25,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 14, \"max_size\": 24}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\" : \"bicycle\",\n  \"min_size\" : \"23.0\",\n  \"max_size\" : \"23.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 22, \"max_size\": 25}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 50.0,\n  \"concept\": \"bicycle\",\n  \"range_type\": \"size\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"3\",\n  \"max_size\": \"11\"\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 28,\n  \"range_size\": 8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 26\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 18.0, \"max_size\": 26.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24,\n  \"max_size\": 26\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"min_size\": 18,\n\"max_size\": 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 18,\n  \"max_size\": 26\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 20,\n    \"max_size\": 26\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 20,\n    \"max_size\": 24\n}\n"
+  }
+]

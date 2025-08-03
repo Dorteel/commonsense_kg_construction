@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 15,\n  \"max_temperature\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0,\n    \"max_temperature\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 60,\n    \"max_temperature\": 68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"concept\": \"wine glass\", \"min_temperature\": 0.0, \"max_temperature\": 40.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 11.5,\n    \"max_temperature\": 13.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Glass\",\n  \"properties\": [\n    {\n      \"name\": \"temperature\",\n      \"type\": \"float\",\n      \"unit\": \"Celsius\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"wine glass\",\n  \"range_temperature\": {\n    \"min_temperature\": 5,\n    \"max_temperature\": 15\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 10, \"max_temperature\": 18}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": {\n    \"min_temperature\": 15,\n    \"max_temperature\": 15\n  },\n  \"max_temperature\": {\n    \"min_temperature\": 15,\n    \"max_temperature\": 15\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"max_temperature\": 45,\n  \"min_temperature\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 10, \"max_temperature\": 20}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 13, \"max_temperature\": 16}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 10,\n\"max_temperature\": 11\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 23\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 12, \"max_temperature\": 17, \"wine_glass\": true}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 18.0\n}\n"
+  }
+]

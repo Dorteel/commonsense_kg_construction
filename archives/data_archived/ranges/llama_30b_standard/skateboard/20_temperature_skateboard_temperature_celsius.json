@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"name\": \"Siri\",\n    \"context\": {},\n    \"entities\": {\n        \"geo\": {\n            \"city\": \"San Francisco\",\n            \"region\": \"California\",\n            \"zip\": \"94105\",\n            \"country\": \"USA\",\n            \"longitude\": -122.42653000000001,\n            \"latitude\": 37.768570000000006,\n            \"continent\": \"North America\",\n            \"timezone\": \"America/Los_Angeles\",\n            \"country_code\": \"US\"\n        },\n        \"person\": [\n            {\n                \"name\": \"Kyle\",\n                \"phone\": \"750 555 1212\",\n                \"email\": \"kyle@example.com\",\n                \"address\": {\n                    \"city\": \"San Francisco\",\n                    \"region\": \"California\",\n                    \"zip\": \"94105\",\n                    \"country\": \"USA\",\n                    \"longitude\": -122.42653000000001,\n                    \"latitude\": 37.768570000000006,\n                    \"continent\": \"North America\",\n                    \"timezone\": \"America/Los_Angeles\",\n                    \"country_code\": \"US\"\n                }\n            },\n            {\n                \"name\": \"Matthew\",\n                \"phone\": \""
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 35.0,\n  \"temperature\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456\",\n  \"request_id\": \"12345678901234567890\",\n  \"timestamp\": 1522206434,\n  \"intent\": \"assistant.intent.action.TEXT\",\n  \"inputs\": [\n    {\n      \"raw_inputs\": [\n        {\n          \"input_type\": 2,\n          \"query\": \"skateboard\"\n        }\n      ],\n      \"arguments\": [\n        {\n          \"name\": \"text\",\n          \"raw_text\": \"skateboard\",\n          \"text_value\": \"skateboard\"\n        }\n      ]\n    }\n  ],\n  \"arguments\": [\n    {\n      \"name\": \"text\",\n      \"raw_text\": \"skateboard\",\n      \"text_value\": \"skateboard\"\n    }\n  ],\n  \"contexts\": [\n    {\n      \"name\": \"global\",\n      \"lifespan\": 5\n    }\n  ],\n  \"intent\": \"assistant.intent.action.TEXT\",\n  \"user\": {\n    \"user_id\": \"123456\",\n    \"permissions\": [\n      \"assistant.identity.read\",\n      \"assistant.identity.write\"\n    ]\n  },\n  \"device\": {\n    \"locale\": \"en-US\",\n    \"model_id\": \"model_id\"\n  },\n  \"conversation\": {\n    \"conversation_"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 0,\n\"max_temperature\": 38\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 0.0,\n  \"max_temperature\" : 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 10,\n    \"max_temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": {\n    \"value\": 20,\n    \"unit\": \"celsius\"\n  },\n  \"max_temperature\": {\n    \"value\": 35,\n    \"unit\": \"celsius\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 273,\n  \"max_temperature\": 283\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 28,\n  \"max_temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 30, \"max_temperature\": 35}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 7.0, \"max_temperature\": 7.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 40,\n  \"max_temperature\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0.0,\n    \"max_temperature\": 30.0,\n    \"unit\": \"celsius\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 15,\n  \"max_temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\":45,\"max_temperature\":45}\n"
+  }
+]

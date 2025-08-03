@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 30,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 30,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 70\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 28,\n    \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 30,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 30,\n  \"max_temperature\": 70\n}\n```\nNote that the typical range temperature for an apple is usually between 30 and 70 degrees Fahrenheit. However, this can vary depending on the specific variety of apple and its ideal growing conditions. It's also important to note that apples are typically grown in temperate climates with varying degrees of chill hours required for optimal fruit production. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 68\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 30,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 86\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 30,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 30,\n   \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 30,\n  \"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "apple",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 60\n}\n``` "
+  }
+]

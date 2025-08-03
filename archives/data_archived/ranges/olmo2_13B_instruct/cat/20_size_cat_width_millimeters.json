@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 75.0, \"max_size\": 150.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 175.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1900, \"max_size\": 3000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 279, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 75.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 250, \"max_size\": 400}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 2000,\"max_size\": 4000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 15.24, \"max_size\": 76.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 23.0, \"max_size\": 76.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"76\", \"max_size\": \"120\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 23.0, \"max_size\": 76.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"70\", \"max_size\": \"80\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 237.0,\"max_size\": 390.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 23.0, \"max_size\": 76.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1500, \"max_size\": 1750}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 175.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 70.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 2000.0, \"max_size\": 25000.0}"
+  }
+]

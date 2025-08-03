@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"min_temperature\" : 10, \"max_temperature\" : 12 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Banana\",\n  \"min_temperature\": 17,\n  \"max_temperature\": 32\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20.0,\n  \"max_temperature\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 20.0,\n    \"max_temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 17.777777777777778,\n  \"max_temperature\": 30.88888888888888\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 22.0,\n  \"max_temperature\": 26.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 13,\n  \"max_temperature\": 13\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 18.0,\n  \"max_temperature\": 35.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 25,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0.0, \"max_temperature\": 20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"min_temperature\": 23, \"max_temperature\": 30 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 15,\n\"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 10, \"max_temperature\": 40}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "banana",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"system\": \"system\",\n  \"dialog_id\": \"2043c96d-2251-4b3d-8544-0b73b0663581\",\n  \"conversation_id\": \"959f764a-0917-424f-8d0e-6328a44d7189\",\n  \"inputs\": [\n    {\n      \"intent\": \"assistant.intent.action.TEXT\",\n      \"raw_text\": \"Given the concept of banana (which is any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits),\\n\\t\\tprovide the typical range temperatureas in {} measured in celsius.\\n\\t\\tReturn only JSON with keys:\\n\\t\\t\\t- min_temperature (float)\\n\\t\\t\\t- max_temperature (float)\",\n      \"language_code\": \"en\"\n    }\n  ],\n  \"user_id\": \"d4814d5a-069f-4945-a6d6-4888316f8449\",\n  \"surface\": {\n    \"capabilities\": [\n      {\n        \"name\": \"actions.capability.SCREEN_OUTPUT\"\n      }\n    ],\n    \"input"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"1,500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"340\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"350\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"1800\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0.06, \"max_value\": 340.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"176\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"175\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.063\", \"max_value\": \"176\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"11000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"160000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"90\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.07\", \"max_value\": \"90\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 16000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2, \"max_value\": 1600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2, \"max_value\": 1600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 90.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2, \"max_value\": 90}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0.07, \"max_value\": 90.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.05\", \"max_value\": \"180\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 16000.0}"
+  }
+]

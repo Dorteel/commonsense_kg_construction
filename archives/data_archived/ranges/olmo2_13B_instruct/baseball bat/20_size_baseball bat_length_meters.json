@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.6, \"max_size\": 1.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.9, \"max_size\": 1.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.5\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.7\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.5\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.8\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.7\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.5, \"max_size\": 1.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.2\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.8, \"max_size\": 1.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.7\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.8\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.5, \"max_size\": 1.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.85, \"max_size\": 1.07}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"1.0\"}"
+  }
+]

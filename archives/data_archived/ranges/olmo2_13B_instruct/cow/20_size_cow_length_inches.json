@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 65.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"60\", \"max_size\": \"65\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"60\", \"max_size\": \"65\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48.0,\"max_size\": 78.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 78.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48.0, \"max_size\": 138.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 49.2, \"max_size\": 79.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"60\", \"max_size\": \"65\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 78.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 49.2, \"max_size\": 79.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60, \"max_size\": 65}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60, \"max_size\": 65}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60, \"max_size\": 65}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"60\", \"max_size\": \"65\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48.0, \"max_size\": 60.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48.0, \"max_size\": 96.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 1372, \"max_size\": 1440}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48.0, \"max_size\": 78.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48, \"max_size\": 138}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"60\", \"max_size\": \"65\"}"
+  }
+]

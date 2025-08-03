@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 50,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 40,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 40,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": -40,\n    \"max_temperature\": 150\n}\n```\nNote that the temperature range for a bottle is quite broad, as bottles can be used to store a wide variety of liquids with different temperature requirements. The minimum temperature is typically around -40 degrees Fahrenheit, while the maximum temperature is around 150 degrees Fahrenheit. However, it's important to note that storing liquids at extreme temperatures for an extended period of time can be damaging to both the bottle and the liquid inside, so it's generally not recommended to store drinks or other liquids at either end of this temperature range. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 50,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  }
+]

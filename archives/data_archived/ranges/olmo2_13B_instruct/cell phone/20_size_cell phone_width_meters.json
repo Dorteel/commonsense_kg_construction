@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.01, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"5000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"100\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.01, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\", \"max_size\": \"200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"10000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\",\"max_size\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"100\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"10000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"1000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"1\", \"max_size\": \"100\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"10000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.001\", \"max_size\": \"10000\"}"
+  }
+]

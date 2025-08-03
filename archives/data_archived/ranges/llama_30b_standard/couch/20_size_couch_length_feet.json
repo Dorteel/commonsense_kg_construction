@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 7, \"max_size\": 12}\n \t  \t  \t  \t  \t  \t  \t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6.5,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 4.0,\n\"max_size\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123\",\n  \"concept_id\": \"couch\",\n  \"context\": {\"location\": \"living_room\"},\n  \"intent\": \"query\",\n  \"inputs\": [\n    {\n      \"intent\": \"query\",\n      \"input_value\": \"size\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 7.5,\n  \"max_size\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 5,\n  \"max_size\" : 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 5, \"max_size\": 10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 8,\n  \"max_size\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3.5,\n  \"max_size\": 6.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3,\n  \"max_size\": 10\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2.0,\n  \"max_size\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.16666666666666666,\n  \"max_size\": 0.6666666666666666\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept\": \"couch\",\n  \"min_size\": 3,\n  \"max_size\": 7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2.0,\n  \"max_size\": 3.0,\n  \"default_size\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.5,\n  \"max_size\": 4.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2.0,\n  \"max_size\": 2.0\n}\n"
+  }
+]

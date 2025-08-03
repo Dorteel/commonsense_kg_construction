@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.02\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.05\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.05, \"max_size\": 1.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.001, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 60}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.02\", \"max_size\": \"0.3\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.05\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"0.7\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.00\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"0.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.02\", \"max_size\": \"0.6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"2.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"40.0\"}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 15,\n  \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 10,\n\"max\\_weight\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 10,\n\"max\\_weight\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 15,\n\"max\\_weight\": 30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 10,\n\"max\\_weight\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 10,\n  \"max_weight\": 45\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 3.5,\n  \"max_weight\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 10,\n\"max\\_weight\": 45\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 10,\n\"max\\_weight\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 15.0,\n  \"max_weight\": 35.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.2,\n  \"max_weight\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 8,\n\"max\\_weight\": 30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 10,\n   \"max_weight\": 40\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0.5,\n\"max\\_weight\": 40\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.3,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 40\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 10,\n  \"max_weight\": 50\n}\n``` "
+  }
+]

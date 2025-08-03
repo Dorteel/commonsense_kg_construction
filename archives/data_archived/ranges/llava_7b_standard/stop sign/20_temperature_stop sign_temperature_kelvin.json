@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 200,\n    \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 253,\n  \"max_temperature\": 296\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 273,\n   \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 250,\n   \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 273.15,\n   \"max_temperature\": 280.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 348\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 360\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 270,\n  \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 230,\n  \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 290,\n  \"max_temperature\": 340\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273.15,\n    \"max_temperature\": 283.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": -20,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 253,\n  \"max_temperature\": 290\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 270, // 1 degree Celsius\n    \"max_temperature\": 340 // 6 degrees Celsius\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 230,\n  \"max_temperature\": 298\n}\n```\nNote that the range of temperature for a stop sign is typically given in degrees Celsius, not Kelvin. However, since you requested the temperature in kelvin, I have converted the values to kelvin for your convenience. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 300,\n  \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273.15,\n    \"max_temperature\": 308.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 243,\n  \"max_temperature\": 308\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 250,\n    \"max_temperature\": 340\n}\n```\nNote that the temperature range provided here is a rough estimate and may not be accurate in all cases or locations. "
+  }
+]

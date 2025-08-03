@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1.0,\n  \"max_weight\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 0.0,\n    \"max_weight\": 100.0,\n    \"weight\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1,\n  \"max_weight\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 8.5,\n  \"max_weight\": 17.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 12.0,\n  \"max_weight\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0,\n  \"max_weight\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"user_id\": \"123\",\n    \"first_name\": \"John\",\n    \"last_name\": \"Doe\",\n    \"age\": 45,\n    \"user_type\": \"Premium\",\n    \"user_since\": 1551766000,\n    \"assistant_id\": \"456\",\n    \"assistant_name\": \"Jane\",\n    \"assistant_since\": 1551766000,\n    \"user_created_at\": 1551766000,\n    \"user_updated_at\": 1551766000\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": {\n    \"max\": 500,\n    \"min\": 100\n  },\n  \"max_weight\": {\n    \"max\": 500,\n    \"min\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"Given the concept of skis (which is narrow wood or metal or plastic runners used in pairs for gliding over snow), provide the typical range weightas in {} measured in ounces. Return only JSON with keys: - min_weight (float) - max_weight (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 4.0,\n  \"max_weight\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 1,\n    \"max_weight\": 42\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.0,\n  \"max_weight\": 10000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1.23, \"max_weight\": 3.45}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"concept\": \"skis\",\n  \"min_weight\": 10.0,\n  \"max_weight\": 1400.0,\n  \"domain\": \"sports\",\n  \"range\": \"snowboarding\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 2.0,\n  \"max_weight\": 2.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 3,\n  \"max_weight\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 11.97,\n    \"max_weight\": 16.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 12,\n  \"max_weight\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": \"1.0\",\n  \"max_weight\": \"1000.0\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "skis",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"skis\": {\n    \"min_weight\": 1,\n    \"max_weight\": 10,\n    \"units\": \"ounces\"\n  },\n  \"user_input\": {\n    \"skis\": {\n      \"min_weight\": 1,\n      \"max_weight\": 10\n    }\n  }\n}\n"
+  }
+]

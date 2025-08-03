@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.3,\n  \"max_size\": 0.7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\" : 0.1, \"max_size\" : 1 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 300.0,\n    \"max_size\": 350.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 0.1, \"max_size\": 0.5 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept_name\": \"laptop\",\n  \"min_size\": 0.6,\n  \"max_size\": 1.8,\n  \"unit\": \"meter\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.5,\n  \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 38.1,\n  \"max_size\": 38.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"6519c5a9-6f8c-4e73-9253-8f720d25948e\",\n  \"name\": \"Joe\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.5,\n  \"max_size\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.2,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.01,\n  \"max_size\": 0.1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\":0.1,\"max_size\":1.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.76,\n  \"max_size\": 17.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 2.0,\n  \"max_size\" : 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.001,\n  \"max_size\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"user_1\",\n  \"query\": \"what are the typical range sizes of a laptop\",\n  \"context\": {\n    \"query\": \"what is the typical range size of a laptop\",\n    \"user_id\": \"user_1\",\n    \"start_timestamp\": 1564355709.552056\n  },\n  \"metadata\": {\n    \"intent_name\": \"find_typical_range_size_of_laptop\",\n    \"query_text\": \"what are the typical range sizes of a laptop\",\n    \"webhook_used\": \"false\",\n    \"intent_id\": \"00000000-0000-0000-0000-000000000000\",\n    \"intent_name_confirmation\": \"find_typical_range_size_of_laptop\",\n    \"query_input\": \"what are the typical range sizes of a laptop\",\n    \"original_query\": \"what are the typical range sizes of a laptop\",\n    \"intent_name_suffix\": \"find_typical_range_size_of_laptop\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.5,\n  \"max_size\": 1.9\n}\n"
+  }
+]

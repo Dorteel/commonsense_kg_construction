@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 75\n}\n```\nNote that the size range for a refrigerator can vary depending on the specific model and brand. The above values are approximate and should be used as a general guideline. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 40,\n\"max\\_size\": 650\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 40,\n    \"max_size\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 30,\n  \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 40,\n  \"max_size\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 150,\n\"max\\_size\": 800\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 650\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 70,\n    \"max_size\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 40,\n  \"max\\_size\": 550\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 50,\n\"max\\_size\": 650\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 50.0,\n    \"max_size\": 200.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 30.0,\n    \"max_size\": 245.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 70,\n    \"max_size\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 100,\n\"max\\_size\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 40.0,\n    \"max_size\": 80.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 70,\n  \"max_size\": 900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "refrigerator",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 80\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 250,\n    \"max_size\": 400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150.0,\n  \"max_size\": 450.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200.0,\n  \"max_size\": 1000.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 220,\n  \"max_size\": 420\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 220,\n  \"max_size\": 400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 220,\n  \"max_size\": 420\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200.0,\n  \"max_size\": 600.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 700\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "handbag",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 700\n}"
+  }
+]

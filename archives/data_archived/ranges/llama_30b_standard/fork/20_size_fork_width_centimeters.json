@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 18.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.0,\n  \"max_size\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 11,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12,\n  \"max_size\": 22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 30.0,\n  \"min_weight\": 40.0,\n  \"max_weight\": 300.0,\n  \"min_length\": 150.0,\n  \"max_length\": 300.0,\n  \"min_width\": 20.0,\n  \"max_width\": 50.0,\n  \"min_height\": 20.0,\n  \"max_height\": 80.0,\n  \"max_capacity\": 10.0,\n  \"min_capacity\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.12,\n  \"max_size\": 0.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 0.0,\n  \"description\": \"The forks should be available in a range of 0 to 0 centimeters\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2.5,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0,\n    \"max_size\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 0.01,\n  \"max_size\" : 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.1,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.2,\n  \"max_size\": 5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fork",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 250\n}\n"
+  }
+]

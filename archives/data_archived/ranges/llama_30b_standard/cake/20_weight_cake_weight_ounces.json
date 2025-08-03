@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"999\",\n  \"assistant\": \"Lisa\",\n  \"max_weight\": 1200.0,\n  \"min_weight\": 700.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 12,\n  \"max_weight\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":13, \"max_weight\":15}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 15,\n  \"max_weight\": 20,\n  \"description\": \"A cake is usually a sweet food made from or based on a mixture of flour, sugar, eggs, and fat, and often baked in an oven. Cakes are usually served as a sweet dessert. Fruit cakes are also common. Cake is often served as a celebratory dish on ceremonial occasions, such as weddings, anniversaries, and birthdays. Cakes are usually decorated with icing, often in the form of icing flowers and other shapes. The first cakes were very different from what we eat today. The first cakes were more like breads. They were sweetened with honey. Cake is often the dessert of choice for meals at ceremonial occasions, such as anniversaries, weddings, and birthdays. There are cakes for many different occasions. Cakes can be classified according to the occasion for which they are intended. For example, wedding cakes, birthday cakes, cakes for a baby or bridal shower, cakes for Christmas or other holidays, cakes for a retirement party, and so forth. Cakes are often given as gifts. Cakes can be classified based on their ingredients. For example, fruit cakes and sponge cakes. Cakes are often given as gifts. The recipient of a gift of cake often sends a thank you note to the person who gave the cake. Cakes are usually sweet. Most cakes are sweet. However, savory cakes, such as the Cornish hay cake, virtually unique to Cornwall, also exist.<|im"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":18, \"max_weight\":28}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1, \"max_weight\": 10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"concept\": \"cake\",\n  \"min_weight\": 10,\n  \"max_weight\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 10,\n  \"max_weight\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 16,\n  \"max_weight\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 160,\n  \"max_weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1,\n  \"max_weight\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1,\n  \"max_weight\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 15,\n  \"max_weight\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 8,\n  \"max_weight\": 16\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 12,\n  \"max_weight\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 140.0,\n  \"max_weight\": 420.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0,\n  \"max_weight\": 5000000000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "cake",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 12,\n\"max_weight\": 5000\n}\n"
+  }
+]

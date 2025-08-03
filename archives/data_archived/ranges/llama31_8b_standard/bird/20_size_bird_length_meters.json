@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 100.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.10,\n  \"max_size\": 3.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.0,\n  \"max_size\": 1.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.0,\n  \"max_size\": 100.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.09,\n  \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.2,\n  \"max_size\": 1.8\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.2,\n    \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.15,\n  \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.15,\n    \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.08,\n  \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.15,\n  \"max_size\": 3\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 130\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.0,\n  \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.15,\n  \"max_size\": 1.8\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.12,\n  \"max_size\": 7\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 150.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 9.0,\n  \"max_size\": 107\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 140\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.09,\n  \"max_size\": 3.5\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.1,\n  \"max_size\": 3.2\n}"
+  }
+]

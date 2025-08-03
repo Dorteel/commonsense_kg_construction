@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 1400\n}\n```\nNote that the typical range size for a baseball bat can vary depending on the material and design, but this JSON provides a common range of sizes measured in millimeters. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 500,\n   \"max_size\": 690\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 270,\n\"max\\_size\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 0,\n  \"max\\_size\": 3000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 700\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 600,\n  \"max_size\": 915\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 78000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 600,\n  \"max_size\": 735\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2700,\n  \"max_size\": 3450\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2700,\n  \"max_size\": 3500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 500,\n    \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 280,\n  \"max_size\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 300,\n\"max\\_size\": 900\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 800,\n    \"max_size\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 280,\n\"max\\_size\": 915\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 275,\n    \"max_size\": 360\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 275,\n  \"max_size\": 345\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 450,\n  \"max_size\": 900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2800,\n  \"max_size\": 3450\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.250,\n\"max\\_size\": 1.000\n} "
+  }
+]

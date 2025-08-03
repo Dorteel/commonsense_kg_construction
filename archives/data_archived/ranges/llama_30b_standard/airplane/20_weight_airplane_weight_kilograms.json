@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 5.5,\n  \"max_weight\": 1300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 40000.0,\n  \"max_weight\": 60000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"min_weight\": 43000.0, \"max_weight\": 180000.0 }\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.0,\n  \"max_weight\": 1000000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1000,\n  \"max_weight\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 1000.0,\n    \"max_weight\": 10000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"concept\": {\n    \"name\": \"airplane\"\n  },\n  \"min_weight\": 20000,\n  \"max_weight\": 2000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1200,\n  \"max_weight\": 5000,\n  \"weight_range\": \"between 1200 and 5000 kilograms\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1000, \"max_weight\": 2000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 11000,\n  \"max_weight\": 55000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 500,\n  \"max_weight\": 3000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 0.0,\n    \"max_weight\": 99999999999.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1000.0,\n  \"max_weight\": 10000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 18000,\n  \"max_weight\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.0,\n  \"max_weight\": 10000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"airplane\": {\n    \"min_weight\": 15000,\n    \"max_weight\": 10000000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 10000, \"max_weight\": 450000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 4000,\n  \"max_weight\": 12000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 25000.0,\n  \"max_weight\": 290000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": \"45000\",\n  \"max_weight\": \"110000\"\n}\n"
+  }
+]

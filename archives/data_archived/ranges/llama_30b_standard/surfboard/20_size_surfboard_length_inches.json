@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"96\",\n  \"max_size\": \"108\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 72,\n  \"max_size\": 84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 5.7, \"max_size\": 12}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"max_size\":\"44.0\",\"min_size\":\"9.0\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 32, \"max_size\": 120}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 58.0,\n  \"max_size\": 61.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"40\", \"max_size\": \"96\"}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 7\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 60,\n  \"max_size\" : 84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 1,\n  \"max_size\" : 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 4,\n    \"max_size\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"min_size\": 7,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 48, \"max_size\": 60}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 53,\n  \"max_size\": 96\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 42,\n  \"max_size\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 55, \"max_size\": 95 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 70.0,\n  \"max_size\": 100.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 12\n}\n"
+  }
+]

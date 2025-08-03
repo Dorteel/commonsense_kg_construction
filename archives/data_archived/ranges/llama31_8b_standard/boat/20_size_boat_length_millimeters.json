@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 60000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200.00,\n  \"max_size\": 380000.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 60000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 50000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3000.0,\n  \"max_size\": 120000.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 800,\n  \"max_size\": 20000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2000,\n  \"max_size\": 60000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 3000,\n    \"max_size\": 20000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 15000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1800,\n  \"max_size\": 260000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500.00,\n  \"max_size\": 1000000.00\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5000,\n  \"max_size\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2000.0,\n  \"max_size\": 200000.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2000,\n  \"max_size\": 16000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 15000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2000,\n  \"max_size\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5000,\n  \"max_size\": 10000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 12000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6000,\n  \"max_size\": 600000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6000,\n  \"max_size\": 20000\n}"
+  }
+]

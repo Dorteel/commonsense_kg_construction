@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0.5,\n\"max\\_value\": 20.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 1.99,\n    \"max_value\": 250.00\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 5,\n    \"max_value\": 100\n}\n```\nNote that the actual range of knife prices can vary widely and is dependent on factors such as brand, material, size, and purpose. The values provided are just an estimate and should not be taken as definitive. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 200\n}\n``` "
+  }
+]

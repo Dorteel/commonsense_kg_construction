@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"30\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"14\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"not applicable\", \"max_size\": \"not applicable\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"5.0\", \"max_size\": \"30.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"not_applicable\", \"max_size\": \"not_applicable\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"25\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"25\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"60\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10.16\", \"max_size\": \"15.24\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"5.00\", \"max_size\": \"60.00\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"4.5\", \"max_size\": \"30\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"25\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"3.5\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"not_set\", \"max_size\": \"not_set\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"13\", \"max_size\": \"25\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"not_set\", \"max_size\": \"not_set\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"2.5\", \"max_size\": \"70\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"30\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"5.00\", \"max_size\": \"30.00\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10.16\", \"max_size\": \"30.48\"}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32,\n  \"max_temperature\": 95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 1,\n  \"max_temperature\": 1\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 50.0,\n  \"max_temperature\": 95.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 35,\n    \"max_temperature\": 45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": -50,\n  \"max_temperature\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Sarah\",\n  \"age\": 27,\n  \"job\": \"Secretary\",\n  \"favorite_food\": \"Pizza\",\n  \"favorite_color\": \"Red\",\n  \"married\": true,\n  \"pets\": [\n    {\n      \"name\": \"Fido\",\n      \"type\": \"Dog\"\n    },\n    {\n      \"name\": \"Lucky\",\n      \"type\": \"Cat\"\n    }\n  ]\n}\n \t \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 11.1,\n  \"max_temperature\": 37.8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"concept_name\": \"toothbrush\",\n\"min_temperature\": 20,\n\"max_temperature\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 34.4,\n  \"max_temperature\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\":15.56,\"max_temperature\":25.56}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0.00, \"max_temperature\": 100.00}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 50,\n  \"max_temperature\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 15, \"max_temperature\": 30}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 6,\n  \"max_temperature\": 13\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"40\", \"max_temperature\": \"80\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 4,\n\"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 50\n}\n"
+  }
+]

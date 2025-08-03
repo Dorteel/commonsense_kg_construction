@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 35.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 30.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 4,\n  \"max_temperature\": 35\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 35\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 5.0,\n    \"max_temperature\": 25.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 70\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 40\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 25.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 30.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 10.0,\n    \"max_temperature\": 38.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 35.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 4,\n  \"max_temperature\": 38\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 45.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 15.0,\n    \"max_temperature\": 45.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 38\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 10,\n    \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 38.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 4.0,\n  \"max_temperature\": 30.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 45.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sink",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 5,\n    \"max_temperature\": 35\n}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3000.0, \"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 1200.0,\"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 20, \"max_size\": 40}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 600.0, \"max_size\": 1200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 600.0, \"max_size\": 800.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 1200, \"max_size\": 3000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 1.5, \"max_size\": 4.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"3000\", \"max_size\": \"7500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"6000\", \"max_size\": \"7000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"4000\", \"max_size\": \"7000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 2500.0, \"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"2000\", \"max_size\": \"3000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"3000\", \"max_size\": \"7000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"700\", \"max_size\": \"800\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"4000\", \"max_size\": \"7000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 1200, \"max_size\": 3000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"5000\", \"max_size\": \"7000\"}"
+  }
+]

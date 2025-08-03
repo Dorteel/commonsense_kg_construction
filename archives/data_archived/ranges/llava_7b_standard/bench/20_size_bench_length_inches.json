@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 48,\n    \"max_size\": 96\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 60.0,\n\"max\\_size\": 96.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 60.0,\n\"max\\_size\": 96.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 60,\n\"max\\_size\": 96\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 96\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 48,\n  \"max_size\": 72\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 30,\n  \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 96\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 10.0,\n  \"max\\_size\": 60.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.0,\n\"max\\_size\": 64.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 48,\n  \"max_size\": 72\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 48,\n  \"max_size\": 96\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 48,\n    \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 60,\n    \"max_size\": 96\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 180\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 120\n}\n```\nNote that the typical range size for a bench can vary greatly depending on the specific type of bench and its intended use. The values provided here are just a general estimate and should not be considered definitive. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 60.0,\n    \"max_size\": 96.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bench",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 6,\n  \"max_size\": 12\n}\n``` "
+  }
+]

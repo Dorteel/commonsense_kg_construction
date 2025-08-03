@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"5000\", \"max_value\": \"100000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 60.0000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5000, \"max_value\": 120000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 60.0000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"4500\", \"max_value\": \"60,000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5000, \"max_value\": 100000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0,\"max_value\": 30.000000000000004}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5000, \"max_value\": 120000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 60.0000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"5000\", \"max_value\": \"150000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5000, \"max_value\": 120000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"4500\", \"max_value\": \"8500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 3.5, \"max_value\": 15.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 15, \"max_value\": 60}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 15.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10, \"max_value\": 25}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 60.000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0\", \"max_value\": \"60_000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"4500\", \"max_value\": \"8500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bus",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"5000\", \"max_value\": \"60,000\"}"
+  }
+]

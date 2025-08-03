@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 293.15,\n    \"max_temperature\": 308.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 293,\n  \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 320.15,\n  \"max\\_temperature\": 650.429\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 373\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 25\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273,\n  \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0.15,\n    \"max_temperature\": 373.2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 290,\n  \"max_temperature\": 375\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 293.15,\n  \"max_temperature\": 400.0\n}\n```\nNote: The above range is typical for most glass or plastic bottles used for storing drinks or other liquids at room temperature. However, for specific types of bottles and their contents, the acceptable temperature range may vary. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 373.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n```\n\nNote: The range provided is typical for storing most drinks in a bottle. However, some beverages may have specific storage requirements that differ from this range. Additionally, the actual temperature range of a bottle can vary depending on the materials used and how it is stored or transported. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 423.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 45\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 373.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273,\n  \"max_temperature\": 350\n}\n``` "
+  }
+]

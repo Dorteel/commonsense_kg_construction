@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 1,\n    \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.5,\n  \"max_weight\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 1,\n    \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1.0,\n  \"max_weight\": 20.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 35\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 1,\n    \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0.2,\n   \"max_weight\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "oven",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 25\n}\n``` "
+  }
+]

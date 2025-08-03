@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"min_size\": 0.01, \"max_size\": 0.02 }\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.71,\n  \"max_size\": 1.22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.7,\n  \"max_size\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.61,\n  \"max_size\": 1.22\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 65,\n  \"max_size\": 98\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1.0,\n    \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"min_size\": 0.25,\n\"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 800,\n  \"max_size\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.33,\n  \"max_size\": 0.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.60, \"max_size\": 1.10}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_input\": \"What's the typical size of a baseball bat measured in meters?\",\n  \"concept\": \"baseball bat\",\n  \"intent\": \"action.intent.PERFORM_ACTION\",\n  \"slots\": {\n    \"range_size_min_size\": \"min_size\",\n    \"range_size_max_size\": \"max_size\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.1,\n  \"max_size\": 0.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.8125,\n  \"max_size\": 0.8125\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.6,\n  \"max_size\": 1.2,\n  \"type\": \"range\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n\"min_size\": 60.00,\n\"max_size\": 90.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.4,\n    \"max_size\": 0.6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.75,\n  \"max_size\": 1.25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 10.0,\n    \"max_size\": 12.0\n}\n"
+  }
+]

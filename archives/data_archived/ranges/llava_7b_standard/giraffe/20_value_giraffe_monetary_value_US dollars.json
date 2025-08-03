@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 10000000\n}\n```\nNote that the typical range of a giraffe's height is between 0 and 10000000 dollars, but in reality it would be much lower than this. This is because the value of a giraffe is not something that can be measured or quantified in monetary terms. The above JSON is simply an example of how you could represent a concept like \"giraffe\" with a range value in JSON format. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n  \"min\\_value\": 0,\n  \"max\\_value\": 100000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500000\n}\n```\nNote that the range value for a concept like giraffe is highly subjective and can vary greatly depending on the context in which it is used or the purpose of the estimation. The values provided here are purely arbitrary and should not be taken as accurate or reliable. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 10000\n}\n```\nNote that the range value for a concept like giraffe is subjective and can vary depending on the context. The min\\_value of 0 represents the lower bound of the concept's relevance, while the max\\_value of 10000 represents an upper bound that is likely to be much higher in reality but is capped here for illustrative purposes. In a real-world application, the range value would need to be determined based on the specific use case and data sources available. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 5\n}\n```\nNote: This is a rough estimate and the actual range can vary. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 10000000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 250000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 10000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 250000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 5000\n}\n```\nNote that the range value for a concept like giraffe is highly subjective and can vary greatly depending on the context. The values provided here are purely arbitrary and should not be taken as accurate or authoritative in any way. "
+  }
+]

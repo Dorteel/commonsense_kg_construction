@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 0,\n  \"max_size\" : 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 5.0,\n    \"max_size\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 30,\n  \"key_3\": \"value_3\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"26.5\",\n  \"max_size\": \"27\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"min_size\": 12,\n\"max_size\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"a220e469-4c92-446a-a92c-f041f98f5b52\",\n  \"user_name\": \"Gavin\",\n  \"user_description\": \"This is my description\",\n  \"user_type\": \"assistant\",\n  \"user_image\": \"http://www.assistyx.com/assistant/avatar.png\",\n  \"user_key\": \"c30f1621-e0f6-422e-bfd1-55c281b4c6df\",\n  \"user_email\": \"gavin@assistyx.com\",\n  \"user_phone\": \"4122132134\",\n  \"user_role\": \"assistant\",\n  \"user_status\": \"active\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.25,\n  \"max_size\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 18.0, \"max_size\": 30.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 40,\n  \"avg_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"min_size\": 30.0, \"max_size\": 120.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 24.0, \"max_size\": 30.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.1,\n    \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 30, \"max_size\": 300}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"min_size\": 1,\n\"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.0,\n  \"max_size\": 31.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"min_size\": 12, \"max_size\": 12 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "kite",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"concept_id\" : \"kite\",\n  \"min_size\" : 10,\n  \"max_size\" : 20\n}\n"
+  }
+]

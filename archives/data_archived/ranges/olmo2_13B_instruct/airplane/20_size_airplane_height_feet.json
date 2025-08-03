@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"5000\", \"max_size\": \"500,000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 15.0, \"max_size\": 600.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 500.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 50000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 28.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"20\", \"max_size\": \"600\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 600.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 43.3, \"max_size\": 50000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 27.89, \"max_size\": 600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 15.0, \"max_size\": 6000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 600.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"50\", \"max_size\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"30\", \"max_size\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 22.056, \"max_size\": 600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"60\", \"max_size\": \"400\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 18.0,\"max_size\": 550.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 500.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20.0, \"max_size\": 300.000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1200.0, \"max_size\": 600000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 23.0, \"max_size\": 500.0}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 1000,\n    \"max_value\": 4000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0, \"max_value\": 2000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 250,\n    \"max_value\": 5000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 500,\n  \"max_value\": 1200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 50000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 200.0,\n  \"max_value\": 2000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"name\": \"HAL 9000\",\n  \"type\": \"assistant\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1200,\n  \"max_value\": 4500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 200,\n  \"max_value\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 399.0,\n  \"max_value\": 2800.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0.0, \"max_value\":120000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"min_value\": 50, \"max_value\": 20000 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the concept of laptop (which is a portable computer small enough to use in your lap), provide the typical range value as in {} measured in euros.\\nReturn only JSON with keys: \\n - min_value (float) \\n - max_value (float)\",\n  \"accepted_answers\": [\n    \"{\\n  \\\"question\\\": \\\"Given the concept of laptop (which is a portable computer small enough to use in your lap), provide the typical range value as in {} measured in euros.\\\\nReturn only JSON with keys: \\n - min_value (float) \\n - max_value (float)\\\",\\n  \\\"answer\\\": \\\"{\\\\\\\"min_value\\\\\\\": 0.0, \\\\\\\"max_value\\\\\\\": 100000.0}\\\"\\n}\"\n  ],\n  \"rejected_answers\": [],\n  \"correct_answers\": [\n    \"{\\n  \\\"question\\\": \\\"Given the concept of laptop (which is a portable computer small enough to use in your lap), provide the typical range value as in {} measured in euros.\\\\nReturn only JSON with keys: \\n - min_value (float) \\n - max_value (float)\\\",\\n  \\\"answer\\\": \\\"{\\\\\\\"min_value\\\\\\\": 0.0, \\\\\\\"max_value\\\\\\\": 100000.0}\\\"\\n}\"\n  ],\n  \"weighted_score\": 0.0,\n  \"created_at\": \"2018-01-16T20:13:43.188Z\",\n  \"updated_at\": \"2018-01-16"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"max_value\": 1000.0, \"min_value\": 500.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 200.00, \"max_value\": 4000.00}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"min_value\": 200,\n  \"max_value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 250.0,\n  \"max_value\": 2200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 300,\n  \"max_value\": 1500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "laptop",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 350, \"max_value\": 2500}\n"
+  }
+]

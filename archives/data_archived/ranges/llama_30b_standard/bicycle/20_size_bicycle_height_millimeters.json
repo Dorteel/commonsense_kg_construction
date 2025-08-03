@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"min_size\": 20, \"max_size\": 40 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user\": \"user@example.com\",\n  \"input\": \"Given the concept of bicycle (which is a wheeled vehicle that has two wheels and is moved by foot pedals), provide the typical range size as in {} measured in millimeters. Return only JSON with keys: \\n- min_size (float) \\n- max_size (float)\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\":400000, \"max_size\":800000, \"min_depth\":1000, \"max_depth\":2000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 60,\n  \"max_size\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.001,\n  \"max_size\": 0.002\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"name\" : \"Bike\",\n    \"children\" : [\n      {\n        \"name\" : \"Bicycle\",\n        \"children\" : [\n          {\n            \"name\" : \"BMX\",\n            \"children\" : [\n              {\n                \"name\" : \"BMX Freestyle\",\n                \"children\" : [\n                  {\n                    \"name\" : \"BMX Freestyle Flatland\",\n                    \"children\" : [\n                    ]\n                  },\n                  {\n                    \"name\" : \"BMX Freestyle Park\",\n                    \"children\" : [\n                    ]\n                  },\n                  {\n                    \"name\" : \"BMX Freestyle Dirt\",\n                    \"children\" : [\n                    ]\n                  }\n                ]\n              },\n              {\n                \"name\" : \"BMX Freestyle Street\",\n                \"children\" : [\n                ]\n              }\n            ]\n          },\n          {\n            \"name\" : \"Mountain Bike\",\n            \"children\" : [\n              {\n                \"name\" : \"Mountain Bike All-mountain\",\n                \"children\" : [\n                ]\n              },\n              {\n                \"name\" : \"Mountain Bike Freeride\",\n                \"children\" : [\n                ]\n              },\n              {\n                \"name\" : \"Mountain Bike Downhill\",\n                \"children\" : [\n                ]\n              },\n              {\n                \"name\" : \"Mountain Bike Cross-country\",\n                \"children\" : [\n                ]"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 130.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 112,\n  \"max_size\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1200.0,\n  \"max_size\": 2400.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 230,\n  \"max_size\": 280\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 23,\n  \"max_size\": 27\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 240.00,\n  \"max_size\": 350.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 120,\n  \"max_size\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200.0,\n  \"max_size\": 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 740,\n  \"max_size\": 800\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 700,\n  \"max_size\": 1400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"Bobby\",\n  \"gender\": \"male\",\n  \"age\": 22,\n  \"description\": \"Bobby is a very nice boy.\",\n  \"city\": \"Melbourne\",\n  \"country\": \"Australia\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 650\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1400,\n  \"max_size\": 2000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 25000.0\n}\n"
+  }
+]

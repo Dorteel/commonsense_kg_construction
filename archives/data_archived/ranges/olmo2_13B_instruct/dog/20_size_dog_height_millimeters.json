@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 120}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1500, \"max_size\": 9000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 15000, \"max_size\": 16000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 15000.0, \"max_size\": 70000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"1500\", \"max_size\": \"9000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 10000, \"max_size\": 100000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1500.0, \"max_size\": 3000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 12000.0, \"max_size\": 80000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1500, \"max_size\": 9000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 320.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 130}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 130}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1500, \"max_size\": 9000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 1000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"1600.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 120.0, \"max_size\": 163.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1200, \"max_size\": 1500}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 85, \"max_size\": 130}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"1500\", \"max_size\": \"9000\"}"
+  }
+]

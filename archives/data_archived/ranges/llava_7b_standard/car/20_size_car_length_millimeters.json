@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2500,\n  \"max_size\": 7000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 1500,\n\"max\\_size\": 2000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 1600000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 300,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 5000000 // Approximate length in millimeters of the largest cars\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 2500,\n    \"max_size\": 500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 1200,\n   \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 150,\n\"max\\_size\": 230\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 3000,\n  \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 4996000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2000,\n  \"max_size\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2000,\n  \"max_size\": 500000\n}\n```\nNote: The range provided is a rough estimate and may vary based on the specific type of car. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 3000,\n\"max\\_size\": 5000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 1500,\n\"max\\_size\": 2500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 1650000\n} "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1450,\n  \"max_size\": 1750\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 2500,\n    \"max_size\": 3800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 120,\n  \"max_size\": 220\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1400,\n  \"max_size\": 2100\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1250,\n  \"max_size\": 1550\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 150\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1800,\n  \"max_size\": 2400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1700,\n  \"max_size\": 2300\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1350,\n  \"max_size\": 2100\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 3500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1600,\n  \"max_size\": 3100\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 3500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 2300\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1500,\n    \"max_size\": 3200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1300,\n  \"max_size\": 1400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1500,\n  \"max_size\": 25000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1300,\n  \"max_size\": 1700\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1800,\n  \"max_size\": 3200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1800,\n    \"max_size\": 3200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 420\n}"
+  }
+]

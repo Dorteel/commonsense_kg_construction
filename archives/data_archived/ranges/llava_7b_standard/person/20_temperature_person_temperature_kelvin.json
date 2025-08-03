@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 373.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 250,\n\"max\\_temperature\": 310\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 373.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250, // Kelvin\n  \"max_temperature\": 310 // Kelvin\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 373\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 300,\n  \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 255,\n    \"max_temperature\": 310\n}\n```\nNote: The values provided are approximate and may vary depending on the source of information. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 42369\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273.15,\n    \"max_temperature\": 373.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 373.1529\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 100,\n    \"max_temperature\": 373\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 300,\n   \"max_temperature\": 370\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 373\n}\n```\nNote: These values are based on the typical range of body temperature in humans and do not reflect extreme conditions that a person may experience. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 0.0,\n   \"max_temperature\": 42.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -273.15,\n  \"max_temperature\": 310.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 300,\n    \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 310.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0.273,\n    \"max_temperature\": 310.685\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 300,\n  \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 373.15\n}\n``` "
+  }
+]

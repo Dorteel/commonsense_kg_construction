@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n```\nNote that the range value for a cell phone is typically measured in euros and can range from 0 to around 1500 euros, depending on the specific model and features. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 2000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n```\nNote: The range value for cell phones is not measured in euros. Instead, it is typically measured in meters or kilometers, depending on the network technology and regulations. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 2000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1500\n}\n``` "
+  }
+]

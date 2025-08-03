@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 3.0, \"max_weight\": 8.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3.5\", \"max_weight\": \"8\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3.5\", \"max_weight\": \"6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2.0\", \"max_weight\": \"6.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3\", \"max_weight\": \"6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"0.5\", \"max_weight\": \"1\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2\", \"max_weight\": \"8\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3\", \"max_weight\": \"8\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"1.5\", \"max_weight\": \"6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3.5\", \"max_weight\": \"6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"1.5\", \"max_weight\": \"8.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 2.0, \"max_weight\": 8.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3.0\", \"max_weight\": \"8.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"less than 8 ounces\", \"max_weight\": \"less than 16 ounces\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2\", \"max_weight\": \"10\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2\", \"max_weight\": \"6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2.0\", \"max_weight\": \"8.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"less than 8\", \"max_weight\": \"less than 16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2\", \"max_weight\": \"6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "scissors",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"less than 6\", \"max_weight\": \"more than 12\"}"
+  }
+]

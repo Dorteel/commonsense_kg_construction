@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 50,\n    \"max_size\": 102\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 25,\n    \"max_size\": 104\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 2.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10.0,\n    \"max_size\": 165.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 20.0,\n  \"max_size\": 75.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 30,\n  \"max_size\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 15,\n  \"max_size\": 84\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 50,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 162\n}\n```\nNote that the typical range for a keyboard is between 0 and 162 centimeters. This includes both regular keyboards (which are typically around 100-130 centimeters wide) and specialty keyboards or ones designed for use with specific instruments (such as organ keyboards, which can be much longer). The range provided here is quite broad to account for this variation. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 20.3,\n  \"max_size\": 101.9\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10,\n    \"max_size\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 20.0,\n    \"max_size\": 100.0\n}\n```\nNote that this is a rough estimate and actual sizes may vary. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 15.0,\n  \"max_size\": 30.0\n}\n``` "
+  }
+]

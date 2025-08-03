@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"2.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"1.0\", \"max_size\": \"2.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.7\", \"max_size\": \"2.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 25.4, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 15.24, \"max_size\": 106.68}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"n/a\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 35.56, \"max_size\": 200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"2\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.3\", \"max_size\": \"3\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.15, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.16, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 37.5, \"max_size\": 150}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"2\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.1\", \"max_size\": \"2.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 32.0, \"max_size\": 100.0000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.6\", \"max_size\": \"3\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 15.24, \"max_size\": 1000.00}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"1.0\", \"max_size\": \"2.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 32.0, \"max_size\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"0.15\", \"max_size\": \"2.5\"}"
+  }
+]

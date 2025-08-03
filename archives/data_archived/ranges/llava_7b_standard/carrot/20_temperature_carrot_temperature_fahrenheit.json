@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 60,\n    \"max_temperature\": 75\n}\n```\nNote: The typical range for carrot cultivation is generally between 60°F and 75°F. However, it's important to keep in mind that these temperatures are just a general guideline and can vary depending on the specific variety of carrot and local growing conditions. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 60,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 60,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 68\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 25,\n    \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 18.0,\n    \"max_temperature\": 68.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 15.0,\n  \"max_temperature\": 75.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 35,\n\"max\\_temperature\": 70\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 30,\n  \"max_temperature\": 65\n}\n``` "
+  }
+]

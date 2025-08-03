@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$0.25\",\n  \"max_value\": \"$1\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$20\",\n  \"max_value\": \"$50\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$200\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$3,000\"\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$10,000\",\n  \"max_value\": \"$50,000\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.0,\n  \"max_value\": 25000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$500\",\n  \"max_value\": \"$1000\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$200\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$200\"\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$500\",\n  \"max_value\": \"$1,500\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$100\",\n  \"max_value\": \"$200\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$2,000\"\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$0.1\",\n  \"max_value\": \"$2\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$10\",\n  \"max_value\": \"$20\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 50.0,\n  \"max_value\": 20000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$100\",\n  \"max_value\": \"$200\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 50.0,\n  \"max_value\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$150\",\n  \"max_value\": \"$300\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "microwave",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$10\",\n  \"max_value\": \"$25\"\n}\n```"
+  }
+]

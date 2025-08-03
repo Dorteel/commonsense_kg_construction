@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"question\": \"Given the concept of surfboard (which is a narrow buoyant board for riding surf), provide the typical range sizeas in {} measured in feet. Return only JSON with keys:  - min_size (float)  - max_size (float)\",\n  \"source\": \"CYC\",\n  \"answer\": {\n    \"min_size\": 3.0,\n    \"max_size\": 15.0\n  },\n  \"source_context\": \"CYC\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 9\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.5,\n  \"max_size\": 9.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Aaron\",\n  \"age\": 20,\n  \"height\": 6,\n  \"weight\": 170\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":0.8, \"max_size\":1.8}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.0,\n  \"max_size\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 8,\n  \"max_size\": 12,\n  \"type\": \"surfboard\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 12,\n  \"valid_range\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"min_size\": 6.0,\n    \"max_size\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"concept\": \"surfboard\",\n    \"domain\": \"surfing\",\n    \"min_size\": 7.0,\n    \"max_size\": 11.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"5\",\n  \"max_size\": \"10\",\n  \"description\": \"A narrow buoyant board for riding surf. It is usually shorter than a longboard, with a pointed nose and tails, and generally features one or more fins.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 7.0,\n  \"max_size\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6.0,\n  \"max_size\": 12.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\":1, \"max_size\":12}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.5,\n  \"max_size\": 12.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "surfboard",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6.5,\n  \"max_size\": 9\n}\n"
+  }
+]

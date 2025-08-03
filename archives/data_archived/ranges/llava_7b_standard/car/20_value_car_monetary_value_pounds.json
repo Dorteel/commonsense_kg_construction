@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1500,\n  \"max_value\": 4000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1500,\n  \"max_value\": 3500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 2500,\n   \"max_value\": 4000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 2500,\n  \"max_value\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 2000,\n\"max\\_value\": 5000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 2000,\n   \"max_value\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 2500,\n    \"max_value\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n  \"min\\_value\": 2500,\n  \"max\\_value\": 5000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 2500,\n   \"max_value\": 4000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1000,\n  \"max_value\": 4000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 2000,\n  \"max_value\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 2000,\n    \"max_value\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1000,\n  \"max_value\": 4000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 1500,\n\"max\\_value\": 4500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 3000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 2500,\n    \"max_value\": 4500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1000,\n  \"max_value\": 4000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 2500,\n  \"max_value\": 6000\n}\n``` "
+  }
+]

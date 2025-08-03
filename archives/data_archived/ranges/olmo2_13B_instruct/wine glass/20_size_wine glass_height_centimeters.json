@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"12\", \"max_size\": \"18\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"7\", \"max_size\": \"10\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 12.7, \"max_size\": 20.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"8\", \"max_size\": \"10\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"8\", \"max_size\": \"12\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"8\", \"max_size\": \"12\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"5\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 7.5, \"max_size\": 20}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 8.0, \"max_size\": 12.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"5\", \"max_size\": \"30\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"8\", \"max_size\": \"11\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"7\", \"max_size\": \"10\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"20.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"25\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 150, \"max_size\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 20.0}"
+  }
+]

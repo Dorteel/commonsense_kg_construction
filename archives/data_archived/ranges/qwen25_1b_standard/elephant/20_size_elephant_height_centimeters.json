@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 300\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 310\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 150,\n    \"max_size\": 220\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 130,\n  \"max_size\": 200\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 340.0,\n  \"max_size\": 1275.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50,\n  \"max_size\": 140\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 130,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 120.0,\n  \"max_size\": 250.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 190.0,\n  \"max_size\": 240.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 130,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 250.0,\n  \"max_size\": 310.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 405.0,\n  \"max_size\": 610.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 160.5,\n    \"max_size\": 248.5\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150.0,\n  \"max_size\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 200,\n  \"max_size\": 1500\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 140,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 140.0,\n  \"max_size\": 235.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 125,\n  \"max_size\": 180\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 175.0,\n  \"max_size\": 220.0\n}"
+  }
+]

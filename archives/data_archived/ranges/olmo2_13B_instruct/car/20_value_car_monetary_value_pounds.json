@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 15000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1500.0, \"max_value\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000, \"max_value\": 10000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000, \"max_value\": 5000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000, \"max_value\": 10000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 9000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000, \"max_value\": 10000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1500, \"max_value\": 9000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1500, \"max_value\": 15000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 9000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 15000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.0\", \"max_value\": \"15000.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000, \"max_value\": 5000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000.0, \"max_value\": 8000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1500, \"max_value\": 10000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1000, \"max_value\": 100000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "car",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"2000\", \"max_value\": \"8000\"}"
+  }
+]

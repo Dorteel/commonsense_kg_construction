@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n```\nNote that the range of 0 to 500 euros for a chair is a rough estimate and can vary based on factors such as materials used, craftsmanship, design, and brand. Additionally, this range does not include any additional costs such as tax or shipping. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 20,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 20,\n    \"max_value\": 400\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 15,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 15.0,\n  \"max_value\": 200.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 500\n} "
+  }
+]

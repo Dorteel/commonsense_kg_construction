@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 35,\n\"max_temperature\": 95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 50.0,\n\"max_temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 40,\n  \"max_temperature\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"sportsball\": {\n    \"min_temperature\": 30,\n    \"max_temperature\": 100\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 18.0,\n  \"max_temperature\": 110.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Doe\",\n  \"age\": 24,\n  \"city\": \"New York\",\n  \"employer\": \"Google\",\n  \"marital_status\": \"single\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 30,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 100,\n  \"max_temperature\" : 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{ \"min_temperature\": 20.0, \"max_temperature\": 130.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 30,\n  \"max_temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0.0, \"max_temperature\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"sports ball\",\n  \"range\": {\n    \"min_temperature\": 18.9,\n    \"max_temperature\": 29.4\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 50,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": {\n    \"type\": \"float\",\n    \"value\": 20.0\n  },\n  \"max_temperature\": {\n    \"type\": \"float\",\n    \"value\": 100.0\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 40,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"sports ball\",\n  \"min_temperature\": 40.0,\n  \"max_temperature\": 95.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"concept\": \"sports ball\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sports ball",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 21,\n  \"max_temperature\": 103\n}\n"
+  }
+]

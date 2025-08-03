@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 35\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 0,\n   \"max_temperature\": 35\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 273,\n   \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": {\n    \"unit\": \"K\",\n    \"value\": 273.15\n  },\n  \"max_temperature\": {\n    \"unit\": \"K\",\n    \"value\": 310.15\n  }\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0.65,\n\"max\\_temperature\": 19.4\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 300,\n  \"max_temperature\": 450\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0.273,\n    \"max_temperature\": 25.328\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 100,\n\"max\\_temperature\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 340.05\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 100,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 35\n}\n```\nNote that this is a rough estimate and the actual range can vary depending on the specific breed and location. The temperature range for sheep is typically considered to be around 10-35 degrees Celsius, which is equivalent to approximately 280-365 Kelvin. However, sheep are adaptable and can tolerate a wide range of temperatures, from freezing conditions to hot summer days. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 210.5,\n    \"max_temperature\": 310.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 273.15,\n  \"max\\_temperature\": 340.00\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 280,\n    \"max_temperature\": 350\n}\n```\nNote: The temperature range for sheep is typically between 280 K (10 degrees Celsius) and 350 K (678 degrees Fahrenheit). "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "sheep",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 350\n}\n``` "
+  }
+]

@@ -136,15 +136,6 @@ def semantic_analysis(responses):
                 for word in words:
                     unmatched_counter[word] += 1
 
-        # Logging stats
-        # total_unmatched = sum(unmatched_counter.values())
-        # unique_unmatched = len(unmatched_counter)
-        # if total_unmatched:
-        #     logger.info(f"[{base}] Total unmatched entries: {total_unmatched}")
-        #     logger.info(f"[{base}] Unique unmatched entries: {unique_unmatched}")
-        #     top_unmatched = unmatched_counter.most_common(10)
-        #     logger.info(f"[{base}] Top unmatched tokens: {top_unmatched}")
-
         return sorted(cleaned)
 
 
@@ -200,6 +191,7 @@ def semantic_analysis(responses):
             return unwrap_value(v[0])
 
         return v
+    
     def analyze_semantics(row):
         condition = row.get("condition")
         response = row.get("response_ok_syntax")
@@ -348,7 +340,7 @@ def save_responses(responses):
 if __name__ == "__main__":
     done = ["llama_30b_standard", "llava_7b_standard", "llama31_8b_standard",
             "phi3mini_4k_instruct_q4", "qwen25_1b_standard", "qwen25_7b_standard",]
-    models =[]  # Set your model name here
+    models =["mistral_7b_instruct", "olmo2_13B_instruct"]  # Set your model name here
     for model_name in models:
         logger.info(f"[START] Combining responses for model: {model_name}")
         responses = combine_responses(model_name)

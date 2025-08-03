@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 10,\n\"max\\_value\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0.0,\n\"max\\_value\": 150.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 10,\n\"max\\_value\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n  \"min\\_value\": 20,\n  \"max\\_value\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n``` "
+  }
+]

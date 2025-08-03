@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 180.0, \"max_size\": 800.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120.0,\"max_size\": 240.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 240}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"96\", \"max_size\": \"240\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 18000, \"max_size\": 28000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 140, \"max_size\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 180.0, \"max_size\": 800.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120.0, \"max_size\": 240.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 180.0,\"max_size\": 240.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 180.0,\"max_size\": 240.00}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 18000, \"max_size\": 30000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120.0, \"max_size\": 240.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 144, \"max_size\": 240}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120.0,\"max_size\": 240.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 180.0, \"max_size\": 600.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "truck",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 120.0, \"max_size\": 240.0}"
+  }
+]

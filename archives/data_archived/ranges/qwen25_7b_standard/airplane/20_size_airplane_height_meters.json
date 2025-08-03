@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 500\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 0.0,\n  \"max_size\": 100.0\n}\n```\nNote: The range given is a general estimate, as the size of airplanes can vary widely depending on the type and purpose."
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 800\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 300\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 800\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10.0,\n  \"max_size\": 80.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10.0,\n  \"max_size\": 80.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10.0,\n  \"max_size\": 80.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 800\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10.0,\n  \"max_size\": 80.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 20,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 300\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 800\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 800\n}\n```"
+  }
+]

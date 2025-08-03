@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 375\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 180,\n   \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 10,\n    \"max_temperature\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 160,\n    \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 160,\n  \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 100,\n  \"max\\_temperature\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 180,\n   \"max_temperature\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 185,\n  \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 200,\n\"max\\_temperature\": 450\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 170,\n  \"max\\_temperature\": 260\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 150,\n\"max\\_temperature\": 230\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 150,\n\"max\\_temperature\": 280\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 150,\n    \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 200,\n  \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 200,\n  \"max\\_temperature\": 450\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 100,\n    \"max_temperature\": 280\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "pizza",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 250\n} "
+  }
+]

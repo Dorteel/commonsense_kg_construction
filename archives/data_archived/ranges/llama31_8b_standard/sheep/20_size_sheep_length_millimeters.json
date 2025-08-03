@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 1500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 150,\n    \"max_size\": 300\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 55,\n  \"max_size\": 180\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 70,\n    \"max_size\": 160\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 700\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 70,\n  \"max_size\": 120\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 600,\n\"max_size\": 1500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 700\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 300\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 180\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 650,\n  \"max_size\": 1250\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 100,\n    \"max_size\": 200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 40,\n  \"max_size\": 700\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": {\n        \"height\": 550,\n        \"shoulder_height\": 680\n    },\n    \"max_size\": {\n        \"height\": 900,\n        \"shoulder_height\": 1100\n    }\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 650,\n  \"max_size\": 1100\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 250,\n  \"max_size\": 450\n}"
+  }
+]

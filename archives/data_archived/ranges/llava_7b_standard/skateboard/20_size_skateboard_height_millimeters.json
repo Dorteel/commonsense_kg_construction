@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 280,\n  \"max_size\": 900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 250,\n\"max\\_size\": 1000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 300,\n   \"max_size\": 750\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 250,\n    \"max_size\": 475\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 280,\n    \"max_size\": 365\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 250,\n    \"max_size\": 800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 490\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 3500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 280,\n    \"max_size\": 460\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 350,\n  \"max_size\": 850\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 285,\n    \"max_size\": 360\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 300,\n    \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 280,\n    \"max_size\": 570\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 280,\n\"max\\_size\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 300,\n  \"max_size\": 800\n}\n``` "
+  }
+]

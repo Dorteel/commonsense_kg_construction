@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 10\n}\n```\nNote that this is a rough estimate and the actual range may vary depending on the location. In some places, parking meters may accept coins as low as 1p or 25 cents, while in others they may only accept coins worth up to 50p or 1 Euro. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 2\n}\n```\nExplanation: The typical range value for parking meters in pounds is between 0 to 2 pounds. Parking meters usually accept coins of different denominations (e.g., 1p, 2p, 5p, 10p, 20p, 50p, £1, and sometimes £2), and the maximum amount you can pay varies depending on the location and parking duration. In general, however, most parking meters have a maximum payment of around £2 per hour or per parking space. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.00,\n  \"max_value\": 2.00\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 10\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n```\nNote that the range for parking meter fees in pounds is typically 0 to 2 pounds, but it can vary depending on the location and duration of parking. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.00,\n    \"max_value\": 2.00\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.0,\n  \"max_value\": 2.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1\n}\n``` "
+  }
+]

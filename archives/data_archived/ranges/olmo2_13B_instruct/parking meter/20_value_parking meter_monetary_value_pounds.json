@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 30.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"25\", \"max_value\": \"200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 50.0, \"max_value\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"200\", \"max_value\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 50.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 20.0, \"max_value\": 50.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.0\", \"max_value\": \"30.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"no_min_value\", \"max_value\": \"no_max_value\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"30\", \"max_value\": \"50\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 30.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"4.0\", \"max_value\": \"30.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"30\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 30.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10.0\", \"max_value\": \"30.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 30.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 50.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "parking meter",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 30.0}"
+  }
+]

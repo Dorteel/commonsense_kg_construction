@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 80,\n  \"max_size\": 90\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12,\n  \"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1440,\n  \"max_size\": 1576\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 10.0, \"max_size\": 300.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 50,\n    \"max_size\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 2500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 60,\n    \"max_size\": 84\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 300,\n  \"max_size\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 500,\n  \"max_size\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept\": \"train\",\n  \"range_size\": {\n    \"min_size\": 32000,\n    \"max_size\": 36000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144,\n  \"min_size\": 144,\n  \"max_size\": 144"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50,\n  \"max_size\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 21.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"train\": [\n    {\n      \"min_size\": 20,\n      \"max_size\": 50\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 10, \"max_size\": 30 }\n"
+  }
+]

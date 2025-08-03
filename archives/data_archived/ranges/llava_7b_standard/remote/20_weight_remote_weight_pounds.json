@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0.1,\n\"max\\_weight\": 2\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0,\n   \"max_weight\": 100\n}\n```\nNote: The weight range for a remote control is typically very light, and can vary depending on the size and type of remote. However, in general, most remotes weigh between 0 and 100 pounds. Therefore, I provided a min\\_weight of 0 and a max\\_weight of 100 as an estimate based on typical remotes. The actual weight range may vary for specific types of remotes. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 10\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 10\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 2\n}\n```\nNote that this is a rough estimate and actual weights can vary depending on the specific type of remote control being considered. Additionally, the weight range provided here is for a typical household TV remote, which usually weighs between 0.5 to 2 pounds. Remote controls for other devices such as car starters or garage door openers may have different weight ranges. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  }
+]

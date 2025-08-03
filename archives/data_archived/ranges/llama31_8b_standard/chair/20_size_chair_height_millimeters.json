@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 360,\n  \"max_size\": 820\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 400,\n    \"max_size\": 900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 350,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 380,\n    \"max_size\": 460\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 350,\n  \"max_size\": 1500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1000\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 350,\n  \"max_size\": 600\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 400,\n    \"max_size\": 800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 1400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 350,\n    \"max_size\": 1500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 400,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 550,\n    \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 350,\n  \"max_size\": 800\n}"
+  }
+]

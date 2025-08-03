@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\" : 2.5,\n  \"max_value\" : 3.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 11.50,\n  \"max_value\": 40.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"min_value\": 0, \"max_value\": 5000 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\" : 0.1,\n    \"max_value\" : 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concept\": \"train\",\n  \"range\": [\n    \"min_value\" ,\n    \"max_value\"\n  ]\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0.0,\"max_value\":15.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 3.5,\n  \"max_value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"currency\": \"EUR\",\n    \"value\": 14.8\n  },\n  \"max_value\": {\n    \"currency\": \"EUR\",\n    \"value\": 20.3\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 15,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 20.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 3.50,\n  \"max_value\": 5.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 0.0,\n  \"mean_value\": 0.0,\n  \"median_value\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.5,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"train\": [\n    \"Eurail Global Pass\",\n    \"Eurail Global Pass Youth\",\n    \"Eurail Global Pass 1st Class\",\n    \"Eurail Global Pass 2nd Class\",\n    \"Eurail Select Pass\",\n    \"Eurail Select Pass Youth\",\n    \"Eurail Select Pass 1st Class\",\n    \"Eurail Select Pass 2nd Class\",\n    \"Eurail Regional Pass\",\n    \"Eurail Regional Pass Youth\",\n    \"Eurail Regional Pass 1st Class\",\n    \"Eurail Regional Pass 2nd Class\",\n    \"Eurail One Country Pass\",\n    \"Eurail One Country Pass Youth\",\n    \"Eurail One Country Pass 1st Class\",\n    \"Eurail One Country Pass 2nd Class\",\n    \"Eurail One Country Select Pass\",\n    \"Eurail One Country Select Pass Youth\",\n    \"Eurail One Country Select Pass 1st Class\",\n    \"Eurail One Country Select Pass 2nd Class\",\n    \"Eurail Youth Pass\",\n    \"Eurail Youth Pass 1st Class\",\n    \"Eurail Youth Pass 2nd Class\",\n    \"Eurail Youth Select Pass\",\n    \"Eurail Youth Select Pass 1st Class\",\n    \"Eurail Youth Select Pass 2nd Class\"\n  ],\n  \"user\": \"Germany\",\n  \"price\": [\n    \"Eurail Global Pass\",\n    \"Eurail Global Pass Youth\",\n    \"Eurail Global Pass 1st Class\",\n    \"Eurail Global Pass 2nd Class\",\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 0,\n    \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "train",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 10000\n}\n"
+  }
+]

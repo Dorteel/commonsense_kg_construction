@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$200\"\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$15\",\n  \"max_value\": \"$25\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 15,\n  \"max_value\": 40\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 15.0,\n  \"max_value\": 45.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 500\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$200\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$200\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 50\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.25,\n  \"max_value\": 5.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$10\",\n  \"max_value\": \"$50\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 5,\n  \"max_value\": 20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 50,\n  \"max_value\": 200\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$50\",\n  \"max_value\": \"$150\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$25.00\",\n  \"max_value\": \"$35.00\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$50.00\",\n  \"max_value\": \"$200.00\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$150\",\n  \"max_value\": \"$300\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$10\",\n  \"max_value\": \"$50\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 15,\n  \"max_value\": 20\n}\n```"
+  }
+]

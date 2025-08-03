@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 60.0,\n  \"max_temperature\": 68.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"couch\",\n  \"min_temperature\": 65,\n  \"max_temperature\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 70.0,\n  \"max_temperature\" : 75.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"concept\": \"couch\",\n    \"min_temperature\": 68,\n    \"max_temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 68,\n  \"max_temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60, \"max_temperature\": 70}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\" : 0.0, \"max_temperature\" : 212.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"couch\",\n  \"intent\": \"typical_range_temperature\",\n  \"slots\": {\n    \"range_temperature_slot\": {\n      \"value\": \"max_temperature\"\n    }\n  },\n  \"contexts\": [\n    {\n      \"name\": \"home\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 66,\n  \"max_temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 68.0,\n  \"max_temperature\": 77.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 68.0,\n  \"max_temperature\": 74.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": -100.0,\n  \"max_temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 55,\n  \"max_temperature\": 75\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 68,\n  \"max_temperature\": 72\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 60,\n  \"max_temperature\": 68\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 75.0,\n  \"max_temperature\": 85.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"911901\",\n  \"text\": \"Given the concept of couch (which is an upholstered seat for more than one person), provide the typical range temperatureas in {} measured in fahrenheit. Return only JSON with keys: \\n  - min_temperature (float) \\n  - max_temperature (float)\",\n  \"intent\": \"SYSTEM\",\n  \"dialog_state\": \"STARTED\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 60.0,\n  \"max_temperature\": 72.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 70.000000,\n  \"max_temperature\": 70.000000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 70.0,\n  \"max_temperature\": 72.0\n}\n"
+  }
+]

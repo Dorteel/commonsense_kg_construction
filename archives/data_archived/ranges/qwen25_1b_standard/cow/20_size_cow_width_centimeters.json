@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.5,\n  \"max_size\": 91.2\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 200\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 105.0,\n  \"max_size\": 120.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 70,\n  \"max_size\": 95\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 130.0,\n  \"max_size\": 180.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 180\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 34,\n  \"max_size\": 82\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150.0,\n  \"max_size\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 60,\n  \"max_size\": 120\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 210\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50.0,\n  \"max_size\": 65.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.5,\n  \"max_size\": 67.5\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 45,\n  \"max_size\": 100\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 60.5,\n  \"max_size\": 120.5\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 30.5,\n  \"max_size\": 68.2\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.5,\n  \"max_size\": 60.8\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 70,\n  \"max_size\": 95\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 200\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "cow",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 30.5,\n  \"max_size\": 68.2\n}\n```"
+  }
+]

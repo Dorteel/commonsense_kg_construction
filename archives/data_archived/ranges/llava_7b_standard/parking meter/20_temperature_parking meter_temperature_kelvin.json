@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": {\n      \"value\": 273.15,\n      \"unit\": \"K\"\n   },\n   \"max_temperature\": {\n      \"value\": 348.15,\n      \"unit\": \"K\"\n   }\n}\n```\nNote that the range provided is a typical range for outdoor parking meters, and may vary depending on the location and time of year. Additionally, parking meters are typically located in urban areas where temperatures can be much higher or lower than this range. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 10,\n   \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 273,\n\"max\\_temperature\": 300\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 300.0\n}\n```\nThis JSON represents the valid range of temperatures for a parking meter in kelvin, where the minimum is the freezing point of water (273.15 K) and the maximum is a common indoor temperature (300.0 K). "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 273.15,\n\"max\\_temperature\": 300.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 360.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": {\n      \"value\": 273,\n      \"unit\": \"K\"\n   },\n   \"max_temperature\": {\n      \"value\": 298,\n      \"unit\": \"K\"\n   }\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 230,\n  \"max_temperature\": 290\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 300.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 250,\n    \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 250,\n\"max\\_temperature\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 250,\n    \"max_temperature\": 370\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273,\n    \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 273.15,\n\"max\\_temperature\": 373.15\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 298.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "parking meter",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273.15,\n    \"max_temperature\": 298.15\n}\n``` "
+  }
+]

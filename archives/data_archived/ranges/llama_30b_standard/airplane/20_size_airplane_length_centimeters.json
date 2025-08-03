@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 60.0,\n  \"max_size\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"user_id\": \"251761\",\n    \"user_name\": \"Jason\",\n    \"last_name\": \"Walker\",\n    \"first_name\": \"Jason\",\n    \"address\": {\n        \"street\": \"2344 1st Ave\",\n        \"city\": \"Bronx\",\n        \"state\": \"NY\",\n        \"zip\": \"10452\",\n        \"country\": \"United States\"\n    }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept\": {\n    \"name\": \"airplane\",\n    \"description\": \"An aircraft with fixed wings and a weight greater than that of the air it displaces, which is moved by jet propulsion.\"\n  },\n  \"min_size\": 180.0,\n  \"max_size\": 120000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3000,\n  \"max_size\": 45000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10.0,\n  \"max_size\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 11.0,\n  \"max_size\": 11.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 200,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"aircraft\": {\n    \"jet_aircraft\": {\n      \"airplane\": {\n        \"range\": {\n          \"min_size\": 4000,\n          \"max_size\": 6000\n        }\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept_id\": \"airplane\",\n  \"type\": \"range\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.7,\n  \"max_size\": 10000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12.5,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.25,\n    \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50,\n  \"max_size\": 600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10000,\n  \"max_size\": 12000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 100, \"max_size\": 1000 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"Assistant\",\n  \"description\": \"Asks questions and answers questions.\",\n  \"intents\": [\n    {\n      \"name\": \"QuestionIntent\",\n      \"examples\": [\n        {\n          \"name\": \"questions\",\n          \"examples\": [\n            \"what is your name\",\n            \"where are you\",\n            \"what are you doing\",\n            \"what is the temperature\",\n            \"how far is it to San Francisco\",\n            \"who is president\",\n            \"are we there yet\",\n            \"what is the population of China\",\n            \"what is the meaning of life\",\n            \"do you love me\",\n            \"are you happy\",\n            \"how are you\"\n          ]\n        }\n      ]\n    },\n    {\n      \"name\": \"AMAZON.HelpIntent\",\n      \"examples\": [\n        \"help\",\n        \"help me\",\n        \"what can you do\"\n      ]\n    }\n  ],\n  \"slots\": [\n    {\n      \"name\": \"question\",\n      \"type\": \"TEXT\",\n      \"description\": \"What is the user's question or command.\",\n      \"samples\": [\n        \"what is your name\",\n        \"where are you\",\n        \"what are you doing\",\n        \"what is the temperature\",\n        \"how far is it to San Francisco\",\n        \"who is president\",\n        \"are we there yet\",\n        \"what is the population of China\",\n        \"what is the meaning of life\",\n        \"do you love me\",\n        \"are you happy\",\n        \"how are you\"\n      ]\n    }\n"
+  }
+]

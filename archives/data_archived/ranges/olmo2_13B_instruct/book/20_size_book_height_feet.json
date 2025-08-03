@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"8.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"infinity\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"8.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"8.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"8\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"infinity\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000.0}"
+  }
+]

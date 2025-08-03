@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.000, \"max_temperature\": 350.000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100, \"max_temperature\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 275.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 150.0, \"max_temperature\": 270.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.000, \"max_temperature\": 400.000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 270.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 270.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100.0,\"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 270.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 150.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 200.0,\"max_temperature\": 400.0}"
+  }
+]

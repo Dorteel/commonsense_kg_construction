@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 100,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 10,\n\"max\\_value\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 10000\n}\n```\nNote that the values are approximate and may vary depending on location and specifications. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n```\nNote that the range of couch prices can vary widely and is not limited to the values provided. The above JSON represents a typical range for couches in the US market, but it's important to note that prices can fluctuate based on various factors such as material, size, brand, and location. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 50,\n   \"max_value\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1500\n}\n```\nNote that the range provided is a rough estimate and may vary depending on the location, materials used, and quality of the couch. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 100,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 1000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 50,\n    \"max_value\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1500\n}\n```\nNote that the range of values for a couch can vary widely depending on factors such as materials, size, style, and quality. The values given here are just estimates and should not be taken as definitive ranges. Additionally, in some cases, a couch may cost significantly more or less than this range. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "couch",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 500\n}\n``` "
+  }
+]

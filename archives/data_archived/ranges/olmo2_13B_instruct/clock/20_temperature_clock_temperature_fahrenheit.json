@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 50.0, \"max_temperature\": 85.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 32, \"max_temperature\": 90}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0,\"max_temperature\": 80.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"32\", \"max_temperature\": \"115\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 50.0, \"max_temperature\": 80.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0, \"max_temperature\": 90.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0, \"max_temperature\": 85.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 32, \"max_temperature\": 95}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 32.0, \"max_temperature\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60, \"max_temperature\": 85}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60, \"max_temperature\": 80}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0, \"max_temperature\": 80.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 32, \"max_temperature\": 100}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 32, \"max_temperature\": 95}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 50.0, \"max_temperature\": 85.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0, \"max_temperature\": 85.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0, \"max_temperature\": 80.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 70.0, \"max_temperature\": 80.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 50.0, \"max_temperature\": 95.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "clock",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 60.0, \"max_temperature\": 80.0}"
+  }
+]

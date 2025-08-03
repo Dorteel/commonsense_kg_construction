@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 1,\n   \"max_size\": 10\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 1,\n   \"max_size\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1,\n    \"max_size\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1,\n    \"max_size\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 2,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1,\n    \"max_size\": 10\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 2,\n  \"max_size\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 2,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.0,\n  \"max_size\": 50.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.5,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1,\n    \"max_size\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1.0,\n  \"max_size\": 15.0\n}\n```\nNote: These values are approximate and may vary depending on the specific type of boat. Additionally, the size range for boats can be much broader than this, but the above values represent a typical range. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1,\n    \"max_size\": 50\n}\n``` "
+  }
+]

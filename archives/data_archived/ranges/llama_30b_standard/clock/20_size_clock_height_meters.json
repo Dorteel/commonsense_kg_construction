@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.00000001, \"max_size\": 0.00000001}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"min_size\": 0.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.01, \"max_size\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{ \"min_size\": 20, \"max_size\": 30 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.2,\n    \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.001,\n  \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\": \"clock\",\n  \"type\": \"concept\",\n  \"range\": {\n    \"min_size\": 0.0,\n    \"max_size\": 10000.0\n  },\n  \"concepts\": [\n    {\n      \"name\": \"wall_clock\",\n      \"type\": \"instance\",\n      \"range\": {\n        \"min_size\": 0.0,\n        \"max_size\": 10000.0\n      },\n      \"features\": [\n        {\n          \"name\": \"face\",\n          \"type\": \"attribute\",\n          \"range\": {\n            \"min_size\": 0.0,\n            \"max_size\": 10000.0\n          },\n          \"attributes\": [\n            {\n              \"name\": \"material\",\n              \"type\": \"attribute\",\n              \"range\": {\n                \"min_size\": 0.0,\n                \"max_size\": 10000.0\n              },\n              \"attributes\": [\n                {\n                  \"name\": \"color\",\n                  \"type\": \"attribute\",\n                  \"range\": {\n                    \"min_size\": 0.0,\n                    \"max_size\": 10000.0\n                  },\n                  \"attributes\": []\n                }\n              ]\n            }\n          ]\n        },\n        {\n          \"name\": \"hands\",\n          \"type\": \"attribute\",\n          \"range\": {\n            \"min_size\": 0.0,\n            \"max_size\": 10000.0\n          },\n          \"attributes\": ["
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0,\n    \"max_size\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.01,\n  \"max_size\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.02,\n  \"max_size\": 2.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"name\" : \"samsung_galaxy_s7\",\n  \"description\" : \"smartphone\",\n  \"model\" : \"samsung_galaxy_s7\",\n  \"manufacturer\" : \"Samsung\",\n  \"price\" : 350.00,\n  \"display\" : {\n    \"type\" : \"am-oled\",\n    \"size\" : 5.1\n  },\n  \"ram\" : 4,\n  \"cpu\" : \"octa-core\",\n  \"gpu\" : \"mali-t880\",\n  \"storage\" : 32,\n  \"camera\" : {\n    \"type\" : \"dual\",\n    \"megapixel\" : 12\n  },\n  \"battery\" : {\n    \"type\" : \"non-removable\",\n    \"capacity\" : 3000\n  },\n  \"os\" : \"Android 6.0 Marshmallow\",\n  \"chipset\" : \"Exynos 8890\",\n  \"sim\" : {\n    \"type\" : \"Dual Sim\",\n    \"support\" : \"GSM / CDMA / HSPA / LTE / 5G\"\n  },\n  \"connectivity\" : {\n    \"type\" : \"Wi-Fi 802.11 a/b/g/n/ac\",\n    \"band\" : \"2.4 GHz/5 GHz\",\n    \"bluetooth\" : \"v4.2\",\n    \"nfc\" : \"true\",\n    \"infrared\" : \"true\",\n    \"usb\" : \"m"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 200}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 0.0,\n  \"mean_size\": 0.0,\n  \"std_size\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3.37,\n  \"max_size\": 450\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.05,\n  \"max_size\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "clock",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"concept_id\": \"clock\",\n  \"min_size\": 0.0,\n  \"max_size\": 0.0\n}\n"
+  }
+]

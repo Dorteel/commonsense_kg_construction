@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 250,\n\"max\\_temperature\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273.15,\n    \"max_temperature\": 310.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 40\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 253,\n  \"max_temperature\": 373\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273,\n  \"max_temperature\": 310\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273,\n    \"max_temperature\": 289\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 295,\n  \"max_temperature\": 330\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 370\n}\n```\nNote: The temperature range for an umbrella is a rough estimate and can vary based on the type of umbrella and materials used. These values are provided as a general guideline. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 320\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 200,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273,\n  \"max_temperature\": 360\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 373.15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 290,\n  \"max_temperature\": 315\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 300,\n    \"max_temperature\": 450\n}\n```\nNote that the range provided is not based on scientific evidence but rather a general estimation. It's important to note that umbrellas are typically used in various weather conditions and temperatures, so these values should be considered as a rough estimate. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 273, // Approximately 0 degrees Celsius\n  \"max_temperature\": 345 // Approximately 68 degrees Celsius\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 300.0,\n  \"max_temperature\": 325.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 230.15, // Kelvin\n    \"max_temperature\": 298.15 // Kelvin\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 250, // typically 15 degrees Celsius (288 K), but lower temperatures are also common in cold climates\n    \"max_temperature\": 370 // typically 30 degrees Celsius (333 K) or above\n}\n```\nNote: The typical range temperature for an umbrella can vary widely depending on the specific use case and location, so these values are only a rough estimate. In extreme cases, umbrellas may be used in much colder or hotter conditions. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "umbrella",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 350\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\", \"max_size\": \"1200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300.0, \"max_size\": 700.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 700}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 800}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.0\", \"max_size\": \"500.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\", \"max_size\": \"1200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"not_applicable\", \"max_size\": \"not_applicable\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"1000\", \"max_size\": \"2000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300.0, \"max_size\": 1200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\", \"max_size\": \"800\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"not_applicable\", \"max_size\": \"not_applicable\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 700}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 700.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\", \"max_size\": \"1200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 700}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300.0, \"max_size\": 1200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 700.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "microwave",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"100\", \"max_size\": \"500\"}"
+  }
+]

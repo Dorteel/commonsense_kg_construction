@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456\",\n  \"device\": \"mobile\",\n  \"lat\": 37.7688,\n  \"long\": -122.449,\n  \"intent\": \"find_business\",\n  \"slots\": {\n    \"business_type\": \"pizza\",\n    \"location\": \"san_francisco\"\n  },\n  \"dialog_state\": \"find_business\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 800, \"max_weight\": 1500}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1000000.0,\n  \"max_weight\": 1000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 300,\n  \"max_weight\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 0.5,\n    \"max_weight\": 100000,\n    \"mean_weight\": 500,\n    \"median_weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 200.0,\n  \"max_weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\" : 3000,\n  \"max_weight\" : 50000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 150,\n    \"max_weight\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 5,\n    \"max_weight\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": {\n    \"value\": 25.5,\n    \"unit\": \"kilogram\"\n  },\n  \"max_weight\": {\n    \"value\": 100,\n    \"unit\": \"kilogram\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"John Smith\",\n  \"age\": 32,\n  \"gender\": \"male\",\n  \"nationality\": \"American\",\n  \"eyeColor\": \"blue\",\n  \"hairColor\": \"brown\",\n  \"height\": 5,\n  \"weight\": 75,\n  \"bloodType\": \"A\",\n  \"married\": false,\n  \"children\": 0,\n  \"pets\": 0,\n  \"occupation\": \"Manager\",\n  \"email\": \"john@gmail.com\",\n  \"phoneNumber\": \"0000000000\",\n  \"address\": \"123 main street\",\n  \"about\": \"I am an Engineer\",\n  \"favoriteColor\": \"green\",\n  \"favoriteNumber\": 7,\n  \"favoriteSport\": \"baseball\",\n  \"favoriteMovie\": \"The Shawshank Redemption\",\n  \"favoriteFood\": \"Pizza\",\n  \"favoriteDrink\": \"Coffee\",\n  \"favoriteBand\": \"Red Hot Chili Peppers\",\n  \"favoriteSinger\": \"Eminem\",\n  \"favoriteAthlete\": \"LeBron James\",\n  \"favoriteTeam\": \"Cleveland Cavaliers\",\n  \"favoriteCar\": \"Ford Fiesta\",\n  \"favoriteAnimal\": \"Dog\",\n  \"favoriteBook\": \"Harry Potter\",\n  \"favoriteQuote\": \"I am a dreamer. I have to dream and reach for the stars, and if I miss a star"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 50,\n  \"max_weight\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1000000, \"max_weight\": 2000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 500,\n  \"max_weight\": 3000\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1.44,\n  \"max_weight\": 15.88\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1000,\n  \"max_weight\": 100000\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{ \"min_weight\": 30.0, \"max_weight\": 50.0 }\n  "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"name\": \"Bob\",\n  \"age\": 27,\n  \"married\": true,\n  \"has_children\": false,\n  \"likes\": [\"sports\", \"cars\", \"games\", \"girls\"]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 2200,\n  \"max_weight\": 3500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "couch",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.5,\n  \"max_weight\": 700000\n}\n"
+  }
+]

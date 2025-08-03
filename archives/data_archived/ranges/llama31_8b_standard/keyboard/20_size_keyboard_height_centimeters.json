@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 25.0,\n    \"max_size\": 180.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 25.4,\n  \"max_size\": 120\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20.0,\n  \"max_size\": 150.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.48,\n  \"max_size\": 120\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.48,\n  \"max_size\": 152.4\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20.32,\n  \"max_size\": 102\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 40.0,\n  \"max_size\": 80.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 43.5,\n  \"max_size\": 94\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 30.48,\n    \"max_size\": 120\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"min_size\": 25.4,\n    \"max_size\": 120\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 45.0,\n  \"max_size\": 90.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.5,\n  \"max_size\": 120\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.48,\n  \"max_size\": 152.4\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 48.5,\n  \"max_size\": 108\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 35.56,\n  \"max_size\": 94\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.0,\n  \"max_size\": 80.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.48,\n  \"max_size\": 152.4\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.0,\n  \"max_size\": 140.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 45.0,\n  \"max_size\": 110.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "keyboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30.5,\n  \"max_size\": 145.0\n}"
+  }
+]

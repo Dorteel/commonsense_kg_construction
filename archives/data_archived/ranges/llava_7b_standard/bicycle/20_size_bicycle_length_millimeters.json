@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 150000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 750\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.3,\n\"max\\_size\": 1.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 500,\n    \"max_size\": 1200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 100,\n    \"max_size\": 650\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 7500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 500,\n\"max\\_size\": 1200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 500,\n\"max\\_size\": 800\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 100,\n\"max\\_size\": 650\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 2200\n}\n``` "
+  }
+]

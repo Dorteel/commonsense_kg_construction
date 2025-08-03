@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 100,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 1500,\n    \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 2000,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 500,\n    \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 500,\n   \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 500,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 100,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 500,\n    \"max_value\": 18000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 500,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 3000,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 3000,\n  \"max_value\": 80000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 2000,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 500,\n  \"max_value\": 8000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 35000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 2000,\n  \"max_value\": 80000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 2000,\n   \"max_value\": 35000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 44000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "truck",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 18000\n}\n``` "
+  }
+]

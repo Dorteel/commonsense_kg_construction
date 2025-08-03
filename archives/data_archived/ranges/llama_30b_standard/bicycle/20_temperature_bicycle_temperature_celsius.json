@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 10, \"max_temperature\": 32}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 27.78, \"max_temperature\": 32.22}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0, \"max_temperature\": 30}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 50.0, \"max_temperature\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 0.0,\n  \"max_temperature\" : 35.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": -5,\n\"max_temperature\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 40.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"20\", \"max_temperature\": \"30\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 4, \"max_temperature\": 36}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 25.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0.0, \"max_temperature\": 33.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 1.1,\n  \"max_temperature\": 1.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 299.7295\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 0.0,\n  \"max_temperature\" : 20.0,\n  \"description\" : \"range of temperature for bicycle\",\n  \"type\" : \"range\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"name\": \"Joe\",\n  \"age\": 36,\n  \"height\": 1.75,\n  \"weight\": 120,\n  \"eye_color\": \"blue\",\n  \"hair_color\": \"blond\",\n  \"spouse\": {\n    \"name\": \"Jane\",\n    \"age\": 33,\n    \"height\": 1.60,\n    \"weight\": 110,\n    \"eye_color\": \"green\",\n    \"hair_color\": \"blond\",\n    \"spouse\": null\n  },\n  \"children\": [\n    {\n      \"name\": \"Jim\",\n      \"age\": 8,\n      \"height\": 1.12,\n      \"weight\": 40,\n      \"eye_color\": \"blue\",\n      \"hair_color\": \"blond\",\n      \"spouse\": null\n    },\n    {\n      \"name\": \"Jane\",\n      \"age\": 5,\n      \"height\": 1.00,\n      \"weight\": 35,\n      \"eye_color\": \"brown\",\n      \"hair_color\": \"brown\",\n      \"spouse\": null\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "bicycle",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0.0,\n    \"max_temperature\": 45.0\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 150}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 150.0,\"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 125, \"max_size\": 150}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 200.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 160, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100, \"max_size\": 150}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "traffic light",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300.0, \"max_size\": 600.0}"
+  }
+]

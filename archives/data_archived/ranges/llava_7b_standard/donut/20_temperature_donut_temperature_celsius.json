@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 160,\n  \"max_temperature\": 245\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 160,\n  \"max_temperature\": 180\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 100,\n\"max\\_temperature\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 160,\n   \"max_temperature\": 225\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 175,\n    \"max_temperature\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 150,\n\"max\\_temperature\": 210\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 375,\n  \"max_temperature\": 425\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 165,\n\"max\\_temperature\": 205\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 165,\n    \"max_temperature\": 204\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 160,\n  \"max_temperature\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 350,\n  \"max\\_temperature\": 420\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 220\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 160,\n\"max\\_temperature\": 230\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 175,\n  \"max_temperature\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 150,\n    \"max_temperature\": 230\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "donut",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 200,\n    \"max_temperature\": 350\n}\n```\nNote: The range provided is a general guideline and may vary depending on the specific recipe or preparation method. "
+  }
+]

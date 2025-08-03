@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"-10.0\", \"max_temperature\": \"200.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"room temperature\", \"max_temperature\": \"60\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 350.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0.0, \"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 265.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0, \"max_temperature\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -40.0, \"max_temperature\": 100.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": \"room temperature (15-20°C)\", \"max_temperature\": \"varies depending on material and use, but generally safe up to 180°C\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -10.0,\"max_temperature\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "fork",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": -20.0, \"max_temperature\": 200.0}"
+  }
+]

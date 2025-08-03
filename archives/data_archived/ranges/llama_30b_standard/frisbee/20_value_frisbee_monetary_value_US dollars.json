@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.00,\n  \"max_value\": 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5.00,\n  \"max_value\": 100.00,\n  \"type\": \"money\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 1000,\n    \"max_value\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 9999999999999999\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": -9000000000000.0,\n  \"max_value\": 9000000000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.49,\n  \"max_value\": 29.99\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.5,\n  \"max_value\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 3,\n    \"max_value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.00,\n  \"max_value\": 5.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 1.0, \"max_value\": 10000000000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0,\"max_value\":150000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"min\": 5,\n    \"max\": 5\n  },\n  \"max_value\": {\n    \"min\": 10,\n    \"max\": 10\n  }\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 3000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"min\": 12.5,\n    \"max\": 12.5\n  },\n  \"max_value\": {\n    \"min\": 12.5,\n    \"max\": 12.5\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{ \"min_value\": 0.0, \"max_value\": 0.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "frisbee",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 10\n}\n"
+  }
+]

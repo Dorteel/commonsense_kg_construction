@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 800,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 250,\n  \"max_size\": 350\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 250\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 200,\n  \"max_size\": 600\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 180,\n  \"max_size\": 240\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 50,\n  \"max_size\": 120\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 105,\n  \"max_size\": 213\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 10,\n  \"max_size\": 50\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 120,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 80,\n  \"max_size\": 120\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 40,\n  \"max_size\": 85\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 1500\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 230,\n  \"max_size\": 270\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 300\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 150,\n  \"max_size\": 200\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1800\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n```"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 10000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"text\": \"I want a small toothbrush with a long handle to clean my teeth\",\n  \"context\": {\n    \"toothbrush\": {\n      \"size\": {\n        \"min\": 100,\n        \"max\": 200\n      }\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60, \"max_size\": 250}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.15,\n  \"max_size\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 10,\n    \"max_size\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 100,\n  \"max_size\": 1000,\n  \"min_size\": 1"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 40,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 1.5,\n\"max_size\": 10,\n\"explanation\": \"A toothbrush is a small brush used to clean teeth. It consists of a head of stiff nylon bristles attached to a handle, a longer handle facilitating the grasping of the toothbrush, and a protective travel case. Toothpaste is usually applied to the head of the toothbrush before brushing the teeth, although it can also be applied directly to the teeth. Some toothbrushes use a powered system to move the brush head rapidly back and forth, while some designs include a sonic vibrating system to assist in the removal of plaque and stains.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"toothbrush\": {\n    \"min_size\": 5,\n    \"max_size\": 15\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"2\",\n  \"concept_id\": \"5\",\n  \"task\": \"recommend_toothbrush\",\n  \"context\": {\n    \"current_date\": \"2017-01-20T21:03:43.566Z\",\n    \"user_context\": {\n      \"user_id\": \"2\",\n      \"concept_id\": \"5\",\n      \"task\": \"recommend_toothbrush\",\n      \"context\": {}\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 65.0,\n\"max_size\": 70.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100,\n  \"max_size\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 200.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "toothbrush",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0\n  , \"max_size\": 100.0\n}\n"
+  }
+]

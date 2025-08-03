@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 63.5,\n  \"max_size\": 96.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 15.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"123456\",\n  \"first_name\": \"John\",\n  \"last_name\": \"Doe\",\n  \"gender\": \"male\",\n  \"age\": 27,\n  \"language_spoken\": \"en\",\n  \"language_preferred\": \"en\",\n  \"locale\": \"en-US\",\n  \"timezone\": \"America/New_York\",\n  \"region\": \"NY\",\n  \"street_address\": \"1234 Main St\",\n  \"city\": \"New York\",\n  \"zip_code\": \"12345\",\n  \"phone_number\": \"212-555-1212\",\n  \"sms_number\": \"212-555-1212\",\n  \"email_address\": \"john@doe.com\",\n  \"account_balance\": 234234234.34\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 100,\n    \"max_size\": 115\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 85,\n  \"max_size\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept\": \"baseball_bat\",\n  \"min_size\": 100,\n  \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 45,\n  \"max_size\": 55\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\" : 75.0,\n  \"max_size\" : 105.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 120.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 0,\n\"max_size\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 1000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"user\": {\n      \"first_name\": \"John\",\n      \"last_name\": \"Smith\"\n    },\n    \"room\": {\n      \"type\": \"office\",\n      \"num\": \"301\"\n    }\n  }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 85.73,\n  \"max_size\": 114.3\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 76.20,\n  \"max_size\": 137.20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.001,\n  \"max_size\": 1.0,\n  \"mean\": 0.305,\n  \"median\": 0.305,\n  \"std\": 0.01\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 61.5,\n    \"max_size\": 106.68\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 25.4,\n  \"max_size\": 38.1\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "baseball bat",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.65,\n  \"max_size\": 1.43\n}\n"
+  }
+]

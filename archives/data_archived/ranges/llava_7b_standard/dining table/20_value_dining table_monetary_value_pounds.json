@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 500\n}\n```\nExplanation: A dining table typically weighs between 0 to 500 pounds. However, the exact range may vary depending on the size and material of the table. The above JSON provides a rough estimate of the typical weight range for a dining table. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0.0,\n  \"max_value\": 1000.0\n}\n```\nNote that the typical range for a dining table is not given in pounds, but rather dimensions such as length, width and height. However, if you need the weight range of the table itself (for example made of wood), it would typically be between 50 to 300 lbs or more depending on the size and material. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n```\nNote that the value for `max_value` is an estimate and may vary depending on the size of the dining table and the number of people it can accommodate. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n```\nNote that the range provided here is a typical range for dining tables and may vary based on specific usage or location. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n``` "
+  }
+]

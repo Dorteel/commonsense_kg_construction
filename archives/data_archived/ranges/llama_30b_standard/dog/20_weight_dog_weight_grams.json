@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1.0, \"max_weight\": 25.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 3.2, \"max_weight\": 26}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1100,\n\"max_weight\": 11000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.1,\n  \"max_weight\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":0.0,\"max_weight\":60.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": {\n    \"min\": 5,\n    \"max\": 100\n  },\n  \"max_weight\": {\n    \"min\": 30,\n    \"max\": 150\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 7.4,\n  \"max_weight\": 54.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":40,\"max_weight\":60}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1.0,\n  \"max_weight\": 1000000000000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 25.3,\n  \"max_weight\": 25.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 2.0,\n  \"max_weight\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1000, \"max_weight\": 7000}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":30000, \"max_weight\":50000}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": \"15.00\",\n  \"max_weight\": \"125.00\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":1.1,\"max_weight\":14.8,\"name\":\"Bichon Frise\"}\n \t \t\t\t\t \t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1,\n  \"max_weight\": 65,\n  \"avg_weight\": 38.65\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 0.36,\n    \"max_weight\": 12.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 2.5,\n  \"max_weight\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "dog",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 0.0005,\n  \"max_weight\": 50000\n}\n"
+  }
+]

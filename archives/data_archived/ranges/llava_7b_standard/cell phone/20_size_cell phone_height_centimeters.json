@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 130,\n\"max\\_size\": 220\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 8.5,\n    \"max_size\": 16.3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 10,\n   \"max_size\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 9.5,\n    \"max_size\": 20.3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 90,\n  \"max_size\": 165\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 9.5,\n\"max\\_size\": 23.5\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 90,\n  \"max_size\": 245\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.0,\n\"max\\_size\": 15.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 13,\n  \"max_size\": 185\n}\n```\nNote that the range of cell phone sizes is quite broad, and this is a rough estimate. There are many types of cell phones with varying sizes. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 15.2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 260\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 9.5,\n  \"max_size\": 27.9\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.17,\n  \"max_size\": 23.85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cell phone",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10.0,\n\"max\\_size\": 254.0\n} "
+  }
+]

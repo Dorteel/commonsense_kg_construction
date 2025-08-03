@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 122\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 32,\n  \"max\\_temperature\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 160\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -40,\n\"max\\_temperature\": 120\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -30,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -30,\n\"max\\_temperature\": 122\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 122\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -40,\n\"max\\_temperature\": 122\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -20,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 246\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 0,\n   \"max_temperature\": 212\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": -20,\n   \"max_temperature\": 140\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 160\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "car",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -30,\n\"max\\_temperature\": 125\n} "
+  }
+]

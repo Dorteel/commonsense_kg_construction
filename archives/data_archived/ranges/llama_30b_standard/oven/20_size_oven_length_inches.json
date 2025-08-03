@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"user_id\",\n  \"context\": {\n    \"conversation_id\": \"conversation_id\",\n    \"system_message_id\": \"system_message_id\",\n    \"service_message_id\": \"service_message_id\",\n    \"bot_id\": \"bot_id\",\n    \"bot_name\": \"bot_name\",\n    \"bot_type\": \"bot_type\",\n    \"bot_version\": \"bot_version\",\n    \"bot_locale\": \"bot_locale\",\n    \"bot_state\": \"bot_state\",\n    \"bot_error\": \"bot_error\",\n    \"bot_error_code\": \"bot_error_code\",\n    \"bot_error_message\": \"bot_error_message\",\n    \"bot_error_details\": \"bot_error_details\",\n    \"bot_error_data\": \"bot_error_data\",\n    \"bot_error_source\": \"bot_error_source\",\n    \"bot_error_timestamp\": \"bot_error_timestamp\",\n    \"bot_error_user_id\": \"bot_error_user_id\",\n    \"bot_error_message_id\": \"bot_error_message_id\",\n    \"bot_error_service_message_id\": \"bot_error_service_message_id\",\n    \"bot_error_context_attributes\": \"bot_error_context_attributes\",\n    \"bot_error_bot_attributes\": \"bot_error_bot_attributes\",\n    \"bot_error_system_attributes\": \"bot_error_system_attributes\",\n    \"bot_error_session_attributes\": \"bot_error_session_attributes"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 16,\n    \"max_size\": 24\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.00,\n  \"max_size\": 0.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24,\n  \"max_size\": 28\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24,\n  \"max_size\": 36,\n  \"units\": \"inches\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 60.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 17, \"max_size\": 30, \"type\": \"float\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 27,\n  \"max_size\": 36,\n  \"description\": \"The size of the oven is 27 to 36 inches wide.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 30,\n\"max_size\": 48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 30, \"max_size\": 54}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"type\": \"Ask\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 27,\n  \"max_size\": 47\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 30,\n\"max_size\": 36\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 60\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 99.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"John\"\n}\n"
+  }
+]

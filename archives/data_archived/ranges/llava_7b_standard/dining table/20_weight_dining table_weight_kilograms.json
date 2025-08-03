@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 10,\n  \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 10,\n    \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 20,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 15,\n   \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 10,\n  \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 15,\n    \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 25,\n    \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 15,\n  \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0.0,\n   \"max_weight\": 150.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0,\n   \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 25,\n   \"max_weight\": 100\n}\n```\nNote that the range provided is a rough estimate and can vary depending on the size of the dining table and the number of people it is intended to serve. Additionally, this range assumes a standard-sized dining table and does not take into account any additional weight from decorative items or other objects placed on top of the table. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 20,\n\"max\\_weight\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 15,\n    \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.5,\n  \"max_weight\": 10\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "dining table",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 150\n}\n``` "
+  }
+]

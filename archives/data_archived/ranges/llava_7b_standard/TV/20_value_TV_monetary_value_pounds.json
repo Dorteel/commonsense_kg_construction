@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 250\n}\n```\nNote that the range value for a TV is typically measured in pounds, and the typical range for a TV is from 0 to 250 pounds. However, it's important to note that this is just an estimation and the actual weight of a TV can vary depending on the specific model and size. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 10,\n\"max\\_value\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 50\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 25\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 12,\n\"max_size\": 12\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"data\": {\n    \"concept\": \"sheep\",\n    \"range_size\": {\n      \"min_size\": 0.0,\n      \"max_size\": 0.0\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"type\": \"assistant\",\n  \"data\": {\n    \"min_size\": 0.5,\n    \"max_size\": 2.0\n  },\n  \"success\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"1\",\n  \"concept_id\": \"4\",\n  \"query\": \"sheep\",\n  \"intent\": \"info\",\n  \"query_time\": \"2018-06-22T19:51:48.298Z\",\n  \"context\": {\n    \"previous_results\": [],\n    \"intents\": [],\n    \"entities\": [],\n    \"slots\": [],\n    \"followup_intents\": [],\n    \"current_slot\": {}\n  },\n  \"metadata\": {\n    \"session_id\": \"415a851e-888c-4b68-a648-096b5c82f194\",\n    \"session_start_time\": \"2018-06-22T19:51:48.298Z\",\n    \"session_end_time\": \"2018-06-22T19:51:48.298Z\",\n    \"session_duration\": \"0.0002076923828125\",\n    \"bot_id\": \"6822435\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.25,\n  \"max_size\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"assistant\",\n  \"type\": \"text\",\n  \"properties\": {\n    \"help\": \"Type something\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 80,\n  \"max_size\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\":24, \"max_size\":48}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24,\n  \"max_size\": 48\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15.0,\n  \"max_size\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 39,\n  \"max_size\": 65.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 2.0,\n  \"max_size\": 4.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"concept\": \"sheep\",\n  \"min_size\": 1.00,\n  \"max_size\": 1.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"type\": \"Feature\",\n  \"properties\": {\n    \"name\": \"Alice\",\n    \"age\": 34\n  },\n  \"geometry\": {\n    \"type\": \"Point\",\n    \"coordinates\": [\n      -73.9667,\n      40.7667\n    ]\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 300,\n  \"units\": \"inches\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  }
+]

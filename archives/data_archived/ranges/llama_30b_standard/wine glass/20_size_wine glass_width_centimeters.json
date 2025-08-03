@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 11.5, \"max_size\": 23}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"a1a1a1a1a1a1a1a1\",\n  \"concept\": \"wine glass\",\n  \"domain\": \"food\",\n  \"min_size\": 5,\n  \"max_size\": 8\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3,\n  \"max_size\": 12,\n  \"unit\": \"cm\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{ \"user_id\": \"12345\", \"concept_type\": \"wine_glass\", \"range_size\": {\"min_size\": 10, \"max_size\": 20}}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"name\": \"Siri\",\n  \"skills\": [\n    \"Music\",\n    \"Sports\",\n    \"Weather\",\n    \"Navigation\",\n    \"Currency\"\n  ]\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 17.5,\n  \"max_size\": 19.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user_id\": 1234,\n  \"first_name\": \"Alice\",\n  \"last_name\": \"Smith\",\n  \"email\": \"alice@example.com\",\n  \"phone\": \"1234567890\",\n  \"language\": \"english\",\n  \"profile\": \"default\",\n  \"timezone\": \"Europe/Berlin\",\n  \"currency\": \"EUR\",\n  \"conversation_id\": \"1234567890123456789\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"question\": \"I want to buy some wine glasses. I'm looking for 6 glasses, but I'm not sure what size they should be. I would like them to be between 5 and 10 inches tall. Can you help me?\",\n  \"context\": {\n    \"location\": \"San Francisco, CA\",\n    \"date\": \"2018-01-02\"\n  },\n  \"entities\": {\n    \"wine_glass\": {\n      \"value\": \"wine glass\",\n      \"intent\": \"buy\"\n    }\n  },\n  \"metadata\": {\n    \"intent_name\": \"wine_glass\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 15, \"max_size\": 20}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 7.0, \"max_size\": 15.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\": \"wine glass\",\n  \"properties\": [\n    {\n      \"property\": \"min_size\",\n      \"type\": \"float\",\n      \"range\": \"15.0\"\n    },\n    {\n      \"property\": \"max_size\",\n      \"type\": \"float\",\n      \"range\": \"15.0\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 150,\n  \"max_size\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 14,\n  \"max_size\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept\": \"wine glass\",\n  \"min_size\": 6.2,\n  \"max_size\": 12.4\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "wine glass",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"concept\": \"wine glass\",\n    \"context\": {\n      \"user_id\": 1234\n    },\n    \"inputs\": [\n      {\n        \"intent\": \"get_size_range\",\n        \"slots\": [\n          {\n            \"name\": \"range\",\n            \"value\": \"size\"\n          }\n        ]\n      }\n    ],\n    \"metadata\": {\n      \"locale\": \"en-US\",\n      \"bot_id\": 1234\n    }\n  }\n "
+  }
+]

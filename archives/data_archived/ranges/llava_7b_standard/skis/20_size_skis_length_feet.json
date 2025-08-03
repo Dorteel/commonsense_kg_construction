@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 130,\n    \"max_size\": 225\n}\n```\nNote that this is a rough estimate and actual sizes may vary depending on the type of skis and individual preferences. Additionally, this information is based on typical adult-sized skis and does not include children's or specialized skis such as backcountry or telemark. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 130,\n  \"max_size\": 215\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 195\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 120,\n  \"max_size\": 210\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 150,\n  \"max_size\": 210\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 120,\n    \"max_size\": 195\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10,\n    \"max_size\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 216\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 216\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.0,\n  \"max_size\": 185.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10,\n\"max\\_size\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0,\n   \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 180\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 140\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 100,\n   \"max_size\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skis",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10,\n    \"max_size\": 200\n}\n``` "
+  }
+]

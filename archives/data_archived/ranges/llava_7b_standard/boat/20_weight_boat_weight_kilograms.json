@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 50,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 1,\n    \"max_weight\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.5,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 50,\n    \"max_weight\": 500\n}\n```\nNote that the values provided are typical ranges for small boats and may vary based on specific type of boat or location. Additionally, this is a rough estimate and should not be considered as an authoritative source. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 50,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 10000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0.0,\n\"max\\_weight\": 100.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 10,\n  \"max_weight\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.0,\n    \"max_weight\": 200.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 10,\n   \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 50,\n\"max\\_weight\": 1000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 50,\n  \"max_weight\": 1000\n}\n```\nNote that the range provided is a rough estimate and can vary depending on the type and size of the boat. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "boat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 10,\n  \"max_weight\": 200\n}\n```\nThis JSON represents the typical range of weight for a boat in kilograms. The minimum weight is set to 10 kg and the maximum weight is set to 200 kg. Keep in mind that this range may vary depending on the specific type and size of the boat. "
+  }
+]

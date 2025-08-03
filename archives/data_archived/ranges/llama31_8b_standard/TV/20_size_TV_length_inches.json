@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.3,\n  \"max_size\": 80\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.0,\n  \"max_size\": 100.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 23,\n  \"max_size\": 85\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 16,\n  \"max_size\": 85\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 85.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 85.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 19.0,\n  \"max_size\": 85.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 20,\n    \"max_size\": 80\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 13.3,\n  \"max_size\": 85\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 19.0,\n  \"max_size\": 85.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 95.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.5,\n  \"max_size\": 85\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 80\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 95.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 16.0,\n    \"max_size\": 80.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 98.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 85.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24.0,\n  \"max_size\": 95.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 24,\n  \"max_size\": 95\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20.0,\n  \"max_size\": 80.0\n}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 60.0,\"max_size\": 350.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 250}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 240.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 350.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 350.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 60, \"max_size\": 200}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 250.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "cup",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 50.0, \"max_size\": 300.0}"
+  }
+]

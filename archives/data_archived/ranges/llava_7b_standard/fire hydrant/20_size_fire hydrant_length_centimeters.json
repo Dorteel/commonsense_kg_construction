@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 25,\n    \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 200,\n  \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 100,\n    \"max_size\": 300\n}\n```\nNote that the range of fire hydrant sizes can vary widely and the values provided here are approximate. The size of a fire hydrant may depend on local regulations, pressure requirements, and other factors. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 300\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 50,\n    \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 300,\n    \"max_size\": 600\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 30,\n  \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 30,\n\"max\\_size\": 120\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 20,\n  \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 30,\n  \"max_size\": 45\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 200,\n    \"max_size\": 400\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 25.0,\n\"max\\_size\": 45.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 15.0,\n  \"max_size\": 60.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 50,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 20,\n    \"max_size\": 45\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "fire hydrant",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 300\n} "
+  }
+]

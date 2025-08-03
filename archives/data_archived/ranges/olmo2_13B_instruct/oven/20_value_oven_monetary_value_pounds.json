@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 10.0, \"max_value\": 150.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"8\", \"max_value\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"12\", \"max_value\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"4\", \"max_value\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0\", \"max_value\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"11\", \"max_value\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"not applicable\", \"max_value\": \"not applicable\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"2\", \"max_value\": \"500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"8\", \"max_value\": \"90\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"2\", \"max_value\": \"200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"300\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0\", \"max_value\": \"400\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"2\", \"max_value\": \"22\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "oven",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"10\", \"max_value\": \"150\"}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"5.5 inches\",\n  \"max_size\": \"9.5 inches\"\n}\n  "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.5,\n  \"max_size\": 12.0\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 25.0\n}\n   "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"6x9 inches\",\n  \"max_size\": \"12x15 inches\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"4.25\",\n  \"max_size\": \"15\"\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6,\n  \"max_size\": 1000\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.25,\n  \"max_size\": 12.0\n}\n  "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.7,\n  \"max_size\": 12.0\n}\n"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 6.5,\n  \"max_size\": 12.0\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 120\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 250\n}\n   "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.7,\n  \"max_size\": 10.65\n}\n"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.5,\n  \"max_size\": 13.5\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.0,\n  \"max_size\": 12.0\n}\n   "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.25,\n  \"max_size\": 15.625\n}\n   "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 18\n}\n         "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.7,\n  \"max_size\": 14.7\n}\n   "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 16.5\n}\n   "
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.25,\n  \"max_size\": 15.625\n}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "phi_4k_instruct",
+    "concept": "book",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5.0,\n  \"max_size\": 120.0\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 60,\n    \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 150\n}\n```\nNote that the range of temperatures for a chair is quite broad as it does not have a specific temperature range. The minimum temperature is around -40 degrees Fahrenheit, while the maximum temperature is around 150 degrees Fahrenheit. This range is based on typical indoor and outdoor conditions where a chair might be used or stored. However, this range may vary depending on the materials and construction of the chair. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 65,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 60,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 32,\n   \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 32,\n\"max\\_temperature\": 70\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 50,\n    \"max_temperature\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -32,\n  \"max_temperature\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 50,\n    \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 80\n}\n``` "
+  }
+]

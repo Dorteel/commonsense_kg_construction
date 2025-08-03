@@ -1,7 +1,7 @@
 name: measurement
 type: float
 template: |
-  Given the {concept} {description_clause},
+  Given the concept of {concept} {description_clause},
   provide the average {range_clause}{domain}{dimension_clause} measured in {measurement}.
   Return only JSON with key:
     - {dimension} (float)

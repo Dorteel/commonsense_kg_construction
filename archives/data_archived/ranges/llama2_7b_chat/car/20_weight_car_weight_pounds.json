@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1500,\n  \"max_weight\": 4000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 2000,\n  \"max_weight\": 4000\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 3000.0,\n\"max_weight\": 6000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 2000.0,\n\"max_weight\": 4000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 2500,\n\"max_weight\": 6000\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1000,\n\"max_weight\": 4000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1000.0,\n\"max_weight\": 4000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1000.0,\n\"max_weight\": 6000.0\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 2500,\n\"max_weight\": 6000\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1000.0,\n\"max_weight\": 4000.0\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 2500,\n\"max_weight\": 6000\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1000.0,\n\"max_weight\": 4000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 100,\n\"max_weight\": 3000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 2000,\n\"max_weight\": 4000\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 150.0,\n\"max_weight\": 4500.0\n}"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1500.0,\n\"max_weight\": 6500.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 100,\n\"max_weight\": 4000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 2000.0,\n\"max_weight\": 4000.0\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 100,\n\"max_weight\": 3000\n}\n"
+  },
+  {
+    "client": "llama2_7b_chat",
+    "concept": "car",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n\"min_weight\": 1500,\n\"max_weight\": 4500\n}\n"
+  }
+]

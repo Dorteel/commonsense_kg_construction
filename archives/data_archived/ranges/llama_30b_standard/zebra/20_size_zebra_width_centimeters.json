@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n    \"concept\": \"zebra\",\n    \"type\": \"animal\",\n    \"range\": {\n        \"min_size\": 1.0,\n        \"max_size\": 5000000.0\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 2000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4100,\n  \"max_size\": 6600\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"user\": {\n    \"first_name\": \"John\",\n    \"last_name\": \"Smith\",\n    \"gender\": \"male\",\n    \"age\": 12,\n    \"height\": 134\n  },\n  \"user_id\": \"1234567890\",\n  \"language\": \"en\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 140,\n  \"max_size\": 155\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 120,\n  \"max_size\": 180\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 200000000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"concept\":\"zebra\",\"min_size\":280,\"max_size\":320}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 180,\n  \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 122,\n  \"max_size\": 160\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 220,\n  \"max_size\": 260\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 10000, \"max_size\": 15000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.0,\n  \"max_size\": 1000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 6\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1500, \"max_size\": 1500}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"concept_id\": 42,\n  \"concept_name\": \"zebra\",\n  \"min_size\": 110.0,\n  \"max_size\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "zebra",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 100.0,\n  \"max_size\": 140.0\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 400, \"max_weight\": 900}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"840\", \"max_weight\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"900\", \"max_weight\": \"1200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1210, \"max_weight\": 1430}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"800\", \"max_weight\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 450.0, \"max_weight\": 880.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"650\", \"max_weight\": \"990\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 400.0, \"max_weight\": 850.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 900.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600, \"max_weight\": 1100}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 660, \"max_weight\": 990}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 500.0, \"max_weight\": 900.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"1050\", \"max_weight\": \"1220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"850\", \"max_weight\": \"1200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 250.0, \"max_weight\": 900.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 2500.0,\"max_weight\": 9000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 250.0, \"max_weight\": 900.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 0.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"900\", \"max_weight\": \"1,030\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "zebra",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"660\", \"max_weight\": \"990\"}"
+  }
+]

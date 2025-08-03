@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 20,\n\"max\\_size\": 65\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 15,\n\"max\\_size\": 60\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 26,\n    \"max_size\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 20,\n  \"max_size\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 19,\n  \"max_size\": 78\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 26,\n  \"max\\_size\": 70\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 15,\n    \"max_size\": 60\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 65\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.0,\n\"max\\_size\": 140.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 65\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 10,\n  \"max\\_size\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10,\n\"max\\_size\": 70\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 32,\n  \"max_size\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10,\n\"max\\_size\": 80\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 26,\n    \"max_size\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 13,\n    \"max_size\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "TV",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 65\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male dogs: 20-90, female dogs: 20-70\", \"max_value\": \"male dogs: 200, female dogs: 120\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male_: 20.0, female_: 18.0\", \"max_value\": \"male_: 175.0, female_: 120.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male dogs: 20–40 pounds, female dogs: 18–39 pounds\", \"max_value\": \"male dogs: 175 pounds or more, female dogs: 125 pounds or more\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 20-90, female: 30-70\", \"max_value\": \"male: 175, female: 125\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 2.0, \"max_value\": 200.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 20-90, female: 30-70\", \"max_value\": \"male: 200, female: 120\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 3.0, \"max_value\": 180.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 20-90, female: 30-70\", \"max_value\": \"male: 175, female: 120\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"20\", \"max_value\": \"60\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 20-40, female: 18-35\", \"max_value\": \"male: 175+, female: 125+\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 3-6 lbs, female: 18-20 lbs\", \"max_value\": \"male: 80-120 lbs, female: 50-70 lbs\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"20\", \"max_value\": \"175\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 15-50; female: 18-40\", \"max_value\": \"male: 175 lbs; female: 125 lbs\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male\", \"max_value\": \"male\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 20-40, female: 30-50\", \"max_value\": \"male: 100-200, female: 80-130\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male_20-40\", \"max_value\": \"male_60\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "dog",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"male: 20-90, female: 30-70\", \"max_value\": \"male: 175+, female: 120+\"}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"min_temperature\": 100,\n    \"max_temperature\": 200\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 32,\n    \"max_temperature\": 70\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": -40,\n  \"max_temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 60,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 0.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 45,\n  \"max_temperature\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0,\n    \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 40,\n  \"max_temperature\": 95\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32,\n  \"max_temperature\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"user_id\": \"41c2b570-06f5-431b-a48e-9387db9d5338\",\n    \"is_active\": true,\n    \"user_name\": \"John Doe\",\n    \"is_admin\": false\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : \"30\",\n  \"max_temperature\" : \"120\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 27.777777777777776,\n  \"max_temperature\": 27.777777777777776\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32,\n  \"max_temperature\": 122\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 1.1,\n  \"max_temperature\": 1.2\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32.0,\n  \"max_temperature\": 35.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"min_temperature\": 32,\n    \"max_temperature\": 86\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32.0,\n  \"max_temperature\": 80.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 200,\n  \"max_temperature\" : 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 32,\n    \"max_temperature\": 140\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 40,\n  \"max_temperature\": 85,\n  \"carrot\": [\n    \"an orange root vegetable\",\n    \"the root of the carrot plant\",\n    \"a vegetable with a crisp texture and a sweet flavor\",\n    \"a long orange root eaten as a vegetable\"\n  ]\n}\n"
+  }
+]

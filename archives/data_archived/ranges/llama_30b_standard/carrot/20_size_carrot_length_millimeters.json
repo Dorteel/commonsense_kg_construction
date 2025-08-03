@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 15, \"max_size\": 30 }\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 20,\n  \"max_size\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"concept\": \"carrot\",\n    \"size\": \"range\",\n    \"min_size\": 25.0,\n    \"max_size\": 50.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0,\n  \"max_size\": 2000,\n  \"color\": \"Deep Orange\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 10.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n\"min_size\": 3.0,\n\"max_size\": 8.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"name\": \"Siri\",\n    \"nickname\": \"Assistant\",\n    \"gender\": \"female\",\n    \"skills\": [\n        \"finding things\",\n        \"answering questions\",\n        \"making phone calls\",\n        \"texting\",\n        \"setting reminders\",\n        \"making payments\",\n        \"playing music\"\n    ],\n    \"personality\": \"witty\",\n    \"favourite_colours\": [\n        \"yellow\",\n        \"white\",\n        \"green\",\n        \"black\"\n    ],\n    \"favourite_food\": \"carrots\",\n    \"favourite_music\": \"80s music\",\n    \"favourite_movies\": \"Star Wars\",\n    \"favourite_cars\": \"Tesla\",\n    \"favourite_books\": \"Harry Potter\",\n    \"favourite_games\": \"Fortnite\",\n    \"favourite_tv_shows\": \"Game of Thrones\",\n    \"favourite_places\": \"Niagara Falls\",\n    \"favourite_sports\": \"Football\",\n    \"favourite_football_teams\": \"Ravens\",\n    \"favourite_baseball_teams\": \"Orioles\",\n    \"favourite_hockey_teams\": \"Capitals\",\n    \"favourite_basketball_teams\": \"Bulls\",\n    \"favourite_soccer_teams\": \"Chelsea\",\n    \"favourite_"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 200\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12,\n  \"max_size\": 18\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 60, \"max_size\": 150}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"name\": \"carrot\",\n  \"range_size\": {\n    \"min_size\": 2000,\n    \"max_size\": 20000\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.5,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0.0,\n    \"max_size\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 18.5,\n  \"max_size\": 28.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"carrot\": {\n    \"min_size\": 10,\n    \"max_size\": 50\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 60,\n    \"max_size\": 80\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1.0,\n  \"max_size\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "carrot",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\": 40.0, \"max_size\": 90.0 }\n"
+  }
+]

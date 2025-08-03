@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 1.0,\n  \"max_value\": 5.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"$0.50\",\n  \"max_value\": \"$2.00\"\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 1.0,\n  \"max_value\": 50.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$0.50\",\n  \"max_value\": \"$10\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.35,\n  \"max_value\": 1.20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$0.50\",\n  \"max_value\": \"$2\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$2.00\",\n  \"max_value\": \"$35.00\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$1.00\",\n  \"max_value\": \"$5.00\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$2.00\",\n  \"max_value\": \"$5.00\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"$1.00\",\n  \"max_value\": \"$5.00\"\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$2.50\",\n  \"max_value\": \"$4.50\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 3\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$2.00\",\n  \"max_value\": \"$5.00\"\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 1.0,\n  \"max_value\": 5.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "carrot",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": \"$2.00\",\n  \"max_value\": \"$5.00\"\n}\n```"
+  }
+]

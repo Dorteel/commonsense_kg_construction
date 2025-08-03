@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600.0,\n  \"max_size\": 1200.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 900,\n  \"max_size\": 1500\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 800,\n  \"max_size\": 1400\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1200.0,\n    \"max_size\": 1800.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 800,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 600.0,\n  \"max_size\": 1800.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 560,\n  \"max_size\": 920\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 800,\n  \"max_size\": 1200\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450,\n  \"max_size\": 900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 450.0,\n  \"max_size\": 900.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 560,\n  \"max_size\": 900\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 1200,\n    \"max_size\": 1800\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "oven",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 840,\n  \"max_size\": 1370\n}"
+  }
+]

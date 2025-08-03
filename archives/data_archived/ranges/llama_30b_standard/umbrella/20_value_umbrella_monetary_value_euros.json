@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 100.0,\n    \"max_value\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"question\": \"What are the typical range values of umbrellas in euros?\",\n  \"options\": [\n    {\n      \"text\": \"€0 - €20\",\n      \"value\": \"0-20\"\n    },\n    {\n      \"text\": \"€20 - €30\",\n      \"value\": \"20-30\"\n    },\n    {\n      \"text\": \"€30 - €50\",\n      \"value\": \"30-50\"\n    },\n    {\n      \"text\": \"€50 - €70\",\n      \"value\": \"50-70\"\n    },\n    {\n      \"text\": \"€70 - €100\",\n      \"value\": \"70-100\"\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 100000, \"max_value\": 200000000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 100,\n  \"max_value\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.00000,\n  \"max_value\": 4.00000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 30,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 40.00,\n    \"max_value\": 70.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"max_value\": 100.0, \"min_value\": 50.0}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 30,\n  \"max_value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 15.00,\n\"max_value\": 45.00,\n\"source\": \"https://api.ecomony.com/price/umbrella?range=15-45\",\n\"currency\": \"EUR\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 15.00,\n  \"max_value\": 200.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"0.5\",\n  \"max_value\": \"200\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2,\n  \"max_value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": {\n    \"euros\": {\n      \"range\": [10, 100]\n    }\n  },\n  \"max_value\": {\n    \"euros\": {\n      \"range\": [100, 1000]\n    }\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0.3,\"max_value\":0.8}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concept\": \"umbrella\",\n  \"min_value\": 10.0,\n  \"max_value\": 50.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user_id\": 1,\n  \"concept\": \"umbrella\",\n  \"min_value\": 50.0,\n  \"max_value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "umbrella",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 20\n}\n"
+  }
+]

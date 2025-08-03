@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.0\", \"max_value\": \"100000000000000000000000000000000.0\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"name\": \"knife\",\n\"type\": \"product\",\n\"price\": 40\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.0,\n  \"max_value\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": {\n        \"currency\": \"EUR\",\n        \"value\": 2.99\n    },\n    \"max_value\": {\n        \"currency\": \"EUR\",\n        \"value\": 34.99\n    }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0.0,\"max_value\":99.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 450.0,\n  \"max_value\": 550.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 15,\n  \"max_value\": 30\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":0.0, \"max_value\":0.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 100,\n  \"max_value\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"text\": \"Given the concept of knife (which is edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle), provide the typical range valueas in {} measured in euros. Return only JSON with keys: \\n  - min_value (float) \\n  - max_value (float)\\n\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concept\": \"knife\",\n  \"min_value\": \"0.25\",\n  \"max_value\": \"1.5\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "knife",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.1,\n  \"max_value\": 100\n}\n"
+  }
+]

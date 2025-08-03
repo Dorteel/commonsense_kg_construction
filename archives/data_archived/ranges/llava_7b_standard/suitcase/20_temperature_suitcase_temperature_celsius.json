@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -20,\n  \"max_temperature\": 30\n}\n```\nNote: The range provided is a rough estimate and can vary depending on the specific use case or location. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 0,\n  \"max\\_temperature\": 25\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -20,\n\"max\\_temperature\": 35\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 15,\n\"max\\_temperature\": 30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 10,\n    \"max_temperature\": 25\n}\n```\nNote: This is a rough estimate and the actual temperature range for suitcases can vary based on factors such as location and weather conditions. It's also worth noting that suitcases should not be exposed to extreme temperatures, so it's important to keep them away from direct sunlight or in extremely cold environments to avoid potential damage. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": -10,\n   \"max_temperature\": 35\n}\n```\nNote that the temperature range provided is a rough estimate and can vary depending on location and season. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -10,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -10,\n  \"max_temperature\": 30\n}\n```\nNote: The typical range temperature for a suitcase is not well defined as it depends on the specific type of suitcase and its intended use. However, as a general guideline, a common range could be from -10 to 30 degrees Celsius. This range takes into account different environments in which a suitcase may be used or stored. For example, a suitcase for travel might need to withstand cold weather while still being able to handle warmer temperatures. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 25,\n    \"max_temperature\": 35\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -5,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0,\n    \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 0,\n   \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "suitcase",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -20,\n  \"max_temperature\": 35\n}\n``` "
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 15,\n  \"max_temperature\": 20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 6.1,\n  \"max_temperature\": 20.9\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 15,\n  \"max_temperature\": 20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 6.0,\n  \"max_temperature\": 7.2\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 6.1,\n  \"max_temperature\": 28.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 673.15,\n  \"max_temperature\": 298.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 6, // Considering it's typically around 58.3°F or 14.6°C,\n  \"max_temperature\": 20   // And in the range of about 79-86°F or 26-30°C depending on the wine type.\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 15.0,\n  \"max_temperature\": 25.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 25.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 72\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 35\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 68.0,\n  \"max_temperature\": 73.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 5,\n    \"max_temperature\": 20\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 25.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 15,\n  \"max_temperature\": 20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 35\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 15,\n  \"max_temperature\": 20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 50.0,\n  \"max_temperature\": 283.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 15,\n  \"max_temperature\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "wine glass",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 18,\n  \"max_temperature\": 22\n}\n```"
+  }
+]

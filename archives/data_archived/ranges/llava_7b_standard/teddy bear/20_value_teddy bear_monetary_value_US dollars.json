@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 1.0,\n    \"max_value\": 500.0\n}\n```\nNote that the range provided here is a rough estimate and may vary depending on factors such as the quality of materials used, the complexity of designs, and other factors. The minimum value of $1.0 could be for a simple, small teddy bear while the maximum value of $500.0 could be for an elaborately designed or highly sought-after collectible teddy bear. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n  \"min\\_value\": 0,\n  \"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 10,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 5,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 1,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n  \"min\\_value\": 0,\n  \"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0.5,\n\"max\\_value\": 100.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 5,\n\"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0.5,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 5,\n    \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "teddy bear",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 10,\n    \"max_value\": 200\n}\n``` "
+  }
+]

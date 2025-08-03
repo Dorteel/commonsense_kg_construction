@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 20,\n\"max\\_size\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.1,\n\"max\\_size\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.5,\n  \"max_size\": 100.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.0,\n    \"max_size\": 15.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 30,\n\"max\\_size\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 150\n}\n```\nNote that the typical range size for an airplane is not specified in inches, but rather in feet or meters. However, if we were to convert a range of feet to inches, we could estimate a maximum range size for an airplane to be approximately 150 inches (12 feet). This is just an estimation and may not accurately reflect the actual range sizes of all airplanes. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10.0,\n  \"max_size\": 75.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 120,\n\"max\\_size\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 20,\n\"max\\_size\": 180\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 100000000000 // This is a very rough estimate and may not be accurate. Airplanes can vary greatly in size.\n}\n```\nNote: The maximum size listed above is an extremely rough estimate and should not be taken as an accurate representation of the largest airplane that has ever been built. Airplanes can vary greatly in size, and there are many factors that can affect their dimensions, such as the number of engines, the type of aircraft, and the intended use. Additionally, some airplanes may not have a defined maximum size due to practical limitations, such as the size of airport runways or the weight capacity of support structures. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 24,\n\"max\\_size\": 168\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 30.0,\n  \"max_size\": 150.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 360\n}\n```\nNote that the range provided here is a rough estimate and can vary depending on the specific type of airplane. For example, small single-engine propeller planes may have a minimum size of around 12 feet (3.7 meters) wingspan, while large commercial jets can have a wingspan of over 100 feet (30.5 meters). Additionally, the range provided here is based on typical sizes and does not include specialized aircraft such as helicopters or gliders. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 168\n}\n``` "
+  }
+]

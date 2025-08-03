@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 100,\n    \"max_size\": 500\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 15,\n  \"max_size\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10000,\n  \"max_size\": 30000,\n  \"type\": \"airplane\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"name\": \"Bob\",\n    \"age\": 42,\n    \"likes\": [\"pizza\", \"baseball\", \"dogs\"],\n    \"pet\": \"cat\",\n    \"location\": \"Boston, MA\",\n    \"friends\": [\n        {\"name\": \"Bob\", \"age\": 42},\n        {\"name\": \"John\", \"age\": 35},\n        {\"name\": \"Peter\", \"age\": 29}\n    ]\n}\n  \t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"1234567890\",\n  \"user_name\": \"John Smith\",\n  \"user_email\": \"john@smith.com\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": \"12\",\n    \"max_size\": \"14\",\n    \"type\": \"integer\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 36, \"max_size\": 203}\n  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 65.0,\n  \"max_size\": 115.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1000,\n  \"max_size\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"user_id\" : \"assistant\",\n  \"question\" : \"How many years old is a 10 years old boy?\"\n}\n   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 40,\n  \"max_size\": 180\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"concept\": \"airplane\",\n  \"properties\": [\n    \"min_size\",\n    \"max_size\"\n  ],\n  \"values\": [\n    {\n      \"concept\": \"airplane\",\n      \"properties\": [\n        \"min_size\",\n        \"max_size\"\n      ],\n      \"values\": [\n        {\n          \"concept\": \"min_size\",\n          \"properties\": [],\n          \"values\": [\n            {\n              \"concept\": \"float\",\n              \"properties\": [],\n              \"values\": [\n                \"16\"\n              ]\n            }\n          ]\n        },\n        {\n          \"concept\": \"max_size\",\n          \"properties\": [],\n          \"values\": [\n            {\n              \"concept\": \"float\",\n              \"properties\": [],\n              \"values\": [\n                \"200\"\n              ]\n            }\n          ]\n        }\n      ]\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\":1.0, \"max_size\":2.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50.0,\n  \"max_size\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"question\": {\n    \"text\": \"What is the name of the founder of the company that makes this phone?\"\n  },\n  \"context\": {\n    \"system\": {\n      \"user_id\": \"00000000-0000-0000-0000-000000000000\",\n      \"conversation_id\": \"1476106351405\",\n      \"language\": \"en-US\",\n      \"time_zone\": \"America/Los_Angeles\",\n      \"locale\": \"en-US\",\n      \"ip_address\": \"1.2.3.4\"\n    },\n    \"user\": {\n      \"user_id\": \"00000000-0000-0000-0000-000000000000\",\n      \"name\": \"John Smith\",\n      \"avatar_url\": \"https://example.com/path/to/avatar.png\"\n    },\n    \"device\": {\n      \"model\": \"iPhone 6\",\n      \"model_id\": \"iphone_se\",\n      \"manufacturer\": \"Apple\",\n      \"form_factor\": \"phone\",\n      \"resolution\": \"1334x750\",\n      \"color\": \"white\",\n      \"carrier\": \"AT&T\"\n    },\n    \"application\": {\n      \"version_name\": \"1.0\",\n      \"version_code\": \"1\",\n      \"package_name\": \"com.example.android."
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{ \"min_size\" : 0.0, \"max_size\" : 40000.0 }\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"min_size\": 82.0,\n  \"max_size\": 180.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 126.0, \"max_size\": 252.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n    \"min_size\": 0,\n    \"max_size\": 20000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "airplane",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\n  \"airplane\": {\n    \"min_size\": 100,\n    \"max_size\": 100000\n  },\n  \"range\": {\n    \"min_size\": 500,\n    \"max_size\": 1000000\n  }\n}\n"
+  }
+]

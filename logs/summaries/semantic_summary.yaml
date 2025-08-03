@@ -1,0 +1,314 @@
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - &id002 !!python/object/apply:numpy.dtype
+    args:
+    - i8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    RiEAAAAAAAA=
+  model: deepseekr1_1b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    uB6F61G4M0A=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgehesRVEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    eocAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    IDoAAAAAAAA=
+  model: deepseekr1_distill_llama_70b
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uB6F61E4QUA=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pHA9CtdjUEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    oG4AAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    xgUAAAAAAAA=
+  model: llava_7b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XI/C9ShcC0A=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hetRuB4lWEA=
+  total: 43189
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    76IAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    oAEAAAAAAAA=
+  model: phi3mini_4k_instruct_fp16
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uB6F61G47j8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    w/UoXI/CWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    IKcAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    KwIAAAAAAAA=
+  model: qwen25_1b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    exSuR+F69D8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rkfhehSuWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    laYAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    JAIAAAAAAAA=
+  model: llama31_8b_instant
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgehetR9D8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    H4XrUbiuWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    nKYAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    IwAAAAAAAAA=
+  model: gpt41
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    exSuR+F6tD8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    exSuR+H6WEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    nagAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    fAQAAAAAAAA=
+  model: deepseekr1_8b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SOF6FK5HBUA=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9ihcj8JVWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    RKQAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    jQ4AAAAAAAA=
+  model: llama_30b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PQrXo3A9IUA=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uB6F61HYVkA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    M5oAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    fQUAAAAAAAA=
+  model: llama31_8b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAACkA=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAwWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    Q6MAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    EAIAAAAAAAA=
+  model: qwen25_7b_standard
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hetRuB6F8z8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgeheuxWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    sKYAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    tQ8AAAAAAAA=
+  model: olmo2_13B_instruct
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    H4XrUbieIkA=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XI/C9SisVkA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    C5kAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    ZAAAAAAAAAA=
+  model: llama31_8b_instruct
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cT0K16NwzT8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4XoUrkfxWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    XKgAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    rAEAAAAAAAA=
+  model: phi3mini_4k_instruct_q4
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rkfhehSu7z8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cT0K16PAWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    FKcAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    JgAAAAAAAAA=
+  model: llama4scout_17b16e_instruct
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CtejcD0Ktz8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CtejcD36WEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    mqgAAAAAAAA=
+- invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    JAIAAAAAAAA=
+  model: llama31_8b_instant
+  percent_invalid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UrgehetR9D8=
+  percent_valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    H4XrUbiuWEA=
+  total: 43200
+  valid: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id002
+  - !!binary |
+    nKYAAAAAAAA=

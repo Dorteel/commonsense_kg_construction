@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.01,\"max_size\": 0.1}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"0.3\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 25.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.01\", \"max_size\": \"0.3\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 15.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.02, \"max_size\": 0.1}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.03, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 0.3}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "apple",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.01, \"max_size\": 0.4}"
+  }
+]

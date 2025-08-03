@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": {\"value\": 600}, \"max_weight\": {\"value\": 650}}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 550000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0,\"max_weight\": 560000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 6000.0, \"max_weight\": 650000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 500000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 550000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"4500\", \"max_weight\": \"500000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"3800\", \"max_weight\": \"560000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600, \"max_weight\": 650000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"less than 600\", \"max_weight\": \"over 500000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 6000.0, \"max_weight\": 525000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600, \"max_weight\": 575000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 560000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 590000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"6000\", \"max_weight\": \"550000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0,\"max_weight\": 575000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 600.0, \"max_weight\": 525000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"5600\", \"max_weight\": \"560000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"6000\", \"max_weight\": \"500000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "airplane",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 6000.0, \"max_weight\": 560000.0}"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 200\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 105.0,\n  \"max_value\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 120.0,\n  \"max_value\": 250.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 250\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 105.0,\n  \"max_value\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10.5,\n  \"max_value\": 200.5\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 120.0,\n  \"max_value\": 250.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10.0,\n  \"max_value\": 250.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10.0,\n  \"max_value\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 105.0,\n  \"max_value\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 105.4,\n  \"max_value\": 209.8\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10.5,\n  \"max_value\": 220.4\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 75,\n  \"max_value\": 200\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 250\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 105.0,\n  \"max_value\": 200.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "person",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 105.0,\n  \"max_value\": 200.0\n}\n```"
+  }
+]

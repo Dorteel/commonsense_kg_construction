@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 50,\n\"max\\_temperature\": 240\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 70,\n    \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 50,\n   \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 250\n}\n```\nNote: The temperature range for microwaves is approximately 0 to 250 degrees Celsius. However, this range may vary depending on the specific model and settings of the microwave. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 70,\n\"max\\_temperature\": 120\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n  \"min\\_temperature\": 100,\n  \"max\\_temperature\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -10,\n\"max\\_temperature\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 25,\n  \"max_temperature\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 100,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 100,\n  \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": -30,\n    \"max_temperature\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 0,\n  \"max_temperature\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 50,\n\"max\\_temperature\": 240\n} "
+  }
+]

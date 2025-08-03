@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 150,\n   \"max_size\": 900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 100,\n\"max\\_size\": 40000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 15,\n\"max\\_size\": 4000\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.2,\n    \"max_size\": 0.8\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 125,\n  \"max_size\": 3000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 250,\n  \"max_size\": 1600\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 42000.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 100,\n  \"max_size\": 900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 914.4\n}\n```\nNote that the range provided here is typical for adult cats and may vary for kittens or specific breeds of cats. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.2,\n    \"max_size\": 400000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 0.85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10,\n    \"max_size\": 45\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.1,\n\"max\\_size\": 762\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 15,\n  \"max_size\": 90\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 15,\n    \"max_size\": 900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 150,\n  \"max_size\": 850\n}\n```"
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 150,\n    \"max_size\": 700\n}\n``` "
+  }
+]

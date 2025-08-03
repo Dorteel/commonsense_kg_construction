@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 15\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.2,\n    \"max_weight\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0.1,\n\"max\\_weight\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.25,\n  \"max_weight\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1000000000\n}\n```\nNote that the maximum weight is an upper limit and may not be achievable in practice. Microwave ovens are typically used to cook small to medium-sized portions of food, so a more realistic range for the weight of the contents of a microwave oven might be something like 0 to 500 grams. However, this information is not provided in the question. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 10,\n   \"max_weight\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 1000\n}\n```\nNote that the typical range for microwave weight is quite broad and can vary depending on the specific model and size of the microwave oven. This JSON provides a general estimate. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 1000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "microwave",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 2.5\n}\n``` "
+  }
+]

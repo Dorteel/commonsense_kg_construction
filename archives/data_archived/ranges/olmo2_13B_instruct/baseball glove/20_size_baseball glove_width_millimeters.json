@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 200,\"max_size\": 400}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 300.0,\"max_size\": 400.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 225.0,\"max_size\": 325.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 185.0,\"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": null, \"max_size\": null}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 320, \"max_size\": 380}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 190, \"max_size\": 400}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 225.0, \"max_size\": 325.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 350.0, \"max_size\": 450.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 150.0, \"max_size\": 300.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 250, \"max_size\": 300}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": null, \"max_size\": null}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 325.0,\"max_size\": 425.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": null, \"max_size\": null}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 225.0, \"max_size\": 330.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 325.0, \"max_size\": 425.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 340.00,\"max_size\": 420.00}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 225.0, \"max_size\": 325.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 280.0,\"max_size\": 330.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "baseball glove",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": null, \"max_size\": null}"
+  }
+]

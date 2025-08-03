@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\":200.0,\"max_temperature\":225.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": -20.0,\n\"max_temperature\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 32.0, \"max_temperature\": 99.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32,\n  \"max_temperature\": 212\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32.0,\n  \"max_temperature\": 135.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 5, \"max_temperature\": 30}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 25\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 32.0,\n  \"max_temperature\" : 38.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0.0,\n    \"max_temperature\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_name\": \"Kelly\",\n  \"user_id\": 123456,\n  \"email\": \"kelly@gmail.com\",\n  \"password\": \"password\",\n  \"created_at\": \"2018-01-01 00:00:00\",\n  \"updated_at\": \"2018-01-01 00:00:00\",\n  \"assistant\": {\n    \"assistant_name\": \"Kelly\",\n    \"assistant_id\": 123456,\n    \"password\": \"password\",\n    \"created_at\": \"2018-01-01 00:00:00\",\n    \"updated_at\": \"2018-01-01 00:00:00\"\n  },\n  \"user_attributes\": {\n    \"first_name\": \"Kelly\",\n    \"last_name\": \"Smith\",\n    \"gender\": \"Female\",\n    \"age\": \"35\"\n  },\n  \"user_preferences\": {\n    \"preference_id\": 123456,\n    \"preference_name\": \"Preference 1\",\n    \"preference_value\": \"A\"\n  },\n  \"user_status\": {\n    \"status_id\": 123456,\n    \"status_name\": \"Available\",\n    \"status_value\": \"1\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 32.0,\n\"max_temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20.0,\n  \"max_temperature\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 100, \"max_temperature\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 28, \"max_temperature\": 140, \"min_temperature_unit\": \"fahrenheit\", \"max_temperature_unit\": \"fahrenheit\"}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 60,\n  \"description\": \"The minimum temperature for a fire hydrant is 0 and the maximum temperature is 60.\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 35,\n    \"max_temperature\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 55.0,\n  \"max_temperature\": 150.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "fire hydrant",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"fire hydrant\",\n  \"range\": {\n    \"min_temperature\": 0,\n    \"max_temperature\": 50\n  }\n}\n"
+  }
+]

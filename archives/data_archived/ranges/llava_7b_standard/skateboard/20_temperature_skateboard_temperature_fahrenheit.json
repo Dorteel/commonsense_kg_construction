@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": -40,\n  \"max_temperature\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 50,\n\"max\\_temperature\": 80\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 32,\n   \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 32,\n    \"max_temperature\": 85\n}\n```\nNote that the temperature range provided here is a typical range and may vary based on personal preference or local climate conditions. Additionally, it is important to always prioritize safety when skateboarding, regardless of the weather conditions. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": -20,\n\"max\\_temperature\": 85\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 60,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 32,\n   \"max_temperature\": 75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 70\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 50,\n    \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 32,\n   \"max_temperature\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0,\n\"max\\_temperature\": 75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 40,\n  \"max_temperature\": 85\n}\n```\nNote: These temperature ranges are typical for outdoor activities such as skateboarding and may vary based on personal preference and safety considerations. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 40,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 50,\n  \"max_temperature\": 85\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "skateboard",
+    "domain": "temperature",
+    "measurement": "fahrenheit",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 32,\n  \"max_temperature\": 85\n}\n```\nNote that the range provided here is a general guideline and may not be applicable to all locations or riding conditions. "
+  }
+]

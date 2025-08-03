@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.5,\n    \"max_size\": 0.8\n}\n```\nNote: The above values are approximate and can vary depending on the specific type of chair. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.3,\n    \"max_size\": 0.7\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n  \"min\\_size\": 0.4,\n  \"max\\_size\": 0.75\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.45,\n  \"max_size\": 0.63\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.35,\n    \"max_size\": 0.65\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.4,\n    \"max_size\": 0.75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.4,\n\"max\\_size\": 0.8\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.4,\n\"max\\_size\": 0.8\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.4,\n  \"max_size\": 0.8\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.45,\n  \"max_size\": 0.75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.3,\n  \"max_size\": 0.6\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.3,\n  \"max_size\": 0.7\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.4,\n  \"max_size\": 1.2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.4,\n  \"max_size\": 0.65\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0.3,\n   \"max_size\": 0.6\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.5,\n  \"max_size\": 0.8\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.5,\n  \"max_size\": 0.8\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.35,\n  \"max_size\": 0.75\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.3,\n  \"max_size\": 0.8\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "chair",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "length",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.3,\n  \"max_size\": 0.5\n}\n``` "
+  }
+]

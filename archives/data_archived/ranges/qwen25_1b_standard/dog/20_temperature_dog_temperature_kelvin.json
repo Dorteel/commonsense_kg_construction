@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 304.9\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 0.1,\n    \"max_temperature\": 35\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 1.0,\n  \"max_temperature\": 45.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 256.391\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 35\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 50.4,\n  \"max_temperature\": 328.9\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 253.15,\n  \"max_temperature\": 373.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 270,\n  \"max_temperature\": 350\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 50,\n  \"max_temperature\": 350\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 270.15,\n  \"max_temperature\": 365.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 270.15,\n  \"max_temperature\": 306.4\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 20,\n  \"max_temperature\": 45\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 300.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 250,\n  \"max_temperature\": 380\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 0.0,\n  \"max_temperature\": 302.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 13.0,\n  \"max_temperature\": 25.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 460.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 350,\n  \"max_temperature\": 410\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 304.15\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "dog",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "```json\n{\n  \"min_temperature\": 350,\n  \"max_temperature\": 427\n}\n```"
+  }
+]

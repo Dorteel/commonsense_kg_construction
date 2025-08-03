@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.5, \"max_weight\": 10.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"1\", \"max_weight\": \"16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"8\", \"max_weight\": \"16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.0, \"max_weight\": 16.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.0, \"max_weight\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"8\", \"max_weight\": \"16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.5, \"max_weight\": 5}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.5, \"max_weight\": 20}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.0, \"max_weight\": 16.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"8\", \"max_weight\": \"16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.8, \"max_weight\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.0, \"max_weight\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.8, \"max_weight\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.8, \"max_weight\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"8\", \"max_weight\": \"16\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.8, \"max_weight\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.5, \"max_weight\": 5}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1.0, \"max_weight\": 5.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 8.0, \"max_weight\": 16.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "pizza",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.5, \"max_weight\": 20}"
+  }
+]

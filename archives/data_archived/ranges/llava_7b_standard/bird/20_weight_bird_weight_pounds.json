@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n  \"min\\_weight\": 1,\n  \"max\\_weight\": 30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 80\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 35.6\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0.1,\n\"max\\_weight\": 350\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 300\n}\n```\nNote that the range of weights for birds is quite broad, as it encompasses a vast diversity of species with different sizes and diets. The minimum weight of 0 pounds is appropriate because some bird species, like the kiwi, are flightless and do not have heavy bodies. The maximum weight of 300 pounds is an estimate based on species like the ostrich or emu, which can weigh up to 325-360 pounds. However, it's important to remember that this JSON only provides a rough approximation of the typical range for bird weights and may not be applicable to all bird species. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 365\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.1,\n    \"max_weight\": 25.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 175\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1.3,\n  \"max_weight\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 32767\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 325\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bird",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 30\n}\n``` "
+  }
+]

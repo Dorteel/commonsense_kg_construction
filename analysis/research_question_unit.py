@@ -274,7 +274,7 @@ def preprocess_ground_truth(filepath):
     print("Final columns:", df_preprocessed.columns.tolist())
     # print("Non-null counts:\n", df_preprocessed.notnull().sum())
 
-    df_preprocessed.to_csv(save_path / 'mturk.csv', index=False)
+    df_preprocessed.to_csv(save_path / 'mturk_final.csv', index=False)
     return df_preprocessed
 
 def preprocess_models(model_data_path, condition="avg"):
@@ -418,7 +418,7 @@ def analyze_rq2_measurement_units(df_complete):
 # Main Program
 # -----------------------
 if __name__ == "__main__":
-    input_ground_truth_path = Path(__file__).parent / "clean_data" / "9_annotatoions_cleaned_results_with_dictionaries.csv"
+    input_ground_truth_path = Path(__file__).parent / "clean_data" / "all_annotations_cleaned.csv"
     input_model_data_path = Path(__file__).parent / "clean_data" / "model_outputs"
     save_path = Path(__file__).parent / 'clean_data' / 'preprocessed_outputs'
 

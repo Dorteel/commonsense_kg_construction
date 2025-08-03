@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 900,\n  \"max_size\": 2400\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 1000,\n\"max\\_size\": 2500\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 0,\n   \"max_size\": 3500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n```\nNote: The range provided here is a typical size for a bed, but there are many variations in bed sizes. For example, some beds can be much larger (e.g., king-sized beds) or smaller (e.g., single or twin beds). This JSON should not be considered definitive or accurate in all situations. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 3000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 900,\n  \"max_size\": 2400\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1800,\n    \"max_size\": 2300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 5000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 600,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 2400\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 2500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 1200000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1000,\n    \"max_size\": 3000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 25000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 750,\n  \"max_size\": 2100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bed",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1000,\n  \"max_size\": 5000\n}\n``` "
+  }
+]

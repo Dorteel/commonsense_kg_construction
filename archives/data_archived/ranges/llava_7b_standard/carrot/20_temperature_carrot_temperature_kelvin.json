@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 150,\n  \"max_temperature\": 273\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": {\n    \"value\": 15,\n    \"unit\": \"K\"\n  },\n  \"max_temperature\": {\n    \"value\": 30,\n    \"unit\": \"K\"\n  }\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 35.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 273.15, // 0°C\n    \"max_temperature\": 368.43 // 80°C\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 15,\n\"max\\_temperature\": 25 "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 230,\n\"max\\_temperature\": 290\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 0.2,\n\"max\\_temperature\": 15.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 120,\n  \"max_temperature\": 160\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 308,\n  \"max_temperature\": 329\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_temperature\": 0.0,\n    \"max_temperature\": 25.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 1200,\n  \"max_temperature\": 3000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 10,\n   \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_temperature\": 10,\n   \"max_temperature\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 1.5,\n  \"max_temperature\": 20.4\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 273.15, // 0 degree Celsius (or Kelvin)\n\"max\\_temperature\": 300.00 // 30 degree Celsius (or Kelvin)\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " {\n\"min\\_temperature\": 130,\n\"max\\_temperature\": 260\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 10,\n  \"max_temperature\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "carrot",
+    "domain": "temperature",
+    "measurement": "kelvin",
+    "dimension": "temperature",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_temperature\": 120,\n  \"max_temperature\": 350\n}\n``` "
+  }
+]

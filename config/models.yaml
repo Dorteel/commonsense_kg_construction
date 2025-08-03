@@ -25,8 +25,8 @@ groq:
   #   model_path: meta-llama/llama-4-maverick-17b-128e-instruct
 
 nebula:
-  # - name: llava_7b_standard
-  #   model_path: llava:7b
+  - name: llava_7b_standard
+    model_path: llava:7b
   # - name: llama32_11b_vision
   #   model_path: llama3.2-vision:11b
   # - name: qwen25_7b_standard
@@ -35,7 +35,7 @@ nebula:
   #   model_path: qwen2.5:1.5b
   # - name: llama31_8b_standard
   #   model_path: llama3.1:8b 
-  - name: deepseekr1_8b_standard
-    model_path: deepseek-r1:8b
-  - name: deepseekr1_1b_standard
-    model_path: deepseek-r1:1.5b
+  # - name: deepseekr1_8b_standard
+  #   model_path: deepseek-r1:8b
+  # - name: deepseekr1_1b_standard
+  #   model_path: deepseek-r1:1.5b

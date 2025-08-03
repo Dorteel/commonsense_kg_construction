@@ -1,0 +1,182 @@
+[
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.2,\n  \"max_size\": 7.2\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.9,\n  \"max_size\": 6.9\n}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 3.5,\n  \"max_size\": 6.9\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.0,\n  \"max_size\": 7.0\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.3,\n  \"max_size\": 6.3\n}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.5,\n  \"max_size\": 6.3\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 3.0,\n  \"max_size\": 8.0\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.3,\n  \"max_size\": 7.2\n}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 4.11, \"max_size\": 6.89}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.1,\n  \"max_size\": 6.3\n}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 4.27,\n  \"max_size\": 6.30\n}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.5,\n  \"max_size\": 6.5\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.5,\n  \"max_size\": 6.5\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.0,\n  \"max_size\": 7.0\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 4.0, \"max_size\": 8.0}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\n  \"min_size\": 3.9,\n  \"max_size\": 6.2\n}"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 3.0,\n  \"max_size\": 6.5\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.0,\n  \"max_size\": 7.0\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 3.3,\n  \"max_size\": 6.3\n}\n```"
+  },
+  {
+    "client": "mistral-saba-24b",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": "```json\n{\n  \"min_size\": 4.5,\n  \"max_size\": 6.5\n}\n```"
+  }
+]

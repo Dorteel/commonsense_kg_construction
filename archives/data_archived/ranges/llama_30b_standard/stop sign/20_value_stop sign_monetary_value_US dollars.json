@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"max_value\": 100,\n\"min_value\": 0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\" : 1500.0,\n  \"max_value\" : 2500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 100000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"6000\",\n  \"max_value\": \"10000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"stop_sign\": [\n\"https://www.google.com/search?q=stop+sign\",\n\"https://en.wikipedia.org/wiki/Stop_sign\"\n]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 2.0,\n    \"max_value\": 100000000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 100000.0,\n  \"name\": \"stop sign\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.0,\n  \"max_value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 1.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": \"0\",\n  \"max_value\": \"100000\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 0,\n\"max_value\": 3000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0.0, \"max_value\": 1000.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 1000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 29.99, \"max_value\": 149.99}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 100.0,\n  \"max_value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 50000, \"max_value\": 100000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 10000.0,\n  \"currency\": \"USD\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 123.45,\n  \"max_value\": 123.45\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"stop_sign\": {\n        \"min_value\": {\n            \"type\": \"float\",\n            \"value\": 0\n        },\n        \"max_value\": {\n            \"type\": \"float\",\n            \"value\": 100000\n        }\n    }\n}\n"
+  }
+]

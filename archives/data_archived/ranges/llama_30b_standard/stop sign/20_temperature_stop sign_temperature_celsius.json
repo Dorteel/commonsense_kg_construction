@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\":0.0,\"max_temperature\":45.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 30,\n  \"unit\": \"celsius\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 200,\n  \"max_temperature\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 50,\n  \"max_temperature\": 60\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\" : 0,\n  \"max_temperature\" : 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10.0,\n  \"max_temperature\": 15.0\n}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 35\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"user_query\": \"what is the temperature range of a stop sign\",\n  \"user_intent\": \"get_temperature\",\n  \"dialog_state\": \"query_stop_sign\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 13.0, \"max_temperature\": 23.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\":40.0,\"max_temperature\":100.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 0.0,\n\"max_temperature\": 30.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 1.2,\n  \"max_temperature\": 1.6,\n  \"stop_sign\": {\n    \"range_temperature\": 100,\n    \"range_speed\": 100,\n    \"color\": \"yellow\",\n    \"position\": \"street\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 273.15,\n  \"max_temperature\": 373.15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 23.0,\n  \"max_temperature\": 27.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\"min_temperature\": 0,\n\"max_temperature\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"concept\": \"stop sign\",\n  \"property\": \"range temperature\"\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 0, \"max_temperature\": 100}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "stop sign",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\"min_temperature\": 1.0, \"max_temperature\": 1.0}\n"
+  }
+]

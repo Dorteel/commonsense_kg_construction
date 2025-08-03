@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 10000.0, \"max_size\": 150000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.5\", \"max_size\": \"1.5\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 10000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.4\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0.5\", \"max_size\": \"1.0\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 30000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 300000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 10000.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"1000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1.0, \"max_size\": 3.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 100.0, \"max_size\": 150.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 50000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "sheep",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 0.0}"
+  }
+]

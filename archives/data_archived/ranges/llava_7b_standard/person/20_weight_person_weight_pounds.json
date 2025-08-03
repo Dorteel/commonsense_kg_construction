@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 100,\n    \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 100,\n  \"max_weight\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 180,\n  \"max_weight\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 300\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 100,\n    \"max_weight\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 132,\n\"max\\_weight\": 300\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 50,\n    \"max_weight\": 250\n}\n```\nNote that this range is an estimate and may vary based on factors such as age, sex, and overall health. Additionally, it's important to note that weight alone is not a sufficient indicator of a person's health or well-being. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 350\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 75,\n  \"max_weight\": 250\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0.0,\n\"max\\_weight\": 350.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 75,\n    \"max_weight\": 275\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 250\n}\n``` "
+  }
+]

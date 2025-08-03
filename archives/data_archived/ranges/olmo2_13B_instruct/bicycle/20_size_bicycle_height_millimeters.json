@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 700}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 999999.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 700}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 20000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1000.0, \"max_size\": 2000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 2000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 9999.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 700}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 200, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300.0, \"max_size\": 1000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 100000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 9999.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bicycle",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 300, \"max_size\": 1000}"
+  }
+]

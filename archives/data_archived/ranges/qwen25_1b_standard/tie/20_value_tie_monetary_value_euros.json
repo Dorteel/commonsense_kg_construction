@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\"min_value\": 0.5, \"max_value\": 2}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 5,\n  \"max_value\": 20\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 25\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 5,\n  \"max_value\": 10\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10.0,\n  \"max_value\": 30.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 25,\n  \"max_value\": 75\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 10,\n  \"max_value\": 30\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.0,\n  \"max_value\": 50.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.5,\n  \"max_value\": 1.2\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 1.0,\n  \"max_value\": 25.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 1.0,\n  \"max_value\": 5.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20,\n  \"max_value\": 50\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 5,\n  \"max_value\": 10\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0.5,\n  \"max_value\": 2.0\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n    \"min_value\": 5.0,\n    \"max_value\": 25.0\n}"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 15,\n  \"max_value\": 30\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "```json\n{\n  \"min_value\": 20,\n  \"max_value\": 150\n}\n```"
+  },
+  {
+    "client": "qwen25_1b_standard",
+    "concept": "tie",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0,\n  \"max_value\": 10\n}"
+  }
+]

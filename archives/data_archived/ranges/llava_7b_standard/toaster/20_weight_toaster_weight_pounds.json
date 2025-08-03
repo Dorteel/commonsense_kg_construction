@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.1,\n    \"max_weight\": 3.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.5,\n  \"max_weight\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " {\n\"min\\_weight\": 0,\n\"max\\_weight\": 2\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.25,\n  \"max_weight\": 4\n}\n```\nExplanation:\nA typical range weight for a toaster is from 0.25 pounds to 4 pounds. This range accommodates the average weight of bread that can be toasted in a toaster. Bread weighing less than 0.25 pounds may not be supported by most toasters, while bread weighing more than 4 pounds may not fit into the toaster or may require special handling. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 1,\n   \"max_weight\": 4\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1,\n  \"max_weight\": 4\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.5,\n  \"max_weight\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 2\n}\n```\nNote that the typical range for a toaster's weight capacity is usually around 0-2 pounds. This means that it can handle most types of bread without causing any issues or damaging the appliance. However, it's always best to check the specifications of your particular toaster to ensure that it can accommodate the type and thickness of bread you plan to use. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0,\n   \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.5,\n  \"max_weight\": 2.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.2,\n  \"max_weight\": 1.5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0.5,\n   \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0,\n  \"max_weight\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0,\n   \"max_weight\": 3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "toaster",
+    "domain": "weight",
+    "measurement": "pounds",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 0.25,\n   \"max_weight\": 3\n}\n``` "
+  }
+]

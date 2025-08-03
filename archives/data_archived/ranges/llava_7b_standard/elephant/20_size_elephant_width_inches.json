@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 35,\n\"max\\_size\": 118\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 130\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.3,\n    \"max_size\": 14\n}\n```"
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 60,\n    \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 12,\n    \"max_size\": 14\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 5,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 240\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 6,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 80,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 4,\n   \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 5,\n  \"max_size\": 13\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 120\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 12,\n\"max\\_size\": 144\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.5,\n  \"max_size\": 13.8\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 60,\n  \"max_size\": 125\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 80,\n   \"max_size\": 140\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 12,\n   \"max_size\": 160\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 12,\n  \"max_size\": 200\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "elephant",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 4,\n    \"max_size\": 12\n}\n``` "
+  }
+]

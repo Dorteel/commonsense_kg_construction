@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5.29, \"max_value\": 14.96}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.5\", \"max_value\": \"2\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 4.8, \"max_value\": 13.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 4.8, \"max_value\": 13}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 5.0, \"max_value\": 20.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.5, \"max_value\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.5, \"max_value\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 0.25, \"max_value\": 1.5}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.5, \"max_value\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 3.0, \"max_value\": 6.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.0, \"max_value\": 22.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 3.0,\"max_value\": 9.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.5, \"max_value\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": \"0.2\", \"max_value\": \"0.6\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 8.8, \"max_value\": 13.2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.0, \"max_value\": 22.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.5, \"max_value\": 22}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 4.0, \"max_value\": 8.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 3.0, \"max_value\": 8.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "wine glass",
+    "domain": "value",
+    "measurement": "pounds",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\": 6.0, \"max_value\": 22.0}"
+  }
+]

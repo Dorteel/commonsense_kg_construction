@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.001,\n  \"max_size\": 10000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 360,\n  \"max_size\": 360\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 25.0,\n  \"max_size\": 500.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 1, \"max_size\": 1000}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 5,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n\"type\": \"object\",\n\"properties\": {\n  \"name\": {\n    \"type\": \"string\"\n  },\n  \"age\": {\n    \"type\": \"integer\"\n  },\n  \"sex\": {\n    \"type\": \"string\"\n  },\n  \"marital_status\": {\n    \"type\": \"string\"\n  },\n  \"pets\": {\n    \"type\": \"array\",\n    \"items\": {\n      \"type\": \"string\"\n    }\n  },\n  \"hobbies\": {\n    \"type\": \"array\",\n    \"items\": {\n      \"type\": \"string\"\n    }\n  },\n  \"favorite_food\": {\n    \"type\": \"string\"\n  },\n  \"favorite_sport\": {\n    \"type\": \"string\"\n  },\n  \"favorite_music_genre\": {\n    \"type\": \"string\"\n  },\n  \"favorite_movie\": {\n    \"type\": \"string\"\n  },\n  \"favorite_book\": {\n    \"type\": \"string\"\n  },\n  \"favorite_author\": {\n    \"type\": \"string\"\n  },\n  \"favorite_sports_team\": {\n    \"type\": \"string\"\n  },\n  \"favorite_tv_show\": {\n    \"type\": \"string\"\n  },\n  \"favorite_actor\": {\n    \"type\": \"string\"\n  },\n  \"favorite_actress\": {\n    \"type\": \"string\"\n  },\n  \"favorite_band\": {"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 0.5,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 10,\n  \"max_size\": 30\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"772295\",\n  \"question\": \"What is the minimum size of a remote for a car?\",\n  \"context\": {\n    \"domain\": \"automotive\",\n    \"entities\": [\n      {\n        \"entity\": \"car\",\n        \"startIndex\": 0,\n        \"endIndex\": 4,\n        \"type\": \"nominal\"\n      },\n      {\n        \"entity\": \"remote\",\n        \"startIndex\": 11,\n        \"endIndex\": 18,\n        \"type\": \"nominal\"\n      }\n    ],\n    \"intent\": \"get_fact\"\n  },\n  \"metadata\": {\n    \"intentId\": \"89648538\",\n    \"webhookUsed\": \"true\",\n    \"webhookForSlotFillingUsed\": \"false\",\n    \"intentName\": \"get_fact\"\n  }\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 20, \"max_size\": 60}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"concepts\": [\n    {\n      \"name\": \"remote\"\n    }\n  ],\n  \"relations\": [\n    {\n      \"source\": \"remote\",\n      \"target\": \"min_size\",\n      \"type\": \"has_min_size\",\n      \"value\": 0\n    },\n    {\n      \"source\": \"remote\",\n      \"target\": \"max_size\",\n      \"type\": \"has_max_size\",\n      \"value\": 1000000000000\n    }\n  ]\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 30,\n  \"max_size\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 50,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 1,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n    \"device\": \"remote\",\n    \"min_size\": 0.1,\n    \"max_size\": 300\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\":0.0, \"max_size\":1.0}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": 12,\n  \"max_size\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\n  \"min_size\": \"12\",\n  \"max_size\": \"24\"\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "inches",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.1, \"max_size\": 3600}\n "
+  }
+]

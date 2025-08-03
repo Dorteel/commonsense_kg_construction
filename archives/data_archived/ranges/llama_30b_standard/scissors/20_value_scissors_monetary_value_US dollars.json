@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5.00,\n  \"max_value\": 10.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n\"min_value\": 1.0,\n\"max_value\": 100.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.0,\n  \"max_value\": 20.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.5,\n  \"max_value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.1,\n  \"max_value\": 1000.0\n}\n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1,\n  \"max_value\": 100\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 5,\n  \"max_value\": 50\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\"min_value\":1,\"max_value\":2}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2,\n  \"max_value\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user\": \"user\",\n  \"min_value\": 10,\n  \"max_value\": 2500000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.5,\n  \"max_value\": 2.5\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 1.5,\n  \"max_value\": 15\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\" : 4.00,\n  \"max_value\" : 100.00\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"user_id\": \"5f724e8c-80ce-4d0a-827e-1923b0599772\",\n  \"user_name\": \"john\",\n  \"user_email\": \"john@gmail.com\",\n  \"user_phone\": \"7894561234\",\n  \"user_city\": \"New York\",\n  \"user_country\": \"USA\",\n  \"user_favorite_color\": \"blue\",\n  \"user_favorite_food\": \"pizza\",\n  \"user_age\": 20\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"concept\": \"Scissors\",\n  \"min_value\": 1,\n  \"max_value\": 5\n}\n   "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.0,\n  \"max_value\": 300.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 0.00,\n  \"max_value\": 100.00,\n  \"valid\": true\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 10,\n  \"max_value\": 10\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "scissors",
+    "domain": "value",
+    "measurement": "US dollars",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": "{\n  \"min_value\": 2.22,\n  \"max_value\": 12.22\n}\n"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10.0,\n\"max\\_size\": 500.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10,\n    \"max_size\": 300\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 150,\n\"max\\_size\": 250\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10,\n\"max\\_size\": 200\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10.0,\n  \"max_size\": 500.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10.0,\n    \"max_size\": 50.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 50,\n    \"max_size\": 1000\n}\n```\nNote: The typical range size for a remote control is usually around 50 cm to 1000 cm. This range may vary depending on the specific remote and its intended use. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 50,\n  \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 50,\n\"max\\_size\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 50,\n\"max\\_size\": 120\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 10,\n\"max\\_size\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 500\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 1000000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 10,\n  \"max_size\": 500\n}\n```\nNote that the typical range for a remote control can vary depending on the specific type and features of the remote. The values provided here are just an estimate. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 10000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 50,\n    \"max_size\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "remote",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0,\n    \"max_size\": 1000000\n}\n```\nNote that the size of a remote control can vary greatly depending on the specific type and features. The values provided are rough estimates and may not be accurate for all types of remotes. Additionally, some remotes may have additional controls or buttons that may extend beyond the typical range size of 100 cm. "
+  }
+]

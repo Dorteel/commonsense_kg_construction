@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 11,\n  \"max_weight\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 20, \"max_weight\": 200}\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 12,\n  \"max_weight\": 130\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 110\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 1,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 20.0,\n    \"max_weight\": 1000.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"min_weight\": 10.0,\n    \"max_weight\": 200.0,\n    \"min_seat_height\": 400.0,\n    \"max_seat_height\": 800.0,\n    \"min_seat_width\": 400.0,\n    \"max_seat_width\": 600.0,\n    \"min_back_height\": 100.0,\n    \"max_back_height\": 800.0,\n    \"min_legs\": 4,\n    \"max_legs\": 4,\n    \"min_material_strength\": 200.0,\n    \"max_material_strength\": 1200.0,\n    \"min_leg_diameter\": 10.0,\n    \"max_leg_diameter\": 100.0,\n    \"min_leg_thickness\": 5.0,\n    \"max_leg_thickness\": 50.0,\n    \"min_leg_length\": 300.0,\n    \"max_leg_length\": 900.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 10,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 400\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 10,\n  \"max_weight\": 200\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 30.0,\n  \"max_weight\": 120.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 100,\n  \"max_weight\": 150\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\":15,\"max_weight\":200}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 35,\n  \"max_weight\": 150,\n  \"average_weight\": 50,\n  \"number_of_chairs\": 1000000\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 35.0,\n  \"max_weight\": 110.0\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 20,\n  \"max_weight\": 120\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 50,\n  \"max_weight\": 250\n}\n"
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n    \"name\": \"Chair\",\n    \"concept\": \"seat\",\n    \"entities\": [\n      \"user\"\n    ],\n    \"properties\": {\n      \"min_weight\": {\n        \"type\": \"float\"\n      },\n      \"max_weight\": {\n        \"type\": \"float\"\n      }\n    }\n  }\n "
+  },
+  {
+    "client": "llama_30b_standard",
+    "concept": "chair",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\n  \"min_weight\": 13.6,\n  \"max_weight\": 200,\n  \"units\": \"kg\"\n}\n"
+  }
+]

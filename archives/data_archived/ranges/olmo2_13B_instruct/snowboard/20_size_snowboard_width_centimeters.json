@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 220}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"120\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 130, \"max_size\": 220}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 110, \"max_size\": 220}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"150\", \"max_size\": \"215\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": {\"value\": 120}, \"max_size\": {\"value\": 220}}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"120\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"140\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"135\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"140\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"140\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": {\"value\": 130}, \"max_size\": {\"value\": 220}}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"135\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"135\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"120\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"120\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"120\", \"max_size\": \"220\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": {\"value\": \"130\"}, \"max_size\": {\"value\": \"220\"}}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 130, \"max_size\": 220}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "snowboard",
+    "domain": "size",
+    "measurement": "centimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 120, \"max_size\": 220}"
+  }
+]

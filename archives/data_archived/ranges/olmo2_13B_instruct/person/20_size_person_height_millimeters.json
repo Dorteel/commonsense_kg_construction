@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": \"mm\", \"max_size\": \"mm\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 3500, \"max_size\": 20000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 2800, \"max_size\": 2000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 3400.0,\"max_size\": 1990.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 3000.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 350000.0, \"max_size\": 500000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 3000.0, \"max_size\": 20000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 342.0,\"max_size\": 202.5}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 3500.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 3500, \"max_size\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 35.0, \"max_size\": 64.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 350.0, \"max_size\": 550.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 2800, \"max_size\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 35.0, \"max_size\": 64.000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 350.0, \"max_size\": 650.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 350.0, \"max_size\": 550.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 35.0, \"max_size\": 64.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 0.0012, \"max_size\": 1.9}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 320, \"max_size\": 2000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": "{\"min_size\": 320, \"max_size\": 2000}"
+  }
+]

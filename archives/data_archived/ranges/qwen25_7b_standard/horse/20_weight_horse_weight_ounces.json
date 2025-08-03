@@ -1,0 +1,182 @@
+[
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15360.0,\n  \"max_weight\": 28160.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15360.0,\n  \"max_weight\": 128000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 153600.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15360.0,\n  \"max_weight\": 128000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 12000.0,\n  \"max_weight\": 30000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 150000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15360.0,\n  \"max_weight\": 245760.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 1400000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 18000.0,\n  \"max_weight\": 24000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15360.0,\n  \"max_weight\": 128000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 160000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 150000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 10000.0,\n  \"max_weight\": 200000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15360.0,\n  \"max_weight\": 299040.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 10560.0,\n  \"max_weight\": 12320.0\n}\n```\nNote: The weights are provided in ounces. These values are approximate and can vary based on the breed of horse."
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 15000.0,\n  \"max_weight\": 200000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 1400000.0\n}\n```\nNote: The weight range provided is approximate, with the minimum being for a very light horse and the maximum for an extremely heavy one, as weights can vary widely depending on breed and individual health conditions."
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 160000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 150000.0\n}\n```"
+  },
+  {
+    "client": "qwen25_7b_standard",
+    "concept": "horse",
+    "domain": "weight",
+    "measurement": "ounces",
+    "dimension": "weight",
+    "format": "range",
+    "response": "```json\n{\n  \"min_weight\": 120000.0,\n  \"max_weight\": 150000.0\n}\n```"
+  }
+]

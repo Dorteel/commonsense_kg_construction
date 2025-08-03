@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0, \"max_weight\": 800000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 800000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 8000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 1000.0,\"max_weight\": 150000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0, \"max_weight\": 8000000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 8000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 800000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0, \"max_weight\": 800000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0, \"max_weight\": \"infinite\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 800000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 800000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 1000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 800000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 800000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0, \"max_weight\": 1000000000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": \"2000000\", \"max_weight\": \"8000000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 8000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 8000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 8000000000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "weight",
+    "measurement": "grams",
+    "dimension": "weight",
+    "format": "range",
+    "response": "{\"min_weight\": 0.0, \"max_weight\": 1000000000.0}"
+  }
+]

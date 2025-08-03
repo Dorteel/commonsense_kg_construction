@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 1600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.001\", \"max_size\": \"16000\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 20000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 2.5}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 2500.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001,\"max_size\": 1600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.01,\"max_size\": 1600}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 2.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.02\", \"max_size\": \"1600\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.001, \"max_size\": 1}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 2}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0, \"max_size\": 20000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "bird",
+    "domain": "size",
+    "measurement": "meters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 0.0001, \"max_size\": 2.5}"
+  }
+]

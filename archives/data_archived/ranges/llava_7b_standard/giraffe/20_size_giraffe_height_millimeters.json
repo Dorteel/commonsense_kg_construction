@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1500,\n    \"max_size\": 1900\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1520,\n  \"max_size\": 2030\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1600,\n  \"max_size\": 2050\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 5000,\n    \"max_size\": 18700\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 10500,\n    \"max_size\": 19000\n}\n```"
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 1800\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 1300,\n\"max\\_size\": 1800\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1650,\n  \"max_size\": 1870\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1600,\n  \"max_size\": 1875\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 5000,\n    \"max_size\": 6000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 5500000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 15000,\n  \"max_size\": 18700\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_size\": 1800,\n   \"max_size\": 5475\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 1800000\n}\n```\nNote: The range provided here is an approximation and may not cover all possible sizes of giraffes. Additionally, the max\\_size provided here is based on the tallest known giraffe and may not be reached by all individuals in the population. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1500,\n    \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 1500,\n    \"max_size\": 1870\n}\n```"
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": \"1500\",\n  \"max_size\": \"2000\"\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1500,\n  \"max_size\": 2000\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "giraffe",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "height",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1800,\n  \"max_size\": 5500\n}\n``` "
+  }
+]

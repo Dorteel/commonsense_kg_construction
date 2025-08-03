@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0,\n    \"max_weight\": 16\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 9.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1.0,\n  \"max_weight\": 5.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 1.8,\n  \"max_weight\": 9.1\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 2.0,\n  \"max_weight\": 15.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.2,\n    \"max_weight\": 40\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.1,\n  \"max_weight\": 25\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 2.0,\n    \"max_weight\": 9.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.5,\n    \"max_weight\": 16\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 1.5,\n   \"max_weight\": 9.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.9,\n  \"max_weight\": 15\n}\n```\nPlease note that the range provided above is a typical range for domestic cats and wildcats, but individual cats can weigh significantly more or less. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 0.9,\n  \"max_weight\": 45\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_weight\": 2.0,\n  \"max_weight\": 15.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 2.5,\n    \"max_weight\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 2.5,\n    \"max_weight\": 45.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_weight\": 0.9,\n    \"max_weight\": 45.3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "cat",
+    "domain": "weight",
+    "measurement": "kilograms",
+    "dimension": "weight",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_weight\": 1,\n   \"max_weight\": 20\n}\n``` "
+  }
+]

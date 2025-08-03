@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"35\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"300\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.02\", \"max_size\": \"300\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 90.0, \"max_size\": 350.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 90.0, \"max_size\": 350.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.05\", \"max_size\": \"300\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"1000\", \"max_size\": \"3500\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"1000\", \"max_size\": \"1200\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"300\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"35\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"15\", \"max_size\": \"35\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 60.0, \"max_size\": 120.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"5\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0.050\", \"max_size\": \"0.150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"0\", \"max_size\": \"300\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"10\", \"max_size\": \"150\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": 90, \"max_size\": 350}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"1.5\", \"max_size\": \"20\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "banana",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "width",
+    "format": "range",
+    "response": "{\"min_size\": \"30\", \"max_size\": \"350\"}"
+  }
+]

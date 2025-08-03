@@ -18,7 +18,7 @@ def preprocess_template(template: str, **kwargs) -> str:
     range = kwargs.get("range")
     kwargs["measurement"] = kwargs.get("measurement", "")
     kwargs["description_clause"] = f"(which is {description})" if description else ""
-    kwargs["dimension_clause"] = "as in {}" if dimension else ""
+    kwargs["dimension_clause"] = f" as in {dimension}" if dimension else ""
     kwargs["range_clause"] = "range for " if range else ""
     kwargs["properties_clause"] = "\n".join(f"- {d}" for d in domain) if domain else ""
     result = template.format(**{k: v.replace('_', ' ') if isinstance(v, str) else v for k, v in kwargs.items()})

@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 5\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 50\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 2\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.25,\n  \"max_size\": 3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.5,\n\"max\\_size\": 12.0\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.1,\n  \"max_size\": 5.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 6\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 12\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_size\": 0.1,\n    \"max_size\": 15\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 12  // Typical range size for a bottle in feet\n}\n```\nNote: This is just an estimate and the actual range may vary. Bottles come in various shapes, sizes, and materials and this answer only provides a general guideline. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 24\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 1,\n  \"max_size\": 3\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0.1,\n\"max\\_size\": 3\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0.0,\n  \"max_size\": 3.0\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " {\n\"min\\_size\": 0,\n\"max\\_size\": 2\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "bottle",
+    "domain": "size",
+    "measurement": "feet",
+    "dimension": "width",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_size\": 0,\n  \"max_size\": 6\n}\n``` "
+  }
+]

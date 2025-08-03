@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 10\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 100\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 30\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 150\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 30\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 30\n}\n```\nNote: The typical range for a mouse is usually 0 to 30 euros. However, this can vary depending on the specific model and features of the mouse. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 10\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 1\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " {\n\"min\\_value\": 0,\n\"max\\_value\": 10\n} "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 100\n}\n```\nNote that the range value for a mouse is typically measured in dollars or euros, but not in square meters. Therefore, it's reasonable to assume that the minimum and maximum values of a mouse would be 0 and 100 respectively, assuming that it's a standard computer mouse with a scroll wheel and buttons on top. However, if you are referring to a specific type or brand of mouse, then the range value may differ. "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 5\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n  \"min_value\": 0,\n  \"max_value\": 150\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n   \"min_value\": 0,\n   \"max_value\": 20\n}\n``` "
+  },
+  {
+    "client": "llava_7b_standard",
+    "concept": "mouse",
+    "domain": "value",
+    "measurement": "euros",
+    "dimension": "monetary_value",
+    "format": "range",
+    "response": " ```json\n{\n    \"min_value\": 0,\n    \"max_value\": 100\n}\n```\nNote that the range value for a mouse is not typically measured in euros. This JSON is provided as an example of what the output might look like if the question were to return a valid JSON with keys: `min_value` (float) and `max_value` (float). "
+  }
+]

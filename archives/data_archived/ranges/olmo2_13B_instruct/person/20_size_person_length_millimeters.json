@@ -1,0 +1,182 @@
+[
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 280.0, \"max_size\": 800.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3150, \"max_size\": 1980}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 2800, \"max_size\": 2000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": \"3400\", \"max_size\": \"1980\"}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 2800.0,\"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 330000.0, \"max_size\": 213000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3500.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3500.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3400, \"max_size\": 5000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 350, \"max_size\": 550}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3500, \"max_size\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 35.0, \"max_size\": 64.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3300, \"max_size\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3500.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3000.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 2800.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 340.0, \"max_size\": 650.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 2800, \"max_size\": 200000}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3000.0, \"max_size\": 200000.0}"
+  },
+  {
+    "client": "olmo2_13B_instruct",
+    "concept": "person",
+    "domain": "size",
+    "measurement": "millimeters",
+    "dimension": "length",
+    "format": "range",
+    "response": "{\"min_size\": 3500.0, \"max_size\": 200000.0}"
+  }
+]

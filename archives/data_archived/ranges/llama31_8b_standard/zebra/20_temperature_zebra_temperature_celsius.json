@@ -1,0 +1,182 @@
+[
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\n\"min_temperature\": 5.0,\n\"max_temperature\": 30.0\n\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 32.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 28\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 35.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20.0,\n  \"max_temperature\": 30.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 15,\n  \"max_temperature\": 28\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 32.2,\n  \"max_temperature\": 38\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20.0,\n  \"max_temperature\": 30.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 0,\n  \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 30.0\n\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5,\n  \"max_temperature\": 35\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 15.0,\n  \"max_temperature\": 28.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 10,\n  \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 20,\n  \"max_temperature\": 30\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 35.0\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n    \"min_temperature\": 5,\n    \"max_temperature\": 28\n}"
+  },
+  {
+    "client": "llama31_8b_standard",
+    "concept": "zebra",
+    "domain": "temperature",
+    "measurement": "celsius",
+    "dimension": "temperature",
+    "format": "range",
+    "response": "{\n  \"min_temperature\": 5.0,\n  \"max_temperature\": 30.0\n}"
+  }
+]
