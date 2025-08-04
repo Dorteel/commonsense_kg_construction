@@ -16,7 +16,7 @@ logger = setup_logger()
 
 INPUT_DIR = "inputs"
 concept_file= "concepts_mscoco.json"
-property_file = "properties.yaml"
+property_file = "exp_properties.yaml"
 RUNS = int(os.getenv("RUNS", 20))
 OUTPUT_PARENT_DIR = "output"
 condition = 'avg'
@@ -123,21 +123,21 @@ def run_batch():
         #     logger.info(f"Loaded client: {model_name}")
         #     run_experiment(current_client, condition)
 
-        # for entry in model_config.get("local", []):
-        #     logger.info(f"Loading local model: {entry['model_path']}")
-        #     model_name = entry['name']
-        #     current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
-        #     logger.info(f"Loaded client: {model_name}")
-        #     run_experiment(current_client, condition)
-
-
-        for entry in model_config.get("nebula", []):
-            model_path = entry["model_path"]
-            model_name = entry["name"]
-            logger.info(f"Loading Nebula model: {model_name}")
-            current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name, model_path=model_path)
+        for entry in model_config.get("local", []):
+            logger.info(f"Loading local model: {entry['model_path']}")
+            model_name = entry['name']
+            current_client = LocalClient(model_path=entry["model_path"], model_name=model_name)
             logger.info(f"Loaded client: {model_name}")
             run_experiment(current_client, condition)
+
+
+        # for entry in model_config.get("nebula", []):
+        #     model_path = entry["model_path"]
+        #     model_name = entry["name"]
+        #     logger.info(f"Loading Nebula model: {model_name}")
+        #     current_client = NebulaClient(api_key=os.getenv("NEBULA_API_KEY"), model_name=model_name, model_path=model_path)
+        #     logger.info(f"Loaded client: {model_name}")
+        #     run_experiment(current_client, condition)
         
 
 

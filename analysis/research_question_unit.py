@@ -323,7 +323,9 @@ def preprocess_models(model_data_path, condition="avg"):
     return all_df
 
 def evaluate_unit_mae(df, dimension):
-    units = {'area' : ["feet", "centimeters", "millimeters", "inches", "meters"],
+    units = {'length' : ["feet", "centimeters", "millimeters", "inches", "meters"],
+             'width' : ["feet", "centimeters", "millimeters", "inches", "meters"],
+             'height' : ["feet", "centimeters", "millimeters", "inches", "meters"],
              'weight' : ['kilograms', 'grams', 'pounds', 'ounces'],
              'temperature' : ['kelvin', 'fahrenheit', 'celsius'],
              'value' : ['us dollars', 'euros', 'pounds']}
@@ -361,7 +363,9 @@ def evaluate_unit_mae(df, dimension):
     friedman_test_units(df_results, f"mean_{dimension}_rel_error", units[dimension])
     posthoc_nemenyi_units(df_results, f"mean_{dimension}_rel_error", units[dimension])
     median_errors = df_results[[f'mean_{dimension}_rel_error_{unit}' for unit in units[dimension]]].median()
+    mean_errors = df_results[[f'mean_{dimension}_rel_error_{unit}' for unit in units[dimension]]].mean()
     print(median_errors.sort_values())
+    print(mean_errors.sort_values())
     
     # Print summary
     print(f"\nMean Relative {dimension} Error across units and models:")

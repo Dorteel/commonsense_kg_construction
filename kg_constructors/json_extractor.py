@@ -1,58 +1,3 @@
-# import json
-# import re
-# import logging
-# from utils.logger import setup_logger
-
-# logger = setup_logger(level=logging.INFO)
-
-# def extract_json_from_string(string_input):
-#     """
-#     Extracts JSON data from a string.
-
-#     Args:
-#         json_string (str): The string containing JSON data.
-
-#     Returns:
-#         dict: The extracted JSON data as a dictionary.
-#     """
-#     return simple_extraction(string_input)
-
-# def simple_extraction(json_string):
-#     try:
-#         return json.loads(json_string)
-#     except json.JSONDecodeError as e:
-#         # logger.warning(f"\tFailed to decode JSON using simple extraction: {e}")
-#         return regex_extraction(json_string)
-    
-# def regex_extraction(json_string):
-#     try:
-#         # Assuming the JSON is enclosed in curly braces
-#         match = extract_balanced_json(json_string)
-#         if match:
-#             return json.loads(match)
-#         else:
-#             logger.debug(f"\t\tFailed to decode JSON using regex extraction. No match found in string: {json_string}")
-#             return None
-#     except json.JSONDecodeError as e:
-#         logger.debug(f"\t\tFailed to decode JSON using simple extraction after regex: {e}")
-#         return None
-    
-# def extract_balanced_json(text: str) -> str:
-#     start = text.find("{")
-#     if start == -1:
-#         return None
-
-#     stack = []
-#     for i in range(start, len(text)):
-#         if text[i] == "{":
-#             stack.append(i)
-#         elif text[i] == "}":
-#             stack.pop()
-#             if not stack:
-#                 return text[start:i + 1]
-#     return None
-
-
 import json
 import re
 import logging
@@ -60,6 +5,8 @@ import csv
 from pathlib import Path
 from utils.logger import setup_logger
 import commentjson
+import ast
+from collections import defaultdict
 
 logger = setup_logger(level=logging.INFO)
 
@@ -81,8 +28,9 @@ def extract_json_from_string(string_input, model_name="unknown_model", log_error
     # Remove thinking token:
     string_input = re.sub(r'<think>.*?</think>', '', string_input, flags=re.DOTALL)
     string_input = re.sub(r'```(?:json)?', '', string_input)
+    # 
     result = simple_extraction(string_input)
-
+    
     if result is None and log_errors_to_csv:
         log_path = ERROR_LOGS_DIR / f"{model_name}_json_parsing_errors.csv"
         error_row = {
@@ -91,24 +39,41 @@ def extract_json_from_string(string_input, model_name="unknown_model", log_error
             "reason": "Failed to extract valid JSON"
         }
         write_error_log(log_path, error_row)
-
     return result
 
-def simple_extraction(json_string):
-    # First, try normal JSON
-    try:
-        return json.loads(json_string)
-    except json.JSONDecodeError:
-        pass  # Not valid JSON
 
-    # Try comment-tolerant parsing
+def simple_extraction(json_string):
+    
+    # Try JSON
     try:
-        return commentjson.loads(json_string)
+        result = json.loads(json_string)
+        logger.debug(f"Result is of type {type(result)}: {result}")
+        if isinstance(result, dict):
+            return result
+        elif isinstance(result, list):
+            return process_possible_list_of_dicts(result)
+    except json.JSONDecodeError:
+        pass
+
+    # Try commentjson
+    try:
+        result = commentjson.loads(json_string)
+        if isinstance(result, dict):
+            return result
     except Exception as e:
         logger.debug(f"commentjson failed: {e}")
 
-    # Last resort: extract substring that *looks* like JSON and try again
+    # Try ast.literal_eval
+    try:
+        result = ast.literal_eval(json_string)
+        if isinstance(result, dict):
+            return result
+    except (ValueError, SyntaxError, TypeError):
+        logger.debug(f"ast.literal_eval failed: {json_string}")
+
+    # Last resort: regex
     return regex_extraction(json_string)
+
 
 def regex_extraction(json_string):
     try:
@@ -144,3 +109,22 @@ def write_error_log(csv_path, row):
         if not file_exists:
             writer.writeheader()
         writer.writerow(row)
+
+
+def process_possible_list_of_dicts(data):
+    """
+    If `data` is a list of dicts, returns a dict grouping values by key.
+    Otherwise, returns `data` unchanged.
+    """
+    if isinstance(data, list) and all(isinstance(item, dict) for item in data):
+        logger.debug(f"Converting list of dicts: {data}")
+        return group_dicts_by_key(data)
+    return data
+
+def group_dicts_by_key(dict_list):
+    grouped = defaultdict(list)
+    for d in dict_list:
+        for k, v in d.items():
+            grouped[k].append(v)
+    logger.debug(f"Returning converted list of dicts: {grouped}")
+    return dict(grouped)

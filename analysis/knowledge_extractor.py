@@ -8,9 +8,9 @@ import yaml
 from kg_constructors.json_extractor import extract_json_from_string
 import inflect
 import re
-from collections import Counter
+from collections import Counter, defaultdict
 import ast
-from collections import defaultdict
+import numpy as np
 
 COLUMNS = ['model_name', 'concept', 'domain', 'measurement', 'dimension', 'response']
 INPUTS = Path(__file__).parent.parent / "inputs"
@@ -20,6 +20,7 @@ PARSED_FOLDER = Path(__file__).parent.parent / "data" / "parsed"
 SUMMARY_FOLDER = Path(__file__).parent.parent / "logs" / "summaries" 
 ERROR_FOLDER = Path(__file__).parent.parent / "logs" / "errors" 
 SUMMARY_FOLDER.mkdir(parents=True, exist_ok=True) 
+
 p = inflect.engine()
 
 logger = setup_logger()
@@ -40,19 +41,22 @@ def semantic_analysis(responses):
         base = domain.strip().lower()
         mapping = load_yaml_dict(base)
         unmatched_counter = Counter()
-
+        
         # Extract and normalize the actual text
         try:
             raw_values = response.get(domain, [])
-
+            
             if not isinstance(raw_values, list):
-                raw_values = [raw_values]
-
+                if isinstance(raw_values, set) or isinstance(raw_values, dict):
+                    raw_values = list(raw_values)
+                else:
+                    raw_values = [raw_values]
             flat_values = []
             for val in raw_values:
                 if isinstance(val, dict):
                     # Flatten the dict into a readable string
                     flat_values.append(", ".join(f"{k}: {v}" for k, v in val.items()))
+                
                 else:
                     flat_values.append(str(val))
 
@@ -63,13 +67,16 @@ def semantic_analysis(responses):
             return None, 'Invalid format'
 
         # Actual cleaning logic
+        logger.debug(f"{'='*500}\n[{domain}]: ({type(response)}) THIS:{response}\n{'-'*100}\n")
+        logger.debug(f"[{domain}]:  ({type(flat_values)}) WAS THIS:{flat_values}\n{'-'*100}\n")
+        logger.debug(f"[{domain}]: ({type(text)})  IS NOW THIS: {text}\n{'-'*100}\n")
         text = text.lower()
         text = re.sub(r"[.;_/]", ",", text)
         text = re.sub(r"\s+", " ", text)
 
         raw_tokens = re.split(r"[,\n]", text)
         raw_tokens = [t.strip() for t in raw_tokens if t.strip()]
-
+        logger.debug(f"[{domain}]:({type(raw_tokens)}) AND FINALLY THIS: {raw_tokens}")
         cleaned = set()
         for phrase in raw_tokens:
             if phrase in mapping:
@@ -91,7 +98,6 @@ def semantic_analysis(responses):
             if not matched:
                 for word in words:
                     unmatched_counter[word] += 1
-
         return sorted(cleaned), None
 
     def assemble_dictionary(concepts: list):
@@ -213,7 +219,8 @@ def semantic_analysis(responses):
     responses["response_error_type"] = results.apply(lambda x: x[1])
 
     total = len(responses)
-    valid = responses["response_extracted"].notna().sum()
+    valid = responses["response_extracted"].apply(
+        lambda x: x is not None and not (isinstance(x, (list, np.ndarray)) and len(x) == 0)).sum()
     percent_valid = round(valid / total * 100, 2)
     logger.info(f"...{percent_valid}% : extraction results: {valid} / {total} valid rows\n")
     model_name = responses["model_name"].iloc[0]
@@ -248,6 +255,8 @@ def extract_knowledge():
         logger.info(f"Extracting knowledge from model: {model_name}")
         clean_syntax, model_summary = semantic_analysis(model_df)
         summary.append(model_summary) 
+        clean_syntax['response'] = clean_syntax['response_extracted']
+        clean_syntax.drop(columns=['response_extracted', 'response_error_type'], inplace=True)
         output_name = str(EXTRACTED_FOLDER / f"{model_name}.csv")
         clean_syntax.to_csv(output_name, index=False, quoting=csv.QUOTE_NONNUMERIC)
     write_summary(summary, 'semantic_summary')

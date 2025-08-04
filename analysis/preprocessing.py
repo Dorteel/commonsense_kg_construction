@@ -56,8 +56,8 @@ def preprocessing_batch_runs():
             logger.info(f"... creating preprocessed file...")
             # Merge the info from batch_info_df into combined_df
             merged_df = combined_df.merge(batch_info_df, on='custom_id', how='left')
-            # Now select just the columns you want in the right order
-            preprocessed_df = merged_df[COLUMNS].copy().sort_values(by='concept').reset_index(drop=True)
+            # Now select just the columns you want in the right order.sort_values(by=['concept', 'domain', 'dimension', 'measurement']).reset_index(drop=True)
+            preprocessed_df = merged_df[COLUMNS].copy().sort_values(by=['concept', 'domain', 'dimension', 'measurement']).reset_index(drop=True)
             output_file = str(PREPOCESSED_FOLDER / f"{model.name}.csv" )
             preprocessed_df.to_csv(output_file,
                 index=False,
@@ -97,7 +97,7 @@ def preprocessing_individual_runs():
                 except Exception as e:
                     logger.error(f"[ERROR] Failed to load {json_file}: {e}")
         output_name = PREPOCESSED_FOLDER / f"{model_name}.csv"
-        model_df = pd.DataFrame(all_rows)
+        model_df = pd.DataFrame(all_rows).sort_values(by=['concept', 'domain', 'dimension', 'measurement']).reset_index(drop=True)
         model_df.drop(columns=['client', 'format'], inplace=True)
         model_df.to_csv(output_name,
                 index=False,
@@ -303,7 +303,7 @@ def preprocessing_ground_truth():
     def expand_columns(df):
         df_preprocessed = pd.DataFrame()
         df_preprocessed['concept'] = df["Input.object_name"]
-        df_preprocessed['model_name'] = 'MTurk'
+        df_preprocessed['model_name'] = 'mturk'
         for col in df.columns:
             if col.startswith("Answer.") and col.endswith("_mean"):
                 dimension_stem = col.replace("Answer.", "").replace("_mean", "")
@@ -373,7 +373,11 @@ def preprocessing_ground_truth():
 
     def format_contents(df):
         def wrap_in_dict(val, key):
-            return {key: val}
+            if isinstance(val, str):
+                split_values = [v.strip() for v in val.split(',') if v.strip()]
+                return {key: split_values}
+            else:
+                return {key: val}
         
         df_formatted = pd.DataFrame(columns=df.columns)
         df_formatted['concept'] = df['concept']
@@ -396,7 +400,7 @@ def preprocessing_ground_truth():
             row_to_add['concept'] = row['concept']
             for d in properties['categorical']:
                 row_to_add['domain'] = d
-                row_to_add['response'] = str(row[d])
+                row_to_add['response'] = row[d]
                 transformed_df = pd.concat([transformed_df, pd.DataFrame([row_to_add])], ignore_index=True)
             for dim in unit_dict.keys():
                 row_to_add['domain'] = dim if dim not in size_dimensions else 'size'
@@ -404,7 +408,7 @@ def preprocessing_ground_truth():
                     row_name = f"{dim}_{meas}"
                     row_to_add['dimension'] = dim
                     row_to_add['measurement'] = meas
-                    row_to_add['response'] = str(row[row_name])
+                    row_to_add['response'] = row[row_name]
                     transformed_df = pd.concat([transformed_df, pd.DataFrame([row_to_add])], ignore_index=True)
 
         return transformed_df.sort_values(by=['concept', 'domain', 'dimension', 'measurement']).reset_index(drop=True)
@@ -439,10 +443,10 @@ def preprocessing_ground_truth():
     combined_df = expand_columns(combined_df)
     combined_df = format_contents(combined_df)
     combined_df = transform_to_rows(combined_df)
-    combined_df.to_csv(str(PREPOCESSED_FOLDER / "ground_truth.csv"), index=False, quoting=csv.QUOTE_NONNUMERIC)
+    combined_df.to_csv(str(PREPOCESSED_FOLDER / "mturk.csv"), index=False, quoting=csv.QUOTE_NONNUMERIC)
     return combined_df
 
 if __name__ == "__main__":
-    # preprocessing_individual_runs()
-    # preprocessing_batch_runs()
+    preprocessing_individual_runs()
+    preprocessing_batch_runs()
     preprocessing_ground_truth()

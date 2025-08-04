@@ -55,21 +55,24 @@ def write_summary(summary_data):
     # Save CSV
     csv_path = SUMMARY_FOLDER / "syntax_summary.csv"
     df = pd.DataFrame(summary_data)
-    df.to_csv(csv_path, index=False)
+    df.to_csv(csv_path, index=False, quoting=csv.QUOTE_NONNUMERIC)
     logger.info(f"Saved summary to {csv_path}")
 
-def parse_outputs():
+def parse_outputs(target=None):
     summary = [] 
     for model in PREPOCESSED_FOLDER.iterdir():
-        model_df = pd.read_csv(str(model))
-        model_name = model.stem
-        logger.info(f"Parsing model: {model_name}")
-        clean_syntax, model_summary = syntax_analysis(model_df, model_name)
-        summary.append(model_summary) 
-        output_name = str(PARSED_FOLDER / f"{model_name}.csv")
-        clean_syntax.to_csv(output_name, index=False, quoting=csv.QUOTE_NONNUMERIC)
+        if not model.name.startswith('.'):
+            if (model.name == target) or (target is None):
+                model_df = pd.read_csv(str(model))
+                model_name = model.stem
+                logger.info(f"Parsing model responses: {model_name}")
+                clean_syntax, model_summary = syntax_analysis(model_df, model_name)
+                summary.append(model_summary) 
+                output_name = str(PARSED_FOLDER / f"{model_name}.csv")
+                clean_syntax.to_csv(output_name, index=False, quoting=csv.QUOTE_NONNUMERIC)
 
     write_summary(summary) 
+
 
 if __name__ == "__main__":
     parse_outputs()
