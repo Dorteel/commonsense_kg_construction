@@ -1,7 +1,7 @@
 # Commonsense Knowledge Graph Construction with Large Language Models
 
 This repository provides a framework for constructing commonsense knowledge graphs using large language models (LLMs). The system extracts structured knowledge about real-world concepts by querying LLMs with carefully designed prompts, then aggregates and analyzes the results.
-The raw data used for the K-CAP submission is available [here](https://zenodo.org/records/16743477)
+You can access the raw data used for the submission [here](https://zenodo.org/records/16743477).
 
 ## Repository Structure
 
@@ -30,7 +30,7 @@ The framework supports two main use cases:
 1. **Irrelevant Quality Dimensions**: When a dimension does not apply to a concept (e.g., the speed of an apple).
 2. **Non-defining Features**: When a value can take any form and is not a defining feature (e.g., the colour of a mug).
 
-The initial experiments focus on 80 concepts from the MS COCO dataset, with extensions to 1000 concepts from ImageNet-1k.
+The initial experiments focus on 80 concepts from the MS COCO dataset.
 
 ## Reproducing the Experiment
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 - Place your concepts and property definitions in the `inputs/` directory.
 - In the paper the files used: `concepts_mscoco.json`, `exp_properties.yaml`.
-- If you just want to rerun the analysis of the existing raw data provided above, extract the file in the data/raw_data folder.
+- If you just want to rerun the analysis of the existing [raw data](https://zenodo.org/records/16743477), extract the file in the data/raw_data folder.
 
 ### 4. Run the Knowledge Extraction Pipeline
 
