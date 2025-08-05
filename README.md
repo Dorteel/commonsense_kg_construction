@@ -55,6 +55,7 @@ pip install -r requirements.txt
 
 - Place your concepts and property definitions in the `inputs/` directory.
 - In the paper the files used: `concepts_mscoco.json`, `exp_properties.yaml`.
+- If you just want to rerun the analysis of the existing raw data provided above, extract the file in the data/raw_data folder.
 
 ### 4. Run the Knowledge Extraction Pipeline
 
