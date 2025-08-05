@@ -1,6 +1,22 @@
 # Commonsense Knowledge Graph Construction with Large Language Models
 
 This repository provides a framework for constructing commonsense knowledge graphs using large language models (LLMs). The system extracts structured knowledge about real-world concepts by querying LLMs with carefully designed prompts, then aggregates and analyzes the results.
+The raw data used for the K-CAP submission is available [here](https://zenodo.org/records/16743477)
+
+## Repository Structure
+
+- **prompts/**: Contains all prompt templates used to query LLMs. Modify these files to experiment with different prompt designs or extraction strategies.
+- **inputs/**: Stores the lists of concepts and property definitions used as input to the pipeline (e.g., `concepts_mscoco.json`, `exp_properties.yaml`).
+- **data/**: Central location for all data files.
+  - `data/raw_data/`: Raw outputs from LLM queries and initial data dumps.
+  - `data/preprocessed/`: Cleaned and preprocessed data ready for analysis.
+  - `data/parsed/`: Results of the syntaxtic parsing.
+  - `data/extracted_knowledge/`: Results of the semantic parsing.
+  - `data/results/`: Output statistics
+- **kg_constructors/**: Main pipeline code for knowledge extraction.
+- **experiments/**: Scripts for running batch experiments (e.g., for MS COCO or ImageNet).
+- **analysis/**: Scripts and notebooks for analyzing and visualizing results.
+- **output/**, **logs/**: Output files and logs generated during runs.
 
 ## Overview
 
@@ -38,7 +54,7 @@ pip install -r requirements.txt
 ### 3. Prepare Input Data
 
 - Place your concepts and property definitions in the `inputs/` directory.
-- Example files: `concepts_mscoco.json`, `exp_properties.yaml`.
+- In the paper the files used: `concepts_mscoco.json`, `exp_properties.yaml`.
 
 ### 4. Run the Knowledge Extraction Pipeline
 
@@ -76,7 +92,3 @@ Visualization scripts are available in `analysis/visualisations/`.
 ## Citation
 
 If you use this codebase, please cite or acknowledge the repository.
-
----
-
-Feel free to adjust the instructions or add more details as needed!
