@@ -1,6 +1,6 @@
 # Commonsense Knowledge Graph Construction with Large Language Models
 
-This repository provides a framework for constructing commonsense knowledge graphs using large language models (LLMs). The system extracts structured knowledge about real-world concepts by querying LLMs with carefully designed prompts, then aggregates and analyzes the results.
+This repository provides a framework for constructing commonsense knowledge graphs using large language models (LLMs). The system extracts structured knowledge about real-world concepts by querying LLMs with carefully designed prompts, then aggregates and analyzes the results. For the snapshot of this repository for the K-CAP submission, please switch to the appropriate [branch](https://github.com/Dorteel/commonsense_kg_construction/tree/k-cap-2025?tab=readme-ov-file).
 The raw data used for the K-CAP submission is available [here](https://zenodo.org/records/16743477)
 
 ## Repository Structure
