@@ -8,7 +8,7 @@
          xmlns:conc="http://example.org/conceptual_spaces.owl#">
 
 <owl:Ontology rdf:about="http://example.org/emotions.owl">
-  <owl:imports rdf:resource="http://example.org/conceptual_spaces.owl"/>
+  
 </owl:Ontology>
 
 <owl:AnnotationProperty rdf:about="#hasDefinition"/>
