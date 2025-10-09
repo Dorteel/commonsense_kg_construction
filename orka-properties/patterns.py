@@ -1,1 +1,0 @@
-# Took textures and copied it.
