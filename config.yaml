@@ -3,3 +3,8 @@ knowledge_graph:
 
 logging:
   level: "INFO"
+
+models:
+  openai:
+    model: "gpt-4o"
+    system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."

@@ -1,8 +1,7 @@
 import logging
 
-def setup_logger(name="project"):
+def setup_logging(level="INFO"):
     logging.basicConfig(
-        level=logging.INFO,
-        format="[%(asctime)s] [%(levelname)s] %(message)s"
+        level=getattr(logging, level),
+        format="[%(asctime)s] [%(levelname)s] %(message)s",
     )
-    return logging.getLogger(name)
