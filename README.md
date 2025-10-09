@@ -6,18 +6,42 @@ The raw data used for the K-CAP submission is available [here](https://zenodo.or
 
 ## Repository Structure
 
-- **prompts/**: Contains all prompt templates used to query LLMs. Modify these files to experiment with different prompt designs or extraction strategies.
-- **inputs/**: Stores the lists of concepts and property definitions used as input to the pipeline (e.g., `concepts_mscoco.json`, `exp_properties.yaml`).
-- **data/**: Central location for all data files.
-  - `data/raw_data/`: Raw outputs from LLM queries and initial data dumps.
-  - `data/preprocessed/`: Cleaned and preprocessed data ready for analysis.
-  - `data/parsed/`: Results of the syntaxtic parsing.
-  - `data/extracted_knowledge/`: Results of the semantic parsing.
-  - `data/results/`: Output statistics
-- **kg_constructors/**: Main pipeline code for knowledge extraction.
-- **experiments/**: Scripts for running batch experiments (e.g., for MS COCO or ImageNet).
-- **analysis/**: Scripts and notebooks for analyzing and visualizing results.
-- **output/**, **logs/**: Output files and logs generated during runs.
+project_root/
+│
+├── config.yaml
+├── main.py
+│
+├── knowledge_graph/
+│   ├── __init__.py
+│   ├── manager.py                # KnowledgeGraphManager class
+│   ├── queries.yaml              # SPARQL or ontology queries
+│   └── data/                     # RDF files, OWL ontologies
+│
+├── prompts/
+│   ├── __init__.py
+│   ├── generator.py              # PromptGenerator class
+│   ├── templates/                # Jinja or f-string templates
+│   └── generated/                # Saved generated prompts
+│
+├── models/
+│   ├── __init__.py
+│   ├── manager.py                # ModelManager class
+│   └── clients/                  # Implementations: OpenAI, Anthropic, Google
+│
+├── parsing/
+│   ├── __init__.py
+│   ├── knowledge_parser.py       # KnowledgeParser class
+│   └── validators.py             # Syntax & semantic validators
+│
+├── utils/
+│   ├── __init__.py
+│   ├── logging_utils.py
+│   ├── visualization.py
+│   ├── analysis.py
+│   └── helpers.py
+│
+├── logs/
+└── notebooks/                    # Optional, for exploration
 
 ## Overview
 
