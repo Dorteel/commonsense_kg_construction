@@ -1,5 +1,5 @@
 
-get_emotions_and_dimensions_with_range: |
+get_emotions_and_dimensions_sentiwordnet: |
   PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
   PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
   PREFIX emo:  <http://example.org/emotions.owl#>
@@ -7,7 +7,7 @@ get_emotions_and_dimensions_with_range: |
 
   SELECT DISTINCT
     ?emotion ?emotion_label
-    ?def_APA ?def_Cambridge ?def_SentiWordNet
+    ?emotion_definition
     ?domain ?domain_label
     ?dimension ?dim_label ?dim_definition
     ?dim_range
@@ -15,9 +15,7 @@ get_emotions_and_dimensions_with_range: |
     # --- Emotions ---
     ?emotion rdf:type emo:Emotion .
     OPTIONAL { ?emotion rdfs:label ?emotion_label . }
-    OPTIONAL { ?emotion emo:hasDefinition_APA ?def_APA . }
-    OPTIONAL { ?emotion emo:hasDefinition_Cambridge ?def_Cambridge . }
-    OPTIONAL { ?emotion emo:hasDefinition_SentiWordNet ?def_SentiWordNet . }
+    OPTIONAL { ?emotion emo:hasDefinition_SentiWordNet ?emotion_definition . }
 
     # --- Conceptual space linking emotions to domains ---
     ?cs conc:hasConcept ?emotion .
@@ -32,38 +30,7 @@ get_emotions_and_dimensions_with_range: |
   }
   ORDER BY ?emotion_label ?domain_label ?dim_label
 
-
-get_emotions_and_dimensions: |
-  PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-  PREFIX emo:  <http://example.org/emotions.owl#>
-  PREFIX conc: <http://example.org/conceptual_spaces.owl#>
-
-  SELECT DISTINCT
-    ?concept ?emotion_label ?concept_definition ?domain ?domain_label ?dimension ?dim_label ?dim_definition
-  WHERE {
-    # Emotions
-    ?concept rdf:type emo:Emotion .
-    OPTIONAL { ?concept rdfs:label ?concept_definition . }
-    OPTIONAL { ?concept emo:hasDefinition ?concept_definition . }
-    OPTIONAL { ?concept emo:hasDefinition_APA ?concept_definition . }
-    OPTIONAL { ?concept emo:hasDefinition_Cambridge ?concept_definition . }
-    OPTIONAL { ?concept emo:hasDefinition_SentiWordNet ?concept_definition . }
-
-    # Emotion Conceptual Space
-    ?cs conc:hasConcept ?concept .
-    ?cs conc:hasDomain ?domain .
-    OPTIONAL { ?domain rdfs:label ?domain_label . }
-
-    # Quality dimensions within each domain
-    ?domain conc:hasQualityDimension ?dimension .
-    OPTIONAL { ?dimension rdfs:label ?dim_label . }
-    OPTIONAL { ?dimension emo:hasDefinition ?dim_definition . }
-  }
-  ORDER BY ?emotion_label ?domain_label ?dim_label
-
-
-get_emotions_and_dimensions_all_defs: |
+get_emotions_and_dimensions_cambridge: |
   PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
   PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
   PREFIX emo:  <http://example.org/emotions.owl#>
@@ -71,63 +38,25 @@ get_emotions_and_dimensions_all_defs: |
 
   SELECT DISTINCT
     ?emotion ?emotion_label
-    ?def_generic ?def_APA ?def_Cambridge ?def_SentiWordNet
+    ?emotion_definition
     ?domain ?domain_label
     ?dimension ?dim_label ?dim_definition
+    ?dim_range
   WHERE {
-    # Emotions
+    # --- Emotions ---
     ?emotion rdf:type emo:Emotion .
     OPTIONAL { ?emotion rdfs:label ?emotion_label . }
-    OPTIONAL { ?emotion emo:hasDefinition ?def_generic . }
-    OPTIONAL { ?emotion emo:hasDefinition_APA ?def_APA . }
-    OPTIONAL { ?emotion emo:hasDefinition_Cambridge ?def_Cambridge . }
-    OPTIONAL { ?emotion emo:hasDefinition_SentiWordNet ?def_SentiWordNet . }
+    OPTIONAL { ?emotion emo:hasDefinition_Cambridge ?emotion_definition . }
 
-    # Emotion Conceptual Space
+    # --- Conceptual space linking emotions to domains ---
     ?cs conc:hasConcept ?emotion .
     ?cs conc:hasDomain ?domain .
     OPTIONAL { ?domain rdfs:label ?domain_label . }
 
-    # Quality dimensions within each domain
+    # --- Quality dimensions within each domain ---
     ?domain conc:hasQualityDimension ?dimension .
     OPTIONAL { ?dimension rdfs:label ?dim_label . }
     OPTIONAL { ?dimension emo:hasDefinition ?dim_definition . }
+    OPTIONAL { ?dimension conc:hasRange ?dim_range . }
   }
   ORDER BY ?emotion_label ?domain_label ?dim_label
-
-test: |
-  PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-  PREFIX owl: <http://www.w3.org/2002/07/owl#>
-  PREFIX hasConcept: <http://example.org/hasConcept#>
-  PREFIX domain: <http://example.org/domain#>
-  PREFIX cs: <http://example.org/conceptual_space#>
-  PREFIX onto: <http://example.org/emotions#>
-
-  SELECT DISTINCT ?emotion ?emotion_label ?emotion_definition
-                  ?dimension ?dimension_label ?dimension_definition
-  WHERE {
-    ?emotion rdf:type onto:Emotion .
-    OPTIONAL { ?emotion rdfs:label ?emotion_label . }
-    OPTIONAL { ?emotion rdfs:comment ?emotion_definition . }
-
-    # Connect Emotion → ConceptualSpace → QualityDimension
-    ?cs rdf:type cs:ConceptualSpace .
-    ?cs hasConcept:hasConcept onto:Emotions .
-    ?cs domain:hasDomain ?dimension .
-
-    OPTIONAL { ?dimension rdfs:label ?dimension_label . }
-    OPTIONAL { ?dimension rdfs:comment ?dimension_definition . }
-  }
-
-
-get_all_individuals: |
-  PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-
-  SELECT DISTINCT ?individual ?type ?label
-  WHERE {
-    ?individual rdf:type ?type .
-    OPTIONAL { ?individual rdfs:label ?label . }
-  }
-  LIMIT 50

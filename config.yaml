@@ -4,6 +4,9 @@ knowledge_graph:
 logging:
   level: "INFO"
 
+experiment:
+  repeats: 20
+
 models:
   openai:
     model: "gpt-4o"

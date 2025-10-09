@@ -1,4 +1,4 @@
-Given the concept of {emotion_label} (which is defined as {def_APA}),
+Given the concept of {emotion_label} (which is defined as {emotion_definition}),
 provide an estimation of the average {dim_label} (which is {dim_definition})
 in the range of {dim_range}.
 Return only JSON with key:
