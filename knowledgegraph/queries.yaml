@@ -1,4 +1,38 @@
 
+get_emotions_and_dimensions_with_range: |
+  PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+  PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+  PREFIX emo:  <http://example.org/emotions.owl#>
+  PREFIX conc: <http://example.org/conceptual_spaces.owl#>
+
+  SELECT DISTINCT
+    ?emotion ?emotion_label
+    ?def_APA ?def_Cambridge ?def_SentiWordNet
+    ?domain ?domain_label
+    ?dimension ?dim_label ?dim_definition
+    ?dim_range
+  WHERE {
+    # --- Emotions ---
+    ?emotion rdf:type emo:Emotion .
+    OPTIONAL { ?emotion rdfs:label ?emotion_label . }
+    OPTIONAL { ?emotion emo:hasDefinition_APA ?def_APA . }
+    OPTIONAL { ?emotion emo:hasDefinition_Cambridge ?def_Cambridge . }
+    OPTIONAL { ?emotion emo:hasDefinition_SentiWordNet ?def_SentiWordNet . }
+
+    # --- Conceptual space linking emotions to domains ---
+    ?cs conc:hasConcept ?emotion .
+    ?cs conc:hasDomain ?domain .
+    OPTIONAL { ?domain rdfs:label ?domain_label . }
+
+    # --- Quality dimensions within each domain ---
+    ?domain conc:hasQualityDimension ?dimension .
+    OPTIONAL { ?dimension rdfs:label ?dim_label . }
+    OPTIONAL { ?dimension emo:hasDefinition ?dim_definition . }
+    OPTIONAL { ?dimension conc:hasRange ?dim_range . }
+  }
+  ORDER BY ?emotion_label ?domain_label ?dim_label
+
+
 get_emotions_and_dimensions: |
   PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
   PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -6,18 +40,18 @@ get_emotions_and_dimensions: |
   PREFIX conc: <http://example.org/conceptual_spaces.owl#>
 
   SELECT DISTINCT
-    ?emotion ?emotion_label ?definition ?domain ?domain_label ?dimension ?dim_label ?dim_definition
+    ?concept ?emotion_label ?concept_definition ?domain ?domain_label ?dimension ?dim_label ?dim_definition
   WHERE {
     # Emotions
-    ?emotion rdf:type emo:Emotion .
-    OPTIONAL { ?emotion rdfs:label ?emotion_label . }
-    OPTIONAL { ?emotion emo:hasDefinition ?definition . }
-    OPTIONAL { ?emotion emo:hasDefinition_APA ?definition . }
-    OPTIONAL { ?emotion emo:hasDefinition_Cambridge ?definition . }
-    OPTIONAL { ?emotion emo:hasDefinition_SentiWordNet ?definition . }
+    ?concept rdf:type emo:Emotion .
+    OPTIONAL { ?concept rdfs:label ?concept_definition . }
+    OPTIONAL { ?concept emo:hasDefinition ?concept_definition . }
+    OPTIONAL { ?concept emo:hasDefinition_APA ?concept_definition . }
+    OPTIONAL { ?concept emo:hasDefinition_Cambridge ?concept_definition . }
+    OPTIONAL { ?concept emo:hasDefinition_SentiWordNet ?concept_definition . }
 
     # Emotion Conceptual Space
-    ?cs conc:hasConcept ?emotion .
+    ?cs conc:hasConcept ?concept .
     ?cs conc:hasDomain ?domain .
     OPTIONAL { ?domain rdfs:label ?domain_label . }
 

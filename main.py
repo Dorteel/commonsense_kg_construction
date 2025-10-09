@@ -18,7 +18,7 @@ def main():
     kg = KnowledgeGraphManager(config)
 
     print("Ontology loaded successfully!")
-    results = kg.run_query("get_emotions_and_dimensions_all_defs")
+    results = kg.run_query("get_emotions_and_dimensions_with_range")
 
     print(f"Found {len(results)} results:")
     for r in results[:100]:  # print first 10
