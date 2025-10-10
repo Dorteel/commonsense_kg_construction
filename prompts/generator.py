@@ -86,7 +86,6 @@ class PromptGenerator:
                                     {"role": "system", "content": system_prompt},
                                     {"role": "user", "content": prompt_text},
                                 ],
-                                "temperature": model_cfg.get("temperature", 0.7),
                             },
                         }
 
