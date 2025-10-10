@@ -23,6 +23,8 @@ class ModelManager:
         clients = {}
         if "openai" in model_cfgs or os.getenv("OPENAI_API_KEY"):
             clients["openai"] = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        if "groq" in model_cfgs or os.getenv("GROQ_API_KEY"):
+            clients["groq"] = groq(api_key=os.getenv("GROQ_API_KEY"))
         return clients
 
     # ------------------------------------------------------------------

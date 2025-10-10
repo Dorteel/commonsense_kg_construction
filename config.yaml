@@ -9,5 +9,20 @@ experiment:
 
 models:
   openai:
-    model: "gpt-5-mini"
-    system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
+    - model: "gpt-5-mini"
+      system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
+  
+  groq:
+    - model: "meta-llama/llama-4-maverick-17b-128e-instruct"
+      system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
+    
+    - model: "meta-llama/llama-4-scout-17b-16e-instruct"
+      system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
+
+  google:
+    - model: "gemini-pro"
+      system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
+
+  anthropic:
+    - model: "claude-3"
+      system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."

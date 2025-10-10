@@ -11,7 +11,7 @@ from models.manager import ModelManager
 
 def main():
     # ------------------- Load config and initialize -------------------
-    load_dotenv()  # ensure environment variables like OPENAI_API_KEY are loaded
+    load_dotenv()
 
     config = load_config()
     setup_logging(config.get("logging", {}).get("level", "INFO"))
@@ -22,7 +22,7 @@ def main():
     model_manager = ModelManager(config)
 
     # ------------------- Generate batches -------------------
-    definition_sources = ["sentiwordnet"]
+    definition_sources = ["cambridge", "sentiwordnet"]
     generated_batches = []
 
     for definition_source in definition_sources:

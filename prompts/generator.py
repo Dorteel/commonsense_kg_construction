@@ -75,7 +75,7 @@ class PromptGenerator:
                 for r in range(repeats):
                     custom_id = f"{definition_source}_{i:04d}_{r:02d}"
 
-                    if style == "openai":
+                    if style == "openai" or style == "groq":
                         entry = {
                             "custom_id": custom_id,
                             "method": "POST",
