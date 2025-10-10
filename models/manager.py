@@ -83,6 +83,10 @@ class ModelManager:
             if status_response.status == "completed":
                 logger.info(f"✅ Batch {batch_response.id} completed successfully.")
                 output_file_id = status_response.output_file_id
-                result_path = f"outputs/results/results_{model_name}.jsonl"
+                
+                raw_dir = Path("outputs/results/raw")
+                raw_dir.mkdir(parents=True, exist_ok=True)
+                result_path = raw_dir / f"results_{model_name}.jsonl"
+
                 self._download_results(client, output_file_id, result_path)
                 return True

@@ -6,6 +6,7 @@ import re
 import shutil
 import yaml
 import pandas as pd
+import platform
 
 logger = logging.getLogger(__name__)
 
@@ -22,6 +23,7 @@ class KnowledgeGraphManager:
         """
         Load the ontology while stripping any unreachable imports.
         This ensures Owlready2 never attempts to download anything online.
+        Compatible across Windows, macOS, and Linux.
         """
         if not self.path.exists():
             raise FileNotFoundError(f"Knowledge graph file not found: {self.path}")
@@ -36,8 +38,18 @@ class KnowledgeGraphManager:
                 cleaned = re.sub(r"owl:imports\s+[<\[].+?[>\]]", "", cleaned)
                 dst.write(cleaned)
 
+            # Initialize a fresh Owlready2 world
             self.world = World()
-            self.onto = self.world.get_ontology(temp_path.as_uri()).load()
+
+            # ✅ Cross-platform handling for file URIs
+            if platform.system() == "Windows":
+                # as_uri() adds an invalid "/C:/" prefix on Windows, so use absolute path
+                onto_path = str(temp_path.resolve())
+            else:
+                onto_path = temp_path.as_uri()
+
+            # Load ontology
+            self.onto = self.world.get_ontology(onto_path).load()
             self.graph = self.world.as_rdflib_graph()
 
             logger.info(
@@ -49,8 +61,11 @@ class KnowledgeGraphManager:
             logger.exception("Failed to load ontology from %s", self.path)
             raise
         finally:
-            # Optional: keep the cleaned file around for debugging
-            shutil.copy(temp_path, self.path.parent / f"cleaned_{self.path.name}")
+            # Keep the cleaned copy for inspection
+            try:
+                shutil.copy(temp_path, self.path.parent / f"cleaned_{self.path.name}")
+            except Exception:
+                logger.warning("Could not copy cleaned ontology for debugging.")
 
 
     def _load_queries(self):

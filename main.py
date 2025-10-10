@@ -1,8 +1,10 @@
+from distutils.command import config
 import logging
 from dotenv import load_dotenv
 from utils.config import load_config
 from utils.logging_utils import setup_logging
 from knowledgegraph.manager import KnowledgeGraphManager
+from parsing.knowledge_parser import KnowledgeParser
 from prompts.generator import PromptGenerator
 from models.manager import ModelManager
 
@@ -20,7 +22,7 @@ def main():
     model_manager = ModelManager(config)
 
     # ------------------- Generate batches -------------------
-    definition_sources = ["cambridge", "sentiwordnet"]
+    definition_sources = ["sentiwordnet"]
     generated_batches = []
 
     for definition_source in definition_sources:
@@ -49,6 +51,12 @@ def main():
 
     logger.info("🏁 All batch jobs processed.")
 
+    # ------------------- Process batches -------------------
+    parser = KnowledgeParser(config)
+
+    for src in definition_sources:
+        raw_file = f"outputs/results/raw/results_{src}.jsonl"
+        parsed = parser.batch_parse_pipeline(raw_file, src)
 
 if __name__ == "__main__":
     main()
