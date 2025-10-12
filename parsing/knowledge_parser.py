@@ -1,6 +1,7 @@
 import json
 import logging
 from pathlib import Path
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -26,15 +27,36 @@ class KnowledgeParser:
     # Syntax parsing
     # ------------------------------------------------------------------
     def parse_syntax(self, raw_output: str):
-        """Try to parse a raw model output as JSON; return dict or None."""
+        """Parse model output containing possible Markdown fences or trailing text."""
+        import re, json
+
         try:
-            data = json.loads(raw_output)
-            if not isinstance(data, dict):
-                logger.warning("Invalid JSON structure (not a dict): %s", raw_output)
+            # --- Step 1: Strip Markdown fences like ```json ... ```
+            cleaned = raw_output.strip()
+            if cleaned.startswith("```"):
+                cleaned = re.sub(r"^```[a-zA-Z0-9]*\s*", "", cleaned)  # remove opening ```json
+                cleaned = re.sub(r"```$", "", cleaned.strip())          # remove closing ```
+                cleaned = cleaned.strip()
+
+            # --- Step 2: Extract only the first valid JSON object (ignore trailing text)
+            # This captures the first {...} block, even if there's more text after
+            match = re.search(r"\{.*?\}", cleaned, re.DOTALL)
+            if not match:
+                logger.warning("No JSON object found: %s", raw_output)
                 return None
+
+            json_str = match.group(0)
+
+            # --- Step 3: Parse and validate
+            data = json.loads(json_str)
+            if not isinstance(data, dict):
+                logger.warning("Invalid JSON structure (not a dict): %s", json_str)
+                return None
+
             return data
-        except json.JSONDecodeError:
-            logger.warning("JSON decode failed: %s", raw_output)
+
+        except json.JSONDecodeError as e:
+            logger.warning(f"JSON decode failed: {e} | Raw: {raw_output[:200]}...")
             return None
 
     # ------------------------------------------------------------------
@@ -64,7 +86,12 @@ class KnowledgeParser:
         """
         Processes an entire batch results file.
         Performs syntax and semantic parsing, saves both intermediate and final results.
-        Returns a dict of valid semantic entries.
+        Returns a dict of valid semantic entries grouped by emotion and dimension.
+        Example:
+        {
+            "joy": {"valence": [0.8, 0.85], "arousal": [0.6]},
+            "fear": {"valence": [-0.7]}
+        }
         """
         result_file = Path(result_file)
         if not result_file.exists():
@@ -76,14 +103,20 @@ class KnowledgeParser:
         clean_data = {}
 
         with open(result_file, "r", encoding="utf-8") as f_in, \
-             open(syntax_out_path, "w", encoding="utf-8") as f_syntax, \
-             open(semantic_out_path, "w", encoding="utf-8") as f_semantic:
+            open(syntax_out_path, "w", encoding="utf-8") as f_syntax, \
+            open(semantic_out_path, "w", encoding="utf-8") as f_semantic:
 
             for line in f_in:
                 try:
                     entry = json.loads(line.strip())
 
-                    # Extract model response content
+                    # --- Extract emotion name from custom_id ---
+                    # e.g., "cambridge_joy_05" → "joy"
+                    custom_id = entry.get("custom_id", "unknown")
+                    parts = custom_id.split("_")
+                    emotion = parts[1] if len(parts) > 1 else "unknown"
+
+                    # --- Extract model response content ---
                     content = (
                         entry.get("response", {})
                         .get("body", {})
@@ -101,12 +134,18 @@ class KnowledgeParser:
                     semantic = self.parse_semantics(syntactic)
                     if semantic:
                         f_semantic.write(json.dumps(semantic, ensure_ascii=False) + "\n")
-                        clean_data.update(semantic)
+
+                        # --- Structure clean_data by emotion and dimension ---
+                        if emotion not in clean_data:
+                            clean_data[emotion] = {}
+
+                        for dim, val in semantic.items():
+                            clean_data[emotion].setdefault(dim, []).append(val)
 
                 except Exception as e:
                     logger.warning(f"Skipping invalid line due to error: {e}")
 
         logger.info(
-            f"[Parsed] {definition_source}: syntax → {syntax_out_path}, semantic → {semantic_out_path}, total valid: {len(clean_data)}"
+            f"[Parsed] {definition_source}: syntax → {syntax_out_path}, semantic → {semantic_out_path}, total emotions: {len(clean_data)}"
         )
         return clean_data
