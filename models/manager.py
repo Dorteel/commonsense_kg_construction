@@ -4,6 +4,7 @@ import logging
 from pathlib import Path
 from openai import OpenAI
 from dotenv import load_dotenv
+from groq import Groq
 
 logger = logging.getLogger(__name__)
 load_dotenv()
@@ -14,7 +15,7 @@ class ModelManager:
 
     def __init__(self, config):
         self.config = config
-        self.clients = self._init_clients(config.get("models", {}))
+        self.clients = self._init_clients(list(config["experiment"]["models_to_run"].keys()))
 
     # ------------------------------------------------------------------
     # Client initialization
@@ -24,7 +25,7 @@ class ModelManager:
         if "openai" in model_cfgs or os.getenv("OPENAI_API_KEY"):
             clients["openai"] = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
         if "groq" in model_cfgs or os.getenv("GROQ_API_KEY"):
-            clients["groq"] = groq(api_key=os.getenv("GROQ_API_KEY"))
+            clients["groq"] = Groq(api_key=os.getenv("GROQ_API_KEY"))
         return clients
 
     # ------------------------------------------------------------------
@@ -61,11 +62,12 @@ class ModelManager:
     # ------------------------------------------------------------------
     # Public method
     # ------------------------------------------------------------------
-    def run_batch(self, model_name, batch_path, check_interval=60):
+    def run_batch(self, provider, batch_path, save_name, check_interval=60):
         """Run a batch and monitor its status until completion."""
-        client = self.clients.get(model_name)
+        client = self.clients.get(provider)
+
         if not client:
-            logger.error(f"No client found for model '{model_name}'")
+            logger.error(f"No client found for model '{provider}'")
             return False
 
         batch_path = Path(batch_path)
@@ -88,7 +90,7 @@ class ModelManager:
                 
                 raw_dir = Path("outputs/results/raw")
                 raw_dir.mkdir(parents=True, exist_ok=True)
-                result_path = raw_dir / f"results_{model_name}.jsonl"
+                result_path = raw_dir / f"results_{save_name}.jsonl"
 
                 self._download_results(client, output_file_id, result_path)
                 return True

@@ -34,6 +34,7 @@ class PromptGenerator:
     def generate_batch(
         self,
         style: str,
+        model: str,
         data: pd.DataFrame,
         template_name: str,
         definition_source: str = "generic",
@@ -45,35 +46,28 @@ class PromptGenerator:
         # Load experiment and model configuration
         exp_cfg = self.config.get("experiment", {})
         repeats = int(exp_cfg.get("repeats", 1))
-
-        models_cfg = self.config.get("models", {})
-        model_cfg = models_cfg.get(style, {})
-        model_name = model_cfg.get("model", "default-model").replace("/", "-")  # sanitize name
-
-        # System prompt fallback hierarchy
-        system_prompt = (
-            model_cfg.get("system_prompt")
-            or models_cfg.get("system_prompt")
-            or "You are a helpful assistant."
-        )
-
+        model_path = model.replace("/", "-")  # sanitize name
+        model_name = model
+        system_prompt = exp_cfg.get('system_prompt', "You are a helpful assistant.") 
+    
         # Output directory: outputs/prompts/batches/<client>/
         output_path = Path(output_dir) / style
         output_path.mkdir(parents=True, exist_ok=True)
 
         # Timestamped, model-labeled filename
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        batch_file = output_path / f"{model_name}_{definition_source}_{timestamp}.jsonl"
+        batch_file = output_path / f"{model_path}_{definition_source}_{timestamp}.jsonl"
 
         # ---------------- Write the batch file ----------------
         with open(batch_file, "w", encoding="utf-8") as f:
             for i, row in data.iterrows():
                 row_dict = {k: ("" if pd.isna(v) else v) for k, v in row.items()}
                 prompt_text = template.format(**row_dict)
+                emotion = row_dict.get("emotion_label", "none").replace(",", "-").replace(" ", "_")
 
                 # Repeat each prompt N times for experiment replicates
                 for r in range(repeats):
-                    custom_id = f"{definition_source}_{i:04d}_{r:02d}"
+                    custom_id = f"{definition_source}_{emotion}_{i:04d}_{r:02d}"
 
                     if style == "openai" or style == "groq":
                         entry = {
