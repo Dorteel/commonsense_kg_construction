@@ -5,6 +5,341 @@ from pathlib import Path
 from scipy.spatial import Voronoi, voronoi_plot_2d
 import numpy as np
 
+def visualise_two_emotions_barchart(
+    csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
+    emotions=None,
+    definition=None,
+    save_path=None,
+):
+    """
+    Create two side-by-side bar charts (mean ± std) comparing two emotions for a single definition.
+    The legend is displayed vertically in the bottom-left of the first chart.
+    """
+    if not emotions or len(emotions) != 2:
+        raise ValueError("Please provide exactly two emotions.")
+    if not definition:
+        raise ValueError("Please provide a definition source.")
+
+    # --- Load and filter data ---
+    df = pd.read_csv(csv_path)
+    df = df[df["definition"].str.lower() == definition.lower()]
+    df = df[df["emotion"].str.lower().isin([e.lower() for e in emotions])]
+    if df.empty:
+        raise ValueError(f"No data found for definition='{definition}' and emotions={emotions}")
+
+    # --- Numeric columns ---
+    exclude_cols = {"model", "emotion", "definition"}
+    dim_cols = [c for c in df.columns if c not in exclude_cols and np.issubdtype(df[c].dtype, np.number)]
+    if not dim_cols:
+        raise ValueError("No numeric dimension columns found.")
+
+    # --- Model display names ---
+    MODEL_NAME_MAP = {
+        "openai_gpt-5": "GPT-5",
+        "openai_gpt-4.1": "GPT-4.1",
+        "openai_gpt-4o": "GPT-4o",
+        "claude-3-5-sonnet-20241022": "Claude 3.5 Sonnet",
+        "anthropic_claude-3-5-sonnet": "Claude 3.5",
+        "groq_llama-4-maverick-17b-128e-instruct": "Llama-4 Maverick",
+        "groq_llama-4-scout-17b-16e-instruct": "Llama-4 Scout",
+        "gemini-1.5-pro": "Gemini-1.5 Pro",
+        "deepseek-r1-distill-llama-70b": "DeepSeek-R1-70B",
+    }
+    df["model_display"] = df["model"].apply(lambda x: MODEL_NAME_MAP.get(str(x).strip(), x))
+
+    # --- Consistent colors ---
+    COLOR_MAP = {
+        "GPT-5": "#1f77b4",
+        "GPT-4.1": "#1f77b4",
+        "GPT-4o": "#2ca02c",
+        "Claude 3.5 Sonnet": "#e74c3c",
+        "Claude 3.5": "#e74c3c",
+        "Llama-4 Maverick": "#9467bd",
+        "Llama-4 Scout": "#8c564b",
+        "Gemini-1.5 Pro": "#ff7f0e",
+        "DeepSeek-R1-70B": "#17becf",
+    }
+
+    models = df["model_display"].unique()
+    bar_width = 0.8 / len(models)
+    dim_labels = [c.replace("_mean", "").capitalize() for c in dim_cols]
+
+    # --- Figure setup ---
+    fig, axes = plt.subplots(1, 2, figsize=(12, 5), sharey=True)
+    fig.subplots_adjust(wspace=0.3)
+
+    for ax, emotion in zip(axes, emotions):
+        subset = df[df["emotion"].str.lower() == emotion.lower()]
+        x = np.arange(len(dim_cols))
+
+        for i, model in enumerate(models):
+            model_data = subset[subset["model_display"] == model]
+            if model_data.empty:
+                continue
+            means = model_data[dim_cols].mean().values
+            stds = model_data[dim_cols].std().values
+            color = COLOR_MAP.get(model, plt.cm.tab10(i % 10))
+            ax.bar(
+                x + i * bar_width,
+                means,
+                width=bar_width,
+                color=color,
+                edgecolor="black",
+                alpha=0.85,
+                label=model if ax == axes[0] else None,
+                yerr=stds,
+                capsize=4,
+                linewidth=0.7,
+            )
+
+        ax.set_xticks(x + bar_width * (len(models) - 1) / 2)
+        ax.set_xticklabels(dim_labels, rotation=45, ha="right")
+        ax.set_title(f"{emotion.capitalize()}", fontsize=12)
+        ax.axhline(0, color="gray", lw=0.8)
+        if ax == axes[0]:
+            ax.set_ylabel("Value")
+
+    # --- Legend (bottom-left of first subplot) ---
+    handles, labels = axes[0].get_legend_handles_labels()
+    axes[0].legend(
+        handles,
+        labels,
+        title="Model",
+        loc="lower left",
+        bbox_to_anchor=(0, 0.05),
+        frameon=True,
+        ncol=1,
+    )
+
+    plt.tight_layout(rect=[0, 0, 1, 1])
+    if save_path:
+        save_path = Path(save_path)
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        plt.savefig(save_path, dpi=300, bbox_inches="tight")
+        print(f"[✅ Saved two-emotion bar plot] {save_path}")
+    else:
+        plt.show()
+
+    plt.close()
+
+
+def visualise_emotion_dimension_grid(
+    csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
+    emotions=None,
+    definitions=None,
+    save_path=None,
+):
+    """
+    Create bar charts (mean ± std) of emotion dimensions for multiple emotions × definitions.
+    Each subplot = one (emotion, definition). Shared legend shown separately.
+
+    Args:
+        csv_path (str | Path): Path to processed CSV summary.
+        emotions (list[str]): List of emotions to include.
+        definitions (list[str]): List of definition sources to include.
+        save_path (str | Path, optional): Path to save the figure.
+    """
+    if not emotions or not definitions:
+        raise ValueError("Please provide lists for both 'emotions' and 'definitions'.")
+
+    # --- Load and prepare data ---
+    df = pd.read_csv(csv_path)
+    exclude_cols = {"model", "emotion", "definition"}
+    dim_cols = [c for c in df.columns if c not in exclude_cols and np.issubdtype(df[c].dtype, np.number)]
+    if not dim_cols: raise ValueError("No numeric dimension columns found.")
+
+    # --- Model display map ---
+    MODEL_NAME_MAP = {
+        "openai_gpt-5": "GPT-5",
+        "openai_gpt-4.1": "GPT-4.1",
+        "openai_gpt-4o": "GPT-4o",
+        "claude-3-5-sonnet-20241022": "Claude 3.5 Sonnet",
+        "anthropic_claude-3-5-sonnet": "Claude 3.5",
+        "groq_llama-4-maverick-17b-128e-instruct": "Llama-4 Maverick",
+        "groq_llama-4-scout-17b-16e-instruct": "Llama-4 Scout",
+        "gemini-1.5-pro": "Gemini-1.5 Pro",
+        "deepseek-r1-distill-llama-70b": "DeepSeek-R1-70B",
+    }
+    df["model_display"] = df["model"].apply(lambda x: MODEL_NAME_MAP.get(str(x).strip(), x))
+
+    # --- Consistent color map ---
+    COLOR_MAP = {
+        "GPT-5": "#1f77b4",
+        "GPT-4.1": "#1f77b4",
+        "GPT-4o": "#2ca02c",
+        "Claude 3.5 Sonnet": "#e74c3c",
+        "Claude 3.5": "#e74c3c",
+        "Llama-4 Maverick": "#9467bd",
+        "Llama-4 Scout": "#8c564b",
+        "Gemini-1.5 Pro": "#ff7f0e",
+        "DeepSeek-R1-70B": "#17becf",
+    }
+
+    models = df["model_display"].unique()
+    n_rows, n_cols = len(emotions), len(definitions)
+    fig, axes = plt.subplots(n_rows, n_cols, figsize=(5 * n_cols, 4 * n_rows), sharey=True)
+    axes = np.atleast_2d(axes)
+
+    bar_width = 0.8 / len(models)
+
+    for r, emotion in enumerate(emotions):
+        for c, definition in enumerate(definitions):
+            ax = axes[r, c]
+            subset = df[(df["emotion"].str.lower() == emotion.lower()) &
+                        (df["definition"].str.lower() == definition.lower())]
+            if subset.empty:
+                ax.text(0.5, 0.5, "No data", ha="center", va="center", fontsize=10)
+                ax.axis("off")
+                continue
+
+            x = np.arange(len(dim_cols))
+            for i, model in enumerate(models):
+                model_data = subset[subset["model_display"] == model]
+                if model_data.empty: continue
+                means, stds = model_data[dim_cols].mean(), model_data[dim_cols].std()
+                color = COLOR_MAP.get(model, plt.cm.tab10(i % 10))
+                ax.bar(
+                    x + i * bar_width,
+                    means.values,
+                    width=bar_width,
+                    color=color,
+                    edgecolor="black",
+                    alpha=0.85,
+                    label=model,
+                    yerr=stds.values,
+                    capsize=3,
+                    linewidth=0.7,
+                )
+
+            ax.set_xticks(x + bar_width * (len(models) - 1) / 2)
+            ax.set_xticklabels([c.replace("_mean", "").capitalize() for c in dim_cols], rotation=45, ha="right")
+            ax.set_title(f"{emotion.capitalize()} — {definition}", fontsize=12)
+            ax.axhline(0, color="gray", lw=0.8)
+            if c == 0: ax.set_ylabel("Value")
+
+    # --- Shared legend ---
+    handles, labels = [], []
+    for model in models:
+        color = COLOR_MAP.get(model, plt.cm.tab10(len(handles) % 10))
+        handles.append(plt.Line2D([0], [0], color=color, lw=10))
+        labels.append(model)
+    fig.legend(handles, labels, title="Model", loc="lower center", ncol=min(4, len(models)), bbox_to_anchor=(0.5, -0.02))
+
+    plt.tight_layout(rect=[0, 0.05, 1, 1])  # leave space for legend
+    if save_path:
+        save_path = Path(save_path)
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        plt.savefig(save_path, dpi=300, bbox_inches="tight")
+        print(f"[✅ Saved grid plot] {save_path}")
+    else:
+        plt.show()
+    plt.close()
+
+def visualise_emotion_dimension_bars(
+    csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
+    emotion=None,
+    definition=None,
+    save_path=None,
+):
+    """
+    Visualize all emotion dimensions for a single emotion and definition source,
+    with overlapping bars for each model (mean ± std) and readable model names.
+
+    Args:
+        csv_path (str | Path): Path to processed CSV summary.
+        emotion (str): Emotion name to visualize (required).
+        definition (str): Definition source (e.g. 'Cambridge', 'SentiWordNet').
+        save_path (str | Path, optional): Path to save the resulting figure.
+    """
+    # --- Load data ---
+    df = pd.read_csv(csv_path)
+    if not emotion: raise ValueError("Please provide an emotion name.")
+    if not definition: raise ValueError("Please provide a definition source.")
+
+    # --- Filter data ---
+    df = df[df["emotion"].str.lower() == emotion.lower()]
+    df = df[df["definition"].str.lower() == definition.lower()]
+    if df.empty:
+        raise ValueError(f"No data found for emotion='{emotion}', definition='{definition}'")
+
+    # --- Identify numeric dimension columns ---
+    exclude_cols = {"model", "emotion", "definition"}
+    dim_cols = [c for c in df.columns if c not in exclude_cols and np.issubdtype(df[c].dtype, np.number)]
+    if not dim_cols:
+        raise ValueError("No numeric dimension columns found.")
+
+    # --- Model name prettifier ---
+    MODEL_NAME_MAP = {
+        "openai_gpt-5": "GPT-5",
+        "openai_gpt-4.1": "GPT-4.1",
+        "openai_gpt-4o": "GPT-4o",
+        "claude-3-5-sonnet-20241022": "Claude 3.5 Sonnet",
+        "anthropic_claude-3-5-sonnet": "Claude 3.5",
+        "groq_llama-4-maverick-17b-128e-instruct": "Llama-4 Maverick",
+        "groq_llama-4-scout-17b-16e-instruct": "Llama-4 Scout",
+        "gemini-1.5-pro": "Gemini-1.5 Pro",
+        "deepseek-r1-distill-llama-70b": "DeepSeek-R1-70B",
+    }
+    df["model_display"] = df["model"].apply(lambda x: MODEL_NAME_MAP.get(str(x).strip(), x))
+
+    # --- Consistent colors for models ---
+    COLOR_MAP = {
+        "GPT-5": "#1f77b4",
+        "GPT-4.1": "#1f77b4",
+        "GPT-4o": "#2ca02c",
+        "Claude 3.5 Sonnet": "#e74c3c",
+        "Claude 3.5": "#e74c3c",
+        "Llama-4 Maverick": "#9467bd",
+        "Llama-4 Scout": "#8c564b",
+        "Gemini-1.5 Pro": "#ff7f0e",
+        "DeepSeek-R1-70B": "#17becf",
+    }
+
+    # --- Prepare data ---
+    models = df["model_display"].unique()
+    x = np.arange(len(dim_cols))
+    bar_width = 0.8 / len(models)
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    for i, model in enumerate(models):
+        subset = df[df["model_display"] == model]
+        means = subset[dim_cols].mean()
+        stds = subset[dim_cols].std()
+        color = COLOR_MAP.get(model, plt.cm.tab10(i % 10))
+        ax.bar(
+            x + i * bar_width,
+            means.values,
+            width=bar_width,
+            color=color,
+            edgecolor="black",
+            alpha=0.85,
+            label=model,
+            yerr=stds.values,
+            capsize=3,
+            linewidth=0.7,
+        )
+
+    # --- Style ---
+    ax.set_xticks(x + bar_width * (len(models) - 1) / 2)
+    ax.set_xticklabels([c.replace("_mean", "").capitalize() for c in dim_cols], rotation=45, ha="right")
+    ax.set_ylabel("Dimension Value")
+    ax.set_title(f"{emotion.capitalize()} — {definition} definitions across models", fontsize=13)
+    ax.legend(title="Model", loc="upper right", frameon=True)
+    ax.axhline(0, color="gray", lw=0.8)
+    plt.tight_layout()
+
+    # --- Save or show ---
+    if save_path:
+        save_path = Path(save_path)
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        plt.savefig(save_path, dpi=300)
+        print(f"[✅ Saved emotion dimension bar plot] {save_path}")
+    else:
+        plt.show()
+
+    plt.close()
+
 def visualise_voronoi_overlap(
     csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
     model=None,
@@ -434,11 +769,37 @@ if __name__ == "__main__":
     #     # save_path="outputs/figures/voronoi_overlap_valence_arousal_light.png"
     # )
 
-    visualise_points_overlap(
-        model="llama-4-maverick-17b-128e-instruct",
-        x_dim="valence_mean",
-        y_dim="arousal_mean",
-        x_range=(-1, 1),
-        y_range=(0, 1),
-        # save_path="outputs/figures/points_overlap_valence_arousal.png"
-    )
+    # visualise_points_overlap(
+    #     model="llama-4-maverick-17b-128e-instruct",
+    #     x_dim="valence_mean",
+    #     y_dim="arousal_mean",
+    #     x_range=(-1, 1),
+    #     y_range=(0, 1),
+    #     # save_path="outputs/figures/points_overlap_valence_arousal.png"
+    # )
+
+    # emotions = ["Rage", "Joy"]
+    # sources = ["Cambridge", "SentiWordNet"]
+
+    # for emotion in emotions:
+    #     for source in sources:
+    #         visualise_emotion_dimension_bars(
+    #             csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
+    #             emotion=emotion,
+    #             definition=source,
+    #             save_path=f"outputs/plots/{emotion.lower()}_{source.lower()}_bars.png"
+    #         )
+
+    #     visualise_emotion_dimension_grid(
+    #     csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
+    #     emotions=["Joy", "Rage"],
+    #     definitions=["Cambridge", "SentiWordNet"],
+    #     # save_path="outputs/plots/emotion_dimension_grid.png"
+    # )
+    
+    visualise_two_emotions_barchart(
+    csv_path="outputs/results/processed/semantic/emotion_dimension_summary.csv",
+    emotions=["Joy", "Rage"],
+    definition="Cambridge",
+    save_path="outputs/plots/joy_rage_cambridge.png"
+)

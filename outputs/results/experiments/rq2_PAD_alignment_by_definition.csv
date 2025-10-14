@@ -1,0 +1,7 @@
+model,definition,matched_emotions_count,unmatched_emotions_count,accuracy,correct_count,incorrect_count,correctly_matched_emotions,incorrectly_matched_emotions
+groq_llama-4-maverick-17b-128e-instruct,cambridge,7,25,0.429,3,4,"anger, fear, joy","admiration, disappointment, love, remorse"
+groq_llama-4-maverick-17b-128e-instruct,sentiwordnet,7,25,0.429,3,4,"fear, joy, love","admiration, anger, disappointment, remorse"
+groq_llama-4-scout-17b-16e-instruct,cambridge,7,25,0.429,3,4,"fear, joy, love","admiration, anger, disappointment, remorse"
+groq_llama-4-scout-17b-16e-instruct,sentiwordnet,7,25,0.429,3,4,"anger, fear, joy","admiration, disappointment, love, remorse"
+openai_gpt-5,cambridge,7,25,0.429,3,4,"anger, fear, joy","admiration, disappointment, love, remorse"
+openai_gpt-5,sentiwordnet,7,25,0.429,3,4,"anger, fear, joy","admiration, disappointment, love, remorse"
