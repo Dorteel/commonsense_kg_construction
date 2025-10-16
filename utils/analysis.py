@@ -462,7 +462,7 @@ def compare_plutchik(df: pd.DataFrame):
     results = []
 
     # Iterate through each model
-    for model, model_df in df.groupby("model"):
+    for (model, definition), model_df in df.groupby(["model", "definition"]):
         emotion_means = (
             model_df.groupby("emotion")[metrics]
             .mean()
@@ -490,12 +490,34 @@ def compare_plutchik(df: pd.DataFrame):
 
                 results.append({
                     "model": model,
+                    "definition":definition,
                     "family": family,
                     "metric": metric,
                     "spearman_rho": rho,
                     "kendall_tau": tau,
                     "theoretical_order": " < ".join(common)
                 })
+
+    # res_df = pd.DataFrame(results)
+    # for model, sub in res_df.groupby("model"):
+    #     total = len(sub)
+    #     perfect = (sub["kendall_tau"].abs() == 1).sum()
+    #     print(f"\n[MODEL] {model}: {perfect}/{total} ({perfect/total:.1%}) perfect orderings")
+    #     mismatched = sub[sub["kendall_tau"].abs() < 1][["family","metric","kendall_tau"]]
+    #     if not mismatched.empty:
+    #         print("  Mismatched (family × metric):")
+    #         for _, r in mismatched.iterrows():
+    #             print(f"    {r['family']} × {r['metric']} (τ={r['kendall_tau']:.2f})")
+    res_df = pd.DataFrame(results)
+    for (model, definition), sub in res_df.groupby(["model", "definition"]):
+        total = len(sub)
+        perfect = (sub["kendall_tau"].abs() == 1).sum()
+        print(f"\n[MODEL] {model} | [DEF] {definition}: {perfect}/{total} ({perfect/total:.1%}) perfect orderings")
+        mismatched = sub[sub["kendall_tau"].abs() < 1][["family","metric","kendall_tau"]]
+        if not mismatched.empty:
+            print("  Mismatched (family × metric):")
+            for _, r in mismatched.iterrows():
+                print(f"    {r['family']} × {r['metric']} (τ={r['kendall_tau']:.2f})")
 
     save_path = "outputs/results/experiments/rq2_plutchik_results.csv"
     pd.DataFrame(results).to_csv(save_path)
@@ -515,7 +537,10 @@ def research_questions(df: pd.DataFrame):
 
     print("\nRQ2: How do these representations differ across models and theoretical frameworks?")
     rq2_df_plutchik = compare_plutchik(df)
-    print(rq2_df_plutchik.head())
+    pd.set_option("display.max_rows", None)
+    pd.set_option("display.max_columns", None)
+    print(rq2_df_plutchik.to_string(index=False))
+    # print(rq2_df_plutchik.head())
     rq2_df_pad = compare_pad(df)
     print(rq2_df_pad.head())
 
