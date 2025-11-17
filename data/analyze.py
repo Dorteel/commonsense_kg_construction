@@ -121,6 +121,7 @@ def load_emotic_dataset(base_dir="data/datasets/emotic-large"):
 def display_sample(df, emotion_cols, img_dir, idx):
     """Display image with bbox, VAD, and emotion annotations."""
     row = df.iloc[idx]
+    print(row)
     arr_name = str(row["Arr_name"]).strip()
     arr_path = os.path.join(img_dir, arr_name)
     if not os.path.exists(arr_path):
@@ -177,7 +178,7 @@ def analyze_emotions(df, emotion_cols):
 
     df["num_labels"] = df[emotion_cols].sum(axis=1)
     single_label_df = df[df["num_labels"] == 1]
-
+    print(single_label_df.head())
     counts = single_label_df[emotion_cols].sum().sort_values(ascending=False)
     print("\n[ANALYSIS] Single-label sample counts:")
     print(counts[counts > 0])
@@ -263,18 +264,20 @@ def main():
     df, emotion_cols, img_dir = load_emotic_dataset()
 
     # Example display
-    print("\n[INFO] Displaying a random sample:")
-    idx = random.randint(0, len(df) - 1)
+    
+    # idx = random.randint(0, len(df) - 1)
+    idx = 50
+    print(f"\n[INFO] Displaying a random sample: {idx}")
     display_sample(df, emotion_cols, img_dir, idx)
-
+    59737
     # Analyze emotions
     emotion_vad = analyze_emotions(df, emotion_cols)
 
     # Plot 3D VAD space
-    plot_vad_space(emotion_vad)
+    # plot_vad_space(emotion_vad)
 
-    for emotion in emotion_cols:
-        plot_vad_space_single_emotion(emotion_vad, emotion)
+    # for emotion in emotion_cols:
+    #     plot_vad_space_single_emotion(emotion_vad, emotion)
 
 if __name__ == "__main__":
     main()
