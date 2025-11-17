@@ -1,12 +1,11 @@
 from groq import Groq
 import os
 from dotenv import load_dotenv
-from groq import Groq
 
 load_dotenv()
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
-IMAGE_DATA_URL = "tests/COCO_train2014_000000006590.jpg"
+IMAGE_DATA_URL = "https://raw.githubusercontent.com/Dorteel/commonsense_kg_construction/emotions/tests/COCO_train2014_000000006590.jpg"
 
 completion = client.chat.completions.create(
     model="meta-llama/llama-4-scout-17b-16e-instruct",
@@ -29,7 +28,7 @@ completion = client.chat.completions.create(
             ]
         }
     ],
-    temperature=1,
+    temperature=0,
     max_completion_tokens=1024,
     top_p=1,
     stream=True,
