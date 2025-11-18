@@ -8,12 +8,13 @@ groq
 pydantic
 matplotlib
 dotenv
-owlready2
+# owlready2
 pandas
-openai
+# openai
 rdflib
 seaborn
 scipy
 pingouin
 torchao
 accelerate
+transformers
