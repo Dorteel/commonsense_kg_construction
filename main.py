@@ -11,6 +11,7 @@ import os
 import base64
 import requests
 import json
+from groq import Groq
 
 emotic_emotions_original = {
     'Peace' : "well being and relaxed; no worry; having positive thoughts or sensations; satisfied",
@@ -124,6 +125,28 @@ def print_summary(model_name, emotion_label, dim_label, result_obj):
         f"Dimension:  {dim_label}\n"
         f"Response:   {text}\n"
     )
+
+
+def prompt_text_groq(model_name, base64_image, prompt, temp=0.0):
+    """
+    Groq version: text-only prompt.
+    (base64_image is unused but kept for compatibility)
+    """
+    chat_completion = client.chat.completions.create(
+        model=model_name,
+        temperature=temp,
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": prompt},
+                ],
+            }
+        ]
+    )
+
+    return chat_completion.to_dict()
+
 def prompt_text(model_name, base64_image, prompt, temp=0.0):
     url = "https://nebula.cs.vu.nl/api/chat/completions"
 
@@ -187,7 +210,7 @@ def main():
     image_path = "tests/COCO_train2014_000000006590.jpg"
     base64_image = encode_image(image_path)
     model_name = "llava:7b"
-    
+    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
     config = load_config()
     setup_logging(config.get("logging", {}).get("level", "INFO"))
     logger = logging.getLogger(__name__)
