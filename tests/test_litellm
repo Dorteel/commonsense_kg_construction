@@ -1,0 +1,39 @@
+import requests
+import json
+
+API_KEY = "sk-6IREtVkMqTy2k6NslMe1gQ"
+BASE_URL = "https://nebula.cs.vu.nl/litellm/v1"
+MODEL = "FAST.qwen3-vl:8b"   # or: "FAST.llama3.2-vision:11b"
+models = "FAST.qwen3-vl:8b", "FAST.llama3.2-vision:11b"
+def test_litellm():
+    url = f"{BASE_URL}/chat/completions"
+
+    payload = {
+        "model": MODEL,
+        "messages": [
+            {"role": "user", "content": "Hello! This is a test from the LiteLLM proxy."}
+        ],
+        "temperature": 0.0
+    }
+
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    print("Sending request to:", url)
+    print("Using model:", MODEL)
+
+    response = requests.post(url, headers=headers, json=payload)
+
+    print("\nStatus:", response.status_code)
+    print("Raw response:", response.text)
+
+    response.raise_for_status()
+    data = response.json()
+
+    print("\n✔️ Assistant says:")
+    print(data["choices"][0]["message"]["content"])
+
+if __name__ == "__main__":
+    test_litellm()

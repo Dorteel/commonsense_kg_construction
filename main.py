@@ -11,6 +11,7 @@ import os
 import base64
 import requests
 import json
+import time
 from groq import Groq
 
 emotic_emotions_original = {
@@ -109,6 +110,7 @@ def save_result(result_obj, model_name, emotion_label, dim_label, json_path="res
 def encode_image(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode("utf-8")
+    
 def print_summary(model_name, emotion_label, dim_label, result_obj):
     """
     Pretty-print a short summary of the model response.
@@ -148,7 +150,7 @@ def prompt_text_groq(model_name, base64_image, prompt, temp=0.0):
     return chat_completion.to_dict()
 
 def prompt_text(model_name, base64_image, prompt, temp=0.0):
-    url = "https://nebula.cs.vu.nl/api/chat/completions"
+    url = "https://nebula.cs.vu.nl/litellm/v1/chat/completions"
 
     headers = {
         "Authorization": f"Bearer {os.getenv('NEBULA_API_KEY')}",
@@ -158,12 +160,7 @@ def prompt_text(model_name, base64_image, prompt, temp=0.0):
     data = {
         "model": model_name,
         "messages": [
-            {
-                "role": "user",
-                "content": [
-                    {"type": "text", "text": prompt},
-                ],
-            }
+            {"role": "user", "content": prompt}
         ],
         "temperature": temp,
     }
@@ -173,7 +170,7 @@ def prompt_text(model_name, base64_image, prompt, temp=0.0):
 
 
 def prompt_with_image(model_name, base64_image, temp=0.0):
-    url = "https://nebula.cs.vu.nl/api/chat/completions"
+    url = "https://nebula.cs.vu.nl/litellm/v1/chat/completions"
 
     headers = {
         "Authorization": f"Bearer {os.getenv('NEBULA_API_KEY')}",
@@ -186,7 +183,11 @@ def prompt_with_image(model_name, base64_image, temp=0.0):
             {
                 "role": "user",
                 "content": [
-                    {"type": "text", "text": "Please provide the emotions displayed on this image in terms of valence, arousal and dominance (0–10 floats) in JSON format. No description."},
+                    {
+                        "type": "text",
+                        "text":
+                            "Please provide valence, arousal, dominance (0–10 floats) in JSON only."
+                    },
                     {
                         "type": "image_url",
                         "image_url": {
@@ -203,15 +204,15 @@ def prompt_with_image(model_name, base64_image, temp=0.0):
     return response.json()
 
 
-
 def main():
     # ------------------- Load config and initialize -------------------
     load_dotenv()
-    image_path = "tests/COCO_train2014_000000006590.jpg"
-    base64_image = encode_image(image_path)
-    model_name = "llava:7b"
-    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+    # image_path = "tests/COCO_train2014_000000006590.jpg"
+    # base64_image = encode_image(image_path)
+    # model_name = "llava:7b"
+    # client = Groq(api_key=os.getenv("GROQ_API_KEY"))
     config = load_config()
+    prompts = {}
     setup_logging(config.get("logging", {}).get("level", "INFO"))
     logger = logging.getLogger(__name__)
     exp_to_run = config["experiment"]["repeats"]
@@ -225,19 +226,24 @@ def main():
                     "Arousal": ("amount of physiological change in the person's body", "0 (calm) - 10 (excited)"),
                     "Dominance": ("the feeling of being in control of the situation vs being controlled", "0 (submissive) - 10 (in control)"),
                 }.items():
-                    for temp in [0.0, 0.5, 1.0, 1.5, 2.0]:
+                    for temp in [0.7]:
                         
-                        for _ in range(exp_to_run):
+                        for _ in range(1):
                             prompt = f"""Given the concept of {emotion_label} (which is defined as {emotion_definition}),
                                         provide an estimation of the average {dim_label} (which is {dim_definition})
                                         in the range of {dim_range}.
                                         Don't provide any textual descriptions or explanations.
                                         Return only JSON with key:
                                         - {dim_label} (float)"""
-                            result = prompt_text(model_name, base64_image, prompt, temp=temp)
-                            save_result(result, model_name, emotion_label, dim_label, json_path=f"results_notext_{temp}.json")
+                        
+                            
+                            # result = prompt_text(model_name, base64_image, prompt, temp=temp)
+                            result = prompt_text(model_name, 'None', prompt, temp=temp)
+                            
+                            save_result(result, model_name, emotion_label, dim_label, json_path=f"models_{model_name}_notext_{temp}.json")
                             # print(result["choices"][0]["message"]["content"])
                             print_summary(model_name, emotion_label, dim_label, result)
+
 
 if __name__ == "__main__":
     main()

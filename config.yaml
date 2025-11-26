@@ -9,7 +9,9 @@ experiment:
   system_prompt:  "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
   models_to_run:
     nebula:
-      - "llava:7b"
+      # - "llava:7b"
+      - "FAST.qwen3-vl:8b"
+      # - "FAST.llama3.2-vision:11b"
     # groq:
     #   - "meta-llama/llama-4-maverick-17b-128e-instruct"
     #   - "meta-llama/llama-4-scout-17b-16e-instruct"

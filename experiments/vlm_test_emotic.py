@@ -6,6 +6,44 @@ import matplotlib.pyplot as plt
 import cv2
 from mpl_toolkits.mplot3d import Axes3D  # noqa
 import shutil
+import base64
+import json
+import requests
+from dotenv import load_dotenv
+from PIL import Image
+import io
+load_dotenv()
+
+def encode_image_as_base64(img_path):
+    with open(img_path, "rb") as f:
+        return base64.b64encode(f.read()).decode("utf-8")
+
+
+def npy_to_base64_png(npy_path):
+    """
+    Loads a .npy Emotic image, converts to uint8 RGB,
+    encodes as PNG, returns base64 string.
+    """
+    import io
+    from PIL import Image
+
+    arr = np.load(npy_path)
+
+    # Handle channel-first format (3, H, W)
+    if arr.ndim == 3 and arr.shape[0] in (1, 3):
+        arr = np.transpose(arr, (1, 2, 0))
+
+    # Handle grayscale (H, W)
+    if arr.ndim == 2:
+        arr = np.stack([arr]*3, axis=-1)
+
+    arr = arr.astype(np.uint8)
+
+    # Encode as PNG
+    buffer = io.BytesIO()
+    Image.fromarray(arr).save(buffer, format="PNG")
+    base64_bytes = base64.b64encode(buffer.getvalue()).decode("utf-8")
+    return base64_bytes
 
 emotic_emotions_original = {
     'Peace' : "well being and relaxed; no worry; having positive thoughts or sensations; satisfied",
@@ -95,72 +133,143 @@ emotic_emotions_sentiwordnet = {
     'Suffering': "sychological or emotional pain; distressed; anguished",   
 }
 
+def prompt_pad_with_image(model_name, base64_image, temp=0.0):
+    url = "https://nebula.cs.vu.nl/litellm/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {os.getenv('NEBULA_API_KEY')}",
+        "Content-Type": "application/json",
+    }
+    pad_prompt = "Please provide valence, arousal, dominance (0–10 floats) in JSON only."
+    emotion_prompt = "Please provide the dominant emotions displayed on the image as a list of values. Provide a response in JSON only."
+    data = {
+        "model": model_name,
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text":
+                            emotion_prompt
+                    },
+                    {
+                        "type": "image_url",
+                        "image_url": {
+                            "url": f"data:base64,{base64_image}"
+                        },
+                    },
+                ],
+            }
+        ],
+        "temperature": temp,
+    }
 
-def export_single_label_images(df, emotion_cols, img_dir,
-                               output_base="Oulu"):
+    response = requests.post(url, headers=headers, json=data)
+    return response.json()
+
+
+def sample_and_display_images(df, emotion_cols, img_dir, n=5,
+                              output_csv="results.csv"):
     """
-    Finds all images with exactly one emotion annotation,
-    and moves/copies them into:
-        Oulu/<Emotion>/<filename.npy>
+    Samples N images per emotion class, displays them,
+    and writes a CSV with filename + target emotion.
 
-    - df: dataframe loaded from Emotic CSV
-    - emotion_cols: list of emotion columns
-    - img_dir: directory containing array files (.npy)
-    - output_base: root folder for exporting
-
-    Prints a summary of moved files.
+    Args:
+        df: DataFrame containing Emotic annotations.
+        emotion_cols: list of emotion column names.
+        img_dir: directory where .npy files are stored.
+        n: number of samples per emotion.
+        output_csv: CSV file to write results to.
     """
-    # Ensure output base exists
-    os.makedirs(output_base, exist_ok=True)
+    records = []
 
-    # Compute number of active labels per row
-    df["num_labels"] = df[emotion_cols].sum(axis=1)
-    single_df = df[df["num_labels"] == 1]
+    for emotion in emotion_cols:
+        emo_df = df[df[emotion] == 1]
 
-    print(f"[INFO] Found {len(single_df)} single-label samples.")
+        if len(emo_df) == 0:
+            print(f"[WARN] No samples for emotion: {emotion}")
+            continue
 
-    moved = []
+        # Sample up to n images
+        sampled = emo_df.sample(min(n, len(emo_df)), random_state=42)
 
-    for idx, row in single_df.iterrows():
-        # Identify emotion
-        emotion = None
-        for emo in emotion_cols:
-            if row[emo] == 1:
-                emotion = emo
-                break
+        # print(f"[INFO] Showing {len(sampled)} images for {emotion}")
 
-        if emotion is None:
-            continue  # Should not happen
+        # Display images in a row
+        # plt.figure(figsize=(3 * len(sampled), 3))
+        # model_name = "FAST.qwen3-vl:8b"   # or whichever you want to use
+        model_name = "FAST.llama3.2-vision:11b"
+        for i, (_, row) in enumerate(sampled.iterrows()):
+            arr_name = str(row["Arr_name"]).strip()
+            arr_path = os.path.join(img_dir, arr_name)
 
-        arr_name = str(row["Arr_name"]).strip()
-        arr_path = os.path.join(img_dir, arr_name)
-        if not os.path.exists(arr_path):
-            # Try fallback Crop_name if available
-            crop_name = str(row.get("Crop_name", "")).strip()
-            alt_path = os.path.join(img_dir, crop_name)
-            if os.path.exists(alt_path):
-                arr_path = alt_path
-            else:
-                print(f"[WARN] Missing file for: {arr_name}")
-                continue
+            if not os.path.exists(arr_path):
+                crop_name = str(row.get("Crop_name", "")).strip()
+                arr_path = os.path.join(img_dir, crop_name)
+                if not os.path.exists(arr_path):
+                    print(f"[WARN] Missing: {arr_name}")
+                    continue
 
-        # Create emotion subfolder
-        out_dir = os.path.join(output_base, emotion)
-        os.makedirs(out_dir, exist_ok=True)
+            # ---- Load and display image ----
+            # img = np.load(arr_path)
+            # if img.ndim == 3 and img.shape[0] in (1, 3):
+            #     img = np.transpose(img, (1, 2, 0))
+            # if img.ndim == 2:
+            #     img = np.stack([img] * 3, axis=-1)
+            # img = img.astype(np.uint8)
 
-        out_path = os.path.join(out_dir, os.path.basename(arr_path))
+            # plt.subplot(1, len(sampled), i + 1)
+            # plt.imshow(img)
+            # plt.axis("off")
+            # plt.title(emotion)
 
-        # Copy file (not move — safer)
-        shutil.copy(arr_path, out_path)
+            # ---- Encode image for model ----
+            base64_img = npy_to_base64_png(arr_path)
 
-        moved.append((emotion, arr_name))
+            # ---- Ask model for PAD ----
+            response = prompt_pad_with_image(model_name, base64_img, temp=0.0)
+            print("Model response:", response)
 
-    print(f"[INFO] Export completed. {len(moved)} files copied.")
-    for emo, name in moved[:20]:   # show first 20
-        print(f"{emo}: {name}")
+            # ---- Extract PAD values ----
+            val, aro, dom = extract_pad(response)
 
-    return moved
+            # ---- Add to CSV ----
+            records.append({
+                "filename": arr_name,
+                "emotion": emotion,
+                "valence_pred": val,
+                "arousal_pred": aro,
+                "dominance_pred": dom,
+                "raw_response": response  # optional, remove if too big
+            })
 
+
+        # plt.tight_layout()
+        # plt.show()
+
+    # Write CSV
+    df_csv = pd.DataFrame(records)
+    df_csv.to_csv(output_csv, index=False)
+    print(f"\n[INFO] CSV saved to {output_csv} with {len(df_csv)} rows.")
+
+    return df_csv
+
+def extract_pad(response_json):
+    """
+    Extracts valence, arousal, dominance from model response JSON.
+    If missing or malformed, returns None for each.
+    """
+    try:
+        msg = response_json["choices"][0]["message"]["content"]
+        data = json.loads(msg)
+        return (
+            data.get("Valence"),
+            data.get("Arousal"),
+            data.get("Dominance"),
+        )
+    except Exception:
+        return (None, None, None)
+    
 # ------------------------------------------------------------
 # 1. Data Loading
 # ------------------------------------------------------------
@@ -233,117 +342,14 @@ def display_sample(df, emotion_cols, img_dir, idx):
     plt.tight_layout()
     plt.show()
 
-
-# ------------------------------------------------------------
-# 3. Dataset Analysis
-# ------------------------------------------------------------
-def analyze_emotions(df, emotion_cols):
-    """Print emotion stats and return single-label emotion subsets."""
-    print("\n[ANALYSIS] Available emotions:")
-    print(", ".join(emotion_cols))
-
-    df["num_labels"] = df[emotion_cols].sum(axis=1)
-    single_label_df = df[df["num_labels"] == 1]
-    print(single_label_df.head())
-    counts = single_label_df[emotion_cols].sum().sort_values(ascending=False)
-    print("\n[ANALYSIS] Single-label sample counts:")
-    print(counts[counts > 0])
-
-    # Collect VAD values for each single-label emotion
-    emotion_vad = {
-        emo: single_label_df.loc[single_label_df[emo] == 1, ["Valence", "Arousal", "Dominance"]].values
-        for emo in emotion_cols
-        if single_label_df[emo].sum() > 0
-    }
-
-    print(f"\n[ANALYSIS] VAD data collected for {len(emotion_vad)} emotions.")
-    return emotion_vad
-
-
-# ------------------------------------------------------------
-# 4. Visualization (3D VAD space)
-# ------------------------------------------------------------
-def plot_vad_space(emotion_vad):
-    """Display a 3D scatter plot for Valence–Arousal–Dominance."""
-    fig = plt.figure(figsize=(8, 6))
-    ax = fig.add_subplot(111, projection="3d")
-    ax.set_xlabel("Valence")
-    ax.set_ylabel("Arousal")
-    ax.set_zlabel("Dominance")
-    ax.set_xlim(0, 10)
-    ax.set_ylim(0, 10)
-    ax.set_zlim(0, 10)
-
-    for emo, vals in emotion_vad.items():
-        if len(vals) == 0:
-            continue
-        v, a, d = vals[:, 0], vals[:, 1], vals[:, 2]
-        ax.scatter(v, a, d, label=emo, alpha=0.6, s=10)
-
-    ax.legend(fontsize=7, bbox_to_anchor=(1.05, 1), loc="upper left")
-    plt.title("Valence–Arousal–Dominance space (single-label samples)")
-    plt.tight_layout()
-    plt.show()
-
-
-
-def plot_vad_space_single_emotion(emotion_vad, target_emotion):
-    """
-    Display a 3D scatter plot of Valence–Arousal–Dominance
-    for a single selected emotion.
-    """
-    if target_emotion not in emotion_vad:
-        print(f"[WARN] Emotion '{target_emotion}' not found in dataset.")
-        print(f"Available emotions: {list(emotion_vad.keys())[:10]} ...")
-        return
-
-    vals = emotion_vad[target_emotion]
-    if len(vals) == 0:
-        print(f"[INFO] No VAD data for emotion '{target_emotion}'.")
-        return
-
-    v, a, d = vals[:, 0], vals[:, 1], vals[:, 2]
-
-    fig = plt.figure(figsize=(7, 6))
-    ax = fig.add_subplot(111, projection="3d")
-    ax.scatter(v, a, d, c="crimson", alpha=0.6, s=20)
-
-    ax.set_xlabel("Valence")
-    ax.set_ylabel("Arousal")
-    ax.set_zlabel("Dominance")
-    ax.set_xlim(0, 10)
-    ax.set_ylim(0, 10)
-    ax.set_zlim(0, 10)
-    ax.set_title(f"{target_emotion}: Valence–Arousal–Dominance (single-label samples)")
-
-    # Optional: show mean VAD point
-    mean_v, mean_a, mean_d = np.mean(v), np.mean(a), np.mean(d)
-    ax.scatter(mean_v, mean_a, mean_d, c="gold", s=80, marker="*", label="mean")
-    ax.legend()
-    plt.tight_layout()
-    plt.show()
-
-# ------------------------------------------------------------
-# 5. Main entry point
-# ------------------------------------------------------------
 def main():
     df, emotion_cols, img_dir = load_emotic_dataset()
-    export_single_label_images(df, emotion_cols, img_dir, output_base="Oulu")
-    # Example display
-    
-    # idx = random.randint(0, len(df) - 1)
-    idx = 50
-    print(f"\n[INFO] Displaying a random sample: {idx}")
-    display_sample(df, emotion_cols, img_dir, idx)
-    59737
-    # Analyze emotions
-    emotion_vad = analyze_emotions(df, emotion_cols)
-
-    # Plot 3D VAD space
-    # plot_vad_space(emotion_vad)
-
-    # for emotion in emotion_cols:
-    #     plot_vad_space_single_emotion(emotion_vad, emotion)
+    model_name = "qwen3"   # or whichever you want to use
+    sample_and_display_images(
+        df, emotion_cols, img_dir,
+        n=5,
+        output_csv=f"results_pad_examples_{model_name}.csv"
+    )
 
 if __name__ == "__main__":
     main()
