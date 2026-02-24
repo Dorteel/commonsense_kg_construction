@@ -18,12 +18,21 @@ def load_prompt_inputs(concepts_path: str, properties_path: str) -> Dict[str, Li
     properties_data = json.loads(Path(properties_path).read_text(encoding="utf-8"))
 
     concepts: List[Dict[str, Any]] = []
-    for concept_id, concept_obj in concepts_data.items():
+    if isinstance(concepts_data, dict):
+        concept_items = concepts_data.items()
+    elif isinstance(concepts_data, list):
+        concept_items = enumerate(concepts_data)
+    else:
+        concept_items = []
+
+    for concept_id, concept_obj in concept_items:
+        concept_name = _extract_concept_name(concept_obj)
+        concept_definition = str(concept_obj.get("definition", "")).strip()
         concepts.append(
             {
-                "id": str(concept_id),
-                "name": concept_obj.get("name", ""),
-                "definition": concept_obj.get("definition", ""),
+                "id": str(concept_obj.get("id", concept_id)),
+                "name": concept_name,
+                "definition": concept_definition,
             }
         )
 
@@ -78,7 +87,7 @@ def export_run_output(
     output_dir.mkdir(parents=True, exist_ok=True)
 
     is_categorical = domain.get("type") == "categorical"
-    domain_value = None if is_categorical else domain.get("group_name", domain.get("name"))
+    domain_value = domain.get("name") if is_categorical else domain.get("group_name", domain.get("name"))
     quality_dimension_value = None if is_categorical else domain.get("name")
     measurement_unit_value = None if is_categorical else domain.get("unit")
 
@@ -136,3 +145,23 @@ def _short_slug(text: str, max_len: int) -> str:
     if not slug:
         slug = "na"
     return slug[:max_len]
+
+
+def _extract_concept_name(concept_obj: Dict[str, Any]) -> str:
+    """Extract concept name across supported schemas."""
+    name = str(concept_obj.get("name", "")).strip()
+    if name:
+        return name
+
+    label = str(concept_obj.get("label", "")).strip()
+    if label:
+        # ImageNet labels often contain comma-separated aliases.
+        primary = label.split(",")[0].strip()
+        if primary:
+            return primary
+
+    synset = str(concept_obj.get("synset", "")).strip()
+    if synset:
+        return synset.split(".")[0].replace("_", " ")
+
+    return "unknown"
