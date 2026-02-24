@@ -1,0 +1,5 @@
+{
+  "name": "measurement",
+  "type": "float",
+  "template": "Given the concept of {concept} {description_clause},\nprovide the average {range_clause}{domain}{dimension_clause} measured in {measurement}.\nReturn only JSON with key:\n  - {dimension} (float)"
+}

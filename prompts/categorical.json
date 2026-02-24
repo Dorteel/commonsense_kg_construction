@@ -1,0 +1,5 @@
+{
+  "name": "categorical",
+  "type": "string",
+  "template": "Given the concept of {concept} {description_clause},\nprovide a list of common {domain}s for this concept.\nReturn only JSON with key:\n  - {domain} (string)"
+}

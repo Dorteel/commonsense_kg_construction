@@ -1,7 +1,28 @@
 .env
+.env.*
 .venv/
 *__pycache__/
 *.pyc
-/outputs/prompts/
-*/datasets/*
-Oulu
+models/
+
+# Runtime artifacts
+logs/
+outputs/
+
+# IDE/editor local files
+.vscode/
+.idea/
+AGENTS.md
+agents.md
+*.swp
+*.swo
+.python-version
+
+# OS/local noise
+.DS_Store
+Thumbs.db
+
+# Python local tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
