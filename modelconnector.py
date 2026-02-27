@@ -1,8 +1,11 @@
 """Local model connector for GGUF LLM/VLM inference."""
 
+import base64
+import mimetypes
 from pathlib import Path
 from typing import Any, Dict, Optional
 
+import requests
 from huggingface_hub import hf_hub_download, snapshot_download
 
 
@@ -222,3 +225,93 @@ class LocalModelConnector:
                 if token in name:
                     return files[index]
         return files[0]
+
+
+class NebulaAPIConnector:
+    """API connector for Nebula chat completions."""
+
+    SYSTEM_PROMPT = "You are a commonsense knowledge engineer. Return **ONLY** valid JSON."
+
+    def __init__(
+        self,
+        api_key: str,
+        model_path: str,
+        model_name: str = "nebula",
+        api_url: str = "https://nebula.cs.vu.nl/api/chat/completions",
+        timeout_seconds: int = 60,
+    ) -> None:
+        self.api_key = api_key
+        self.model_name = model_name
+        self.model_path = model_path
+        self.api_url = api_url
+        self.timeout_seconds = timeout_seconds
+
+    def generate(self, prompt_text: str, max_tokens: int = 256) -> str:
+        """Send prompt to Nebula API and return assistant message content."""
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
+        }
+        payload = {
+            "model": self.model_path,
+            "messages": [
+                {"role": "system", "content": self.SYSTEM_PROMPT},
+                {"role": "user", "content": prompt_text},
+            ],
+            "max_tokens": max_tokens,
+        }
+
+        response = requests.post(
+            self.api_url,
+            headers=headers,
+            json=payload,
+            timeout=self.timeout_seconds,
+        )
+        response.raise_for_status()
+        data = response.json()
+        return str(data["choices"][0]["message"]["content"]).strip()
+
+    def generate_with_image(self, prompt_text: str, image_path: str, max_tokens: int = 256) -> str:
+        """Send prompt + image to Nebula API and return assistant message content."""
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
+        }
+        image_data_url = self._encode_image_to_data_url(image_path)
+        payload = {
+            "model": self.model_path,
+            "messages": [
+                {"role": "system", "content": self.SYSTEM_PROMPT},
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "text", "text": prompt_text},
+                        {"type": "image_url", "image_url": {"url": image_data_url}},
+                    ],
+                },
+            ],
+            "max_tokens": max_tokens,
+        }
+
+        response = requests.post(
+            self.api_url,
+            headers=headers,
+            json=payload,
+            timeout=self.timeout_seconds,
+        )
+        response.raise_for_status()
+        data = response.json()
+        return str(data["choices"][0]["message"]["content"]).strip()
+
+    def _encode_image_to_data_url(self, image_path: str) -> str:
+        """Encode local image file as data URL."""
+        path = Path(image_path)
+        if not path.exists():
+            raise FileNotFoundError(f"Image file not found: {image_path}")
+
+        mime_type, _ = mimetypes.guess_type(str(path))
+        if not mime_type:
+            mime_type = "application/octet-stream"
+        image_bytes = path.read_bytes()
+        encoded = base64.b64encode(image_bytes).decode("utf-8")
+        return f"data:{mime_type};base64,{encoded}"

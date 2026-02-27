@@ -1,5 +1,5 @@
 from utils import export_run_output, load_prompt_inputs
-from llmconnector import LocalModelConnector
+from modelconnector import LocalModelConnector
 from promptgenerator import PromptGenerator
 from responseparser import ResponseParser
 import gc

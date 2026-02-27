@@ -1,0 +1,7 @@
+{
+    "name": "participant_roles",
+    "type": "string",    
+    "template": "You are mapping an ontology-style semantic frame. Given an event {event} and one participant type {participant} , list the typical roles that P can play in E.
+Roles must be short role-label strings. Prefer 3–8 roles, ordered from most typical to least typical.
+Do NOT invent new participants; only roles for P.\nReturn only JSON with key:\n  - {event} (string)"
+}

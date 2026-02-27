@@ -1,0 +1,5 @@
+{
+    "name": "event_participant",
+    "type": "string",    
+    "template": " You are mapping an ontology-style semantic frame. Given an event {event} that is a subclass of dul:Event, list the most fundamental participant types for a {event}. Use generic noun phrases (e.g., person, table, food item), not proper nouns. Avoid duplicates and near-synonyms. \nReturn only JSON with key:\n - {event} (string) "
+}
