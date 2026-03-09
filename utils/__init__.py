@@ -5,6 +5,55 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 
+def query_kg(kg: Any, sparql_query: str) -> List[Dict[str, Any]]:
+    """Run a SPARQL query against a KG object exposing .query()."""
+    rows = kg.query(sparql_query)
+    output: List[Dict[str, Any]] = []
+    for row in rows:
+        if hasattr(row, "asdict"):
+            output.append({key: _node_to_value(value) for key, value in row.asdict().items()})
+            continue
+        output.append(dict(row))
+    return output
+
+
+def load_prompt_inputs_from_kg(kg: Any, concepts_query: str, domains_query: str) -> Dict[str, List[Dict[str, Any]]]:
+    """Query concepts and domains from KG and return prompt-ready inputs.
+
+    Query result aliases supported:
+    - concepts query: concept/id/uri, name/label, definition
+    - domains query: domain/id/uri, name/label, description, type
+    """
+    concept_rows = query_kg(kg=kg, sparql_query=concepts_query)
+    domain_rows = query_kg(kg=kg, sparql_query=domains_query)
+
+    concepts: List[Dict[str, Any]] = []
+    for row in concept_rows:
+        concept_uri = str(_pick_row_value(row, "concept", "uri", "id", default=""))
+        concepts.append(
+            {
+                "id": _pick_row_value(row, "id", default=_iri_to_id(concept_uri)),
+                "name": _pick_row_value(row, "name", "label", default=_iri_to_id(concept_uri)),
+                "definition": _pick_row_value(row, "definition", default=""),
+            }
+        )
+
+    domains: List[Dict[str, Any]] = []
+    for row in domain_rows:
+        domain_uri = str(_pick_row_value(row, "domain", "uri", "id", default=""))
+        domain_name = _pick_row_value(row, "name", "label", default=_iri_to_id(domain_uri))
+        domains.append(
+            {
+                "id": _pick_row_value(row, "id", default=_iri_to_id(domain_uri)),
+                "name": domain_name,
+                "description": _pick_row_value(row, "description", default=f"Domain: {domain_name}"),
+                "type": _pick_row_value(row, "type", default="categorical"),
+            }
+        )
+
+    return {"concepts": concepts, "domains": domains}
+
+
 def load_prompt_inputs(concepts_path: str, properties_path: str) -> Dict[str, List[Dict[str, Any]]]:
     """Load concepts + properties and return prompt-ready concepts/domains.
 
@@ -165,3 +214,27 @@ def _extract_concept_name(concept_obj: Dict[str, Any]) -> str:
         return synset.split(".")[0].replace("_", " ")
 
     return "unknown"
+
+
+def _pick_row_value(row: Dict[str, Any], *keys: str, default: str = "") -> str:
+    for key in keys:
+        if key not in row or row[key] is None:
+            continue
+        value = str(row[key]).strip()
+        if value:
+            return value
+    return default
+
+
+def _node_to_value(value: Any) -> Any:
+    if value is None:
+        return None
+    return str(value)
+
+
+def _iri_to_id(iri: str) -> str:
+    if "#" in iri:
+        return iri.split("#")[-1]
+    if "/" in iri:
+        return iri.rstrip("/").split("/")[-1]
+    return iri
