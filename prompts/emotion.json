@@ -1,0 +1,5 @@
+{
+  "name": "emotion",
+  "type": "float",
+  "template": "Given the concept of {concept} {description_clause}, provide a prototypical value for emotion dimension {domain} ({dimension_description})\n in the range of {range_clause}.\nReturn only JSON with key:\n  - {dimension} (float)"
+}

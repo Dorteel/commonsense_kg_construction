@@ -48,7 +48,7 @@ class PromptGenerator:
 
         description_clause = ""
         if concept_definition:
-            description_clause = f', defined as "{concept_definition}"'
+            description_clause = f' (defined as "{concept_definition})"'
 
         prompt_text = template_text.format(
             concept_name=concept_name,
@@ -60,7 +60,7 @@ class PromptGenerator:
             concept=concept_name,
             description_clause=description_clause,
             domain=dimension_name,
-            range_clause="",
+            range_clause=self._build_range_clause(dimension),
             dimension_clause="",
             measurement=unit_value,
             dimension=dimension_name,
@@ -85,7 +85,7 @@ class PromptGenerator:
 
     def _load_template(self, dimension_type: str) -> Dict[str, Any]:
         """Load template JSON by dimension type."""
-        if dimension_type not in ("categorical", "measurement"):
+        if dimension_type not in ("categorical", "measurement", "emotion"):
             raise ValueError(f"Unsupported dimension type: {dimension_type}")
 
         template_file = self.templates_dir / f"{dimension_type}.json"
@@ -124,3 +124,16 @@ class PromptGenerator:
         if field_name not in data:
             raise ValueError(f"Missing '{field_name}' in {object_name}")
         return data[field_name]
+
+    def _build_range_clause(self, dimension: Dict[str, Any]) -> str:
+        """Build human-readable range text from ontology-backed fields."""
+        direct_range = str(dimension.get("range", "")).strip()
+        if direct_range:
+            return direct_range
+
+        range_min = str(dimension.get("range_min", "")).strip()
+        range_max = str(dimension.get("range_max", "")).strip()
+        if range_min or range_max:
+            return f"[{range_min or '?'}, {range_max or '?'}]"
+
+        return "unspecified range"

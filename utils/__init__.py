@@ -1,6 +1,7 @@
 """Simple input/output utility functions for pipeline runs."""
 
 import json
+from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List
 
@@ -48,6 +49,10 @@ def load_prompt_inputs_from_kg(kg: Any, concepts_query: str, domains_query: str)
                 "name": domain_name,
                 "description": _pick_row_value(row, "description", default=f"Domain: {domain_name}"),
                 "type": _pick_row_value(row, "type", default="categorical"),
+                "range": _pick_row_value(row, "range", default=""),
+                "range_min": _pick_row_value(row, "range_min", default=""),
+                "range_max": _pick_row_value(row, "range_max", default=""),
+                "domain_model": _pick_row_value(row, "domain_model", default=""),
             }
         )
 
@@ -130,8 +135,9 @@ def export_run_output(
     parse_status: str,
 ) -> str:
     """Save one combined run log and one final parsed output file."""
-    log_dir = Path("logs/runs") / run_folder_name
-    output_dir = Path("outputs") / run_folder_name
+    date_folder = _extract_date_folder(result_time)
+    log_dir = Path("logs/runs") / date_folder / run_folder_name
+    output_dir = Path("outputs") / date_folder / run_folder_name
     log_dir.mkdir(parents=True, exist_ok=True)
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -165,8 +171,11 @@ def export_run_output(
             {
                 "concept": concept.get("name", ""),
                 "concept_definition": concept.get("definition", ""),
+                "concept_definition_source": concept.get("definition_source", ""),
                 "model_used": model_used,
                 "result_time": result_time,
+                "prompt_text": prompt_text,
+                "raw_response": raw_response,
                 "domain": domain_value,
                 "quality_dimension": quality_dimension_value,
                 "measurement_unit": measurement_unit_value,
@@ -238,3 +247,11 @@ def _iri_to_id(iri: str) -> str:
     if "/" in iri:
         return iri.rstrip("/").split("/")[-1]
     return iri
+
+
+def _extract_date_folder(result_time: str) -> str:
+    timestamp = str(result_time).split("__", 1)[0]
+    if len(timestamp) >= 8 and timestamp[:8].isdigit():
+        yyyymmdd = timestamp[:8]
+        return f"{yyyymmdd[:4]}-{yyyymmdd[4:6]}-{yyyymmdd[6:8]}"
+    return datetime.now().strftime("%Y-%m-%d")
